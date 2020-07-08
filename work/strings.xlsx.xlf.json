@@ -617,27 +617,15 @@
                     }
                 ],
                 [
-                    "设置替换字体的格式，字体大小仅在需要新建文本框的情况下有效。",
-                    "Set font styles. Font size is only valid if the text box has to be created.",
-                    "设置替换字体的格式，字体大小仅在需要新建文本框的情况下有效。",
+                    "设置替换字体的格式，字体大小仅在需要新建文本框的情况下有效。第一条样式为默认样式。",
+                    "Set font styles. Font size is only valid if the text box has to be created. The first style is the default style.",
+                    "设置替换字体的格式，字体大小仅在需要新建文本框的情况下有效。第一条样式为默认样式。",
                     "xl\/sharedStrings.xml",
                     {
                         "note": "",
                         "creator": "xulihang",
-                        "createdTime": 1592312684000,
-                        "id": "P147242AB-tu48"
-                    }
-                ],
-                [
-                    "第一条样式为默认样式。",
-                    "The first style is the default style.",
-                    "第一条样式为默认样式。",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "note": "",
-                        "creator": "xulihang",
-                        "createdTime": 1592312204000,
-                        "id": "P147242AB-tu48"
+                        "createdTime": 1594196175915,
+                        "id": "P147242AB-tu52"
                     }
                 ],
                 [
@@ -1211,27 +1199,15 @@
                     }
                 ],
                 [
-                    "语言代码使用ISO639-2标准。",
-                    "The language code uses ISO639-2 standard.",
-                    "语言代码使用ISO639-2标准。",
+                    "语言代码使用ISO639-2标准。可以自行输入对应代码来设置语言。",
+                    "The language code uses ISO639-2 standard. You can enter the corresponding code to set the language.",
+                    "语言代码使用ISO639-2标准。可以自行输入对应代码来设置语言。",
                     "xl\/sharedStrings.xml",
                     {
                         "note": "",
                         "creator": "xulihang",
-                        "createdTime": 1592312211000,
-                        "id": "P147242AB-tu97"
-                    }
-                ],
-                [
-                    "可以自行输入对应代码来设置语言。",
-                    "You can enter the corresponding code to set the language.",
-                    "可以自行输入对应代码来设置语言。",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "note": "",
-                        "creator": "xulihang",
-                        "createdTime": 1592312211000,
-                        "id": "P147242AB-tu97"
+                        "createdTime": 1594196192558,
+                        "id": "P147242AB-tu101"
                     }
                 ],
                 [
@@ -3019,27 +2995,15 @@
                     }
                 ],
                 [
-                    "没有检测到图片，如果有PSD请先将PSD转换为JPG。",
-                    "No pictures have been detected. If you have PSDs, convert them to JPGs first.",
-                    "没有检测到图片，如果有PSD请先将PSD转换为JPG。",
+                    "没有检测到图片，如果有PSD请先将PSD转换为JPG。可以使用工具-PSD2JPG进行批量转换",
+                    "No pictures have been detected. If you have PSDs, convert them to JPGs first. Bulk conversion can be done by Tool-PSD2JPG",
+                    "没有检测到图片，如果有PSD请先将PSD转换为JPG。可以使用工具-PSD2JPG进行批量转换",
                     "xl\/sharedStrings.xml",
                     {
                         "note": "",
                         "creator": "xulihang",
-                        "createdTime": 1594174555714,
-                        "id": "P147242AB-tu244"
-                    }
-                ],
-                [
-                    "可以使用工具-PSD2JPG进行批量转换",
-                    "Bulk conversion can be done by Tool-PSD2JPG",
-                    "可以使用工具-PSD2JPG进行批量转换",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "note": "",
-                        "creator": "xulihang",
-                        "createdTime": 1594174582889,
-                        "id": "P147242AB-tu244"
+                        "createdTime": 1594196273422,
+                        "id": "P147242AB-tu252"
                     }
                 ],
                 [
@@ -3461,27 +3425,15 @@
                     }
                 ],
                 [
-                    "请打开PS，新建一个图像并新建一个文本框，完成后再点确认。",
-                    "Open PS, create a new image, create a new text box, and then click confirm.",
-                    "请打开PS，新建一个图像并新建一个文本框，完成后再点确认。",
+                    "请打开PS，新建一个图像并新建一个文本框，完成后再点确认。程序会读取该文本框的字体。",
+                    "Open PS, create a new image, create a new text box, and then click confirm. The program will read the font of that text box.",
+                    "请打开PS，新建一个图像并新建一个文本框，完成后再点确认。程序会读取该文本框的字体。",
                     "xl\/sharedStrings.xml",
                     {
                         "note": "",
                         "creator": "xulihang",
-                        "createdTime": 1594175201581,
-                        "id": "P147242AB-tu278"
-                    }
-                ],
-                [
-                    "程序会读取该文本框的字体。",
-                    "The program will read the font of that text box.",
-                    "程序会读取该文本框的字体。",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "note": "",
-                        "creator": "xulihang",
-                        "createdTime": 1594175223964,
-                        "id": "P147242AB-tu278"
+                        "createdTime": 1594196240859,
+                        "id": "P147242AB-tu288"
                     }
                 ],
                 [

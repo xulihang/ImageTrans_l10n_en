@@ -1,0 +1,120 @@
+{
+    "filename": "intro.po",
+    "files": [
+        {
+            "intro.po": [
+                [
+                    "简介",
+                    "Brief introduction",
+                    "简介",
+                    "intro.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594559474869,
+                        "id": 2
+                    }
+                ],
+                [
+                    "ImageTrans是一款图片文字转录、图片翻译软件。",
+                    "ImageTrans is a picture text transcription, image translation software.",
+                    "ImageTrans是一款图片文字转录、图片翻译软件。",
+                    "intro.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594559475075,
+                        "id": 3
+                    }
+                ],
+                [
+                    "ImageTrans不同于谷歌的图片自动翻译，它提供人工精调功能，是一款以人为本的辅助工具。",
+                    "ImageTrans, unlike Google's Auto-Translate of Images, offers artificial tuning and is a people-oriented aid.",
+                    "ImageTrans不同于谷歌的图片自动翻译，它提供人工精调功能，是一款以人为本的辅助工具。",
+                    "intro.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594559475336,
+                        "id": 3
+                    }
+                ],
+                [
+                    "功能：",
+                    "Function:",
+                    "功能：",
+                    "intro.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594559475483,
+                        "id": 4
+                    }
+                ],
+                [
+                    "自动或者辅助用户框选文字区域，调用多种OCR引擎进行文字识别",
+                    "Automatic or auxiliary user box text area, call a variety of OCR engine for text recognition",
+                    "自动或者辅助用户框选文字区域，调用多种OCR引擎进行文字识别",
+                    "intro.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594559475719,
+                        "id": 5
+                    }
+                ],
+                [
+                    "对文字区域排序，并将文字导出为xlsx、docx等多种格式文件",
+                    "Sort the text area and export the text as xlsx, docx, and more format files",
+                    "对文字区域排序，并将文字导出为xlsx、docx等多种格式文件",
+                    "intro.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594559475960,
+                        "id": 6
+                    }
+                ],
+                [
+                    "调用机器翻译对识别的文字做预翻译",
+                    "Call machine translation to pre-translate recognized text",
+                    "调用机器翻译对识别的文字做预翻译",
+                    "intro.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594559476454,
+                        "id": 7
+                    }
+                ],
+                [
+                    "调用Photoshop读取PSD文件、导出可编辑的译文PSD文件",
+                    "Call Photoshop to read PSD files, export editable translationPSD files",
+                    "调用Photoshop读取PSD文件、导出可编辑的译文PSD文件",
+                    "intro.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594559476692,
+                        "id": 8
+                    }
+                ],
+                [
+                    "设置字体样式",
+                    "Styling fonts",
+                    "设置字体样式",
+                    "intro.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594559477157,
+                        "id": 9
+                    }
+                ],
+                [
+                    "针对漫画翻译设计的文字区域检测和文字抹除功能",
+                    "Text area detection and word erasing for comic translation design",
+                    "针对漫画翻译设计的文字区域检测和文字抹除功能",
+                    "intro.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594559477358,
+                        "id": 10
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}

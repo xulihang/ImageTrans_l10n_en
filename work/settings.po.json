@@ -1,0 +1,197 @@
+{
+    "filename": "settings.po",
+    "files": [
+        {
+            "settings.po": [
+                [
+                    "软件设置",
+                    "Software settings",
+                    "软件设置",
+                    "settings.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594559484270,
+                        "id": 2
+                    }
+                ],
+                [
+                    "通用设置",
+                    "Universal settings",
+                    "通用设置",
+                    "settings.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594559484424,
+                        "id": 3
+                    }
+                ],
+                [
+                    "气泡检测",
+                    "Bubble detection",
+                    "气泡检测",
+                    "settings.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594559484575,
+                        "id": 4
+                    }
+                ],
+                [
+                    "本工具的气泡检测使用百度EasyDL和Azure的目标检测服务。",
+                    "The tool's bubble detection uses Baidu's EasyDL and Azure Target Detection services.",
+                    "本工具的气泡检测使用百度EasyDL和Azure的目标检测服务。",
+                    "settings.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594559484808,
+                        "id": 5
+                    }
+                ],
+                [
+                    "需要自行开通账号并训练。",
+                    "You need to open your own account and train.",
+                    "需要自行开通账号并训练。",
+                    "settings.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594559486234,
+                        "id": 5
+                    }
+                ],
+                [
+                    "推荐的标注方法：",
+                    "Recommended labeling methods:",
+                    "推荐的标注方法：",
+                    "settings.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594559486403,
+                        "id": 6
+                    }
+                ],
+                [
+                    "选中所有气泡中的文字，选框尽量贴合文字。",
+                    "Check the text in all bubbles, and the marquee fits the text as closely as possible.",
+                    "选中所有气泡中的文字，选框尽量贴合文字。",
+                    "settings.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594559486647,
+                        "id": 7
+                    }
+                ],
+                [
+                    "发布模型后，在菜单-文件-偏好设置-通用里设置发布了URL，同时还需要填写对应的API。",
+                    "After publishing the model, the URL is set in the menu-file-preferences-generic setting, and the corresponding API is also required.",
+                    "发布模型后，在菜单-文件-偏好设置-通用里设置发布了URL，同时还需要填写对应的API。",
+                    "settings.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594559486921,
+                        "id": 8
+                    }
+                ],
+                [
+                    "文字图像识别",
+                    "Text image recognition",
+                    "文字图像识别",
+                    "settings.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594559487065,
+                        "id": 9
+                    }
+                ],
+                [
+                    "默认地址为：`<http:\/\/127.0.0.1:8082\/classify>`_",
+                    "The default address is: `<http:\/\/127.0.0.1:8082\/classify>`_",
+                    "默认地址为：`<http:\/\/127.0.0.1:8082\/classify>`_",
+                    "settings.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594563600343,
+                        "id": 10
+                    }
+                ],
+                [
+                    "请运行以下仓库的代码： `<https:\/\/github.com\/xulihang\/text-image-classifier>`_。",
+                    "Please run the code for the following warehouse:  `<https:\/\/github.com\/xulihang\/text-image-classifier>`_.",
+                    "请运行以下仓库的代码： `<https:\/\/github.com\/xulihang\/text-image-classifier>`_。",
+                    "settings.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594563608030,
+                        "id": 11
+                    }
+                ],
+                [
+                    "自然场景文字检测",
+                    "Natural scene text detection",
+                    "自然场景文字检测",
+                    "settings.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594559487640,
+                        "id": 12
+                    }
+                ],
+                [
+                    "支持使用EAST和CRAFT自然场景文字检测方法进行文字检测。",
+                    "Supports text detection using EAST and CRAFT natural scene text detection methods.",
+                    "支持使用EAST和CRAFT自然场景文字检测方法进行文字检测。",
+                    "settings.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594559487853,
+                        "id": 13
+                    }
+                ],
+                [
+                    "默认地址为：`<http:\/\/127.0.0.1:8080\/detect>`_",
+                    "The default address is: `<http:\/\/127.0.0.1:8080\/detect>`_",
+                    "默认地址为：`<http:\/\/127.0.0.1:8080\/detect>`_",
+                    "settings.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594563620151,
+                        "id": 14
+                    }
+                ],
+                [
+                    "代码地址： `<https:\/\/github.com\/xulihang\/ImageTrans_SceneText_Detection>`_。",
+                    "Code address: `<https:\/\/github.com\/xulihang\/ImageTrans_SceneText_Detection>`_.",
+                    "代码地址： `<https:\/\/github.com\/xulihang\/ImageTrans_SceneText_Detection>`_。",
+                    "settings.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594563628431,
+                        "id": 15
+                    }
+                ],
+                [
+                    "API设置",
+                    "API settings",
+                    "API设置",
+                    "settings.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594559488198,
+                        "id": 16
+                    }
+                ],
+                [
+                    "点击菜单-文件-偏好设置-API，可以设置百度、有道、微软、腾讯等OCR和机器翻译服务提供商的API。",
+                    "Click on the menu-file-preferences-API to set up APIs for OCR and machine translation service providers such as Baidu, Dodo, Microsoft, Tencent.",
+                    "点击菜单-文件-偏好设置-API，可以设置百度、有道、微软、腾讯等OCR和机器翻译服务提供商的API。",
+                    "settings.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594559488501,
+                        "id": 17
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}

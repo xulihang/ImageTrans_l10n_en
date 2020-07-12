@@ -1,0 +1,872 @@
+{
+    "filename": "gettingstarted.po",
+    "files": [
+        {
+            "gettingstarted.po": [
+                [
+                    "快速入门",
+                    "Getting Started",
+                    "快速入门",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594560771074,
+                        "id": 2
+                    }
+                ],
+                [
+                    "软件安装",
+                    "Installation",
+                    "软件安装",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594560775858,
+                        "id": 3
+                    }
+                ],
+                [
+                    "Windows完整版解压到任意目录后即可，Mac完整版打开dmg文件安装ImageTrans到应用目录即可。",
+                    "For Windows, unzip the full version to any folder. For Mac, drag the app in dmg file to Application.",
+                    "Windows完整版解压到任意目录后即可，Mac完整版打开dmg文件安装ImageTrans到应用目录即可。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594561795487,
+                        "id": 4
+                    }
+                ],
+                [
+                    "需要使用Tesseract进行OCR的话请自行下载安装。",
+                    "If you need to use Tesseract for OCR, please install it by yourself.",
+                    "需要使用Tesseract进行OCR的话请自行下载安装。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594560884738,
+                        "id": 5
+                    }
+                ],
+                [
+                    "这里提供一个Windows的绿色版本：`百度网盘（提取码：ktpt） <https:\/\/pan.baidu.com\/s\/1gJZyuntLetZEpFWI8XqkXA>`_，下载后将tesseract-ocr目录和ImageTrans放在一起。",
+                    "Here is a Windows version of Tesseract for download: `Baidu Netdisk (code: ktpt)<https:\/\/pan.baidu.com\/s\/1gJZyuntLetZEpFWI8XqkXA>`_ Put the tessseract-ocr folder under ImageTrans's folder.",
+                    "这里提供一个Windows的绿色版本：`百度网盘（提取码：ktpt） <https:\/\/pan.baidu.com\/s\/1gJZyuntLetZEpFWI8XqkXA>`_，下载后将tesseract-ocr目录和ImageTrans放在一起。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594561024395,
+                        "id": 5
+                    }
+                ],
+                [
+                    "额外的语言包请放在 ``tesseract-ocr\\\tessdata`` 目录下。",
+                    "Put additional language data files place under ``tesseract-ocr\\\tessdata``.",
+                    "额外的语言包请放在 ``tesseract-ocr\\\tessdata`` 目录下。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594561069488,
+                        "id": 5
+                    }
+                ],
+                [
+                    "本工具支持的在线OCR和机器翻译服务均需要设置API才能使用，其中云译和ocrspace为免费提供。",
+                    "Both online OCR and machine translation services supported by this tool require API keys to be used. Cloud Translation and OCRSpace are available free of charge.",
+                    "本工具支持的在线OCR和机器翻译服务均需要设置API才能使用，其中云译和ocrspace为免费提供。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594561164397,
+                        "id": 6
+                    }
+                ],
+                [
+                    "付费用户还能获得百度和Azure的API。",
+                    "Paid users will also receive Baidu and Azure's API keys.",
+                    "付费用户还能获得百度和Azure的API。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594561178681,
+                        "id": 6
+                    }
+                ],
+                [
+                    "以下内容是对于跨平台的版本：",
+                    "The following is for the cross-platform version:",
+                    "以下内容是对于跨平台的版本：",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594561189330,
+                        "id": 7
+                    }
+                ],
+                [
+                    "下载ImageTrans的压缩包，解压到任意目录，双击ImageTrans.jar或者命令行输入 ``java -jar ImageTrans.jar`` 即可运行。",
+                    "Download ImageTrans's zip file, unzip it to any folder, double-click ImageTrans.jar or enter the command line ``java-jar ImageTrans.jar`` to run it.",
+                    "下载ImageTrans的压缩包，解压到任意目录，双击ImageTrans.jar或者命令行输入 ``java -jar ImageTrans.jar`` 即可运行。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594561797417,
+                        "id": 8
+                    }
+                ],
+                [
+                    "软件依赖JRE 1.8运行环境，请先下载安装：`百度网盘（提取码：mhsy） <https:\/\/pan.baidu.com\/s\/1t0g6htstFge0h2dOS0aBog>`_",
+                    "ImageTrans relies on JRE 1.8 environment, please download and install it: `Baidu NetDisk (code: mhsy) <https:\/\/pan.baidu.com\/s\/1t0g6htstFge0h2dOS0aBog>`_",
+                    "软件依赖JRE 1.8运行环境，请先下载安装：`百度网盘（提取码：mhsy） <https:\/\/pan.baidu.com\/s\/1t0g6htstFge0h2dOS0aBog>`_",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594561299033,
+                        "id": 9
+                    }
+                ],
+                [
+                    "软件依赖OpenCV，请根据系统下载运行库文件，解压后放在ImageTrans的目录下：`百度网盘 <https:\/\/pan.baidu.com\/s\/1D9EZMKqwgqQjdEjwYFkZQQ>`_, `GitHub <https:\/\/github.com\/xulihang\/ImageTrans-docs\/releases\/tag\/opencv>`_",
+                    "ImageTrans also relies on OpenCV, please download the runtime file according to your system, unzip and put them under ImageTrans's folder: `Baidu NetDisk <https:\/\/pan.baidu.com\/s\/1D9EZMKqwgqQjdEjwYFkZQQ>`_, `GitHub <https:\/\/github.com\/xulihang\/ImageTrans-docs\/releases\/tag\/opencv>`_",
+                    "软件依赖OpenCV，请根据系统下载运行库文件，解压后放在ImageTrans的目录下：`百度网盘 <https:\/\/pan.baidu.com\/s\/1D9EZMKqwgqQjdEjwYFkZQQ>`_, `GitHub <https:\/\/github.com\/xulihang\/ImageTrans-docs\/releases\/tag\/opencv>`_",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594561799228,
+                        "id": 10
+                    }
+                ],
+                [
+                    "验证登录",
+                    "Verification",
+                    "验证登录",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594561379741,
+                        "id": 11
+                    }
+                ],
+                [
+                    "每次运行ImageTrans时，会显示验证器，需要填入购买时填写的email和订单号。",
+                    "Each time you run ImageTrans, a validator will show up. You need to verify with your the email and order number.",
+                    "每次运行ImageTrans时，会显示验证器，需要填入购买时填写的email和订单号。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594561431225,
+                        "id": 12
+                    }
+                ],
+                [
+                    "订单号可以在收到的邮件中找到。",
+                    "The order number can be found in the email you receieved after your purchase.",
+                    "订单号可以在收到的邮件中找到。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594561460545,
+                        "id": 12
+                    }
+                ],
+                [
+                    "一个email可以在三台设备上使用，要更换设备则需要使用邮箱进行重置。",
+                    "Each email can be used for verification on at most three devices. If you want to use it on the fourth device, you have to reset with your email.",
+                    "一个email可以在三台设备上使用，要更换设备则需要使用邮箱进行重置。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594561580141,
+                        "id": 13
+                    }
+                ],
+                [
+                    "新建项目",
+                    "New project",
+                    "新建项目",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594559410701,
+                        "id": 14
+                    }
+                ],
+                [
+                    "菜单栏点击文件-新建项目，选择一个位置保存。",
+                    "Click File->New and select a place to save the project file.",
+                    "菜单栏点击文件-新建项目，选择一个位置保存。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594561696498,
+                        "id": 15
+                    }
+                ],
+                [
+                    "添加图片",
+                    "Import Pictures",
+                    "添加图片",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594562390559,
+                        "id": 16
+                    }
+                ],
+                [
+                    "菜单栏点击文件-导入图片文件夹，选择图片存在的位置。",
+                    "Clicks File->Import pictures (from a folder) and select in which folder the picture exists to import.",
+                    "菜单栏点击文件-导入图片文件夹，选择图片存在的位置。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594561867392,
+                        "id": 17
+                    }
+                ],
+                [
+                    "该操作会读取该文件夹下所有的子目录并导入存在的jpg、png文件。",
+                    "It will read all the subfolders and import existing jpg, png files.",
+                    "该操作会读取该文件夹下所有的子目录并导入存在的jpg、png文件。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594561852955,
+                        "id": 17
+                    }
+                ],
+                [
+                    "文字转录",
+                    "Transcription",
+                    "文字转录",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594561877894,
+                        "id": 18
+                    }
+                ],
+                [
+                    "工具支持框选文字区域并识别。",
+                    "You can mark text areas in boxes and get their text.",
+                    "工具支持框选文字区域并识别。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594561947336,
+                        "id": 19
+                    }
+                ],
+                [
+                    "手动框选文字",
+                    "Create Text Area Boxes Manually",
+                    "手动框选文字",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594562007945,
+                        "id": 20
+                    }
+                ],
+                [
+                    "在图片上双击建立选择框，点住中间区域进行移动，点住右下角调整大小。",
+                    "Double-click on the picture to create a selection box. Press on the middle area to move the box and press on the lower right corner to resize.",
+                    "在图片上双击建立选择框，点住中间区域进行移动，点住右下角调整大小。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594562072712,
+                        "id": 21
+                    }
+                ],
+                [
+                    "OCR",
+                    "OCR",
+                    "OCR",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594562076648,
+                        "id": 22
+                    }
+                ],
+                [
+                    "选中文字区域，选择语言和OCR引擎，点击识别进行OCR。",
+                    "Select the text area, select the right language, choose an OCR engine and press OCR.",
+                    "选中文字区域，选择语言和OCR引擎，点击识别进行OCR。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594562342236,
+                        "id": 23
+                    }
+                ],
+                [
+                    "自动识别文字",
+                    "Detect Text Areas and Recognize Text",
+                    "自动识别文字",
+                    "gettingstarted.po",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1594562383407,
+                        "id": 24
+                    }
+                ],
+                [
+                    "选择语言和OCR引擎，点击菜单-编辑-自动识别文字，可以自动检测文字区域并转录。",
+                    "Select the language and an OCR engine, click Edit->Detect text areas and recognize text.",
+                    "选择语言和OCR引擎，点击菜单-编辑-自动识别文字，可以自动检测文字区域并转录。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594562352954,
+                        "id": 25
+                    }
+                ],
+                [
+                    "其中有道是按段落识别，其它引擎是按行识别，可以通过右侧编辑区域的合并左右区域和合并上下区域进行合并。",
+                    "Youdou detects in paragragh level and other engines detect text lines. You can use the merge buttons at the right side to merge these areas.",
+                    "其中有道是按段落识别，其它引擎是按行识别，可以通过右侧编辑区域的合并左右区域和合并上下区域进行合并。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594562278847,
+                        "id": 25
+                    }
+                ],
+                [
+                    "自动识别气泡",
+                    "Detect Balloons",
+                    "自动识别气泡",
+                    "gettingstarted.po",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1594562368362,
+                        "id": 26
+                    }
+                ],
+                [
+                    "选择语言和OCR引擎，点击菜单-编辑-自动识别气泡，可以自动识别气泡。",
+                    "Select the language and OCR engine, click on the Edit->Detect Balloons.",
+                    "选择语言和OCR引擎，点击菜单-编辑-自动识别气泡，可以自动识别气泡。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594562444735,
+                        "id": 27
+                    }
+                ],
+                [
+                    "自动OCR所有区域",
+                    "OCR All Text Areas",
+                    "自动OCR所有区域",
+                    "gettingstarted.po",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1594562454713,
+                        "id": 28
+                    }
+                ],
+                [
+                    "我们可以先把文字区域框出，然后批量进行OCR。",
+                    "We can mark out text areas first and then OCR them in bulk.",
+                    "我们可以先把文字区域框出，然后批量进行OCR。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594562515094,
+                        "id": 29
+                    }
+                ],
+                [
+                    "点击菜单-编辑-自动OCR所有区域进行操作。",
+                    "Click Edit->OCR All Text Areas to do this.",
+                    "点击菜单-编辑-自动OCR所有区域进行操作。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594562545639,
+                        "id": 29
+                    }
+                ],
+                [
+                    "排序",
+                    "Sort",
+                    "排序",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594559415382,
+                        "id": 30
+                    }
+                ],
+                [
+                    "支持根据坐标信息对文字区域进行排序。",
+                    "Sort text areas based on coordinate.",
+                    "支持根据坐标信息对文字区域进行排序。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594562566449,
+                        "id": 31
+                    }
+                ],
+                [
+                    "导出",
+                    "Export",
+                    "导出",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594559416021,
+                        "id": 32
+                    }
+                ],
+                [
+                    "导出有多种选项。",
+                    "There are several options for exporting.",
+                    "导出有多种选项。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594559416206,
+                        "id": 33
+                    }
+                ],
+                [
+                    "Tab分割的TXT文档，包含坐标信息、字体样式、文字等信息",
+                    "Tab-splitted TXT documents include coordinate, font style and text.",
+                    "Tab分割的TXT文档，包含坐标信息、字体样式、文字等信息",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594562610792,
+                        "id": 34
+                    }
+                ],
+                [
+                    "XLSX表格，和TXT的内容一样",
+                    "The XLSX file has the same content as TXT's.",
+                    "XLSX表格，和TXT的内容一样",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594562639928,
+                        "id": 35
+                    }
+                ],
+                [
+                    "XLSX表格-根据目录建立工作表，按子目录保存图片名、原文和译文信息",
+                    "XLSX file - create worksheets based on folders will store picture names, source texts, and target text in separte sheets.",
+                    "XLSX表格-根据目录建立工作表，按子目录保存图片名、原文和译文信息",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594562711257,
+                        "id": 36
+                    }
+                ],
+                [
+                    "所有文本，按每张图片生成包含图片文字的txt文档",
+                    "All text. Store text in separate txt files for each picture.",
+                    "所有文本，按每张图片生成包含图片文字的txt文档",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594562784898,
+                        "id": 37
+                    }
+                ],
+                [
+                    "供翻译的文档，将原文和译文信息以表格的形式导出为一个docx文档或者txt文档",
+                    "Document for translation. Export source text and target text to a docx file or a txt file.",
+                    "供翻译的文档，将原文和译文信息以表格的形式导出为一个docx文档或者txt文档",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594562855592,
+                        "id": 38
+                    }
+                ],
+                [
+                    "翻译",
+                    "Translation",
+                    "翻译",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594559417834,
+                        "id": 39
+                    }
+                ],
+                [
+                    "在译文区域输入译文并点击保存可以完成一个文字区域的翻译。",
+                    "Enter the target text in the translation area and click Save to complete the translation of a text area.",
+                    "在译文区域输入译文并点击保存可以完成一个文字区域的翻译。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594562886119,
+                        "id": 40
+                    }
+                ],
+                [
+                    "可以将翻译导出为docx文档供外部人员翻译，之后再通过菜单-导回翻译-docx文档进行导回。",
+                    "Translations can be exported as docx documents for external translation, and then import back through File->Import translation.",
+                    "可以将翻译导出为docx文档供外部人员翻译，之后再通过菜单-导回翻译-docx文档进行导回。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594562968727,
+                        "id": 41
+                    }
+                ],
+                [
+                    "计算机辅助翻译软件BasicCAT支持直接操作ImageTrans的项目文件进行翻译。",
+                    "BasicCAT, a computer-aided translation software, supports direct operation of ImageTrans's project files for translation.",
+                    "计算机辅助翻译软件BasicCAT支持直接操作ImageTrans的项目文件进行翻译。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594559418804,
+                        "id": 42
+                    }
+                ],
+                [
+                    "翻译记忆、机器翻译和术语管理",
+                    "Translation memory, machine translation and terminology management",
+                    "翻译记忆、机器翻译和术语管理",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594559418995,
+                        "id": 43
+                    }
+                ],
+                [
+                    "切换右侧的操作区到辅助翻译页面，可以使用翻译记忆、机器翻译和术语管理这三个功能。",
+                    "Switch the tab page on the right to Translation Assistant page to use translation memory, machine translation, and terminology management.",
+                    "切换右侧的操作区到辅助翻译页面，可以使用翻译记忆、机器翻译和术语管理这三个功能。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594563043639,
+                        "id": 44
+                    }
+                ],
+                [
+                    "机器翻译需要在偏好设置里设置API，并进行启用。",
+                    "You need to set up APIs and enable them to use machine translation.",
+                    "机器翻译需要在偏好设置里设置API，并进行启用。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594563102474,
+                        "id": 44
+                    }
+                ],
+                [
+                    "另外还需要设置项目的语言，通过项目-设置-选择语言对进行设置。",
+                    "You also need to set the language pair of the project, which can be done through Project->Settings->Select language pair.",
+                    "另外还需要设置项目的语言，通过项目-设置-选择语言对进行设置。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594563134110,
+                        "id": 44
+                    }
+                ],
+                [
+                    "预翻译",
+                    "Pre-translation",
+                    "预翻译",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594559420222,
+                        "id": 45
+                    }
+                ],
+                [
+                    "点击菜单-项目-批处理-预翻译，可以使用翻译记忆或者机器翻译进行批量翻译。",
+                    "Click Project->Batch->Pre-translation to use translation memory or machine translation to pre-translate.",
+                    "点击菜单-项目-批处理-预翻译，可以使用翻译记忆或者机器翻译进行批量翻译。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594563187263,
+                        "id": 46
+                    }
+                ],
+                [
+                    "当前只支持机器翻译。",
+                    "Only machine translation is currently supported.",
+                    "当前只支持机器翻译。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594559420685,
+                        "id": 46
+                    }
+                ],
+                [
+                    "预览",
+                    "Preview",
+                    "预览",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594559420826,
+                        "id": 47
+                    }
+                ],
+                [
+                    "点击左下角的预览替换效果，可以预览翻译效果。",
+                    "Click Preview translation in the lower left corner to preview the translation.",
+                    "点击左下角的预览替换效果，可以预览翻译效果。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594563218414,
+                        "id": 48
+                    }
+                ],
+                [
+                    "选择精确模式会自动识别文字进行抹除并修复背景，非精确模式则会用背景颜色进行遮盖。",
+                    "The precision mode will detect text and reconstruct the background. The unprecision mode will just cover the area with the background color.",
+                    "选择精确模式会自动识别文字进行抹除并修复背景，非精确模式则会用背景颜色进行遮盖。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594563293632,
+                        "id": 48
+                    }
+                ],
+                [
+                    "勾选排版模式时，译文区域将被框出，并支持调整位置。",
+                    "When Typesetting mode is checked before preview, target text areas will be boxed out. You can readjust their size and location.",
+                    "勾选排版模式时，译文区域将被框出，并支持调整位置。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594563405568,
+                        "id": 49
+                    }
+                ],
+                [
+                    "生成成品图",
+                    "Generate the Translated Picture",
+                    "生成成品图",
+                    "gettingstarted.po",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1594563428655,
+                        "id": 50
+                    }
+                ],
+                [
+                    "首先将图片比例调整为100%，之后点击预览，得到成品图。",
+                    "First switch the image scale to 100%, and then click preview to get the translated picture.",
+                    "首先将图片比例调整为100%，之后点击预览，得到成品图。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594563449406,
+                        "id": 51
+                    }
+                ],
+                [
+                    "点击文件-导出当前图片为-JPG，结果将输出在对应图片的文件夹的out文件夹中。",
+                    "Click File->Export the current picture to->JPG, and the result will be exported to the out folder in the picture folder.",
+                    "点击文件-导出当前图片为-JPG，结果将输出在对应图片的文件夹的out文件夹中。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594563542705,
+                        "id": 51
+                    }
+                ],
+                [
+                    "另一选项ORA支持将文件导出为多层图像格式ORA，该格式能保存图层信息，供PS、Gimp和Krita等图像编辑软件编辑。",
+                    "Another option, ORA, supports exporting files to multi-layer image format ORA, which holds layer information for image editing software such as PS, Gimp, and Krita.",
+                    "另一选项ORA支持将文件导出为多层图像格式ORA，该格式能保存图层信息，供PS、Gimp和Krita等图像编辑软件编辑。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594559423282,
+                        "id": 51
+                    }
+                ],
+                [
+                    "除此以外，ImageTrans可支持导出PSD。",
+                    "In addition, ImageTrans supports exporting PSDs.",
+                    "除此以外，ImageTrans可支持导出PSD。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594559423490,
+                        "id": 52
+                    }
+                ],
+                [
+                    "设置文字样式",
+                    "Style text",
+                    "设置文字样式",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594559423951,
+                        "id": 53
+                    }
+                ],
+                [
+                    "设置文字样式主要有两个作用，一个是在ImageTrans中进行预览，一个是用于导出PSD时设置字体。",
+                    "There are two main roles in setting text styles, one is to preview in ImageTrans and the other to set the font when exporting PSD.",
+                    "设置文字样式主要有两个作用，一个是在ImageTrans中进行预览，一个是用于导出PSD时设置字体。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594559424365,
+                        "id": 54
+                    }
+                ],
+                [
+                    "点击菜单-项目-设置-字体样式可以进行设置使用的字体、文字大小、行距、对齐方式等等。",
+                    "Click the menu-item-setting-font style to set the font used, text size, leading, alignment, and so on.",
+                    "点击菜单-项目-设置-字体样式可以进行设置使用的字体、文字大小、行距、对齐方式等等。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594559424631,
+                        "id": 55
+                    }
+                ],
+                [
+                    "如果要修改某个样式，请点击该样式以加载设置，修改后点击添加，然后删去原来的样式。",
+                    "If you want to modify a style, tap the style to load the settings, click Add when you modify it, and then delete the original style.",
+                    "如果要修改某个样式，请点击该样式以加载设置，修改后点击添加，然后删去原来的样式。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594559424913,
+                        "id": 56
+                    }
+                ],
+                [
+                    "排在第一的样式是默认样式。",
+                    "The first-place style is the default style.",
+                    "排在第一的样式是默认样式。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594559425105,
+                        "id": 56
+                    }
+                ],
+                [
+                    "因为Photoshop需要的字体名比较特殊，需要从PS中获得。",
+                    "Because Photoshop requires a special font name, it needs to be obtained from PS.",
+                    "因为Photoshop需要的字体名比较特殊，需要从PS中获得。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594559425337,
+                        "id": 57
+                    }
+                ],
+                [
+                    "方法是在PS中新建一张图片，建立一个文本框，设置所需字体，并完成文字编辑操作，是文本框处于非编辑状态。",
+                    "The method is to create a new picture in PS, create a text box, set the font you want, and complete the text editing operation, which is a non-edited text box.",
+                    "方法是在PS中新建一张图片，建立一个文本框，设置所需字体，并完成文字编辑操作，是文本框处于非编辑状态。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594559425667,
+                        "id": 57
+                    }
+                ],
+                [
+                    "之后在ImageTrans中点击读取即可。",
+                    "Then click Read in ImageTrans.",
+                    "之后在ImageTrans中点击读取即可。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594559425842,
+                        "id": 57
+                    }
+                ],
+                [
+                    "非Windows系统需要使用readFont.jsx脚本。",
+                    "Non-Windows systems require readFont.jsx scripts.",
+                    "非Windows系统需要使用readFont.jsx脚本。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594559426068,
+                        "id": 57
+                    }
+                ],
+                [
+                    "可以给文字区域设置专门的字体样式。",
+                    "You can set a special font style for the text area.",
+                    "可以给文字区域设置专门的字体样式。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594559426267,
+                        "id": 58
+                    }
+                ],
+                [
+                    "另外也支持设置本地样式，除了全局文字样式包含的内容外，支持描边和旋转角度的设置。",
+                    "Local styles are also supported, and stroke and rotation angles are supported in addition to what the global text style contains.",
+                    "另外也支持设置本地样式，除了全局文字样式包含的内容外，支持描边和旋转角度的设置。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594559427139,
+                        "id": 59
+                    }
+                ],
+                [
+                    "设置本地字体样式时会调出全局字体样式的设置界面，默认读取添加在末尾的样式为本地字体样式。",
+                    "Setting the local font style brings up the settings interface for the global font style, and the default read adds the style at the end of the style to the local font style.",
+                    "设置本地字体样式时会调出全局字体样式的设置界面，默认读取添加在末尾的样式为本地字体样式。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594559427433,
+                        "id": 59
+                    }
+                ],
+                [
+                    "批处理",
+                    "Batch",
+                    "批处理",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594559427591,
+                        "id": 60
+                    }
+                ],
+                [
+                    "以上对单个图片的操作都可以通过菜单-项目-批处理对所有图片进行操作。",
+                    "All of the above actions on a single picture can be manipulated through menu-project-batch.",
+                    "以上对单个图片的操作都可以通过菜单-项目-批处理对所有图片进行操作。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594559427822,
+                        "id": 61
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}

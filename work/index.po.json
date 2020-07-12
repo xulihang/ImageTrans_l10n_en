@@ -1,0 +1,32 @@
+{
+    "filename": "index.po",
+    "files": [
+        {
+            "index.po": [
+                [
+                    "ImageTrans 使用手册",
+                    "ImageTrans Documentation",
+                    "ImageTrans 使用手册",
+                    "index.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594559442163,
+                        "id": 2
+                    }
+                ],
+                [
+                    "目录",
+                    "Contents",
+                    "目录",
+                    "index.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594559447066,
+                        "id": 3
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}

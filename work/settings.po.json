@@ -5,56 +5,56 @@
             "settings.po": [
                 [
                     "软件设置",
-                    "Software settings",
+                    "Settings",
                     "软件设置",
                     "settings.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1594559484270,
+                        "createdTime": 1594694983957,
                         "id": 2
                     }
                 ],
                 [
                     "通用设置",
-                    "Universal settings",
+                    "General settings",
                     "通用设置",
                     "settings.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1594559484424,
+                        "createdTime": 1594694987125,
                         "id": 3
                     }
                 ],
                 [
                     "气泡检测",
-                    "Bubble detection",
+                    "Balloon Detection",
                     "气泡检测",
                     "settings.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1594559484575,
+                        "createdTime": 1594694993526,
                         "id": 4
                     }
                 ],
                 [
                     "本工具的气泡检测使用百度EasyDL和Azure的目标检测服务。",
-                    "The tool's bubble detection uses Baidu's EasyDL and Azure Target Detection services.",
+                    "The tool's balloon detection uses object detection services provided by Baidu EasyDL and Azure.",
                     "本工具的气泡检测使用百度EasyDL和Azure的目标检测服务。",
                     "settings.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1594559484808,
+                        "createdTime": 1594695027724,
                         "id": 5
                     }
                 ],
                 [
                     "需要自行开通账号并训练。",
-                    "You need to open your own account and train.",
+                    "You need to create your own account and train your own model.",
                     "需要自行开通账号并训练。",
                     "settings.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1594559486234,
+                        "createdTime": 1594695059141,
                         "id": 5
                     }
                 ],
@@ -71,34 +71,34 @@
                 ],
                 [
                     "选中所有气泡中的文字，选框尽量贴合文字。",
-                    "Check the text in all bubbles, and the marquee fits the text as closely as possible.",
+                    "Box text areas in all balloons. Let the box fits the text as closely as possible.",
                     "选中所有气泡中的文字，选框尽量贴合文字。",
                     "settings.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1594559486647,
+                        "createdTime": 1594695107917,
                         "id": 7
                     }
                 ],
                 [
                     "发布模型后，在菜单-文件-偏好设置-通用里设置发布了URL，同时还需要填写对应的API。",
-                    "After publishing the model, the URL is set in the menu-file-preferences-generic setting, and the corresponding API is also required.",
+                    "After the model is published, you can set the URL through File-Preferences-General setting. The corresponding API key is also required.",
                     "发布模型后，在菜单-文件-偏好设置-通用里设置发布了URL，同时还需要填写对应的API。",
                     "settings.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1594559486921,
+                        "createdTime": 1594695165477,
                         "id": 8
                     }
                 ],
                 [
                     "文字图像识别",
-                    "Text image recognition",
+                    "Text Image Recognition",
                     "文字图像识别",
                     "settings.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1594559487065,
+                        "createdTime": 1594695179525,
                         "id": 9
                     }
                 ],
@@ -115,34 +115,34 @@
                 ],
                 [
                     "请运行以下仓库的代码： `<https:\/\/github.com\/xulihang\/text-image-classifier>`_。",
-                    "Please run the code for the following warehouse:  `<https:\/\/github.com\/xulihang\/text-image-classifier>`_.",
+                    "Please run the code in this repository:  `<https:\/\/github.com\/xulihang\/text-image-classifier>`_.",
                     "请运行以下仓库的代码： `<https:\/\/github.com\/xulihang\/text-image-classifier>`_。",
                     "settings.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1594563608030,
+                        "createdTime": 1594695202805,
                         "id": 11
                     }
                 ],
                 [
                     "自然场景文字检测",
-                    "Natural scene text detection",
+                    "Natural Scene Text Detection",
                     "自然场景文字检测",
                     "settings.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1594559487640,
+                        "createdTime": 1594695209694,
                         "id": 12
                     }
                 ],
                 [
                     "支持使用EAST和CRAFT自然场景文字检测方法进行文字检测。",
-                    "Supports text detection using EAST and CRAFT natural scene text detection methods.",
+                    "EAST and CRAFT natural scene text detection methods are supported.",
                     "支持使用EAST和CRAFT自然场景文字检测方法进行文字检测。",
                     "settings.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1594559487853,
+                        "createdTime": 1594695226205,
                         "id": 13
                     }
                 ],
@@ -159,34 +159,34 @@
                 ],
                 [
                     "代码地址： `<https:\/\/github.com\/xulihang\/ImageTrans_SceneText_Detection>`_。",
-                    "Code address: `<https:\/\/github.com\/xulihang\/ImageTrans_SceneText_Detection>`_.",
+                    "Code repository: `<https:\/\/github.com\/xulihang\/ImageTrans_SceneText_Detection>`_.",
                     "代码地址： `<https:\/\/github.com\/xulihang\/ImageTrans_SceneText_Detection>`_。",
                     "settings.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1594563628431,
+                        "createdTime": 1594695241149,
                         "id": 15
                     }
                 ],
                 [
                     "API设置",
-                    "API settings",
+                    "API Settings",
                     "API设置",
                     "settings.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1594559488198,
+                        "createdTime": 1594695245357,
                         "id": 16
                     }
                 ],
                 [
                     "点击菜单-文件-偏好设置-API，可以设置百度、有道、微软、腾讯等OCR和机器翻译服务提供商的API。",
-                    "Click on the menu-file-preferences-API to set up APIs for OCR and machine translation service providers such as Baidu, Dodo, Microsoft, Tencent.",
+                    "Click File->Preferences->API to set up APIs for OCR and machine translation services provided by Baidu, Youdao, Microsoft, Tencent, etc.",
                     "点击菜单-文件-偏好设置-API，可以设置百度、有道、微软、腾讯等OCR和机器翻译服务提供商的API。",
                     "settings.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1594559488501,
+                        "createdTime": 1594695302693,
                         "id": 17
                     }
                 ]

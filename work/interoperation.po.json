@@ -5,12 +5,12 @@
             "interoperation.po": [
                 [
                     "与第三方软件的交互",
-                    "Interaction with third-party software",
+                    "Interaction with Third-Party Software",
                     "与第三方软件的交互",
                     "interoperation.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1594559457694,
+                        "createdTime": 1594692840951,
                         "id": 2
                     }
                 ],
@@ -27,45 +27,45 @@
                 ],
                 [
                     "ImageTrans支持利用脚本调用Photoshop来实现互操作。",
-                    "ImageTrans supports interoperability using script calls to Photoshop.",
+                    "ImageTrans can intereact with Photoshop using scripts.",
                     "ImageTrans支持利用脚本调用Photoshop来实现互操作。",
                     "interoperation.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1594559458069,
+                        "createdTime": 1594692865998,
                         "id": 4
                     }
                 ],
                 [
                     "说明：如果是Windows系统并安装了完整版Photoshop，ImageTrans提供exe脚本工具，可以自动打开PS。",
-                    "Description: If you are on a Windows system and have a full version of Photoshop installed, ImageTrans provides exe scripting tools that automatically open PS.",
+                    "Note: If you are on a Windows system and have a full version of Photoshop installed, ImageTrans provides exe scripting tools that automatically open PS.",
                     "说明：如果是Windows系统并安装了完整版Photoshop，ImageTrans提供exe脚本工具，可以自动打开PS。",
                     "interoperation.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1594559458361,
+                        "createdTime": 1594692875870,
                         "id": 5
                     }
                 ],
                 [
                     "其它情况需要自行打开PS，点击“文件-脚本-浏览”选择脚本进行操作。",
-                    "In other cases, you need to open the PS yourself and click on the \"File-Script-Browse\" selection script to operate.",
+                    "In other cases, you need to open the PS yourself and click File->Script->Browse to run the scripts.",
                     "其它情况需要自行打开PS，点击“文件-脚本-浏览”选择脚本进行操作。",
                     "interoperation.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1594559458629,
+                        "createdTime": 1594692929775,
                         "id": 5
                     }
                 ],
                 [
                     "Photoshop脚本仓库：`<https:\/\/github.com\/xulihang\/ImageTrans_PhotoshopScripts>`_",
-                    "Photoshop Script Warehouse: `<https:\/\/github.com\/xulihang\/ImageTrans_PhotoshopScripts>`_",
+                    "Photoshop Script Repository: `<https:\/\/github.com\/xulihang\/ImageTrans_PhotoshopScripts>`_",
                     "Photoshop脚本仓库：`<https:\/\/github.com\/xulihang\/ImageTrans_PhotoshopScripts>`_",
                     "interoperation.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1594563581135,
+                        "createdTime": 1594692956647,
                         "id": 6
                     }
                 ],
@@ -82,144 +82,144 @@
                 ],
                 [
                     "软件不能直接显示PSD，需要先将PSD转换为JPG。",
-                    "The software does not display the PSD directly and needs to convert the PSD to JPG first.",
+                    "The software does not support PSD files directly. You need to convert PSDs to JPGs first.",
                     "软件不能直接显示PSD，需要先将PSD转换为JPG。",
                     "interoperation.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1594559459250,
+                        "createdTime": 1594693018514,
                         "id": 8
                     }
                 ],
                 [
                     "通过菜单-工具-PSD转JPG打开转换工具，调用Photoshop批量进行转换。",
-                    "Open the conversion tool via menu-tool-PSD-jpG, call Photoshop bulk conversion.",
+                    "Open the conversion tool via Tools->PSD to JPG. It will call Photoshop to do the bulk conversion.",
                     "通过菜单-工具-PSD转JPG打开转换工具，调用Photoshop批量进行转换。",
                     "interoperation.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1594559459496,
+                        "createdTime": 1594693052246,
                         "id": 9
                     }
                 ],
                 [
                     "非Windows则使用提供的JSX脚本：pdf2jpg.jsx，选择需要进行转换的目录进行转换。",
-                    "Non-Windows uses the provided JSX script: pdf2jpg.jsx, selecting the directory that needs to be converted.",
+                    "Non-Windows systems have to use the provided JSX script: pdf2jpg.jsx. Select the directory that needs to be converted.",
                     "非Windows则使用提供的JSX脚本：pdf2jpg.jsx，选择需要进行转换的目录进行转换。",
                     "interoperation.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1594559459787,
+                        "createdTime": 1594693097415,
                         "id": 10
                     }
                 ],
                 [
                     "从PSD读取文字区域",
-                    "Read the text area from the PSD",
+                    "Read Text Areas from PSDs",
                     "从PSD读取文字区域",
                     "interoperation.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1594559459986,
+                        "createdTime": 1594693320681,
                         "id": 11
                     }
                 ],
                 [
                     "如果处理的是PSD文件，可以从PSD文件读取其中的文字图层的坐标、大小和文本，显示在ImageTrans中，并且回填时会自动替换文本，不用生成覆盖层。",
-                    "If you are working on a PSD file, you can read the coordinates, size, and text of the text layer in the PSD file, display it in ImageTrans, and automatically replace the text when backfilled without generating an overlay.",
+                    "If you are working on a PSD file, you can read the coordinates, size, and text of text layers in the PSD file, display it in ImageTrans, and automatically replace the text with translation without generating an overlay layer.",
                     "如果处理的是PSD文件，可以从PSD文件读取其中的文字图层的坐标、大小和文本，显示在ImageTrans中，并且回填时会自动替换文本，不用生成覆盖层。",
                     "interoperation.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1594559460376,
+                        "createdTime": 1594693373190,
                         "id": 12
                     }
                 ],
                 [
                     "点击菜单-编辑-从PSD读取文字图层（若存在）进行操作。",
-                    "Click the menu-Edit-Read text layer from the PSD, if present.",
+                    "Click the Edit->Read text layers from PSD files, if present.",
                     "点击菜单-编辑-从PSD读取文字图层（若存在）进行操作。",
                     "interoperation.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1594559460612,
+                        "createdTime": 1594693161325,
                         "id": 12
                     }
                 ],
                 [
                     "非Windows则使用提供的JSX脚本：readTextLayers.jsx，选择目录进行导出，之后点击菜单-项目-导入用PS脚本导出的文字区域信息进行导入。",
-                    "Non-Windows uses the provided JSX script: readTextLayers.jsx, select the catalog for export, and then click on the menu-project-import to import the text area information exported with the PS script.",
+                    "Non-Windows systems have to use the provided JSX script: readTextLayers.jsx. Select the folder to export, and then click Project->Import text areas exported with PS scripts to import.",
                     "非Windows则使用提供的JSX脚本：readTextLayers.jsx，选择目录进行导出，之后点击菜单-项目-导入用PS脚本导出的文字区域信息进行导入。",
                     "interoperation.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1594559460984,
+                        "createdTime": 1594693289038,
                         "id": 13
                     }
                 ],
                 [
                     "读取字体名称",
-                    "Read font name",
+                    "Read Font Name",
                     "读取字体名称",
                     "interoperation.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1594559461447,
+                        "createdTime": 1594693293134,
                         "id": 14
                     }
                 ],
                 [
                     "在字体设置时需要填写PS专用格式的字体名称，可以使用readFont.jsx进行读取。",
-                    "The font name of the PS-specific format needs to be filled in when the font is set, which can be read using readFont.jsx.",
+                    "The font name is in a PS-specific format, which can be obtained using readFont.jsx.",
                     "在字体设置时需要填写PS专用格式的字体名称，可以使用readFont.jsx进行读取。",
                     "interoperation.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1594559461731,
+                        "createdTime": 1594693553727,
                         "id": 15
                     }
                 ],
                 [
                     "该脚本会读取第一个文本框的字体信息。",
-                    "The script reads the font information for the first text box.",
+                    "The script reads the font information of the first text box.",
                     "该脚本会读取第一个文本框的字体信息。",
                     "interoperation.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1594559461936,
+                        "createdTime": 1594693569878,
                         "id": 15
                     }
                 ],
                 [
                     "生成PSD",
-                    "Build PSD",
+                    "Generating PSD",
                     "生成PSD",
                     "interoperation.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1594559462092,
+                        "createdTime": 1594693577799,
                         "id": 16
                     }
                 ],
                 [
                     "图片翻译完成后，可以生成PSD文件供精细调整。",
-                    "After the picture translation is complete, you can generate a PSD file for fine adjustment.",
+                    "After the translation is completed, you can generate a PSD file for further adjustment in PS.",
                     "图片翻译完成后，可以生成PSD文件供精细调整。",
                     "interoperation.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1594559462306,
+                        "createdTime": 1594693613342,
                         "id": 17
                     }
                 ],
                 [
                     "点击菜单-生成可编辑的PSD文件调出生成选项对话框。",
-                    "Click menu - Generate an editable PSD file to call up the build options dialog box.",
+                    "Click File-Generate editable PSD files to bring up the generating options dialog box.",
                     "点击菜单-生成可编辑的PSD文件调出生成选项对话框。",
                     "interoperation.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1594559462525,
+                        "createdTime": 1594693652863,
                         "id": 17
                     }
                 ],
@@ -236,166 +236,166 @@
                 ],
                 [
                     "存在PSD - 直接操作原来的PSD文件，PSD文件需要和JPG文件存放在一起。",
-                    "There is PSD - direct operation of the original PSD file, PSD file stakes need to be stored together with the JPG file.",
+                    "PSD exists - directly process the original PSD file. PSD files have to be put together with the JPG files.",
                     "存在PSD - 直接操作原来的PSD文件，PSD文件需要和JPG文件存放在一起。",
                     "interoperation.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1594559462992,
+                        "createdTime": 1594693713783,
                         "id": 19
                     }
                 ],
                 [
                     "不选则会从JPG文件生成PSD。",
-                    "If you do not select, the PSD is generated from the JPG file.",
+                    "If it is not checked, new PSD files will be generated based on the JPG files.",
                     "不选则会从JPG文件生成PSD。",
                     "interoperation.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1594559463845,
+                        "createdTime": 1594693763438,
                         "id": 19
                     }
                 ],
                 [
                     "使用译文替换 - 不选则使用原来的文本。",
-                    "Replace with a translation - Use the original text if you do not select.",
+                    "Replace with translation - Otherwise the source text will be used.",
                     "使用译文替换 - 不选则使用原来的文本。",
                     "interoperation.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1594559465249,
+                        "createdTime": 1594693800015,
                         "id": 20
                     }
                 ],
                 [
                     "添加覆盖层 - 添加覆盖层以遮住原来的文字。",
-                    "Add overlays - Add overlays to obscure the original text.",
+                    "Add overlay mask - Add overlays to cover the source text.",
                     "添加覆盖层 - 添加覆盖层以遮住原来的文字。",
                     "interoperation.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1594559465450,
+                        "createdTime": 1594693848711,
                         "id": 21
                     }
                 ],
                 [
                     "如果对应PSD中的文字图层，则不会添加覆盖层。",
-                    "If you correspond to a text layer in the PSD, no overlay is added.",
+                    "If the text area corresponds to a text layer in the PSD, no overlay will be added.",
                     "如果对应PSD中的文字图层，则不会添加覆盖层。",
                     "interoperation.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1594559465674,
+                        "createdTime": 1594693871686,
                         "id": 21
                     }
                 ],
                 [
                     "使用精确模式 - 非精确模式下覆盖层是一个矩形框，精确模式下软件会根据背景信息精确生成覆盖层，但会耗费较长时间。",
-                    "Use Precision Mode - The overlay in precision mode is a rectangular box, and in precision mode the software accurately generates the overlay based on background information, but takes a long time.",
+                    "Use Precision Mode - The overlay in imprecision mode is a rectangular box. In precision mode, the software will accurately remove text.",
                     "使用精确模式 - 非精确模式下覆盖层是一个矩形框，精确模式下软件会根据背景信息精确生成覆盖层，但会耗费较长时间。",
                     "interoperation.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1594559466016,
+                        "createdTime": 1594693958093,
                         "id": 22
                     }
                 ],
                 [
                     "水平翻转图像 - 适用于中文漫画翻译为日语漫画的情况",
-                    "Horizontal Flip Image - for Chinese Comics Translated into Japanese Comics",
+                    "Flip image horizontally - for Chinese Comics Translated into Japanese Comics",
                     "水平翻转图像 - 适用于中文漫画翻译为日语漫画的情况",
                     "interoperation.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1594559466535,
+                        "createdTime": 1594693986238,
                         "id": 23
                     }
                 ],
                 [
                     "使用点文字 - 所有文本框都设置为点文本，适用于不需要自动换行和文字超出文本框范围的情况",
-                    "Use dot text - All text boxes are set to point text for situations where you don't need to wrap and text is out of scope",
+                    "Use point text - All text boxes will use point text.",
                     "使用点文字 - 所有文本框都设置为点文本，适用于不需要自动换行和文字超出文本框范围的情况",
                     "interoperation.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1594559466809,
+                        "createdTime": 1594694194423,
                         "id": 24
                     }
                 ],
                 [
                     "仅导出 - 仅导出数据文件，暂不执行生成操作",
-                    "Export only - Export data files only, no build operations",
+                    "Export only - Export data files only. Do not run Photoshop.",
                     "仅导出 - 仅导出数据文件，暂不执行生成操作",
                     "interoperation.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1594559467020,
+                        "createdTime": 1594694220606,
                         "id": 25
                     }
                 ],
                 [
                     "生成完成后会跳出提示窗口，请耐心等待。",
-                    "Please be patient as the prompt window jumps out when the build is complete.",
+                    "Please patiently wait until the prompt window pops up indicating the operation is done.",
                     "生成完成后会跳出提示窗口，请耐心等待。",
                     "interoperation.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1594559467227,
+                        "createdTime": 1594694291092,
                         "id": 26
                     }
                 ],
                 [
                     "期间可以切换到PS的窗口查看正在进行的操作，如果PS提出相关操作，需要人工处理。",
-                    "During the time you can switch to the window of PS to view the operation in progress, if PS proposes the relevant action, it needs to be handled manually.",
+                    "During the operation you can switch to the window of PS to view the operation in progress. If PS displays relevant dialogs, you need to handle them manually.",
                     "期间可以切换到PS的窗口查看正在进行的操作，如果PS提出相关操作，需要人工处理。",
                     "interoperation.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1594559467522,
+                        "createdTime": 1594694388269,
                         "id": 26
                     }
                 ],
                 [
                     "非Windows请使用脚本：addLayers.jsx。",
-                    "Non-Windows Use Script: addLayers.jsx.",
+                    "Non-Windows systems have to use this script: addLayers.jsx.",
                     "非Windows请使用脚本：addLayers.jsx。",
                     "interoperation.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1594559467726,
+                        "createdTime": 1594694402293,
                         "id": 27
                     }
                 ],
                 [
                     "其它",
-                    "Other",
+                    "Others",
                     "其它",
                     "interoperation.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1594559467865,
+                        "createdTime": 1594694406548,
                         "id": 28
                     }
                 ],
                 [
                     "使用文件-导出功能可以将文字导出为docx文档供翻译，并支持导回操作。",
-                    "Use the file-export feature to export text as a docx document for translation and support sourcing operations.",
+                    "Use File->Export to export text as a docx document for others to translate. ImageTrans can reimport the translation.",
                     "使用文件-导出功能可以将文字导出为docx文档供翻译，并支持导回操作。",
                     "interoperation.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1594559468436,
+                        "createdTime": 1594694456884,
                         "id": 29
                     }
                 ],
                 [
                     "另外，本工具的项目文件以json格式存储，会编程的朋友可以自由进行处理。",
-                    "In addition, the tool's project files are stored in json format and will be freely processed by the programming friends.",
+                    "In addition, the tool's project files are stored in json format and you can write your own programs to handle them.",
                     "另外，本工具的项目文件以json格式存储，会编程的朋友可以自由进行处理。",
                     "interoperation.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1594559468719,
+                        "createdTime": 1594694581605,
                         "id": 30
                     }
                 ]

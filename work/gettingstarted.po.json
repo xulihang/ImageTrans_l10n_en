@@ -49,12 +49,12 @@
                 ],
                 [
                     "这里提供一个Windows的绿色版本：`百度网盘（提取码：ktpt） <https:\/\/pan.baidu.com\/s\/1gJZyuntLetZEpFWI8XqkXA>`_，下载后将tesseract-ocr目录和ImageTrans放在一起。",
-                    "Here is a Windows version of Tesseract for download: `Baidu Netdisk (code: ktpt)<https:\/\/pan.baidu.com\/s\/1gJZyuntLetZEpFWI8XqkXA>`_ Put the tessseract-ocr folder under ImageTrans's folder.",
+                    "Here is a Windows version of Tesseract for download: `Baidu Netdisk (code: ktpt) <https:\/\/pan.baidu.com\/s\/1gJZyuntLetZEpFWI8XqkXA>`_ Put the tessseract-ocr folder under ImageTrans's folder.",
                     "这里提供一个Windows的绿色版本：`百度网盘（提取码：ktpt） <https:\/\/pan.baidu.com\/s\/1gJZyuntLetZEpFWI8XqkXA>`_，下载后将tesseract-ocr目录和ImageTrans放在一起。",
                     "gettingstarted.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1594561024395,
+                        "createdTime": 1594699395896,
                         "id": 5
                     }
                 ],
@@ -214,12 +214,12 @@
                 ],
                 [
                     "菜单栏点击文件-导入图片文件夹，选择图片存在的位置。",
-                    "Clicks File->Import pictures (from a folder) and select in which folder the picture exists to import.",
+                    "Click File->Import pictures (from a folder) and select in which folder the picture exists to import.",
                     "菜单栏点击文件-导入图片文件夹，选择图片存在的位置。",
                     "gettingstarted.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1594561867392,
+                        "createdTime": 1594699498658,
                         "id": 17
                     }
                 ],
@@ -348,12 +348,12 @@
                 ],
                 [
                     "选择语言和OCR引擎，点击菜单-编辑-自动识别气泡，可以自动识别气泡。",
-                    "Select the language and OCR engine, click on the Edit->Detect Balloons.",
+                    "Select the language and OCR engine, click Edit->Detect Balloons.",
                     "选择语言和OCR引擎，点击菜单-编辑-自动识别气泡，可以自动识别气泡。",
                     "gettingstarted.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1594562444735,
+                        "createdTime": 1594699595915,
                         "id": 27
                     }
                 ],
@@ -459,12 +459,12 @@
                 ],
                 [
                     "XLSX表格-根据目录建立工作表，按子目录保存图片名、原文和译文信息",
-                    "XLSX file - create worksheets based on folders will store picture names, source texts, and target text in separte sheets.",
+                    "XLSX file - create worksheets based on folders. It will store picture names, source texts, and target text in separate sheets.",
                     "XLSX表格-根据目录建立工作表，按子目录保存图片名、原文和译文信息",
                     "gettingstarted.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1594562711257,
+                        "createdTime": 1594699660896,
                         "id": 36
                     }
                 ],
@@ -635,12 +635,12 @@
                 ],
                 [
                     "选择精确模式会自动识别文字进行抹除并修复背景，非精确模式则会用背景颜色进行遮盖。",
-                    "The precision mode will detect text and reconstruct the background. The unprecision mode will just cover the area with the background color.",
+                    "The precision mode will detect text and reconstruct the background. The imprecision mode will just cover the area with the background color.",
                     "选择精确模式会自动识别文字进行抹除并修复背景，非精确模式则会用背景颜色进行遮盖。",
                     "gettingstarted.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1594563293632,
+                        "createdTime": 1594699766690,
                         "id": 48
                     }
                 ],
@@ -691,78 +691,78 @@
                 ],
                 [
                     "另一选项ORA支持将文件导出为多层图像格式ORA，该格式能保存图层信息，供PS、Gimp和Krita等图像编辑软件编辑。",
-                    "Another option, ORA, supports exporting files to multi-layer image format ORA, which holds layer information for image editing software such as PS, Gimp, and Krita.",
+                    "Another option, ORA, supports exporting files to multi-layer image format ORA, which holds layer information for image editing software such as PS, GIMP, and Krita.",
                     "另一选项ORA支持将文件导出为多层图像格式ORA，该格式能保存图层信息，供PS、Gimp和Krita等图像编辑软件编辑。",
                     "gettingstarted.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1594559423282,
+                        "createdTime": 1594692336545,
                         "id": 51
                     }
                 ],
                 [
                     "除此以外，ImageTrans可支持导出PSD。",
-                    "In addition, ImageTrans supports exporting PSDs.",
+                    "In addition, ImageTrans supports exporting as PSDs.",
                     "除此以外，ImageTrans可支持导出PSD。",
                     "gettingstarted.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1594559423490,
+                        "createdTime": 1594692356227,
                         "id": 52
                     }
                 ],
                 [
                     "设置文字样式",
-                    "Style text",
+                    "Style Text",
                     "设置文字样式",
                     "gettingstarted.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1594559423951,
+                        "createdTime": 1594692362064,
                         "id": 53
                     }
                 ],
                 [
                     "设置文字样式主要有两个作用，一个是在ImageTrans中进行预览，一个是用于导出PSD时设置字体。",
-                    "There are two main roles in setting text styles, one is to preview in ImageTrans and the other to set the font when exporting PSD.",
+                    "Setting text styles has effects in two processes: Preview translation in ImageTrans and export as PSDs.",
                     "设置文字样式主要有两个作用，一个是在ImageTrans中进行预览，一个是用于导出PSD时设置字体。",
                     "gettingstarted.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1594559424365,
+                        "createdTime": 1594692456072,
                         "id": 54
                     }
                 ],
                 [
                     "点击菜单-项目-设置-字体样式可以进行设置使用的字体、文字大小、行距、对齐方式等等。",
-                    "Click the menu-item-setting-font style to set the font used, text size, leading, alignment, and so on.",
+                    "Click Project->Settings->Font Style to set the font name, font size, leading, alignment, and so on.",
                     "点击菜单-项目-设置-字体样式可以进行设置使用的字体、文字大小、行距、对齐方式等等。",
                     "gettingstarted.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1594559424631,
+                        "createdTime": 1594692495479,
                         "id": 55
                     }
                 ],
                 [
                     "如果要修改某个样式，请点击该样式以加载设置，修改后点击添加，然后删去原来的样式。",
-                    "If you want to modify a style, tap the style to load the settings, click Add when you modify it, and then delete the original style.",
+                    "If you want to modify a style, click the style to load the settings and then click Add when the setting is done. Remember to delete the original style.",
                     "如果要修改某个样式，请点击该样式以加载设置，修改后点击添加，然后删去原来的样式。",
                     "gettingstarted.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1594559424913,
+                        "createdTime": 1594692540543,
                         "id": 56
                     }
                 ],
                 [
                     "排在第一的样式是默认样式。",
-                    "The first-place style is the default style.",
+                    "The first style will be the default style.",
                     "排在第一的样式是默认样式。",
                     "gettingstarted.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1594559425105,
+                        "createdTime": 1594692561135,
                         "id": 56
                     }
                 ],
@@ -779,12 +779,12 @@
                 ],
                 [
                     "方法是在PS中新建一张图片，建立一个文本框，设置所需字体，并完成文字编辑操作，是文本框处于非编辑状态。",
-                    "The method is to create a new picture in PS, create a text box, set the font you want, and complete the text editing operation, which is a non-edited text box.",
+                    "The way is to create a new picture in PS, create a text box, set the font you want, and complete the text editing operation, letting the text box in non-editing status.",
                     "方法是在PS中新建一张图片，建立一个文本框，设置所需字体，并完成文字编辑操作，是文本框处于非编辑状态。",
                     "gettingstarted.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1594559425667,
+                        "createdTime": 1594692607072,
                         "id": 57
                     }
                 ],
@@ -801,45 +801,45 @@
                 ],
                 [
                     "非Windows系统需要使用readFont.jsx脚本。",
-                    "Non-Windows systems require readFont.jsx scripts.",
+                    "Non-Windows systems have to use readFont.jsx scripts.",
                     "非Windows系统需要使用readFont.jsx脚本。",
                     "gettingstarted.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1594559426068,
+                        "createdTime": 1594692635632,
                         "id": 57
                     }
                 ],
                 [
                     "可以给文字区域设置专门的字体样式。",
-                    "You can set a special font style for the text area.",
+                    "You can set special font styles for text areas.",
                     "可以给文字区域设置专门的字体样式。",
                     "gettingstarted.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1594559426267,
+                        "createdTime": 1594692650735,
                         "id": 58
                     }
                 ],
                 [
                     "另外也支持设置本地样式，除了全局文字样式包含的内容外，支持描边和旋转角度的设置。",
-                    "Local styles are also supported, and stroke and rotation angles are supported in addition to what the global text style contains.",
+                    "Local styles are also supported. Stroke and rotation angles are supported in addition to what the global text style has.",
                     "另外也支持设置本地样式，除了全局文字样式包含的内容外，支持描边和旋转角度的设置。",
                     "gettingstarted.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1594559427139,
+                        "createdTime": 1594692684664,
                         "id": 59
                     }
                 ],
                 [
                     "设置本地字体样式时会调出全局字体样式的设置界面，默认读取添加在末尾的样式为本地字体样式。",
-                    "Setting the local font style brings up the settings interface for the global font style, and the default read adds the style at the end of the style to the local font style.",
+                    "When setting the local font style, the interface for the global font style setting will appear. The last new-added style will be saved as the local font style.",
                     "设置本地字体样式时会调出全局字体样式的设置界面，默认读取添加在末尾的样式为本地字体样式。",
                     "gettingstarted.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1594559427433,
+                        "createdTime": 1594692773335,
                         "id": 59
                     }
                 ],
@@ -856,12 +856,12 @@
                 ],
                 [
                     "以上对单个图片的操作都可以通过菜单-项目-批处理对所有图片进行操作。",
-                    "All of the above actions on a single picture can be manipulated through menu-project-batch.",
+                    "All of the above operations on a single picture can be perforemd in batch through Project->Batch.",
                     "以上对单个图片的操作都可以通过菜单-项目-批处理对所有图片进行操作。",
                     "gettingstarted.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1594559427822,
+                        "createdTime": 1594699840402,
                         "id": 61
                     }
                 ]

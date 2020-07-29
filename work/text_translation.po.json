@@ -50,12 +50,12 @@
                 ],
                 [
                     "建立新的语料需要用户制作翻译记忆文件进行上传，目前提供一个老友记十季字幕供学习使用。",
-                    "You need to store multilingual date in TMX format before uploading them to the system.  Currently, a corpus created from the subtitles of ten seasons of Friends is provided for learning purpose.",
+                    "You need to store multilingual data in TMX format before uploading them to the system.  Currently, a corpus created from the subtitles of ten seasons of Friends is provided for learning purpose.",
                     "建立新的语料需要用户制作翻译记忆文件进行上传，目前提供一个老友记十季字幕供学习使用。",
                     "text_translation.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1594695665620,
+                        "createdTime": 1596000806159,
                         "id": 6
                     }
                 ],

@@ -60,12 +60,12 @@
                 ],
                 [
                     "额外的语言包请放在 ``tesseract-ocr\\\tessdata`` 目录下。",
-                    "Put additional language data files place under ``tesseract-ocr\\\tessdata``.",
+                    "Put additional language data files under ``tesseract-ocr\\tessdata``.",
                     "额外的语言包请放在 ``tesseract-ocr\\\tessdata`` 目录下。",
                     "gettingstarted.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1594561069488,
+                        "createdTime": 1595997932633,
                         "id": 5
                     }
                 ],

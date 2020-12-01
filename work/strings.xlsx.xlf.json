@@ -1,5 +1,4 @@
 {
-    "filename": "strings.xlsx.xlf",
     "files": [
         {
             "xl\/sharedStrings.xml": [
@@ -4793,6 +4792,18 @@
                         "creator": "xulihang",
                         "createdTime": 1606806231899,
                         "id": "P147242AB-tu405"
+                    }
+                ],
+                [
+                    "西班牙语",
+                    "Spanish",
+                    "西班牙语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1594709444904,
+                        "id": "P147242AB-tu406"
                     }
                 ]
             ]

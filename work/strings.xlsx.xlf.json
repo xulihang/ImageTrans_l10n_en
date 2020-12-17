@@ -1616,6 +1616,28 @@
                     }
                 ],
                 [
+                    "打开最近项目",
+                    "Open recent project",
+                    "打开最近项目",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1608178180486,
+                        "id": "P147242AB-tu137"
+                    }
+                ],
+                [
+                    "清空最近的项目记录",
+                    "Clear recent projects records",
+                    "清空最近的项目记录",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1608178192056,
+                        "id": "P147242AB-tu138"
+                    }
+                ],
+                [
                     "导入图片文件夹",
                     "Import pictures (from a folder)",
                     "导入图片文件夹",
@@ -1624,7 +1646,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594172781871,
-                        "id": "P147242AB-tu137"
+                        "id": "P147242AB-tu139"
                     }
                 ],
                 [
@@ -1636,7 +1658,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1593945213192,
-                        "id": "P147242AB-tu138"
+                        "id": "P147242AB-tu140"
                     }
                 ],
                 [
@@ -1648,7 +1670,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594172811432,
-                        "id": "P147242AB-tu139"
+                        "id": "P147242AB-tu141"
                     }
                 ],
                 [
@@ -1660,7 +1682,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594172822152,
-                        "id": "P147242AB-tu140"
+                        "id": "P147242AB-tu142"
                     }
                 ],
                 [
@@ -1672,7 +1694,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594172841240,
-                        "id": "P147242AB-tu141"
+                        "id": "P147242AB-tu143"
                     }
                 ],
                 [
@@ -1684,7 +1706,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1593945213228,
-                        "id": "P147242AB-tu142"
+                        "id": "P147242AB-tu144"
                     }
                 ],
                 [
@@ -1696,7 +1718,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594172875896,
-                        "id": "P147242AB-tu143"
+                        "id": "P147242AB-tu145"
                     }
                 ],
                 [
@@ -1708,7 +1730,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594172904903,
-                        "id": "P147242AB-tu144"
+                        "id": "P147242AB-tu146"
                     }
                 ],
                 [
@@ -1720,7 +1742,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594172924585,
-                        "id": "P147242AB-tu145"
+                        "id": "P147242AB-tu147"
                     }
                 ],
                 [
@@ -1732,7 +1754,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594709899861,
-                        "id": "P147242AB-tu146"
+                        "id": "P147242AB-tu148"
                     }
                 ],
                 [
@@ -1744,7 +1766,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594172954089,
-                        "id": "P147242AB-tu147"
+                        "id": "P147242AB-tu149"
                     }
                 ],
                 [
@@ -1756,7 +1778,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594172962676,
-                        "id": "P147242AB-tu148"
+                        "id": "P147242AB-tu150"
                     }
                 ],
                 [
@@ -1768,7 +1790,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594193701087,
-                        "id": "P147242AB-tu149"
+                        "id": "P147242AB-tu151"
                     }
                 ],
                 [
@@ -1779,7 +1801,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594193702637,
-                        "id": "P147242AB-tu150"
+                        "id": "P147242AB-tu152"
                     }
                 ],
                 [
@@ -1791,7 +1813,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594172986822,
-                        "id": "P147242AB-tu151"
+                        "id": "P147242AB-tu153"
                     }
                 ],
                 [
@@ -1803,7 +1825,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1593945213321,
-                        "id": "P147242AB-tu152"
+                        "id": "P147242AB-tu154"
                     }
                 ],
                 [
@@ -1815,7 +1837,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1593945213341,
-                        "id": "P147242AB-tu153"
+                        "id": "P147242AB-tu155"
                     }
                 ],
                 [
@@ -1827,7 +1849,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1593945213360,
-                        "id": "P147242AB-tu154"
+                        "id": "P147242AB-tu156"
                     }
                 ],
                 [
@@ -1839,7 +1861,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594173172529,
-                        "id": "P147242AB-tu155"
+                        "id": "P147242AB-tu157"
                     }
                 ],
                 [
@@ -1851,19 +1873,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594173183800,
-                        "id": "P147242AB-tu156"
-                    }
-                ],
-                [
-                    "自动定位文字（自然场景文字检测）",
-                    "Detect text areas (scene text detection)",
-                    "自动定位文字（自然场景文字检测）",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "note": "",
-                        "creator": "xulihang",
-                        "createdTime": 1598763920368,
-                        "id": "P147242AB-tu157"
+                        "id": "P147242AB-tu158"
                     }
                 ],
                 [
@@ -1875,7 +1885,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594175390068,
-                        "id": "P147242AB-tu158"
+                        "id": "P147242AB-tu159"
                     }
                 ],
                 [
@@ -1887,7 +1897,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594562454713,
-                        "id": "P147242AB-tu159"
+                        "id": "P147242AB-tu160"
                     }
                 ],
                 [
@@ -1899,7 +1909,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1607608496399,
-                        "id": "P147242AB-tu160"
+                        "id": "P147242AB-tu161"
                     }
                 ],
                 [
@@ -1911,7 +1921,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1593945213401,
-                        "id": "P147242AB-tu161"
+                        "id": "P147242AB-tu162"
                     }
                 ],
                 [
@@ -1922,7 +1932,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1602306254555,
-                        "id": "P147242AB-tu162"
+                        "id": "P147242AB-tu163"
                     }
                 ],
                 [
@@ -1934,7 +1944,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1593945213421,
-                        "id": "P147242AB-tu163"
+                        "id": "P147242AB-tu164"
                     }
                 ],
                 [
@@ -1946,7 +1956,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594173253192,
-                        "id": "P147242AB-tu164"
+                        "id": "P147242AB-tu165"
                     }
                 ],
                 [
@@ -1958,7 +1968,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594173284289,
-                        "id": "P147242AB-tu165"
+                        "id": "P147242AB-tu166"
                     }
                 ],
                 [
@@ -1970,7 +1980,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594173291073,
-                        "id": "P147242AB-tu166"
+                        "id": "P147242AB-tu167"
                     }
                 ],
                 [
@@ -1982,7 +1992,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594173301423,
-                        "id": "P147242AB-tu167"
+                        "id": "P147242AB-tu168"
                     }
                 ],
                 [
@@ -1994,7 +2004,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594173310311,
-                        "id": "P147242AB-tu168"
+                        "id": "P147242AB-tu169"
                     }
                 ],
                 [
@@ -2006,7 +2016,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594173323521,
-                        "id": "P147242AB-tu169"
+                        "id": "P147242AB-tu170"
                     }
                 ],
                 [
@@ -2018,7 +2028,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594173352241,
-                        "id": "P147242AB-tu170"
+                        "id": "P147242AB-tu171"
                     }
                 ],
                 [
@@ -2030,7 +2040,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1593945213521,
-                        "id": "P147242AB-tu171"
+                        "id": "P147242AB-tu172"
                     }
                 ],
                 [
@@ -2042,7 +2052,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1593945213525,
-                        "id": "P147242AB-tu172"
+                        "id": "P147242AB-tu173"
                     }
                 ],
                 [
@@ -2054,7 +2064,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594173390093,
-                        "id": "P147242AB-tu173"
+                        "id": "P147242AB-tu174"
                     }
                 ],
                 [
@@ -2066,7 +2076,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594173421557,
-                        "id": "P147242AB-tu174"
+                        "id": "P147242AB-tu175"
                     }
                 ],
                 [
@@ -2078,7 +2088,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594173421466,
-                        "id": "P147242AB-tu175"
+                        "id": "P147242AB-tu176"
                     }
                 ],
                 [
@@ -2090,7 +2100,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594173428472,
-                        "id": "P147242AB-tu176"
+                        "id": "P147242AB-tu177"
                     }
                 ],
                 [
@@ -2102,7 +2112,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594173436177,
-                        "id": "P147242AB-tu177"
+                        "id": "P147242AB-tu178"
                     }
                 ],
                 [
@@ -2114,7 +2124,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594173448240,
-                        "id": "P147242AB-tu178"
+                        "id": "P147242AB-tu179"
                     }
                 ],
                 [
@@ -2126,7 +2136,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594173460569,
-                        "id": "P147242AB-tu179"
+                        "id": "P147242AB-tu180"
                     }
                 ],
                 [
@@ -2138,7 +2148,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594173490968,
-                        "id": "P147242AB-tu180"
+                        "id": "P147242AB-tu181"
                     }
                 ],
                 [
@@ -2150,7 +2160,19 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1593945213611,
-                        "id": "P147242AB-tu181"
+                        "id": "P147242AB-tu182"
+                    }
+                ],
+                [
+                    "自动定位文字（自然场景文字检测）",
+                    "Detect text areas (scene text detection)",
+                    "自动定位文字（自然场景文字检测）",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1598763920368,
+                        "id": "P147242AB-tu183"
                     }
                 ],
                 [
@@ -2162,7 +2184,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594173498810,
-                        "id": "P147242AB-tu182"
+                        "id": "P147242AB-tu184"
                     }
                 ],
                 [
@@ -2174,7 +2196,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594173505156,
-                        "id": "P147242AB-tu183"
+                        "id": "P147242AB-tu185"
                     }
                 ],
                 [
@@ -2186,7 +2208,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594173515745,
-                        "id": "P147242AB-tu184"
+                        "id": "P147242AB-tu186"
                     }
                 ],
                 [
@@ -2198,7 +2220,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594173521818,
-                        "id": "P147242AB-tu185"
+                        "id": "P147242AB-tu187"
                     }
                 ],
                 [
@@ -2210,7 +2232,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594173535514,
-                        "id": "P147242AB-tu186"
+                        "id": "P147242AB-tu188"
                     }
                 ],
                 [
@@ -2222,7 +2244,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594173544353,
-                        "id": "P147242AB-tu187"
+                        "id": "P147242AB-tu189"
                     }
                 ],
                 [
@@ -2233,7 +2255,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594193713986,
-                        "id": "P147242AB-tu188"
+                        "id": "P147242AB-tu190"
                     }
                 ],
                 [
@@ -2245,7 +2267,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1593945213690,
-                        "id": "P147242AB-tu189"
+                        "id": "P147242AB-tu191"
                     }
                 ],
                 [
@@ -2257,7 +2279,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594173586640,
-                        "id": "P147242AB-tu190"
+                        "id": "P147242AB-tu192"
                     }
                 ],
                 [
@@ -2269,7 +2291,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1593945213706,
-                        "id": "P147242AB-tu191"
+                        "id": "P147242AB-tu193"
                     }
                 ],
                 [
@@ -2281,7 +2303,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1593945213721,
-                        "id": "P147242AB-tu192"
+                        "id": "P147242AB-tu194"
                     }
                 ],
                 [
@@ -2293,7 +2315,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1593945213726,
-                        "id": "P147242AB-tu193"
+                        "id": "P147242AB-tu195"
                     }
                 ],
                 [
@@ -2305,7 +2327,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594173615449,
-                        "id": "P147242AB-tu194"
+                        "id": "P147242AB-tu196"
                     }
                 ],
                 [
@@ -2317,7 +2339,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594173625082,
-                        "id": "P147242AB-tu195"
+                        "id": "P147242AB-tu197"
                     }
                 ],
                 [
@@ -2329,7 +2351,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1598763974542,
-                        "id": "P147242AB-tu196"
+                        "id": "P147242AB-tu198"
                     }
                 ],
                 [
@@ -2341,7 +2363,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594173636321,
-                        "id": "P147242AB-tu197"
+                        "id": "P147242AB-tu199"
                     }
                 ],
                 [
@@ -2353,7 +2375,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594173656121,
-                        "id": "P147242AB-tu198"
+                        "id": "P147242AB-tu200"
                     }
                 ],
                 [
@@ -2365,7 +2387,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594173673281,
-                        "id": "P147242AB-tu199"
+                        "id": "P147242AB-tu201"
                     }
                 ],
                 [
@@ -2377,7 +2399,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594173692065,
-                        "id": "P147242AB-tu200"
+                        "id": "P147242AB-tu202"
                     }
                 ],
                 [
@@ -2389,7 +2411,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594173702577,
-                        "id": "P147242AB-tu201"
+                        "id": "P147242AB-tu203"
                     }
                 ],
                 [
@@ -2401,7 +2423,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594173712874,
-                        "id": "P147242AB-tu202"
+                        "id": "P147242AB-tu204"
                     }
                 ],
                 [
@@ -2413,7 +2435,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594173720034,
-                        "id": "P147242AB-tu203"
+                        "id": "P147242AB-tu205"
                     }
                 ],
                 [
@@ -2425,7 +2447,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594173733970,
-                        "id": "P147242AB-tu204"
+                        "id": "P147242AB-tu206"
                     }
                 ],
                 [
@@ -2437,7 +2459,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594173776938,
-                        "id": "P147242AB-tu205"
+                        "id": "P147242AB-tu207"
                     }
                 ],
                 [
@@ -2449,7 +2471,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594173814489,
-                        "id": "P147242AB-tu206"
+                        "id": "P147242AB-tu208"
                     }
                 ],
                 [
@@ -2461,7 +2483,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594173880316,
-                        "id": "P147242AB-tu207"
+                        "id": "P147242AB-tu209"
                     }
                 ],
                 [
@@ -2473,7 +2495,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594173885688,
-                        "id": "P147242AB-tu208"
+                        "id": "P147242AB-tu210"
                     }
                 ],
                 [
@@ -2484,7 +2506,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1598763939392,
-                        "id": "P147242AB-tu209"
+                        "id": "P147242AB-tu211"
                     }
                 ],
                 [
@@ -2496,7 +2518,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1592312205000,
-                        "id": "P147242AB-tu210"
+                        "id": "P147242AB-tu212"
                     }
                 ],
                 [
@@ -2508,7 +2530,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1593945213869,
-                        "id": "P147242AB-tu211"
+                        "id": "P147242AB-tu213"
                     }
                 ],
                 [
@@ -2520,7 +2542,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594173922868,
-                        "id": "P147242AB-tu212"
+                        "id": "P147242AB-tu214"
                     }
                 ],
                 [
@@ -2532,7 +2554,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1593945213885,
-                        "id": "P147242AB-tu213"
+                        "id": "P147242AB-tu215"
                     }
                 ],
                 [
@@ -2544,7 +2566,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594173988115,
-                        "id": "P147242AB-tu214"
+                        "id": "P147242AB-tu216"
                     }
                 ],
                 [
@@ -2556,7 +2578,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1593945213921,
-                        "id": "P147242AB-tu215"
+                        "id": "P147242AB-tu217"
                     }
                 ],
                 [
@@ -2568,7 +2590,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1593945213925,
-                        "id": "P147242AB-tu216"
+                        "id": "P147242AB-tu218"
                     }
                 ],
                 [
@@ -2579,7 +2601,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1601726828504,
-                        "id": "P147242AB-tu217"
+                        "id": "P147242AB-tu219"
                     }
                 ],
                 [
@@ -2590,7 +2612,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1607834453536,
-                        "id": "P147242AB-tu218"
+                        "id": "P147242AB-tu220"
                     }
                 ],
                 [
@@ -2602,7 +2624,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1593945213941,
-                        "id": "P147242AB-tu219"
+                        "id": "P147242AB-tu221"
                     }
                 ],
                 [
@@ -2614,7 +2636,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594174028115,
-                        "id": "P147242AB-tu220"
+                        "id": "P147242AB-tu222"
                     }
                 ],
                 [
@@ -2626,7 +2648,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594175602608,
-                        "id": "P147242AB-tu221"
+                        "id": "P147242AB-tu223"
                     }
                 ],
                 [
@@ -2637,7 +2659,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594193769878,
-                        "id": "P147242AB-tu222"
+                        "id": "P147242AB-tu224"
                     }
                 ],
                 [
@@ -2649,7 +2671,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1592313429000,
-                        "id": "P147242AB-tu223"
+                        "id": "P147242AB-tu225"
                     }
                 ],
                 [
@@ -2661,7 +2683,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1592312211000,
-                        "id": "P147242AB-tu224"
+                        "id": "P147242AB-tu226"
                     }
                 ],
                 [
@@ -2672,7 +2694,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1602158937991,
-                        "id": "P147242AB-tu225"
+                        "id": "P147242AB-tu227"
                     }
                 ],
                 [
@@ -2684,7 +2706,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1602306265615,
-                        "id": "P147242AB-tu226"
+                        "id": "P147242AB-tu228"
                     }
                 ],
                 [
@@ -2693,7 +2715,7 @@
                     "%",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu227"
+                        "id": "P147242AB-tu229"
                     }
                 ],
                 [
@@ -2704,7 +2726,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1607608531511,
-                        "id": "P147242AB-tu228"
+                        "id": "P147242AB-tu230"
                     }
                 ],
                 [
@@ -2716,7 +2738,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1592312444000,
-                        "id": "P147242AB-tu229"
+                        "id": "P147242AB-tu231"
                     }
                 ],
                 [
@@ -2728,7 +2750,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1592313976000,
-                        "id": "P147242AB-tu230"
+                        "id": "P147242AB-tu232"
                     }
                 ],
                 [
@@ -2740,7 +2762,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1592313978000,
-                        "id": "P147242AB-tu231"
+                        "id": "P147242AB-tu233"
                     }
                 ],
                 [
@@ -2751,29 +2773,40 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1601361499880,
-                        "id": "P147242AB-tu232"
-                    }
-                ],
-                [
-                    "Text",
-                    "",
-                    "Text",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1602844834290,
-                        "id": "P147242AB-tu233"
-                    }
-                ],
-                [
-                    "Pretranslate",
-                    "",
-                    "Pretranslate",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1602844834290,
                         "id": "P147242AB-tu234"
+                    }
+                ],
+                [
+                    "Text",
+                    "",
+                    "Text",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1602844834290,
+                        "id": "P147242AB-tu235"
+                    }
+                ],
+                [
+                    "选择操作：",
+                    "Select Operation:",
+                    "选择操作：",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1608178197470,
+                        "id": "P147242AB-tu236"
+                    }
+                ],
+                [
+                    "Pretranslate",
+                    "",
+                    "Pretranslate",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1602844834290,
+                        "id": "P147242AB-tu237"
                     }
                 ],
                 [
@@ -2785,7 +2818,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594174052953,
-                        "id": "P147242AB-tu235"
+                        "id": "P147242AB-tu238"
                     }
                 ],
                 [
@@ -2797,7 +2830,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594174055642,
-                        "id": "P147242AB-tu236"
+                        "id": "P147242AB-tu239"
                     }
                 ],
                 [
@@ -2809,7 +2842,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1592312212000,
-                        "id": "P147242AB-tu237"
+                        "id": "P147242AB-tu240"
                     }
                 ],
                 [
@@ -2820,7 +2853,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1602844834291,
-                        "id": "P147242AB-tu238"
+                        "id": "P147242AB-tu241"
                     }
                 ],
                 [
@@ -2832,7 +2865,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1592313497000,
-                        "id": "P147242AB-tu239"
+                        "id": "P147242AB-tu242"
                     }
                 ],
                 [
@@ -2844,7 +2877,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594709559270,
-                        "id": "P147242AB-tu240"
+                        "id": "P147242AB-tu243"
                     }
                 ],
                 [
@@ -2856,7 +2889,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1592313509000,
-                        "id": "P147242AB-tu241"
+                        "id": "P147242AB-tu244"
                     }
                 ],
                 [
@@ -2868,7 +2901,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1592313522000,
-                        "id": "P147242AB-tu242"
+                        "id": "P147242AB-tu245"
                     }
                 ],
                 [
@@ -2880,7 +2913,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1592313528000,
-                        "id": "P147242AB-tu243"
+                        "id": "P147242AB-tu246"
                     }
                 ],
                 [
@@ -2891,7 +2924,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594193722638,
-                        "id": "P147242AB-tu244"
+                        "id": "P147242AB-tu247"
                     }
                 ],
                 [
@@ -2903,7 +2936,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1592313543000,
-                        "id": "P147242AB-tu245"
+                        "id": "P147242AB-tu248"
                     }
                 ],
                 [
@@ -2914,7 +2947,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1601726836391,
-                        "id": "P147242AB-tu246"
+                        "id": "P147242AB-tu249"
                     }
                 ],
                 [
@@ -2925,7 +2958,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1601726850170,
-                        "id": "P147242AB-tu247"
+                        "id": "P147242AB-tu250"
                     }
                 ],
                 [
@@ -2936,7 +2969,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1601726864163,
-                        "id": "P147242AB-tu248"
+                        "id": "P147242AB-tu251"
                     }
                 ],
                 [
@@ -2947,7 +2980,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1601726864163,
-                        "id": "P147242AB-tu249"
+                        "id": "P147242AB-tu252"
                     }
                 ],
                 [
@@ -2958,7 +2991,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1601726919974,
-                        "id": "P147242AB-tu250"
+                        "id": "P147242AB-tu253"
                     }
                 ],
                 [
@@ -2970,7 +3003,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1601726886846,
-                        "id": "P147242AB-tu251"
+                        "id": "P147242AB-tu254"
                     }
                 ],
                 [
@@ -2981,7 +3014,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1601726892113,
-                        "id": "P147242AB-tu252"
+                        "id": "P147242AB-tu255"
                     }
                 ],
                 [
@@ -2992,7 +3025,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1601726907638,
-                        "id": "P147242AB-tu253"
+                        "id": "P147242AB-tu256"
                     }
                 ],
                 [
@@ -3003,7 +3036,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1601726913454,
-                        "id": "P147242AB-tu254"
+                        "id": "P147242AB-tu257"
                     }
                 ],
                 [
@@ -3014,7 +3047,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1606806200258,
-                        "id": "P147242AB-tu255"
+                        "id": "P147242AB-tu258"
                     }
                 ],
                 [
@@ -3026,7 +3059,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1592312213000,
-                        "id": "P147242AB-tu256"
+                        "id": "P147242AB-tu259"
                     }
                 ],
                 [
@@ -3038,7 +3071,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1592312213000,
-                        "id": "P147242AB-tu257"
+                        "id": "P147242AB-tu260"
                     }
                 ],
                 [
@@ -3050,7 +3083,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1592312213000,
-                        "id": "P147242AB-tu258"
+                        "id": "P147242AB-tu261"
                     }
                 ],
                 [
@@ -3062,7 +3095,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594174106930,
-                        "id": "P147242AB-tu259"
+                        "id": "P147242AB-tu262"
                     }
                 ],
                 [
@@ -3074,7 +3107,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594174114257,
-                        "id": "P147242AB-tu260"
+                        "id": "P147242AB-tu263"
                     }
                 ],
                 [
@@ -3086,7 +3119,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1592312213000,
-                        "id": "P147242AB-tu261"
+                        "id": "P147242AB-tu264"
                     }
                 ],
                 [
@@ -3098,7 +3131,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1592313559000,
-                        "id": "P147242AB-tu262"
+                        "id": "P147242AB-tu265"
                     }
                 ],
                 [
@@ -3110,7 +3143,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1592313563000,
-                        "id": "P147242AB-tu263"
+                        "id": "P147242AB-tu266"
                     }
                 ],
                 [
@@ -3121,7 +3154,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1601726982958,
-                        "id": "P147242AB-tu264"
+                        "id": "P147242AB-tu267"
                     }
                 ],
                 [
@@ -3132,7 +3165,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1601726985054,
-                        "id": "P147242AB-tu265"
+                        "id": "P147242AB-tu268"
                     }
                 ],
                 [
@@ -3143,7 +3176,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1601727004686,
-                        "id": "P147242AB-tu266"
+                        "id": "P147242AB-tu269"
                     }
                 ],
                 [
@@ -3154,7 +3187,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1601727007370,
-                        "id": "P147242AB-tu267"
+                        "id": "P147242AB-tu270"
                     }
                 ],
                 [
@@ -3166,7 +3199,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1592312206000,
-                        "id": "P147242AB-tu268"
+                        "id": "P147242AB-tu271"
                     }
                 ],
                 [
@@ -3177,7 +3210,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1607834437874,
-                        "id": "P147242AB-tu269"
+                        "id": "P147242AB-tu272"
                     }
                 ],
                 [
@@ -3188,7 +3221,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1607834409021,
-                        "id": "P147242AB-tu270"
+                        "id": "P147242AB-tu273"
                     }
                 ],
                 [
@@ -3199,7 +3232,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1607834413189,
-                        "id": "P147242AB-tu271"
+                        "id": "P147242AB-tu274"
                     }
                 ],
                 [
@@ -3210,7 +3243,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1607834419150,
-                        "id": "P147242AB-tu272"
+                        "id": "P147242AB-tu275"
                     }
                 ],
                 [
@@ -3221,7 +3254,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1607834430421,
-                        "id": "P147242AB-tu273"
+                        "id": "P147242AB-tu276"
                     }
                 ],
                 [
@@ -3233,7 +3266,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1592313598000,
-                        "id": "P147242AB-tu274"
+                        "id": "P147242AB-tu277"
                     }
                 ],
                 [
@@ -3244,7 +3277,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594195439564,
-                        "id": "P147242AB-tu275"
+                        "id": "P147242AB-tu278"
                     }
                 ],
                 [
@@ -3255,7 +3288,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594195440988,
-                        "id": "P147242AB-tu276"
+                        "id": "P147242AB-tu279"
                     }
                 ],
                 [
@@ -3267,7 +3300,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1592313649000,
-                        "id": "P147242AB-tu277"
+                        "id": "P147242AB-tu280"
                     }
                 ],
                 [
@@ -3279,7 +3312,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594559417834,
-                        "id": "P147242AB-tu278"
+                        "id": "P147242AB-tu281"
                     }
                 ],
                 [
@@ -3291,7 +3324,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1592313683000,
-                        "id": "P147242AB-tu279"
+                        "id": "P147242AB-tu282"
                     }
                 ],
                 [
@@ -3302,7 +3335,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594193889117,
-                        "id": "P147242AB-tu280"
+                        "id": "P147242AB-tu283"
                     }
                 ],
                 [
@@ -3314,7 +3347,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1592313696000,
-                        "id": "P147242AB-tu281"
+                        "id": "P147242AB-tu284"
                     }
                 ],
                 [
@@ -3326,7 +3359,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1592313702000,
-                        "id": "P147242AB-tu282"
+                        "id": "P147242AB-tu285"
                     }
                 ],
                 [
@@ -3338,7 +3371,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1592313744000,
-                        "id": "P147242AB-tu283"
+                        "id": "P147242AB-tu286"
                     }
                 ],
                 [
@@ -3350,7 +3383,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1592312214000,
-                        "id": "P147242AB-tu284"
+                        "id": "P147242AB-tu287"
                     }
                 ],
                 [
@@ -3362,7 +3395,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1592312214000,
-                        "id": "P147242AB-tu285"
+                        "id": "P147242AB-tu288"
                     }
                 ],
                 [
@@ -3374,7 +3407,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1592313797000,
-                        "id": "P147242AB-tu286"
+                        "id": "P147242AB-tu289"
                     }
                 ],
                 [
@@ -3386,7 +3419,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1592313802000,
-                        "id": "P147242AB-tu287"
+                        "id": "P147242AB-tu290"
                     }
                 ],
                 [
@@ -3398,7 +3431,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1592313809000,
-                        "id": "P147242AB-tu288"
+                        "id": "P147242AB-tu291"
                     }
                 ],
                 [
@@ -3410,7 +3443,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1592313819000,
-                        "id": "P147242AB-tu289"
+                        "id": "P147242AB-tu292"
                     }
                 ],
                 [
@@ -3422,7 +3455,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1592313819000,
-                        "id": "P147242AB-tu290"
+                        "id": "P147242AB-tu293"
                     }
                 ],
                 [
@@ -3434,7 +3467,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1592313844000,
-                        "id": "P147242AB-tu291"
+                        "id": "P147242AB-tu294"
                     }
                 ],
                 [
@@ -3445,7 +3478,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1601727030919,
-                        "id": "P147242AB-tu292"
+                        "id": "P147242AB-tu295"
                     }
                 ],
                 [
@@ -3456,7 +3489,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1601727032954,
-                        "id": "P147242AB-tu293"
+                        "id": "P147242AB-tu296"
                     }
                 ],
                 [
@@ -3467,7 +3500,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1602306275801,
-                        "id": "P147242AB-tu294"
+                        "id": "P147242AB-tu297"
                     }
                 ],
                 [
@@ -3479,7 +3512,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1602306282877,
-                        "id": "P147242AB-tu295"
+                        "id": "P147242AB-tu298"
                     }
                 ],
                 [
@@ -3490,7 +3523,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594195435936,
-                        "id": "P147242AB-tu296"
+                        "id": "P147242AB-tu299"
                     }
                 ],
                 [
@@ -3501,7 +3534,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594195442811,
-                        "id": "P147242AB-tu297"
+                        "id": "P147242AB-tu300"
                     }
                 ],
                 [
@@ -3510,7 +3543,7 @@
                     "",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu298"
+                        "id": "P147242AB-tu301"
                     }
                 ],
                 [
@@ -3521,7 +3554,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1601727078111,
-                        "id": "P147242AB-tu299"
+                        "id": "P147242AB-tu302"
                     }
                 ],
                 [
@@ -3530,7 +3563,7 @@
                     "",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu300"
+                        "id": "P147242AB-tu303"
                     }
                 ],
                 [
@@ -3541,7 +3574,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1601727080231,
-                        "id": "P147242AB-tu301"
+                        "id": "P147242AB-tu304"
                     }
                 ],
                 [
@@ -3550,7 +3583,7 @@
                     "",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu302"
+                        "id": "P147242AB-tu305"
                     }
                 ],
                 [
@@ -3561,7 +3594,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1601727082873,
-                        "id": "P147242AB-tu303"
+                        "id": "P147242AB-tu306"
                     }
                 ],
                 [
@@ -3570,7 +3603,7 @@
                     "",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu304"
+                        "id": "P147242AB-tu307"
                     }
                 ],
                 [
@@ -3581,7 +3614,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1601727151967,
-                        "id": "P147242AB-tu305"
+                        "id": "P147242AB-tu308"
                     }
                 ],
                 [
@@ -3590,7 +3623,7 @@
                     "",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu306"
+                        "id": "P147242AB-tu309"
                     }
                 ],
                 [
@@ -3601,7 +3634,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1601811024968,
-                        "id": "P147242AB-tu307"
+                        "id": "P147242AB-tu310"
                     }
                 ],
                 [
@@ -3612,7 +3645,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594193731656,
-                        "id": "P147242AB-tu308"
+                        "id": "P147242AB-tu311"
                     }
                 ],
                 [
@@ -3624,7 +3657,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1592313847000,
-                        "id": "P147242AB-tu309"
+                        "id": "P147242AB-tu312"
                     }
                 ],
                 [
@@ -3636,7 +3669,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1592312216000,
-                        "id": "P147242AB-tu310"
+                        "id": "P147242AB-tu313"
                     }
                 ],
                 [
@@ -3648,7 +3681,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1592312216000,
-                        "id": "P147242AB-tu311"
+                        "id": "P147242AB-tu314"
                     }
                 ],
                 [
@@ -3659,7 +3692,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1592312216000,
-                        "id": "P147242AB-tu312"
+                        "id": "P147242AB-tu315"
                     }
                 ],
                 [
@@ -3670,7 +3703,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594709572247,
-                        "id": "P147242AB-tu313"
+                        "id": "P147242AB-tu316"
                     }
                 ],
                 [
@@ -3681,7 +3714,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1601811032022,
-                        "id": "P147242AB-tu314"
+                        "id": "P147242AB-tu317"
                     }
                 ],
                 [
@@ -3692,7 +3725,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1601811034679,
-                        "id": "P147242AB-tu315"
+                        "id": "P147242AB-tu318"
                     }
                 ],
                 [
@@ -3703,7 +3736,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1601811044350,
-                        "id": "P147242AB-tu316"
+                        "id": "P147242AB-tu319"
                     }
                 ],
                 [
@@ -3715,7 +3748,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1592312216000,
-                        "id": "P147242AB-tu317"
+                        "id": "P147242AB-tu320"
                     }
                 ],
                 [
@@ -3726,7 +3759,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1607750792366,
-                        "id": "P147242AB-tu318"
+                        "id": "P147242AB-tu321"
                     }
                 ],
                 [
@@ -3737,7 +3770,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594193738086,
-                        "id": "P147242AB-tu319"
+                        "id": "P147242AB-tu322"
                     }
                 ],
                 [
@@ -3749,7 +3782,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1592313874000,
-                        "id": "P147242AB-tu320"
+                        "id": "P147242AB-tu323"
                     }
                 ],
                 [
@@ -3761,7 +3794,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1592312216000,
-                        "id": "P147242AB-tu321"
+                        "id": "P147242AB-tu324"
                     }
                 ],
                 [
@@ -3773,7 +3806,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1592313904000,
-                        "id": "P147242AB-tu322"
+                        "id": "P147242AB-tu325"
                     }
                 ],
                 [
@@ -3784,7 +3817,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1602844877975,
-                        "id": "P147242AB-tu323"
+                        "id": "P147242AB-tu326"
                     }
                 ],
                 [
@@ -3796,7 +3829,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1593945241574,
-                        "id": "P147242AB-tu324"
+                        "id": "P147242AB-tu327"
                     }
                 ],
                 [
@@ -3808,7 +3841,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1593945247494,
-                        "id": "P147242AB-tu325"
+                        "id": "P147242AB-tu328"
                     }
                 ],
                 [
@@ -3820,7 +3853,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1593945247606,
-                        "id": "P147242AB-tu326"
+                        "id": "P147242AB-tu329"
                     }
                 ],
                 [
@@ -3832,7 +3865,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594174218889,
-                        "id": "P147242AB-tu327"
+                        "id": "P147242AB-tu330"
                     }
                 ],
                 [
@@ -3844,7 +3877,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1593945247867,
-                        "id": "P147242AB-tu328"
+                        "id": "P147242AB-tu331"
                     }
                 ],
                 [
@@ -3856,7 +3889,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1593945248024,
-                        "id": "P147242AB-tu329"
+                        "id": "P147242AB-tu332"
                     }
                 ],
                 [
@@ -3868,7 +3901,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594174383795,
-                        "id": "P147242AB-tu330"
+                        "id": "P147242AB-tu333"
                     }
                 ],
                 [
@@ -3880,7 +3913,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594174389578,
-                        "id": "P147242AB-tu331"
+                        "id": "P147242AB-tu334"
                     }
                 ],
                 [
@@ -3892,7 +3925,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594174392442,
-                        "id": "P147242AB-tu332"
+                        "id": "P147242AB-tu335"
                     }
                 ],
                 [
@@ -3904,7 +3937,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594174409922,
-                        "id": "P147242AB-tu333"
+                        "id": "P147242AB-tu336"
                     }
                 ],
                 [
@@ -3915,7 +3948,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1598847475373,
-                        "id": "P147242AB-tu334"
+                        "id": "P147242AB-tu337"
                     }
                 ],
                 [
@@ -3926,7 +3959,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1598847491020,
-                        "id": "P147242AB-tu334"
+                        "id": "P147242AB-tu337"
                     }
                 ],
                 [
@@ -3938,7 +3971,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594174427193,
-                        "id": "P147242AB-tu335"
+                        "id": "P147242AB-tu338"
                     }
                 ],
                 [
@@ -3950,7 +3983,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594174473593,
-                        "id": "P147242AB-tu336"
+                        "id": "P147242AB-tu339"
                     }
                 ],
                 [
@@ -3962,7 +3995,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594174488119,
-                        "id": "P147242AB-tu337"
+                        "id": "P147242AB-tu340"
                     }
                 ],
                 [
@@ -3974,7 +4007,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594174499569,
-                        "id": "P147242AB-tu338"
+                        "id": "P147242AB-tu341"
                     }
                 ],
                 [
@@ -3986,7 +4019,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594174506836,
-                        "id": "P147242AB-tu339"
+                        "id": "P147242AB-tu342"
                     }
                 ],
                 [
@@ -3998,7 +4031,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594174514545,
-                        "id": "P147242AB-tu340"
+                        "id": "P147242AB-tu343"
                     }
                 ],
                 [
@@ -4009,7 +4042,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1606020920739,
-                        "id": "P147242AB-tu341"
+                        "id": "P147242AB-tu344"
                     }
                 ],
                 [
@@ -4021,7 +4054,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594174555714,
-                        "id": "P147242AB-tu342"
+                        "id": "P147242AB-tu345"
                     }
                 ],
                 [
@@ -4033,7 +4066,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594174582889,
-                        "id": "P147242AB-tu342"
+                        "id": "P147242AB-tu345"
                     }
                 ],
                 [
@@ -4045,7 +4078,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1593945249932,
-                        "id": "P147242AB-tu343"
+                        "id": "P147242AB-tu346"
                     }
                 ],
                 [
@@ -4057,7 +4090,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594174598369,
-                        "id": "P147242AB-tu344"
+                        "id": "P147242AB-tu347"
                     }
                 ],
                 [
@@ -4068,7 +4101,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1602844930373,
-                        "id": "P147242AB-tu345"
+                        "id": "P147242AB-tu348"
                     }
                 ],
                 [
@@ -4080,7 +4113,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594174657633,
-                        "id": "P147242AB-tu346"
+                        "id": "P147242AB-tu349"
                     }
                 ],
                 [
@@ -4092,7 +4125,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594174733547,
-                        "id": "P147242AB-tu347"
+                        "id": "P147242AB-tu350"
                     }
                 ],
                 [
@@ -4103,7 +4136,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1602844888621,
-                        "id": "P147242AB-tu348"
+                        "id": "P147242AB-tu351"
                     }
                 ],
                 [
@@ -4115,7 +4148,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1606020949977,
-                        "id": "P147242AB-tu349"
+                        "id": "P147242AB-tu352"
                     }
                 ],
                 [
@@ -4126,7 +4159,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1606020954667,
-                        "id": "P147242AB-tu350"
+                        "id": "P147242AB-tu353"
                     }
                 ],
                 [
@@ -4137,7 +4170,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1606020968860,
-                        "id": "P147242AB-tu351"
+                        "id": "P147242AB-tu354"
                     }
                 ],
                 [
@@ -4148,7 +4181,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1602844894716,
-                        "id": "P147242AB-tu352"
+                        "id": "P147242AB-tu355"
                     }
                 ],
                 [
@@ -4160,7 +4193,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594174767827,
-                        "id": "P147242AB-tu353"
+                        "id": "P147242AB-tu356"
                     }
                 ],
                 [
@@ -4172,7 +4205,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594174774050,
-                        "id": "P147242AB-tu354"
+                        "id": "P147242AB-tu357"
                     }
                 ],
                 [
@@ -4184,7 +4217,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594174805395,
-                        "id": "P147242AB-tu355"
+                        "id": "P147242AB-tu358"
                     }
                 ],
                 [
@@ -4195,7 +4228,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1598847514332,
-                        "id": "P147242AB-tu356"
+                        "id": "P147242AB-tu359"
                     }
                 ],
                 [
@@ -4204,7 +4237,7 @@
                     "OCR",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu357"
+                        "id": "P147242AB-tu360"
                     }
                 ],
                 [
@@ -4215,1455 +4248,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1598847523867,
-                        "id": "P147242AB-tu358"
-                    }
-                ],
-                [
-                    "请先关闭打开的项目",
-                    "Please close the current project first",
-                    "请先关闭打开的项目",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "note": "",
-                        "creator": "xulihang",
-                        "createdTime": 1594174842091,
-                        "id": "P147242AB-tu359"
-                    }
-                ],
-                [
-                    "反转文字置信度",
-                    "Invert text confidence",
-                    "反转文字置信度",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1594195456629,
-                        "id": "P147242AB-tu360"
-                    }
-                ],
-                [
-                    "修改掩膜与无文字图",
-                    "Modify mask and text-removed pictures",
-                    "修改掩膜与无文字图",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "note": "",
-                        "creator": "xulihang",
-                        "createdTime": 1601727191542,
                         "id": "P147242AB-tu361"
-                    }
-                ],
-                [
-                    "创建副本",
-                    "Duplicate",
-                    "创建副本",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1602158953288,
-                        "id": "P147242AB-tu362"
-                    }
-                ],
-                [
-                    "当前文字区域",
-                    "Current text area",
-                    "当前文字区域",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1606020974037,
-                        "id": "P147242AB-tu363"
-                    }
-                ],
-                [
-                    "项目未保存，是否保存项目？",
-                    "The project is not saved, do you want to save the project?",
-                    "项目未保存，是否保存项目？",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "note": "",
-                        "creator": "xulihang",
-                        "createdTime": 1593945253739,
-                        "id": "P147242AB-tu364"
-                    }
-                ],
-                [
-                    "不保存退出",
-                    "Don't save, exit",
-                    "不保存退出",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "note": "",
-                        "creator": "xulihang",
-                        "createdTime": 1594174856626,
-                        "id": "P147242AB-tu365"
-                    }
-                ],
-                [
-                    "请在图像上取色",
-                    "Please pick color on the image",
-                    "请在图像上取色",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "note": "",
-                        "creator": "xulihang",
-                        "createdTime": 1594174911771,
-                        "id": "P147242AB-tu366"
-                    }
-                ],
-                [
-                    "确认清空吗？",
-                    "Are you sure you want to clear all areas?",
-                    "确认清空吗？",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "note": "",
-                        "creator": "xulihang",
-                        "createdTime": 1594174941283,
-                        "id": "P147242AB-tu367"
-                    }
-                ],
-                [
-                    "提醒",
-                    "Note",
-                    "提醒",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "note": "",
-                        "creator": "xulihang",
-                        "createdTime": 1594174950405,
-                        "id": "P147242AB-tu368"
-                    }
-                ],
-                [
-                    "导出中……",
-                    "Exporting...",
-                    "导出中……",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "note": "",
-                        "creator": "xulihang",
-                        "createdTime": 1598847510142,
-                        "id": "P147242AB-tu369"
-                    }
-                ],
-                [
-                    "请先预览",
-                    "Please preview first",
-                    "请先预览",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "note": "",
-                        "creator": "xulihang",
-                        "createdTime": 1594175035123,
-                        "id": "P147242AB-tu370"
-                    }
-                ],
-                [
-                    "请先生成文字掩膜",
-                    "Please generate mask first",
-                    "请先生成文字掩膜",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "note": "",
-                        "creator": "xulihang",
-                        "createdTime": 1594175042827,
-                        "id": "P147242AB-tu371"
-                    }
-                ],
-                [
-                    "确认删除吗？",
-                    "Are you sure you want to delete it?",
-                    "确认删除吗？",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "note": "",
-                        "creator": "xulihang",
-                        "createdTime": 1602158974902,
-                        "id": "P147242AB-tu372"
-                    }
-                ],
-                [
-                    "左对齐",
-                    "Left",
-                    "左对齐",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "note": "",
-                        "creator": "xulihang",
-                        "createdTime": 1594175122736,
-                        "id": "P147242AB-tu373"
-                    }
-                ],
-                [
-                    "水平居中",
-                    "Center (horizontal)",
-                    "水平居中",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1607750818485,
-                        "id": "P147242AB-tu374"
-                    }
-                ],
-                [
-                    "右对齐",
-                    "Right",
-                    "右对齐",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "note": "",
-                        "creator": "xulihang",
-                        "createdTime": 1594175127677,
-                        "id": "P147242AB-tu375"
-                    }
-                ],
-                [
-                    "上对齐",
-                    "Top",
-                    "上对齐",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1607750825619,
-                        "id": "P147242AB-tu376"
-                    }
-                ],
-                [
-                    "垂直居中",
-                    "Center (vertical)",
-                    "垂直居中",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "note": "",
-                        "creator": "xulihang",
-                        "createdTime": 1607750859079,
-                        "id": "P147242AB-tu377"
-                    }
-                ],
-                [
-                    "下对齐",
-                    "Bottom",
-                    "下对齐",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1607750869609,
-                        "id": "P147242AB-tu378"
-                    }
-                ],
-                [
-                    "泰语",
-                    "Thai",
-                    "泰语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1607062665270,
-                        "id": "P147242AB-tu379"
-                    }
-                ],
-                [
-                    "拉丁语系",
-                    "Latin",
-                    "拉丁语系",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1607062668394,
-                        "id": "P147242AB-tu380"
-                    }
-                ],
-                [
-                    "简体中文_竖",
-                    "Chinese Simplified Vertical",
-                    "简体中文_竖",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "note": "",
-                        "creator": "xulihang",
-                        "createdTime": 1594216551670,
-                        "id": "P147242AB-tu381"
-                    }
-                ],
-                [
-                    "日语_竖",
-                    "Japanese Vertical",
-                    "日语_竖",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "note": "",
-                        "creator": "xulihang",
-                        "createdTime": 1594216571481,
-                        "id": "P147242AB-tu382"
-                    }
-                ],
-                [
-                    "藏语",
-                    "Tibetan",
-                    "藏语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "note": "",
-                        "creator": "xulihang",
-                        "createdTime": 1594216577245,
-                        "id": "P147242AB-tu383"
-                    }
-                ],
-                [
-                    "古汉语",
-                    "Ancient Chinese",
-                    "古汉语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1606806227862,
-                        "id": "P147242AB-tu384"
-                    }
-                ],
-                [
-                    "请选择语言对",
-                    "Please select a language pair",
-                    "请选择语言对",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "note": "",
-                        "creator": "xulihang",
-                        "createdTime": 1593945255359,
-                        "id": "P147242AB-tu385"
-                    }
-                ],
-                [
-                    "内建二值化方法",
-                    "Built-in binarization method",
-                    "内建二值化方法",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1607608541071,
-                        "id": "P147242AB-tu386"
-                    }
-                ],
-                [
-                    "中文",
-                    "Chinese",
-                    "中文",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1606806231899,
-                        "id": "P147242AB-tu387"
-                    }
-                ],
-                [
-                    "英语",
-                    "English",
-                    "英语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "note": "",
-                        "creator": "xulihang",
-                        "createdTime": 1594216528925,
-                        "id": "P147242AB-tu388"
-                    }
-                ],
-                [
-                    "日语",
-                    "Japanese",
-                    "日语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "note": "",
-                        "creator": "xulihang",
-                        "createdTime": 1594216563046,
-                        "id": "P147242AB-tu389"
-                    }
-                ],
-                [
-                    "韩语",
-                    "Korean",
-                    "韩语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "note": "",
-                        "creator": "xulihang",
-                        "createdTime": 1594216574552,
-                        "id": "P147242AB-tu390"
-                    }
-                ],
-                [
-                    "法语",
-                    "French",
-                    "法语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1594709440836,
-                        "id": "P147242AB-tu391"
-                    }
-                ],
-                [
-                    "西班牙语",
-                    "Spanish",
-                    "西班牙语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "note": "",
-                        "creator": "xulihang",
-                        "createdTime": 1594709444904,
-                        "id": "P147242AB-tu392"
-                    }
-                ],
-                [
-                    "葡萄牙语",
-                    "Portuguese",
-                    "葡萄牙语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1594709446322,
-                        "id": "P147242AB-tu393"
-                    }
-                ],
-                [
-                    "德语",
-                    "German",
-                    "德语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1594709453657,
-                        "id": "P147242AB-tu394"
-                    }
-                ],
-                [
-                    "意大利语",
-                    "Italian",
-                    "意大利语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1594709450558,
-                        "id": "P147242AB-tu395"
-                    }
-                ],
-                [
-                    "俄语",
-                    "Russian",
-                    "俄语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1594709448888,
-                        "id": "P147242AB-tu396"
-                    }
-                ],
-                [
-                    "丹麦语",
-                    "Danish",
-                    "丹麦语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1606806211111,
-                        "id": "P147242AB-tu397"
-                    }
-                ],
-                [
-                    "荷兰语",
-                    "Dutch",
-                    "荷兰语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "note": "",
-                        "creator": "xulihang",
-                        "createdTime": 1606806221422,
-                        "id": "P147242AB-tu398"
-                    }
-                ],
-                [
-                    "马来语",
-                    "Malay",
-                    "马来语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1607005497359,
-                        "id": "P147242AB-tu399"
-                    }
-                ],
-                [
-                    "瑞典语",
-                    "Swedish",
-                    "瑞典语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1606806216592,
-                        "id": "P147242AB-tu400"
-                    }
-                ],
-                [
-                    "印尼语",
-                    "Indonesian",
-                    "印尼语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1607005498912,
-                        "id": "P147242AB-tu401"
-                    }
-                ],
-                [
-                    "波兰语",
-                    "Polish",
-                    "波兰语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "note": "",
-                        "creator": "xulihang",
-                        "createdTime": 1606806223568,
-                        "id": "P147242AB-tu402"
-                    }
-                ],
-                [
-                    "罗马尼亚语",
-                    "Romanian",
-                    "罗马尼亚语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1607005508590,
-                        "id": "P147242AB-tu403"
-                    }
-                ],
-                [
-                    "土耳其语",
-                    "Turkish",
-                    "土耳其语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1607005510385,
-                        "id": "P147242AB-tu404"
-                    }
-                ],
-                [
-                    "希腊语",
-                    "Greek",
-                    "希腊语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1606806209473,
-                        "id": "P147242AB-tu405"
-                    }
-                ],
-                [
-                    "匈牙利语",
-                    "Hungarian",
-                    "匈牙利语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1607005516052,
-                        "id": "P147242AB-tu406"
-                    }
-                ],
-                [
-                    "自动检测",
-                    "Auto detect",
-                    "自动检测",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1594709462872,
-                        "id": "P147242AB-tu407"
-                    }
-                ],
-                [
-                    "繁体中文",
-                    "Chinese Traditional",
-                    "繁体中文",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "note": "",
-                        "creator": "xulihang",
-                        "createdTime": 1594216558977,
-                        "id": "P147242AB-tu408"
-                    }
-                ],
-                [
-                    "南非荷兰语",
-                    "Afrikaans",
-                    "南非荷兰语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1607005575669,
-                        "id": "P147242AB-tu409"
-                    }
-                ],
-                [
-                    "阿塞拜疆语",
-                    "Azerbaijani",
-                    "阿塞拜疆语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1607005578516,
-                        "id": "P147242AB-tu410"
-                    }
-                ],
-                [
-                    "白俄罗斯语",
-                    "Belarusian",
-                    "白俄罗斯语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1607005590894,
-                        "id": "P147242AB-tu411"
-                    }
-                ],
-                [
-                    "保加利亚语",
-                    "Bulgarian",
-                    "保加利亚语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1607005593045,
-                        "id": "P147242AB-tu412"
-                    }
-                ],
-                [
-                    "波斯尼亚语（拉丁文）",
-                    "Bosnian (Latin)",
-                    "波斯尼亚语（拉丁文）",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1607005595123,
-                        "id": "P147242AB-tu413"
-                    }
-                ],
-                [
-                    "加泰罗尼亚语",
-                    "Catalan",
-                    "加泰罗尼亚语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1606806215426,
-                        "id": "P147242AB-tu414"
-                    }
-                ],
-                [
-                    "宿务语",
-                    "Cebu",
-                    "宿务语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1607005614413,
-                        "id": "P147242AB-tu415"
-                    }
-                ],
-                [
-                    "科西嘉语",
-                    "Corsican",
-                    "科西嘉语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1607005619367,
-                        "id": "P147242AB-tu416"
-                    }
-                ],
-                [
-                    "捷克语",
-                    "Czech",
-                    "捷克语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1606806213719,
-                        "id": "P147242AB-tu417"
-                    }
-                ],
-                [
-                    "威尔士语",
-                    "Welsh",
-                    "威尔士语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1607005628956,
-                        "id": "P147242AB-tu418"
-                    }
-                ],
-                [
-                    "世界语",
-                    "Esperanto",
-                    "世界语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1607005631445,
-                        "id": "P147242AB-tu419"
-                    }
-                ],
-                [
-                    "爱沙尼亚语",
-                    "Estonian",
-                    "爱沙尼亚语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1607005635397,
-                        "id": "P147242AB-tu420"
-                    }
-                ],
-                [
-                    "巴斯克语",
-                    "Basque",
-                    "巴斯克语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1607005638111,
-                        "id": "P147242AB-tu421"
-                    }
-                ],
-                [
-                    "芬兰语",
-                    "Finnish",
-                    "芬兰语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1606806207783,
-                        "id": "P147242AB-tu422"
-                    }
-                ],
-                [
-                    "弗里斯兰语",
-                    "Frisian",
-                    "弗里斯兰语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1607005641467,
-                        "id": "P147242AB-tu423"
-                    }
-                ],
-                [
-                    "爱尔兰语",
-                    "Irish",
-                    "爱尔兰语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1607005651781,
-                        "id": "P147242AB-tu424"
-                    }
-                ],
-                [
-                    "苏格兰盖尔语",
-                    "Scottish Gaelic",
-                    "苏格兰盖尔语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1607005654015,
-                        "id": "P147242AB-tu425"
-                    }
-                ],
-                [
-                    "加利西亚语",
-                    "Galician",
-                    "加利西亚语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1607005656333,
-                        "id": "P147242AB-tu426"
-                    }
-                ],
-                [
-                    "豪萨语",
-                    "Hausa",
-                    "豪萨语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1607005658834,
-                        "id": "P147242AB-tu427"
-                    }
-                ],
-                [
-                    "夏威夷语",
-                    "Hawaiian",
-                    "夏威夷语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1607005660706,
-                        "id": "P147242AB-tu428"
-                    }
-                ],
-                [
-                    "印地语",
-                    "Hindi",
-                    "印地语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1607005662648,
-                        "id": "P147242AB-tu429"
-                    }
-                ],
-                [
-                    "苗族语",
-                    "Miao",
-                    "苗族语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1607005669014,
-                        "id": "P147242AB-tu430"
-                    }
-                ],
-                [
-                    "克罗地亚语",
-                    "Croatian",
-                    "克罗地亚语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1607005670603,
-                        "id": "P147242AB-tu431"
-                    }
-                ],
-                [
-                    "海地语",
-                    "Haitian",
-                    "海地语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1607005674594,
-                        "id": "P147242AB-tu432"
-                    }
-                ],
-                [
-                    "印度尼西亚语",
-                    "Indonesian",
-                    "印度尼西亚语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "note": "",
-                        "creator": "xulihang",
-                        "createdTime": 1607005498912,
-                        "id": "P147242AB-tu433"
-                    }
-                ],
-                [
-                    "伊博语",
-                    "Igbo",
-                    "伊博语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1607005690470,
-                        "id": "P147242AB-tu434"
-                    }
-                ],
-                [
-                    "冰岛语",
-                    "Icelandic",
-                    "冰岛语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1607005694755,
-                        "id": "P147242AB-tu435"
-                    }
-                ],
-                [
-                    "印尼爪哇语",
-                    "Indonesian Javanese",
-                    "印尼爪哇语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1607005700647,
-                        "id": "P147242AB-tu436"
-                    }
-                ],
-                [
-                    "库尔德语",
-                    "Kurdish",
-                    "库尔德语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1607005703983,
-                        "id": "P147242AB-tu437"
-                    }
-                ],
-                [
-                    "拉丁语",
-                    "Latin",
-                    "拉丁语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1607005706362,
-                        "id": "P147242AB-tu438"
-                    }
-                ],
-                [
-                    "卢森堡语",
-                    "Luxembourg",
-                    "卢森堡语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1607005708653,
-                        "id": "P147242AB-tu439"
-                    }
-                ],
-                [
-                    "立陶宛语",
-                    "Lithuanian",
-                    "立陶宛语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1607005710719,
-                        "id": "P147242AB-tu440"
-                    }
-                ],
-                [
-                    "拉脱维亚语",
-                    "Latvian",
-                    "拉脱维亚语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1607005713111,
-                        "id": "P147242AB-tu441"
-                    }
-                ],
-                [
-                    "马尔加什语",
-                    "Malgash",
-                    "马尔加什语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1607005716183,
-                        "id": "P147242AB-tu442"
-                    }
-                ],
-                [
-                    "毛利语",
-                    "Maori",
-                    "毛利语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1607005718414,
-                        "id": "P147242AB-tu443"
-                    }
-                ],
-                [
-                    "马其顿语",
-                    "Macedonian",
-                    "马其顿语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1607005723180,
-                        "id": "P147242AB-tu444"
-                    }
-                ],
-                [
-                    "蒙古语",
-                    "Mongolian",
-                    "蒙古语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1607005728158,
-                        "id": "P147242AB-tu445"
-                    }
-                ],
-                [
-                    "马拉地语",
-                    "Maladi",
-                    "马拉地语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1607005730551,
-                        "id": "P147242AB-tu446"
-                    }
-                ],
-                [
-                    "马耳他语",
-                    "Maltese",
-                    "马耳他语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1607005732809,
-                        "id": "P147242AB-tu447"
-                    }
-                ],
-                [
-                    "尼泊尔语",
-                    "Nepali",
-                    "尼泊尔语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1607005735878,
-                        "id": "P147242AB-tu448"
-                    }
-                ],
-                [
-                    "挪威语",
-                    "Norwegian",
-                    "挪威语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1607005739951,
-                        "id": "P147242AB-tu449"
-                    }
-                ],
-                [
-                    "齐切瓦语",
-                    "Qichewa",
-                    "齐切瓦语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1607005743679,
-                        "id": "P147242AB-tu450"
-                    }
-                ],
-                [
-                    "斯洛伐克语",
-                    "Slovak",
-                    "斯洛伐克语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1607005759069,
-                        "id": "P147242AB-tu451"
-                    }
-                ],
-                [
-                    "斯洛文尼亚语",
-                    "Slovenian",
-                    "斯洛文尼亚语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1607005763702,
-                        "id": "P147242AB-tu452"
-                    }
-                ],
-                [
-                    "萨摩亚语",
-                    "Samoan",
-                    "萨摩亚语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1607005766605,
-                        "id": "P147242AB-tu453"
-                    }
-                ],
-                [
-                    "修纳语",
-                    "Shona ",
-                    "修纳语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1607005768698,
-                        "id": "P147242AB-tu454"
-                    }
-                ],
-                [
-                    "索马里语",
-                    "Somali",
-                    "索马里语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1607005771559,
-                        "id": "P147242AB-tu455"
-                    }
-                ],
-                [
-                    "阿尔巴尼亚语",
-                    "Albanian",
-                    "阿尔巴尼亚语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1607005779452,
-                        "id": "P147242AB-tu456"
-                    }
-                ],
-                [
-                    "塞尔维亚语（拉丁文）",
-                    "Serbian (Latin)",
-                    "塞尔维亚语（拉丁文）",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1607005780982,
-                        "id": "P147242AB-tu457"
-                    }
-                ],
-                [
-                    "塞索托语",
-                    "Sesotho",
-                    "塞索托语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1607005784754,
-                        "id": "P147242AB-tu458"
-                    }
-                ],
-                [
-                    "印尼巽他语",
-                    "Indonesian Sundanese",
-                    "印尼巽他语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1607005804211,
-                        "id": "P147242AB-tu459"
-                    }
-                ],
-                [
-                    "斯瓦希里语",
-                    "Swahili",
-                    "斯瓦希里语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1607005800945,
-                        "id": "P147242AB-tu460"
-                    }
-                ],
-                [
-                    "塔吉克语",
-                    "Tajik",
-                    "塔吉克语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1607005806627,
-                        "id": "P147242AB-tu461"
-                    }
-                ],
-                [
-                    "菲律宾语",
-                    "Filipino",
-                    "菲律宾语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1607005809531,
-                        "id": "P147242AB-tu462"
-                    }
-                ],
-                [
-                    "乌克兰语",
-                    "Ukrainian",
-                    "乌克兰语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1607005812093,
-                        "id": "P147242AB-tu463"
-                    }
-                ],
-                [
-                    "乌兹别克语",
-                    "Uzbek",
-                    "乌兹别克语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1607005814754,
-                        "id": "P147242AB-tu464"
-                    }
-                ],
-                [
-                    "越南语",
-                    "Vietnamese",
-                    "越南语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1607005817271,
-                        "id": "P147242AB-tu465"
-                    }
-                ],
-                [
-                    "班图语",
-                    "Xhosa",
-                    "班图语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1607005823958,
-                        "id": "P147242AB-tu466"
-                    }
-                ],
-                [
-                    "约鲁巴语",
-                    "Yoruba",
-                    "约鲁巴语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1607005826899,
-                        "id": "P147242AB-tu467"
-                    }
-                ],
-                [
-                    "南非祖鲁语",
-                    "South African Zulu",
-                    "南非祖鲁语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1607005831021,
-                        "id": "P147242AB-tu468"
-                    }
-                ],
-                [
-                    "简体中文",
-                    "Chinese Simplified",
-                    "简体中文",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "note": "",
-                        "creator": "xulihang",
-                        "createdTime": 1594216540827,
-                        "id": "P147242AB-tu469"
-                    }
-                ],
-                [
-                    "斯洛维尼亚语",
-                    "Slovenian",
-                    "斯洛维尼亚语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1607005837082,
-                        "id": "P147242AB-tu470"
-                    }
-                ],
-                [
-                    "阿拉伯语",
-                    "Arabic",
-                    "阿拉伯语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1594709455190,
-                        "id": "P147242AB-tu471"
-                    }
-                ],
-                [
-                    "塞尔维亚语",
-                    "Serbian",
-                    "塞尔维亚语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "note": "",
-                        "creator": "xulihang",
-                        "createdTime": 1607005846161,
-                        "id": "P147242AB-tu472"
-                    }
-                ],
-                [
-                    "塞尔维亚语拉丁语",
-                    "Serbian (Latin)",
-                    "塞尔维亚语拉丁语",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "note": "",
-                        "creator": "xulihang",
-                        "createdTime": 1607005780982,
-                        "id": "P147242AB-tu473"
-                    }
-                ],
-                [
-                    "通用",
-                    "General",
-                    "通用",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "note": "",
-                        "creator": "xulihang",
-                        "createdTime": 1593945255485,
-                        "id": "P147242AB-tu474"
-                    }
-                ],
-                [
-                    "请重启程序",
-                    "Please restart the program",
-                    "请重启程序",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1594709885250,
-                        "id": "P147242AB-tu475"
-                    }
-                ],
-                [
-                    "翻译记忆暂不可用",
-                    "Translation memory is not available for now",
-                    "翻译记忆暂不可用",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "note": "",
-                        "creator": "xulihang",
-                        "createdTime": 1594175053915,
-                        "id": "P147242AB-tu476"
-                    }
-                ],
-                [
-                    "文字区域检测",
-                    "Text area detection",
-                    "文字区域检测",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "note": "",
-                        "creator": "xulihang",
-                        "createdTime": 1593945255800,
-                        "id": "P147242AB-tu477"
-                    }
-                ],
-                [
-                    "字体样式",
-                    "Font style",
-                    "字体样式",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "note": "",
-                        "creator": "xulihang",
-                        "createdTime": 1593945255934,
-                        "id": "P147242AB-tu478"
-                    }
-                ],
-                [
-                    "自动更正",
-                    "AutoCorrect",
-                    "自动更正",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1602045151940,
-                        "id": "P147242AB-tu479"
-                    }
-                ],
-                [
-                    "图像修复",
-                    "Image inpainting",
-                    "图像修复",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "note": "",
-                        "creator": "xulihang",
-                        "createdTime": 1594175068418,
-                        "id": "P147242AB-tu480"
-                    }
-                ],
-                [
-                    "覆盖文字",
-                    "Cover text",
-                    "覆盖文字",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "note": "",
-                        "creator": "xulihang",
-                        "createdTime": 1594175086770,
-                        "id": "P147242AB-tu481"
-                    }
-                ],
-                [
-                    "横向",
-                    "Horizontal",
-                    "横向",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "note": "",
-                        "creator": "xulihang",
-                        "createdTime": 1594175113851,
-                        "id": "P147242AB-tu482"
-                    }
-                ],
-                [
-                    "竖直",
-                    "Vertical",
-                    "竖直",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "note": "",
-                        "creator": "xulihang",
-                        "createdTime": 1593945256720,
-                        "id": "P147242AB-tu483"
-                    }
-                ],
-                [
-                    "居中",
-                    "Center",
-                    "居中",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "note": "",
-                        "creator": "xulihang",
-                        "createdTime": 1593945257272,
-                        "id": "P147242AB-tu484"
-                    }
-                ],
-                [
-                    "去除内部区域",
-                    "Remove inner areas",
-                    "去除内部区域",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "note": "",
-                        "creator": "xulihang",
-                        "createdTime": 1594175137325,
-                        "id": "P147242AB-tu485"
-                    }
-                ],
-                [
-                    "横向合并",
-                    "Merge in horizontal direction",
-                    "横向合并",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "note": "",
-                        "creator": "xulihang",
-                        "createdTime": 1594176081271,
-                        "id": "P147242AB-tu486"
                     }
                 ],
                 [
@@ -5675,7 +4260,1489 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594176087436,
+                        "id": "P147242AB-tu362"
+                    }
+                ],
+                [
+                    "横向合并",
+                    "Merge in horizontal direction",
+                    "横向合并",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1594176081271,
+                        "id": "P147242AB-tu363"
+                    }
+                ],
+                [
+                    "纵向合并+横向合并",
+                    "Merge vertically+Merge horizontally",
+                    "纵向合并+横向合并",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1608178251399,
+                        "id": "P147242AB-tu364"
+                    }
+                ],
+                [
+                    "横向合并+纵向合并",
+                    "Merge horizontally+Merge vertically",
+                    "横向合并+纵向合并",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1608178251905,
+                        "id": "P147242AB-tu365"
+                    }
+                ],
+                [
+                    "不合并区域",
+                    "Do not merge",
+                    "不合并区域",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1608178257705,
+                        "id": "P147242AB-tu366"
+                    }
+                ],
+                [
+                    "请先关闭打开的项目",
+                    "Please close the current project first",
+                    "请先关闭打开的项目",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1594174842091,
+                        "id": "P147242AB-tu367"
+                    }
+                ],
+                [
+                    "反转文字置信度",
+                    "Invert text confidence",
+                    "反转文字置信度",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594195456629,
+                        "id": "P147242AB-tu368"
+                    }
+                ],
+                [
+                    "修改掩膜与无文字图",
+                    "Modify mask and text-removed pictures",
+                    "修改掩膜与无文字图",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1601727191542,
+                        "id": "P147242AB-tu369"
+                    }
+                ],
+                [
+                    "创建副本",
+                    "Duplicate",
+                    "创建副本",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1602158953288,
+                        "id": "P147242AB-tu370"
+                    }
+                ],
+                [
+                    "当前文字区域",
+                    "Current text area",
+                    "当前文字区域",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1606020974037,
+                        "id": "P147242AB-tu371"
+                    }
+                ],
+                [
+                    "项目未保存，是否保存项目？",
+                    "The project is not saved, do you want to save the project?",
+                    "项目未保存，是否保存项目？",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1593945253739,
+                        "id": "P147242AB-tu372"
+                    }
+                ],
+                [
+                    "不保存退出",
+                    "Don't save, exit",
+                    "不保存退出",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1594174856626,
+                        "id": "P147242AB-tu373"
+                    }
+                ],
+                [
+                    "请在图像上取色",
+                    "Please pick color on the image",
+                    "请在图像上取色",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1594174911771,
+                        "id": "P147242AB-tu374"
+                    }
+                ],
+                [
+                    "确认清空吗？",
+                    "Are you sure you want to clear all areas?",
+                    "确认清空吗？",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1594174941283,
+                        "id": "P147242AB-tu375"
+                    }
+                ],
+                [
+                    "提醒",
+                    "Note",
+                    "提醒",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1594174950405,
+                        "id": "P147242AB-tu376"
+                    }
+                ],
+                [
+                    "导出中……",
+                    "Exporting...",
+                    "导出中……",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1598847510142,
+                        "id": "P147242AB-tu377"
+                    }
+                ],
+                [
+                    "请先预览",
+                    "Please preview first",
+                    "请先预览",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1594175035123,
+                        "id": "P147242AB-tu378"
+                    }
+                ],
+                [
+                    "请先生成文字掩膜",
+                    "Please generate mask first",
+                    "请先生成文字掩膜",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1594175042827,
+                        "id": "P147242AB-tu379"
+                    }
+                ],
+                [
+                    "确认删除吗？",
+                    "Are you sure you want to delete it?",
+                    "确认删除吗？",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1602158974902,
+                        "id": "P147242AB-tu380"
+                    }
+                ],
+                [
+                    "左对齐",
+                    "Left",
+                    "左对齐",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1594175122736,
+                        "id": "P147242AB-tu381"
+                    }
+                ],
+                [
+                    "水平居中",
+                    "Center (horizontal)",
+                    "水平居中",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1607750818485,
+                        "id": "P147242AB-tu382"
+                    }
+                ],
+                [
+                    "右对齐",
+                    "Right",
+                    "右对齐",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1594175127677,
+                        "id": "P147242AB-tu383"
+                    }
+                ],
+                [
+                    "上对齐",
+                    "Top",
+                    "上对齐",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1607750825619,
+                        "id": "P147242AB-tu384"
+                    }
+                ],
+                [
+                    "垂直居中",
+                    "Center (vertical)",
+                    "垂直居中",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1607750859079,
+                        "id": "P147242AB-tu385"
+                    }
+                ],
+                [
+                    "下对齐",
+                    "Bottom",
+                    "下对齐",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1607750869609,
+                        "id": "P147242AB-tu386"
+                    }
+                ],
+                [
+                    "泰语",
+                    "Thai",
+                    "泰语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1607062665270,
+                        "id": "P147242AB-tu387"
+                    }
+                ],
+                [
+                    "拉丁语系",
+                    "Latin",
+                    "拉丁语系",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1607062668394,
+                        "id": "P147242AB-tu388"
+                    }
+                ],
+                [
+                    "简体中文_竖",
+                    "Chinese Simplified Vertical",
+                    "简体中文_竖",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1594216551670,
+                        "id": "P147242AB-tu389"
+                    }
+                ],
+                [
+                    "日语_竖",
+                    "Japanese Vertical",
+                    "日语_竖",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1594216571481,
+                        "id": "P147242AB-tu390"
+                    }
+                ],
+                [
+                    "藏语",
+                    "Tibetan",
+                    "藏语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1594216577245,
+                        "id": "P147242AB-tu391"
+                    }
+                ],
+                [
+                    "古汉语",
+                    "Ancient Chinese",
+                    "古汉语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1606806227862,
+                        "id": "P147242AB-tu392"
+                    }
+                ],
+                [
+                    "请选择语言对",
+                    "Please select a language pair",
+                    "请选择语言对",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1593945255359,
+                        "id": "P147242AB-tu393"
+                    }
+                ],
+                [
+                    "内建二值化方法",
+                    "Built-in binarization method",
+                    "内建二值化方法",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1607608541071,
+                        "id": "P147242AB-tu394"
+                    }
+                ],
+                [
+                    "中文",
+                    "Chinese",
+                    "中文",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1606806231899,
+                        "id": "P147242AB-tu395"
+                    }
+                ],
+                [
+                    "英语",
+                    "English",
+                    "英语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1594216528925,
+                        "id": "P147242AB-tu396"
+                    }
+                ],
+                [
+                    "日语",
+                    "Japanese",
+                    "日语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1594216563046,
+                        "id": "P147242AB-tu397"
+                    }
+                ],
+                [
+                    "韩语",
+                    "Korean",
+                    "韩语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1594216574552,
+                        "id": "P147242AB-tu398"
+                    }
+                ],
+                [
+                    "法语",
+                    "French",
+                    "法语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594709440836,
+                        "id": "P147242AB-tu399"
+                    }
+                ],
+                [
+                    "西班牙语",
+                    "Spanish",
+                    "西班牙语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1594709444904,
+                        "id": "P147242AB-tu400"
+                    }
+                ],
+                [
+                    "葡萄牙语",
+                    "Portuguese",
+                    "葡萄牙语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594709446322,
+                        "id": "P147242AB-tu401"
+                    }
+                ],
+                [
+                    "德语",
+                    "German",
+                    "德语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594709453657,
+                        "id": "P147242AB-tu402"
+                    }
+                ],
+                [
+                    "意大利语",
+                    "Italian",
+                    "意大利语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594709450558,
+                        "id": "P147242AB-tu403"
+                    }
+                ],
+                [
+                    "俄语",
+                    "Russian",
+                    "俄语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594709448888,
+                        "id": "P147242AB-tu404"
+                    }
+                ],
+                [
+                    "丹麦语",
+                    "Danish",
+                    "丹麦语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1606806211111,
+                        "id": "P147242AB-tu405"
+                    }
+                ],
+                [
+                    "荷兰语",
+                    "Dutch",
+                    "荷兰语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1606806221422,
+                        "id": "P147242AB-tu406"
+                    }
+                ],
+                [
+                    "马来语",
+                    "Malay",
+                    "马来语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1607005497359,
+                        "id": "P147242AB-tu407"
+                    }
+                ],
+                [
+                    "瑞典语",
+                    "Swedish",
+                    "瑞典语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1606806216592,
+                        "id": "P147242AB-tu408"
+                    }
+                ],
+                [
+                    "印尼语",
+                    "Indonesian",
+                    "印尼语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1607005498912,
+                        "id": "P147242AB-tu409"
+                    }
+                ],
+                [
+                    "波兰语",
+                    "Polish",
+                    "波兰语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1606806223568,
+                        "id": "P147242AB-tu410"
+                    }
+                ],
+                [
+                    "罗马尼亚语",
+                    "Romanian",
+                    "罗马尼亚语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1607005508590,
+                        "id": "P147242AB-tu411"
+                    }
+                ],
+                [
+                    "土耳其语",
+                    "Turkish",
+                    "土耳其语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1607005510385,
+                        "id": "P147242AB-tu412"
+                    }
+                ],
+                [
+                    "希腊语",
+                    "Greek",
+                    "希腊语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1606806209473,
+                        "id": "P147242AB-tu413"
+                    }
+                ],
+                [
+                    "匈牙利语",
+                    "Hungarian",
+                    "匈牙利语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1607005516052,
+                        "id": "P147242AB-tu414"
+                    }
+                ],
+                [
+                    "自动检测",
+                    "Auto detect",
+                    "自动检测",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594709462872,
+                        "id": "P147242AB-tu415"
+                    }
+                ],
+                [
+                    "繁体中文",
+                    "Chinese Traditional",
+                    "繁体中文",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1594216558977,
+                        "id": "P147242AB-tu416"
+                    }
+                ],
+                [
+                    "南非荷兰语",
+                    "Afrikaans",
+                    "南非荷兰语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1607005575669,
+                        "id": "P147242AB-tu417"
+                    }
+                ],
+                [
+                    "阿塞拜疆语",
+                    "Azerbaijani",
+                    "阿塞拜疆语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1607005578516,
+                        "id": "P147242AB-tu418"
+                    }
+                ],
+                [
+                    "白俄罗斯语",
+                    "Belarusian",
+                    "白俄罗斯语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1607005590894,
+                        "id": "P147242AB-tu419"
+                    }
+                ],
+                [
+                    "保加利亚语",
+                    "Bulgarian",
+                    "保加利亚语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1607005593045,
+                        "id": "P147242AB-tu420"
+                    }
+                ],
+                [
+                    "波斯尼亚语（拉丁文）",
+                    "Bosnian (Latin)",
+                    "波斯尼亚语（拉丁文）",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1607005595123,
+                        "id": "P147242AB-tu421"
+                    }
+                ],
+                [
+                    "加泰罗尼亚语",
+                    "Catalan",
+                    "加泰罗尼亚语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1606806215426,
+                        "id": "P147242AB-tu422"
+                    }
+                ],
+                [
+                    "宿务语",
+                    "Cebu",
+                    "宿务语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1607005614413,
+                        "id": "P147242AB-tu423"
+                    }
+                ],
+                [
+                    "科西嘉语",
+                    "Corsican",
+                    "科西嘉语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1607005619367,
+                        "id": "P147242AB-tu424"
+                    }
+                ],
+                [
+                    "捷克语",
+                    "Czech",
+                    "捷克语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1606806213719,
+                        "id": "P147242AB-tu425"
+                    }
+                ],
+                [
+                    "威尔士语",
+                    "Welsh",
+                    "威尔士语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1607005628956,
+                        "id": "P147242AB-tu426"
+                    }
+                ],
+                [
+                    "世界语",
+                    "Esperanto",
+                    "世界语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1607005631445,
+                        "id": "P147242AB-tu427"
+                    }
+                ],
+                [
+                    "爱沙尼亚语",
+                    "Estonian",
+                    "爱沙尼亚语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1607005635397,
+                        "id": "P147242AB-tu428"
+                    }
+                ],
+                [
+                    "巴斯克语",
+                    "Basque",
+                    "巴斯克语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1607005638111,
+                        "id": "P147242AB-tu429"
+                    }
+                ],
+                [
+                    "芬兰语",
+                    "Finnish",
+                    "芬兰语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1606806207783,
+                        "id": "P147242AB-tu430"
+                    }
+                ],
+                [
+                    "弗里斯兰语",
+                    "Frisian",
+                    "弗里斯兰语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1607005641467,
+                        "id": "P147242AB-tu431"
+                    }
+                ],
+                [
+                    "爱尔兰语",
+                    "Irish",
+                    "爱尔兰语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1607005651781,
+                        "id": "P147242AB-tu432"
+                    }
+                ],
+                [
+                    "苏格兰盖尔语",
+                    "Scottish Gaelic",
+                    "苏格兰盖尔语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1607005654015,
+                        "id": "P147242AB-tu433"
+                    }
+                ],
+                [
+                    "加利西亚语",
+                    "Galician",
+                    "加利西亚语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1607005656333,
+                        "id": "P147242AB-tu434"
+                    }
+                ],
+                [
+                    "豪萨语",
+                    "Hausa",
+                    "豪萨语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1607005658834,
+                        "id": "P147242AB-tu435"
+                    }
+                ],
+                [
+                    "夏威夷语",
+                    "Hawaiian",
+                    "夏威夷语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1607005660706,
+                        "id": "P147242AB-tu436"
+                    }
+                ],
+                [
+                    "印地语",
+                    "Hindi",
+                    "印地语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1607005662648,
+                        "id": "P147242AB-tu437"
+                    }
+                ],
+                [
+                    "苗族语",
+                    "Miao",
+                    "苗族语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1607005669014,
+                        "id": "P147242AB-tu438"
+                    }
+                ],
+                [
+                    "克罗地亚语",
+                    "Croatian",
+                    "克罗地亚语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1607005670603,
+                        "id": "P147242AB-tu439"
+                    }
+                ],
+                [
+                    "海地语",
+                    "Haitian",
+                    "海地语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1607005674594,
+                        "id": "P147242AB-tu440"
+                    }
+                ],
+                [
+                    "印度尼西亚语",
+                    "Indonesian",
+                    "印度尼西亚语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1607005498912,
+                        "id": "P147242AB-tu441"
+                    }
+                ],
+                [
+                    "伊博语",
+                    "Igbo",
+                    "伊博语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1607005690470,
+                        "id": "P147242AB-tu442"
+                    }
+                ],
+                [
+                    "冰岛语",
+                    "Icelandic",
+                    "冰岛语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1607005694755,
+                        "id": "P147242AB-tu443"
+                    }
+                ],
+                [
+                    "印尼爪哇语",
+                    "Indonesian Javanese",
+                    "印尼爪哇语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1607005700647,
+                        "id": "P147242AB-tu444"
+                    }
+                ],
+                [
+                    "库尔德语",
+                    "Kurdish",
+                    "库尔德语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1607005703983,
+                        "id": "P147242AB-tu445"
+                    }
+                ],
+                [
+                    "拉丁语",
+                    "Latin",
+                    "拉丁语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1607005706362,
+                        "id": "P147242AB-tu446"
+                    }
+                ],
+                [
+                    "卢森堡语",
+                    "Luxembourg",
+                    "卢森堡语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1607005708653,
+                        "id": "P147242AB-tu447"
+                    }
+                ],
+                [
+                    "立陶宛语",
+                    "Lithuanian",
+                    "立陶宛语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1607005710719,
+                        "id": "P147242AB-tu448"
+                    }
+                ],
+                [
+                    "拉脱维亚语",
+                    "Latvian",
+                    "拉脱维亚语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1607005713111,
+                        "id": "P147242AB-tu449"
+                    }
+                ],
+                [
+                    "马尔加什语",
+                    "Malgash",
+                    "马尔加什语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1607005716183,
+                        "id": "P147242AB-tu450"
+                    }
+                ],
+                [
+                    "毛利语",
+                    "Maori",
+                    "毛利语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1607005718414,
+                        "id": "P147242AB-tu451"
+                    }
+                ],
+                [
+                    "马其顿语",
+                    "Macedonian",
+                    "马其顿语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1607005723180,
+                        "id": "P147242AB-tu452"
+                    }
+                ],
+                [
+                    "蒙古语",
+                    "Mongolian",
+                    "蒙古语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1607005728158,
+                        "id": "P147242AB-tu453"
+                    }
+                ],
+                [
+                    "马拉地语",
+                    "Maladi",
+                    "马拉地语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1607005730551,
+                        "id": "P147242AB-tu454"
+                    }
+                ],
+                [
+                    "马耳他语",
+                    "Maltese",
+                    "马耳他语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1607005732809,
+                        "id": "P147242AB-tu455"
+                    }
+                ],
+                [
+                    "尼泊尔语",
+                    "Nepali",
+                    "尼泊尔语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1607005735878,
+                        "id": "P147242AB-tu456"
+                    }
+                ],
+                [
+                    "挪威语",
+                    "Norwegian",
+                    "挪威语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1607005739951,
+                        "id": "P147242AB-tu457"
+                    }
+                ],
+                [
+                    "齐切瓦语",
+                    "Qichewa",
+                    "齐切瓦语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1607005743679,
+                        "id": "P147242AB-tu458"
+                    }
+                ],
+                [
+                    "斯洛伐克语",
+                    "Slovak",
+                    "斯洛伐克语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1607005759069,
+                        "id": "P147242AB-tu459"
+                    }
+                ],
+                [
+                    "斯洛文尼亚语",
+                    "Slovenian",
+                    "斯洛文尼亚语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1607005763702,
+                        "id": "P147242AB-tu460"
+                    }
+                ],
+                [
+                    "萨摩亚语",
+                    "Samoan",
+                    "萨摩亚语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1607005766605,
+                        "id": "P147242AB-tu461"
+                    }
+                ],
+                [
+                    "修纳语",
+                    "Shona ",
+                    "修纳语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1607005768698,
+                        "id": "P147242AB-tu462"
+                    }
+                ],
+                [
+                    "索马里语",
+                    "Somali",
+                    "索马里语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1607005771559,
+                        "id": "P147242AB-tu463"
+                    }
+                ],
+                [
+                    "阿尔巴尼亚语",
+                    "Albanian",
+                    "阿尔巴尼亚语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1607005779452,
+                        "id": "P147242AB-tu464"
+                    }
+                ],
+                [
+                    "塞尔维亚语（拉丁文）",
+                    "Serbian (Latin)",
+                    "塞尔维亚语（拉丁文）",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1607005780982,
+                        "id": "P147242AB-tu465"
+                    }
+                ],
+                [
+                    "塞索托语",
+                    "Sesotho",
+                    "塞索托语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1607005784754,
+                        "id": "P147242AB-tu466"
+                    }
+                ],
+                [
+                    "印尼巽他语",
+                    "Indonesian Sundanese",
+                    "印尼巽他语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1607005804211,
+                        "id": "P147242AB-tu467"
+                    }
+                ],
+                [
+                    "斯瓦希里语",
+                    "Swahili",
+                    "斯瓦希里语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1607005800945,
+                        "id": "P147242AB-tu468"
+                    }
+                ],
+                [
+                    "塔吉克语",
+                    "Tajik",
+                    "塔吉克语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1607005806627,
+                        "id": "P147242AB-tu469"
+                    }
+                ],
+                [
+                    "菲律宾语",
+                    "Filipino",
+                    "菲律宾语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1607005809531,
+                        "id": "P147242AB-tu470"
+                    }
+                ],
+                [
+                    "乌克兰语",
+                    "Ukrainian",
+                    "乌克兰语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1607005812093,
+                        "id": "P147242AB-tu471"
+                    }
+                ],
+                [
+                    "乌兹别克语",
+                    "Uzbek",
+                    "乌兹别克语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1607005814754,
+                        "id": "P147242AB-tu472"
+                    }
+                ],
+                [
+                    "越南语",
+                    "Vietnamese",
+                    "越南语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1607005817271,
+                        "id": "P147242AB-tu473"
+                    }
+                ],
+                [
+                    "班图语",
+                    "Xhosa",
+                    "班图语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1607005823958,
+                        "id": "P147242AB-tu474"
+                    }
+                ],
+                [
+                    "约鲁巴语",
+                    "Yoruba",
+                    "约鲁巴语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1607005826899,
+                        "id": "P147242AB-tu475"
+                    }
+                ],
+                [
+                    "南非祖鲁语",
+                    "South African Zulu",
+                    "南非祖鲁语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1607005831021,
+                        "id": "P147242AB-tu476"
+                    }
+                ],
+                [
+                    "简体中文",
+                    "Chinese Simplified",
+                    "简体中文",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1594216540827,
+                        "id": "P147242AB-tu477"
+                    }
+                ],
+                [
+                    "斯洛维尼亚语",
+                    "Slovenian",
+                    "斯洛维尼亚语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1607005837082,
+                        "id": "P147242AB-tu478"
+                    }
+                ],
+                [
+                    "阿拉伯语",
+                    "Arabic",
+                    "阿拉伯语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594709455190,
+                        "id": "P147242AB-tu479"
+                    }
+                ],
+                [
+                    "塞尔维亚语",
+                    "Serbian",
+                    "塞尔维亚语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1607005846161,
+                        "id": "P147242AB-tu480"
+                    }
+                ],
+                [
+                    "塞尔维亚语拉丁语",
+                    "Serbian (Latin)",
+                    "塞尔维亚语拉丁语",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1607005780982,
+                        "id": "P147242AB-tu481"
+                    }
+                ],
+                [
+                    "通用",
+                    "General",
+                    "通用",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1593945255485,
+                        "id": "P147242AB-tu482"
+                    }
+                ],
+                [
+                    "请重启程序",
+                    "Please restart the program",
+                    "请重启程序",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1594709885250,
+                        "id": "P147242AB-tu483"
+                    }
+                ],
+                [
+                    "翻译记忆暂不可用",
+                    "Translation memory is not available for now",
+                    "翻译记忆暂不可用",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1594175053915,
+                        "id": "P147242AB-tu484"
+                    }
+                ],
+                [
+                    "文字区域检测",
+                    "Text area detection",
+                    "文字区域检测",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1593945255800,
+                        "id": "P147242AB-tu485"
+                    }
+                ],
+                [
+                    "字体样式",
+                    "Font style",
+                    "字体样式",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1593945255934,
+                        "id": "P147242AB-tu486"
+                    }
+                ],
+                [
+                    "自动更正",
+                    "AutoCorrect",
+                    "自动更正",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1602045151940,
                         "id": "P147242AB-tu487"
+                    }
+                ],
+                [
+                    "图像修复",
+                    "Image inpainting",
+                    "图像修复",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1594175068418,
+                        "id": "P147242AB-tu488"
+                    }
+                ],
+                [
+                    "覆盖文字",
+                    "Cover text",
+                    "覆盖文字",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1594175086770,
+                        "id": "P147242AB-tu489"
+                    }
+                ],
+                [
+                    "横向",
+                    "Horizontal",
+                    "横向",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1594175113851,
+                        "id": "P147242AB-tu490"
+                    }
+                ],
+                [
+                    "竖直",
+                    "Vertical",
+                    "竖直",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1593945256720,
+                        "id": "P147242AB-tu491"
+                    }
+                ],
+                [
+                    "居中",
+                    "Center",
+                    "居中",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1593945257272,
+                        "id": "P147242AB-tu492"
+                    }
+                ],
+                [
+                    "去除内部区域",
+                    "Remove inner areas",
+                    "去除内部区域",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1594175137325,
+                        "id": "P147242AB-tu493"
                     }
                 ],
                 [
@@ -5687,7 +5754,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594175201581,
-                        "id": "P147242AB-tu488"
+                        "id": "P147242AB-tu494"
                     }
                 ],
                 [
@@ -5699,7 +5766,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594175223964,
-                        "id": "P147242AB-tu488"
+                        "id": "P147242AB-tu494"
                     }
                 ],
                 [
@@ -5711,7 +5778,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1593945259002,
-                        "id": "P147242AB-tu489"
+                        "id": "P147242AB-tu495"
                     }
                 ],
                 [
@@ -5722,7 +5789,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1601727213560,
-                        "id": "P147242AB-tu490"
+                        "id": "P147242AB-tu496"
                     }
                 ],
                 [
@@ -5733,7 +5800,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1601727225406,
-                        "id": "P147242AB-tu491"
+                        "id": "P147242AB-tu497"
                     }
                 ],
                 [
@@ -5745,7 +5812,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1593945259168,
-                        "id": "P147242AB-tu492"
+                        "id": "P147242AB-tu498"
                     }
                 ],
                 [
@@ -5757,7 +5824,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1607608641583,
-                        "id": "P147242AB-tu493"
+                        "id": "P147242AB-tu499"
                     }
                 ],
                 [
@@ -5769,7 +5836,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1607608641583,
-                        "id": "P147242AB-tu494"
+                        "id": "P147242AB-tu500"
                     }
                 ],
                 [
@@ -5781,7 +5848,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1607608641583,
-                        "id": "P147242AB-tu495"
+                        "id": "P147242AB-tu501"
                     }
                 ],
                 [
@@ -5793,7 +5860,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1607608641583,
-                        "id": "P147242AB-tu496"
+                        "id": "P147242AB-tu502"
                     }
                 ],
                 [
@@ -5805,7 +5872,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594175249363,
-                        "id": "P147242AB-tu497"
+                        "id": "P147242AB-tu503"
                     }
                 ],
                 [
@@ -5817,7 +5884,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1593945259442,
-                        "id": "P147242AB-tu498"
+                        "id": "P147242AB-tu504"
                     }
                 ],
                 [
@@ -5829,7 +5896,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1593945259613,
-                        "id": "P147242AB-tu499"
+                        "id": "P147242AB-tu505"
                     }
                 ],
                 [
@@ -5841,7 +5908,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594175268972,
-                        "id": "P147242AB-tu500"
+                        "id": "P147242AB-tu506"
                     }
                 ],
                 [
@@ -5853,7 +5920,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594175287180,
-                        "id": "P147242AB-tu501"
+                        "id": "P147242AB-tu507"
                     }
                 ],
                 [
@@ -5865,7 +5932,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1593945260110,
-                        "id": "P147242AB-tu502"
+                        "id": "P147242AB-tu508"
                     }
                 ]
             ]

@@ -3278,13 +3278,13 @@
                     }
                 ],
                 [
-                    "保存历史记录",
-                    "Save history",
-                    "保存历史记录",
+                    "使用之前导出的图片",
+                    "Use previously exported images",
+                    "使用之前导出的图片",
                     "xl\/sharedStrings.xml",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1608442849520,
+                        "createdTime": 1608462328574,
                         "id": "P147242AB-tu279"
                     }
                 ],

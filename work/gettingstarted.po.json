@@ -486,12 +486,12 @@
                 ],
                 [
                     "另提供较为复杂的启发式和自然场景文字检测方法，详见 :ref:`text-detection`",
-                    "Heuristic and natural scene text detection methods are also provided, which are more complex. See: ref: `text-detection`",
+                    "Heuristic and natural scene text detection methods are also provided, which are more complex. See :ref: `text-detection`",
                     "另提供较为复杂的启发式和自然场景文字检测方法，详见 :ref:`text-detection`",
                     "gettingstarted.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1610104901648,
+                        "createdTime": 1610106667252,
                         "id": 30
                     }
                 ],

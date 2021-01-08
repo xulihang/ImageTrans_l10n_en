@@ -36,24 +36,29 @@
                     }
                 ],
                 [
-                    "需要使用Tesseract进行OCR的话请自行下载安装。",
-                    "If you need to use Tesseract for OCR, please install it by yourself.",
-                    "需要使用Tesseract进行OCR的话请自行下载安装。",
+                    "需要使用Tesseract进行OCR的话请自行下载安装（`地址 <https:\/\/tesseract-ocr.github.io\/tessdoc\/Downloads.html>`_）。",
+                    "",
+                    "需要使用Tesseract进行OCR的话请自行下载安装（`地址 <https:\/\/tesseract-ocr.github.io\/tessdoc\/Downloads.html>`_）。",
                     "gettingstarted.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594560884738,
                         "id": 5
                     }
                 ],
                 [
-                    "这里提供一个Windows的绿色版本：`百度网盘（提取码：ktpt） <https:\/\/pan.baidu.com\/s\/1gJZyuntLetZEpFWI8XqkXA>`_，下载后将tesseract-ocr目录和ImageTrans放在一起。",
-                    "Here is a Windows version of Tesseract for download: `Baidu Netdisk (code: ktpt) <https:\/\/pan.baidu.com\/s\/1gJZyuntLetZEpFWI8XqkXA>`_ Put the tessseract-ocr folder under ImageTrans's folder.",
-                    "这里提供一个Windows的绿色版本：`百度网盘（提取码：ktpt） <https:\/\/pan.baidu.com\/s\/1gJZyuntLetZEpFWI8XqkXA>`_，下载后将tesseract-ocr目录和ImageTrans放在一起。",
+                    "这里再提供一个Windows的绿色版本：`百度网盘（提取码：ktpt） <https:\/\/pan.baidu.com\/s\/1gJZyuntLetZEpFWI8XqkXA>`_。",
+                    "",
+                    "这里再提供一个Windows的绿色版本：`百度网盘（提取码：ktpt） <https:\/\/pan.baidu.com\/s\/1gJZyuntLetZEpFWI8XqkXA>`_。",
                     "gettingstarted.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594699395896,
+                        "id": 5
+                    }
+                ],
+                [
+                    "下载后将tesseract-ocr目录和ImageTrans放在一起。",
+                    "",
+                    "下载后将tesseract-ocr目录和ImageTrans放在一起。",
+                    "gettingstarted.po",
+                    {
                         "id": 5
                     }
                 ],
@@ -69,13 +74,11 @@
                     }
                 ],
                 [
-                    "本工具支持的在线OCR和机器翻译服务均需要设置API才能使用，其中云译和ocrspace为免费提供。",
-                    "Both online OCR and machine translation services supported by this tool require API keys to be used. Cloud Translation and OCRSpace are available free of charge.",
-                    "本工具支持的在线OCR和机器翻译服务均需要设置API才能使用，其中云译和ocrspace为免费提供。",
+                    "本工具支持的在线OCR和机器翻译服务均需要设置API才能使用，其中谷歌翻译、云译和ocrspace为免费提供。",
+                    "",
+                    "本工具支持的在线OCR和机器翻译服务均需要设置API才能使用，其中谷歌翻译、云译和ocrspace为免费提供。",
                     "gettingstarted.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594561164397,
                         "id": 6
                     }
                 ],
@@ -113,24 +116,74 @@
                     }
                 ],
                 [
-                    "软件依赖JRE 1.8运行环境，请先下载安装：`百度网盘（提取码：mhsy） <https:\/\/pan.baidu.com\/s\/1t0g6htstFge0h2dOS0aBog>`_",
-                    "ImageTrans relies on JRE 1.8 environment, please download and install it: `Baidu NetDisk (code: mhsy) <https:\/\/pan.baidu.com\/s\/1t0g6htstFge0h2dOS0aBog>`_",
-                    "软件依赖JRE 1.8运行环境，请先下载安装：`百度网盘（提取码：mhsy） <https:\/\/pan.baidu.com\/s\/1t0g6htstFge0h2dOS0aBog>`_",
+                    "软件依赖JRE 1.8运行环境，请先下载安装。",
+                    "",
+                    "软件依赖JRE 1.8运行环境，请先下载安装。",
                     "gettingstarted.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594561299033,
                         "id": 9
                     }
                 ],
                 [
-                    "软件依赖OpenCV，请根据系统下载运行库文件，解压后放在ImageTrans的目录下：`百度网盘 <https:\/\/pan.baidu.com\/s\/1D9EZMKqwgqQjdEjwYFkZQQ>`_, `GitHub <https:\/\/github.com\/xulihang\/ImageTrans-docs\/releases\/tag\/opencv>`_",
-                    "ImageTrans also relies on OpenCV, please download the runtime file according to your system, unzip and put them under ImageTrans's folder: `Baidu NetDisk <https:\/\/pan.baidu.com\/s\/1D9EZMKqwgqQjdEjwYFkZQQ>`_, `GitHub <https:\/\/github.com\/xulihang\/ImageTrans-docs\/releases\/tag\/opencv>`_",
-                    "软件依赖OpenCV，请根据系统下载运行库文件，解压后放在ImageTrans的目录下：`百度网盘 <https:\/\/pan.baidu.com\/s\/1D9EZMKqwgqQjdEjwYFkZQQ>`_, `GitHub <https:\/\/github.com\/xulihang\/ImageTrans-docs\/releases\/tag\/opencv>`_",
+                    "下载地址：1.",
+                    "",
+                    "下载地址：1.",
                     "gettingstarted.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594561799228,
+                        "id": 9
+                    }
+                ],
+                [
+                    "`Liberica 8u275 full version  <https:\/\/github.com\/bell-sw\/Liberica\/releases\/tag\/8u275%2B1>`_ 2.",
+                    "",
+                    " `Liberica 8u275 full version  <https:\/\/github.com\/bell-sw\/Liberica\/releases\/tag\/8u275%2B1>`_ 2.",
+                    "gettingstarted.po",
+                    {
+                        "id": 9
+                    }
+                ],
+                [
+                    "`百度网盘（提取码：mhsy） <https:\/\/pan.baidu.com\/s\/1t0g6htstFge0h2dOS0aBog>`_",
+                    "",
+                    " `百度网盘（提取码：mhsy） <https:\/\/pan.baidu.com\/s\/1t0g6htstFge0h2dOS0aBog>`_",
+                    "gettingstarted.po",
+                    {
+                        "id": 9
+                    }
+                ],
+                [
+                    "软件依赖OpenCV，请根据系统下载运行库文件，解压后放在ImageTrans的目录下。",
+                    "",
+                    "软件依赖OpenCV，请根据系统下载运行库文件，解压后放在ImageTrans的目录下。",
+                    "gettingstarted.po",
+                    {
+                        "id": 10
+                    }
+                ],
+                [
+                    "下载地址：1.",
+                    "",
+                    "下载地址：1.",
+                    "gettingstarted.po",
+                    {
+                        "id": 10
+                    }
+                ],
+                [
+                    "`GitHub <https:\/\/github.com\/xulihang\/ImageTrans-docs\/releases\/tag\/opencv>`_, 2.",
+                    "",
+                    " `GitHub <https:\/\/github.com\/xulihang\/ImageTrans-docs\/releases\/tag\/opencv>`_, 2.",
+                    "gettingstarted.po",
+                    {
+                        "id": 10
+                    }
+                ],
+                [
+                    "`百度网盘 <https:\/\/pan.baidu.com\/s\/1D9EZMKqwgqQjdEjwYFkZQQ>`_",
+                    "",
+                    " `百度网盘 <https:\/\/pan.baidu.com\/s\/1D9EZMKqwgqQjdEjwYFkZQQ>`_",
+                    "gettingstarted.po",
+                    {
                         "id": 10
                     }
                 ],
@@ -190,13 +243,11 @@
                     }
                 ],
                 [
-                    "菜单栏点击文件-新建项目，选择一个位置保存。",
-                    "Click File->New and select a place to save the project file.",
-                    "菜单栏点击文件-新建项目，选择一个位置保存。",
+                    "菜单栏点击文件-新建项目，选择一个位置并输入项目文件名以保存。",
+                    "",
+                    "菜单栏点击文件-新建项目，选择一个位置并输入项目文件名以保存。",
                     "gettingstarted.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594561696498,
                         "id": 15
                     }
                 ],
@@ -234,6 +285,15 @@
                     }
                 ],
                 [
+                    "或者用右键菜单-粘贴图片的方式添加单张图片。",
+                    "",
+                    "或者用右键菜单-粘贴图片的方式添加单张图片。",
+                    "gettingstarted.po",
+                    {
+                        "id": 18
+                    }
+                ],
+                [
                     "文字转录",
                     "Transcription",
                     "文字转录",
@@ -241,7 +301,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594561877894,
-                        "id": 18
+                        "id": 19
                     }
                 ],
                 [
@@ -252,7 +312,16 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594561947336,
-                        "id": 19
+                        "id": 20
+                    }
+                ],
+                [
+                    "提供手动框选和四种自动框选，并支持精细调整文本框。",
+                    "",
+                    "提供手动框选和四种自动框选，并支持精细调整文本框。",
+                    "gettingstarted.po",
+                    {
+                        "id": 20
                     }
                 ],
                 [
@@ -263,7 +332,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594562007945,
-                        "id": 20
+                        "id": 21
                     }
                 ],
                 [
@@ -274,7 +343,16 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594562072712,
-                        "id": 21
+                        "id": 22
+                    }
+                ],
+                [
+                    "或者点击左侧工具栏的快速框选按钮，可以直接滑动建框。",
+                    "",
+                    "或者点击左侧工具栏的快速框选按钮，可以直接滑动建框。",
+                    "gettingstarted.po",
+                    {
+                        "id": 23
                     }
                 ],
                 [
@@ -285,7 +363,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594562076648,
-                        "id": 22
+                        "id": 24
                     }
                 ],
                 [
@@ -296,7 +374,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594562342236,
-                        "id": 23
+                        "id": 25
                     }
                 ],
                 [
@@ -308,7 +386,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594562383407,
-                        "id": 24
+                        "id": 26
                     }
                 ],
                 [
@@ -319,7 +397,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594562352954,
-                        "id": 25
+                        "id": 27
                     }
                 ],
                 [
@@ -330,7 +408,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594562278847,
-                        "id": 25
+                        "id": 27
                     }
                 ],
                 [
@@ -342,18 +420,25 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594562368362,
-                        "id": 26
+                        "id": 28
                     }
                 ],
                 [
-                    "选择语言和OCR引擎，点击菜单-编辑-自动识别气泡，可以自动识别气泡。",
-                    "Select the language and OCR engine, click Edit->Detect Balloons.",
-                    "选择语言和OCR引擎，点击菜单-编辑-自动识别气泡，可以自动识别气泡。",
+                    "选择语言和OCR引擎（仅限百度或者Azure），点击菜单-编辑-自动识别气泡，可以自动识别气泡。",
+                    "",
+                    "选择语言和OCR引擎（仅限百度或者Azure），点击菜单-编辑-自动识别气泡，可以自动识别气泡。",
                     "gettingstarted.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594699595915,
-                        "id": 27
+                        "id": 29
+                    }
+                ],
+                [
+                    "另提供较为复杂的启发式和自然场景文字检测方法，详见 :ref:`text-detection`",
+                    "",
+                    "另提供较为复杂的启发式和自然场景文字检测方法，详见 :ref:`text-detection`",
+                    "gettingstarted.po",
+                    {
+                        "id": 30
                     }
                 ],
                 [
@@ -365,7 +450,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594562454713,
-                        "id": 28
+                        "id": 31
                     }
                 ],
                 [
@@ -376,7 +461,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594562515094,
-                        "id": 29
+                        "id": 32
                     }
                 ],
                 [
@@ -387,7 +472,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594562545639,
-                        "id": 29
+                        "id": 32
                     }
                 ],
                 [
@@ -398,7 +483,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594559415382,
-                        "id": 30
+                        "id": 33
                     }
                 ],
                 [
@@ -409,7 +494,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594562566449,
-                        "id": 31
+                        "id": 34
                     }
                 ],
                 [
@@ -420,7 +505,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594559416021,
-                        "id": 32
+                        "id": 35
                     }
                 ],
                 [
@@ -431,7 +516,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594559416206,
-                        "id": 33
+                        "id": 36
                     }
                 ],
                 [
@@ -442,7 +527,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594562610792,
-                        "id": 34
+                        "id": 37
                     }
                 ],
                 [
@@ -453,7 +538,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594562639928,
-                        "id": 35
+                        "id": 38
                     }
                 ],
                 [
@@ -464,7 +549,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594699660896,
-                        "id": 36
+                        "id": 39
                     }
                 ],
                 [
@@ -475,7 +560,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594562784898,
-                        "id": 37
+                        "id": 40
                     }
                 ],
                 [
@@ -486,7 +571,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594562855592,
-                        "id": 38
+                        "id": 41
                     }
                 ],
                 [
@@ -497,7 +582,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594559417834,
-                        "id": 39
+                        "id": 42
                     }
                 ],
                 [
@@ -508,7 +593,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594562886119,
-                        "id": 40
+                        "id": 43
                     }
                 ],
                 [
@@ -519,7 +604,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594562968727,
-                        "id": 41
+                        "id": 44
                     }
                 ],
                 [
@@ -530,7 +615,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594559418804,
-                        "id": 42
+                        "id": 45
                     }
                 ],
                 [
@@ -541,7 +626,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594559418995,
-                        "id": 43
+                        "id": 46
                     }
                 ],
                 [
@@ -552,7 +637,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594563043639,
-                        "id": 44
+                        "id": 47
                     }
                 ],
                 [
@@ -563,7 +648,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594563102474,
-                        "id": 44
+                        "id": 47
                     }
                 ],
                 [
@@ -574,7 +659,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594563134110,
-                        "id": 44
+                        "id": 47
                     }
                 ],
                 [
@@ -585,7 +670,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594559420222,
-                        "id": 45
+                        "id": 48
                     }
                 ],
                 [
@@ -596,7 +681,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594563187263,
-                        "id": 46
+                        "id": 49
                     }
                 ],
                 [
@@ -607,7 +692,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594559420685,
-                        "id": 46
+                        "id": 49
                     }
                 ],
                 [
@@ -618,7 +703,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594559420826,
-                        "id": 47
+                        "id": 50
                     }
                 ],
                 [
@@ -629,7 +714,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594563218414,
-                        "id": 48
+                        "id": 51
                     }
                 ],
                 [
@@ -640,7 +725,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594699766690,
-                        "id": 48
+                        "id": 51
                     }
                 ],
                 [
@@ -651,7 +736,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594563405568,
-                        "id": 49
+                        "id": 52
                     }
                 ],
                 [
@@ -663,7 +748,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594563428655,
-                        "id": 50
+                        "id": 53
                     }
                 ],
                 [
@@ -674,7 +759,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594563449406,
-                        "id": 51
+                        "id": 54
                     }
                 ],
                 [
@@ -685,7 +770,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594563542705,
-                        "id": 51
+                        "id": 54
                     }
                 ],
                 [
@@ -696,7 +781,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594692336545,
-                        "id": 51
+                        "id": 54
                     }
                 ],
                 [
@@ -707,7 +792,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594692356227,
-                        "id": 52
+                        "id": 55
                     }
                 ],
                 [
@@ -718,7 +803,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594692362064,
-                        "id": 53
+                        "id": 56
                     }
                 ],
                 [
@@ -729,7 +814,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594692456072,
-                        "id": 54
+                        "id": 57
                     }
                 ],
                 [
@@ -740,7 +825,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594692495479,
-                        "id": 55
+                        "id": 58
                     }
                 ],
                 [
@@ -751,7 +836,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594692540543,
-                        "id": 56
+                        "id": 59
                     }
                 ],
                 [
@@ -762,7 +847,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594692561135,
-                        "id": 56
+                        "id": 59
                     }
                 ],
                 [
@@ -773,7 +858,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594559425337,
-                        "id": 57
+                        "id": 60
                     }
                 ],
                 [
@@ -784,7 +869,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594692607072,
-                        "id": 57
+                        "id": 60
                     }
                 ],
                 [
@@ -795,7 +880,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594559425842,
-                        "id": 57
+                        "id": 60
                     }
                 ],
                 [
@@ -806,7 +891,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594692635632,
-                        "id": 57
+                        "id": 60
                     }
                 ],
                 [
@@ -817,7 +902,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594692650735,
-                        "id": 58
+                        "id": 61
                     }
                 ],
                 [
@@ -828,7 +913,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594692684664,
-                        "id": 59
+                        "id": 62
                     }
                 ],
                 [
@@ -839,7 +924,25 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594692773335,
-                        "id": 59
+                        "id": 62
+                    }
+                ],
+                [
+                    "点击左侧的字体按钮以启用字体设置工具栏，可以便捷地设置本地样式。",
+                    "",
+                    "点击左侧的字体按钮以启用字体设置工具栏，可以便捷地设置本地样式。",
+                    "gettingstarted.po",
+                    {
+                        "id": 63
+                    }
+                ],
+                [
+                    "点击左侧的多选按钮以启动多选工具栏，可以调整多个文本框的位置并统一其字体样式。",
+                    "",
+                    "点击左侧的多选按钮以启动多选工具栏，可以调整多个文本框的位置并统一其字体样式。",
+                    "gettingstarted.po",
+                    {
+                        "id": 64
                     }
                 ],
                 [
@@ -850,7 +953,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594559427591,
-                        "id": 60
+                        "id": 65
                     }
                 ],
                 [
@@ -861,7 +964,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594699840402,
-                        "id": 61
+                        "id": 66
                     }
                 ]
             ]

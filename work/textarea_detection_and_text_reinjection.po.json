@@ -36,6 +36,51 @@
                     }
                 ],
                 [
+                    "ImageTrans支持四种文字检测方式：OCR提供的检测功能、基于深度学习目标检测的气泡检测功能、基于规则的启发式检测方法和自然场景文字检测方法。",
+                    "",
+                    "ImageTrans支持四种文字检测方式：OCR提供的检测功能、基于深度学习目标检测的气泡检测功能、基于规则的启发式检测方法和自然场景文字检测方法。",
+                    "textarea_detection_and_text_reinjection.po",
+                    {
+                        "id": 5
+                    }
+                ],
+                [
+                    "这里主要介绍启发式和自然场景文字检测方法。",
+                    "",
+                    "这里主要介绍启发式和自然场景文字检测方法。",
+                    "textarea_detection_and_text_reinjection.po",
+                    {
+                        "id": 6
+                    }
+                ],
+                [
+                    "启发式",
+                    "",
+                    "启发式",
+                    "textarea_detection_and_text_reinjection.po",
+                    {
+                        "id": 7
+                    }
+                ],
+                [
+                    "启发式方法能够较为精确地生成文字区域，并提供详细的参数设置，可以针对不同漫画调整以取得期望的结果。",
+                    "",
+                    "启发式方法能够较为精确地生成文字区域，并提供详细的参数设置，可以针对不同漫画调整以取得期望的结果。",
+                    "textarea_detection_and_text_reinjection.po",
+                    {
+                        "id": 8
+                    }
+                ],
+                [
+                    "操作方法：",
+                    "",
+                    "操作方法：",
+                    "textarea_detection_and_text_reinjection.po",
+                    {
+                        "id": 9
+                    }
+                ],
+                [
                     "点击编辑-自动定位文字（启发式），将获得所有候选文字区域",
                     "Click Edit->Detect text areas (heuristic) to get all the candidate text areas",
                     "点击编辑-自动定位文字（启发式），将获得所有候选文字区域",
@@ -43,7 +88,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594696000820,
-                        "id": 5
+                        "id": 10
                     }
                 ],
                 [
@@ -54,7 +99,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594696104110,
-                        "id": 6
+                        "id": 11
                     }
                 ],
                 [
@@ -65,7 +110,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594696184491,
-                        "id": 6
+                        "id": 11
                     }
                 ],
                 [
@@ -76,7 +121,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594696271860,
-                        "id": 7
+                        "id": 12
                     }
                 ],
                 [
@@ -87,7 +132,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594696298540,
-                        "id": 8
+                        "id": 13
                     }
                 ],
                 [
@@ -98,7 +143,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594696700389,
-                        "id": 9
+                        "id": 14
                     }
                 ],
                 [
@@ -109,7 +154,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594563738700,
-                        "id": 10
+                        "id": 15
                     }
                 ],
                 [
@@ -120,7 +165,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594696820977,
-                        "id": 11
+                        "id": 16
                     }
                 ],
                 [
@@ -131,7 +176,25 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594696949011,
-                        "id": 12
+                        "id": 17
+                    }
+                ],
+                [
+                    "自然场景文字检测",
+                    "",
+                    "自然场景文字检测",
+                    "textarea_detection_and_text_reinjection.po",
+                    {
+                        "id": 18
+                    }
+                ],
+                [
+                    "自然场景文字检测功能允许用户调用EAST、CRAFT等开源自然场景文字检测方法，这类方法的准确率较高，并能检测倾斜文本，但一般需要花费较长的运行时间。",
+                    "",
+                    "自然场景文字检测功能允许用户调用EAST、CRAFT等开源自然场景文字检测方法，这类方法的准确率较高，并能检测倾斜文本，但一般需要花费较长的运行时间。",
+                    "textarea_detection_and_text_reinjection.po",
+                    {
+                        "id": 19
                     }
                 ],
                 [
@@ -142,18 +205,16 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594696956541,
-                        "id": 13
+                        "id": 20
                     }
                 ],
                 [
-                    "译文回填分为两步，一步是原文抹除，一步是译文的放置。",
-                    "Translation reinjection consists of two steps: source text removal and replacement of target text.",
-                    "译文回填分为两步，一步是原文抹除，一步是译文的放置。",
+                    "译文回填分为两步：原文抹除和译文的放置。",
+                    "",
+                    "译文回填分为两步：原文抹除和译文的放置。",
                     "textarea_detection_and_text_reinjection.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594696985595,
-                        "id": 14
+                        "id": 21
                     }
                 ],
                 [
@@ -164,7 +225,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594696994564,
-                        "id": 15
+                        "id": 22
                     }
                 ],
                 [
@@ -175,18 +236,25 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594697019019,
-                        "id": 16
+                        "id": 23
                     }
                 ],
                 [
-                    "精确模式下，会先生成文字掩膜，再根据掩膜进行图像修复。",
-                    "In precision mode, text mask will be generated first, and then image inpainting method will be used to remove text.",
-                    "精确模式下，会先生成文字掩膜，再根据掩膜进行图像修复。",
+                    "精确模式下，会先生成文字掩膜，再根据掩膜进行背景还原。",
+                    "",
+                    "精确模式下，会先生成文字掩膜，再根据掩膜进行背景还原。",
                     "textarea_detection_and_text_reinjection.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594697072867,
-                        "id": 17
+                        "id": 24
+                    }
+                ],
+                [
+                    "背景还原方式有两种，一种是使用图像修复方法，一种是用背景颜色生成文字掩膜以覆盖文字。",
+                    "",
+                    "背景还原方式有两种，一种是使用图像修复方法，一种是用背景颜色生成文字掩膜以覆盖文字。",
+                    "textarea_detection_and_text_reinjection.po",
+                    {
+                        "id": 24
                     }
                 ],
                 [
@@ -197,41 +265,43 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594697140452,
-                        "id": 17
+                        "id": 24
                     }
                 ],
                 [
-                    "如果掩膜没有手动生成，每次预览时会自动生成，会耗费时间进行计算。",
-                    "If the mask is not generated manually, it is automatically generated at each preview and the generation will takes time.",
-                    "如果掩膜没有手动生成，每次预览时会自动生成，会耗费时间进行计算。",
-                    "textarea_detection_and_text_reinjection.po",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1594697634758,
-                        "id": 17
-                    }
-                ],
-                [
-                    "需要注意的一点是浅色字体区域，需要先设置背景颜色和文字颜色，程序判断文字颜色比背景颜色浅时会对图像颜色做反转，这样文字掩膜才能够生成。",
+                    "注意：",
                     "",
-                    "需要注意的一点是浅色字体区域，需要先设置背景颜色和文字颜色，程序判断文字颜色比背景颜色浅时会对图像颜色做反转，这样文字掩膜才能够生成。",
+                    "注意：",
                     "textarea_detection_and_text_reinjection.po",
                     {
-                        "neglected": "yes",
-                        "creator": "xulihang",
-                        "createdTime": 1594698735756,
-                        "id": 17
+                        "id": 25
                     }
                 ],
                 [
-                    "非精确模式下，则会使用背景颜色生成一个文本框进行遮盖。",
-                    "In imprecision mode, a rectangular box will be generated with background color as mask.",
-                    "非精确模式下，则会使用背景颜色生成一个文本框进行遮盖。",
+                    "如果掩膜没有手动生成，每次查看翻译版本时会自动生成，会耗费时间进行计算。",
+                    "",
+                    "如果掩膜没有手动生成，每次查看翻译版本时会自动生成，会耗费时间进行计算。",
                     "textarea_detection_and_text_reinjection.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594698834080,
-                        "id": 18
+                        "id": 26
+                    }
+                ],
+                [
+                    "浅色字体区域需要先设置背景颜色和文字颜色或者勾选项目设置里的相关选项，这样程序会判断文字颜色是不是比背景颜色浅，如果较浅，则会对图像做颜色反转，文字掩膜才能够正确生成。",
+                    "",
+                    "浅色字体区域需要先设置背景颜色和文字颜色或者勾选项目设置里的相关选项，这样程序会判断文字颜色是不是比背景颜色浅，如果较浅，则会对图像做颜色反转，文字掩膜才能够正确生成。",
+                    "textarea_detection_and_text_reinjection.po",
+                    {
+                        "id": 27
+                    }
+                ],
+                [
+                    "非精确模式下，则会使用背景颜色生成一个文本框进行遮盖，如果该文本框尚没有设置原文和译文，颜色会变成半透明。",
+                    "",
+                    "非精确模式下，则会使用背景颜色生成一个文本框进行遮盖，如果该文本框尚没有设置原文和译文，颜色会变成半透明。",
+                    "textarea_detection_and_text_reinjection.po",
+                    {
+                        "id": 28
                     }
                 ],
                 [
@@ -242,18 +312,25 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594698880685,
-                        "id": 18
+                        "id": 28
                     }
                 ],
                 [
-                    "下图是掩膜编辑器：",
-                    "The following is the mask editor:",
-                    "下图是掩膜编辑器：",
+                    "下图是掩膜编辑器和去除文字器，能用于调整掩膜和文字去除结果：",
+                    "",
+                    "下图是掩膜编辑器和去除文字器，能用于调整掩膜和文字去除结果：",
                     "textarea_detection_and_text_reinjection.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594698893482,
-                        "id": 19
+                        "id": 29
+                    }
+                ],
+                [
+                    "掩膜生成和图像修复支持调用插件以使用第三方的方法，现有的插件是 `Sickzil-machine <https:\/\/github.com\/xulihang\/SickZil-Machine>`_。",
+                    "",
+                    "掩膜生成和图像修复支持调用插件以使用第三方的方法，现有的插件是 `Sickzil-machine <https:\/\/github.com\/xulihang\/SickZil-Machine>`_。",
+                    "textarea_detection_and_text_reinjection.po",
+                    {
+                        "id": 30
                     }
                 ],
                 [
@@ -264,7 +341,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594698900741,
-                        "id": 20
+                        "id": 31
                     }
                 ],
                 [
@@ -275,7 +352,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594699012602,
-                        "id": 21
+                        "id": 32
                     }
                 ],
                 [
@@ -286,7 +363,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594699014618,
-                        "id": 22
+                        "id": 33
                     }
                 ],
                 [
@@ -297,7 +374,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1594699051768,
-                        "id": 23
+                        "id": 34
                     }
                 ]
             ]

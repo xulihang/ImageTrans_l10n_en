@@ -1,0 +1,180 @@
+{
+    "filename": "tools.po",
+    "files": [
+        {
+            "tools.po": [
+                [
+                    "工具",
+                    "",
+                    "工具",
+                    "tools.po",
+                    {
+                        "id": 2
+                    }
+                ],
+                [
+                    "ImageTrans还附带了一系列工具。",
+                    "",
+                    "ImageTrans还附带了一系列工具。",
+                    "tools.po",
+                    {
+                        "id": 3
+                    }
+                ],
+                [
+                    "屏幕阅读器",
+                    "",
+                    "屏幕阅读器",
+                    "tools.po",
+                    {
+                        "id": 4
+                    }
+                ],
+                [
+                    "截取屏幕并OCR和翻译，所得的结果可以保存到项目中。",
+                    "",
+                    "截取屏幕并OCR和翻译，所得的结果可以保存到项目中。",
+                    "tools.po",
+                    {
+                        "id": 5
+                    }
+                ],
+                [
+                    "静默翻译器",
+                    "",
+                    "静默翻译器",
+                    "tools.po",
+                    {
+                        "id": 6
+                    }
+                ],
+                [
+                    "可以以静默方式批量翻译图片，并支持终端调用。",
+                    "",
+                    "可以以静默方式批量翻译图片，并支持终端调用。",
+                    "tools.po",
+                    {
+                        "id": 7
+                    }
+                ],
+                [
+                    "终端调用方式：",
+                    "",
+                    "终端调用方式：",
+                    "tools.po",
+                    {
+                        "id": 8
+                    }
+                ],
+                [
+                    "``java -jar ImageTrans.jar configPath usePrevious detectOnly outdir fileListPath``",
+                    "",
+                    "``java -jar ImageTrans.jar configPath usePrevious detectOnly outdir fileListPath``",
+                    "tools.po",
+                    {
+                        "id": 9
+                    }
+                ],
+                [
+                    "参数说明：",
+                    "",
+                    "参数说明：",
+                    "tools.po",
+                    {
+                        "id": 10
+                    }
+                ],
+                [
+                    "configPath：运行参数文件路径，内容为静默翻译器右侧显示的参数",
+                    "",
+                    "configPath：运行参数文件路径，内容为静默翻译器右侧显示的参数",
+                    "tools.po",
+                    {
+                        "id": 11
+                    }
+                ],
+                [
+                    "usePrevious：是否使用之前的数据，可选值为true和false",
+                    "",
+                    "usePrevious：是否使用之前的数据，可选值为true和false",
+                    "tools.po",
+                    {
+                        "id": 12
+                    }
+                ],
+                [
+                    "detectOnly：是否仅检测文字区域，可选值为true和false",
+                    "",
+                    "detectOnly：是否仅检测文字区域，可选值为true和false",
+                    "tools.po",
+                    {
+                        "id": 13
+                    }
+                ],
+                [
+                    "outdir：输出文件夹",
+                    "",
+                    "outdir：输出文件夹",
+                    "tools.po",
+                    {
+                        "id": 14
+                    }
+                ],
+                [
+                    "fileListPath：待处理文件的列表，用换行分隔",
+                    "",
+                    "fileListPath：待处理文件的列表，用换行分隔",
+                    "tools.po",
+                    {
+                        "id": 15
+                    }
+                ],
+                [
+                    "可以搭配 `ImageTrans_Server <https:\/\/github.com\/xulihang\/ImageTrans_Server>`_ 提供在线服务",
+                    "",
+                    "可以搭配 `ImageTrans_Server <https:\/\/github.com\/xulihang\/ImageTrans_Server>`_ 提供在线服务",
+                    "tools.po",
+                    {
+                        "id": 16
+                    }
+                ],
+                [
+                    "服务器",
+                    "",
+                    "服务器",
+                    "tools.po",
+                    {
+                        "id": 17
+                    }
+                ],
+                [
+                    "该工具可以允许其它软件调用ImageTrans翻译图片。",
+                    "",
+                    "该工具可以允许其它软件调用ImageTrans翻译图片。",
+                    "tools.po",
+                    {
+                        "id": 18
+                    }
+                ],
+                [
+                    "`ImageTrans Chrome插件 <https:\/\/github.com\/xulihang\/ImageTrans_chrome_extension>`_ 需要使用这一功能。",
+                    "",
+                    "`ImageTrans Chrome插件 <https:\/\/github.com\/xulihang\/ImageTrans_chrome_extension>`_ 需要使用这一功能。",
+                    "tools.po",
+                    {
+                        "id": 19
+                    }
+                ],
+                [
+                    "该插件能用ImageTrans翻译网页中的图片，图片和处理结果会自动添加到ImageTrans当前的项目中。",
+                    "",
+                    "该插件能用ImageTrans翻译网页中的图片，图片和处理结果会自动添加到ImageTrans当前的项目中。",
+                    "tools.po",
+                    {
+                        "id": 20
+                    }
+                ]
+            ]
+        }
+    ]
+}

@@ -188,6 +188,96 @@
                         "createdTime": 1594695302693,
                         "id": 17
                     }
+                ],
+                [
+                    "下面是需要设置API密钥的服务的列表。",
+                    "",
+                    "下面是需要设置API密钥的服务的列表。",
+                    "settings.po",
+                    {
+                        "id": 18
+                    }
+                ],
+                [
+                    "OCR:",
+                    "",
+                    "OCR:",
+                    "settings.po",
+                    {
+                        "id": 19
+                    }
+                ],
+                [
+                    "`Google <https:\/\/cloud.google.com\/vision\/docs\/ocr>`_",
+                    "",
+                    "`Google <https:\/\/cloud.google.com\/vision\/docs\/ocr>`_",
+                    "settings.po",
+                    {
+                        "id": 20
+                    }
+                ],
+                [
+                    "`搜狗 <https:\/\/deepi.sogou.com\/>`_",
+                    "",
+                    "`搜狗 <https:\/\/deepi.sogou.com\/>`_",
+                    "settings.po",
+                    {
+                        "id": 21
+                    }
+                ],
+                [
+                    "`百度 <https:\/\/cloud.baidu.com\/product\/ocr_general>`_",
+                    "",
+                    "`百度 <https:\/\/cloud.baidu.com\/product\/ocr_general>`_",
+                    "settings.po",
+                    {
+                        "id": 22
+                    }
+                ],
+                [
+                    "`腾讯 <https:\/\/cloud.tencent.com\/product\/generalocr>`_",
+                    "",
+                    "`腾讯 <https:\/\/cloud.tencent.com\/product\/generalocr>`_",
+                    "settings.po",
+                    {
+                        "id": 23
+                    }
+                ],
+                [
+                    "`有道 <http:\/\/ai.youdao.com\/product-ocr-print.s>`_",
+                    "",
+                    "`有道 <http:\/\/ai.youdao.com\/product-ocr-print.s>`_",
+                    "settings.po",
+                    {
+                        "id": 24
+                    }
+                ],
+                [
+                    "`OCRSPACE <https:\/\/ocr.space\/OCRAPI>`_",
+                    "",
+                    "`OCRSPACE <https:\/\/ocr.space\/OCRAPI>`_",
+                    "settings.po",
+                    {
+                        "id": 25
+                    }
+                ],
+                [
+                    "`微软Azure <https:\/\/azure.microsoft.com\/zh-cn\/services\/cognitive-services\/computer-vision\/>`_",
+                    "",
+                    "`微软Azure <https:\/\/azure.microsoft.com\/zh-cn\/services\/cognitive-services\/computer-vision\/>`_",
+                    "settings.po",
+                    {
+                        "id": 26
+                    }
+                ],
+                [
+                    "机器翻译见BasicCAT的\\\\ `文档 <https:\/\/docs.basiccat.org\/en\/latest\/advancedFeatures.html#id2>`_。",
+                    "",
+                    "机器翻译见BasicCAT的\\\\ `文档 <https:\/\/docs.basiccat.org\/en\/latest\/advancedFeatures.html#id2>`_。",
+                    "settings.po",
+                    {
+                        "id": 27
+                    }
                 ]
             ]
         }

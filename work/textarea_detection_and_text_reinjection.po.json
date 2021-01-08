@@ -37,46 +37,58 @@
                 ],
                 [
                     "ImageTrans支持四种文字检测方式：OCR提供的检测功能、基于深度学习目标检测的气泡检测功能、基于规则的启发式检测方法和自然场景文字检测方法。",
-                    "",
+                    "ImageTrans supports four text detection methods: text detection provided by OCR, balloons (bubbles) detection using deep learning object detection, rule-based heuristic detection method and natural scene text detection method.",
                     "ImageTrans支持四种文字检测方式：OCR提供的检测功能、基于深度学习目标检测的气泡检测功能、基于规则的启发式检测方法和自然场景文字检测方法。",
                     "textarea_detection_and_text_reinjection.po",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1610105254213,
                         "id": 5
                     }
                 ],
                 [
                     "这里主要介绍启发式和自然场景文字检测方法。",
-                    "",
+                    "Here, we mainly explain the heuristic and natural scene text detection methods.",
                     "这里主要介绍启发式和自然场景文字检测方法。",
                     "textarea_detection_and_text_reinjection.po",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1610105323987,
                         "id": 6
                     }
                 ],
                 [
                     "启发式",
-                    "",
+                    "Heuristic",
                     "启发式",
                     "textarea_detection_and_text_reinjection.po",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1598847523867,
                         "id": 7
                     }
                 ],
                 [
                     "启发式方法能够较为精确地生成文字区域，并提供详细的参数设置，可以针对不同漫画调整以取得期望的结果。",
-                    "",
+                    "The heuristic method can generate text areas more accurately and provide detailed parameter settings, which can be adjusted for different comics to achieve better results.",
                     "启发式方法能够较为精确地生成文字区域，并提供详细的参数设置，可以针对不同漫画调整以取得期望的结果。",
                     "textarea_detection_and_text_reinjection.po",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1610105383158,
                         "id": 8
                     }
                 ],
                 [
                     "操作方法：",
-                    "",
+                    "Operation:",
                     "操作方法：",
                     "textarea_detection_and_text_reinjection.po",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1592313528000,
                         "id": 9
                     }
                 ],
@@ -181,19 +193,24 @@
                 ],
                 [
                     "自然场景文字检测",
-                    "",
+                    "Natural Scene Text Detection",
                     "自然场景文字检测",
                     "textarea_detection_and_text_reinjection.po",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1594695209694,
                         "id": 18
                     }
                 ],
                 [
                     "自然场景文字检测功能允许用户调用EAST、CRAFT等开源自然场景文字检测方法，这类方法的准确率较高，并能检测倾斜文本，但一般需要花费较长的运行时间。",
-                    "",
+                    "The natural scene text detection allows users to call open source natural scene text detection methods such as EAST and CRAFT, which have high accuracy and can detect tilted text. But it generally take a long time to produce the result.",
                     "自然场景文字检测功能允许用户调用EAST、CRAFT等开源自然场景文字检测方法，这类方法的准确率较高，并能检测倾斜文本，但一般需要花费较长的运行时间。",
                     "textarea_detection_and_text_reinjection.po",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1610105470291,
                         "id": 19
                     }
                 ],
@@ -210,10 +227,13 @@
                 ],
                 [
                     "译文回填分为两步：原文抹除和译文的放置。",
-                    "",
+                    "Translation reinjection consists of two steps: source text removal and replacement of target text.",
                     "译文回填分为两步：原文抹除和译文的放置。",
                     "textarea_detection_and_text_reinjection.po",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1594696985595,
                         "id": 21
                     }
                 ],
@@ -241,19 +261,24 @@
                 ],
                 [
                     "精确模式下，会先生成文字掩膜，再根据掩膜进行背景还原。",
-                    "",
+                    "In precision mode, text mask will be generated first, and then restore the background according to the mask.",
                     "精确模式下，会先生成文字掩膜，再根据掩膜进行背景还原。",
                     "textarea_detection_and_text_reinjection.po",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1610105540655,
                         "id": 24
                     }
                 ],
                 [
                     "背景还原方式有两种，一种是使用图像修复方法，一种是用背景颜色生成文字掩膜以覆盖文字。",
-                    "",
+                    "There are two ways to restore the background: one is to use the image inpainting method, and the other is to use the background color to generate a text mask to cover the text.",
                     "背景还原方式有两种，一种是使用图像修复方法，一种是用背景颜色生成文字掩膜以覆盖文字。",
                     "textarea_detection_and_text_reinjection.po",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1610105572141,
                         "id": 24
                     }
                 ],
@@ -270,37 +295,48 @@
                 ],
                 [
                     "注意：",
-                    "",
+                    "Note:",
                     "注意：",
                     "textarea_detection_and_text_reinjection.po",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1610105586964,
                         "id": 25
                     }
                 ],
                 [
                     "如果掩膜没有手动生成，每次查看翻译版本时会自动生成，会耗费时间进行计算。",
-                    "",
+                    "If the mask is not generated manually, mask and text-removed images are automatically generated every time you switch to the translated version. The generation will takes time.",
                     "如果掩膜没有手动生成，每次查看翻译版本时会自动生成，会耗费时间进行计算。",
                     "textarea_detection_and_text_reinjection.po",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1610105649259,
                         "id": 26
                     }
                 ],
                 [
                     "浅色字体区域需要先设置背景颜色和文字颜色或者勾选项目设置里的相关选项，这样程序会判断文字颜色是不是比背景颜色浅，如果较浅，则会对图像做颜色反转，文字掩膜才能够正确生成。",
-                    "",
+                    "For areas with light font color, you need to set the background color and text color first or enable relevant project settings so that the program will reverse the image color to generate mask correctly.",
                     "浅色字体区域需要先设置背景颜色和文字颜色或者勾选项目设置里的相关选项，这样程序会判断文字颜色是不是比背景颜色浅，如果较浅，则会对图像做颜色反转，文字掩膜才能够正确生成。",
                     "textarea_detection_and_text_reinjection.po",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1610105746162,
                         "id": 27
                     }
                 ],
                 [
                     "非精确模式下，则会使用背景颜色生成一个文本框进行遮盖，如果该文本框尚没有设置原文和译文，颜色会变成半透明。",
-                    "",
+                    "In imprecision mode, a rectangular box will be generated with a colored background to cover text. If the box has no source text nor target text, it will be transparent.",
                     "非精确模式下，则会使用背景颜色生成一个文本框进行遮盖，如果该文本框尚没有设置原文和译文，颜色会变成半透明。",
                     "textarea_detection_and_text_reinjection.po",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1610105843692,
                         "id": 28
                     }
                 ],
@@ -317,19 +353,23 @@
                 ],
                 [
                     "下图是掩膜编辑器和去除文字器，能用于调整掩膜和文字去除结果：",
-                    "",
+                    "The following image shows the Mask Editor and the Text Remover, which can be used to adjust the mask and text removal results:",
                     "下图是掩膜编辑器和去除文字器，能用于调整掩膜和文字去除结果：",
                     "textarea_detection_and_text_reinjection.po",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1610105888592,
                         "id": 29
                     }
                 ],
                 [
                     "掩膜生成和图像修复支持调用插件以使用第三方的方法，现有的插件是 `Sickzil-machine <https:\/\/github.com\/xulihang\/SickZil-Machine>`_。",
-                    "",
+                    "There is plug-in support for mask generation and image inpainting to use third-party methods. The existing plug-in is `Sickzil-machine <https:\/\/github.com\/xulihang\/SickZil-Machine>`_.",
                     "掩膜生成和图像修复支持调用插件以使用第三方的方法，现有的插件是 `Sickzil-machine <https:\/\/github.com\/xulihang\/SickZil-Machine>`_。",
                     "textarea_detection_and_text_reinjection.po",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1610105970711,
                         "id": 30
                     }
                 ],

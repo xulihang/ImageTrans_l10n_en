@@ -37,28 +37,36 @@
                 ],
                 [
                     "需要使用Tesseract进行OCR的话请自行下载安装（`地址 <https:\/\/tesseract-ocr.github.io\/tessdoc\/Downloads.html>`_）。",
-                    "",
+                    "If you need to use Tesseract for OCR, please install it by yourself （`Link <https:\/\/tesseract-ocr.github.io\/tessdoc\/Downloads.html>`_）.",
                     "需要使用Tesseract进行OCR的话请自行下载安装（`地址 <https:\/\/tesseract-ocr.github.io\/tessdoc\/Downloads.html>`_）。",
                     "gettingstarted.po",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1610104104641,
                         "id": 5
                     }
                 ],
                 [
                     "这里再提供一个Windows的绿色版本：`百度网盘（提取码：ktpt） <https:\/\/pan.baidu.com\/s\/1gJZyuntLetZEpFWI8XqkXA>`_。",
-                    "",
+                    "Here is a Windows version for download: `Baidu Netdisk (code: ktpt) <https:\/\/pan.baidu.com\/s\/1gJZyuntLetZEpFWI8XqkXA>`_).",
                     "这里再提供一个Windows的绿色版本：`百度网盘（提取码：ktpt） <https:\/\/pan.baidu.com\/s\/1gJZyuntLetZEpFWI8XqkXA>`_。",
                     "gettingstarted.po",
                     {
+                        "neglected": "no",
+                        "creator": "xulihang",
+                        "createdTime": 1610104388727,
                         "id": 5
                     }
                 ],
                 [
                     "下载后将tesseract-ocr目录和ImageTrans放在一起。",
-                    "",
+                    "Put the downloaded tesseract-ocr with ImageTrans.",
                     "下载后将tesseract-ocr目录和ImageTrans放在一起。",
                     "gettingstarted.po",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1610104263726,
                         "id": 5
                     }
                 ],
@@ -75,10 +83,13 @@
                 ],
                 [
                     "本工具支持的在线OCR和机器翻译服务均需要设置API才能使用，其中谷歌翻译、云译和ocrspace为免费提供。",
-                    "",
+                    "Both online OCR and machine translation services supported by this tool require API keys to be used. Google Translation, Cloud Translation and OCRSpace are available free of charge.",
                     "本工具支持的在线OCR和机器翻译服务均需要设置API才能使用，其中谷歌翻译、云译和ocrspace为免费提供。",
                     "gettingstarted.po",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1610104298192,
                         "id": 6
                     }
                 ],
@@ -117,73 +128,102 @@
                 ],
                 [
                     "软件依赖JRE 1.8运行环境，请先下载安装。",
-                    "",
+                    "The software depends on JRE 1.8. Please download and install it first.",
                     "软件依赖JRE 1.8运行环境，请先下载安装。",
                     "gettingstarted.po",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1610104338336,
                         "id": 9
                     }
                 ],
                 [
                     "下载地址：1.",
-                    "",
+                    "Download: 1.",
                     "下载地址：1.",
                     "gettingstarted.po",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1610104348081,
                         "id": 9
                     }
                 ],
                 [
-                    "`Liberica 8u275 full version  <https:\/\/github.com\/bell-sw\/Liberica\/releases\/tag\/8u275%2B1>`_ 2.",
-                    "",
-                    " `Liberica 8u275 full version  <https:\/\/github.com\/bell-sw\/Liberica\/releases\/tag\/8u275%2B1>`_ 2.",
+                    "`Liberica 8u275 full version  <https:\/\/github.com\/bell-sw\/Liberica\/releases\/tag\/8u275%2B1>`_",
+                    "`Liberica 8u275 full version  <https:\/\/github.com\/bell-sw\/Liberica\/releases\/tag\/8u275%2B1>`_",
+                    " `Liberica 8u275 full version  <https:\/\/github.com\/bell-sw\/Liberica\/releases\/tag\/8u275%2B1>`_",
                     "gettingstarted.po",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1610105029892,
+                        "id": 9
+                    }
+                ],
+                [
+                    "2.",
+                    "2.",
+                    " 2.",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1610105029892,
                         "id": 9
                     }
                 ],
                 [
                     "`百度网盘（提取码：mhsy） <https:\/\/pan.baidu.com\/s\/1t0g6htstFge0h2dOS0aBog>`_",
-                    "",
+                    "`Baidu Netdisk (code: mhsy) <https:\/\/pan.baidu.com\/s\/1t0g6htstFge0h2dOS0aBog>`_",
                     " `百度网盘（提取码：mhsy） <https:\/\/pan.baidu.com\/s\/1t0g6htstFge0h2dOS0aBog>`_",
                     "gettingstarted.po",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1610104404785,
                         "id": 9
                     }
                 ],
                 [
                     "软件依赖OpenCV，请根据系统下载运行库文件，解压后放在ImageTrans的目录下。",
-                    "",
+                    "ImageTrans also relies on OpenCV, please download the runtime file according to your system, unzip and put them under ImageTrans's folder.",
                     "软件依赖OpenCV，请根据系统下载运行库文件，解压后放在ImageTrans的目录下。",
                     "gettingstarted.po",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1610104455813,
                         "id": 10
                     }
                 ],
                 [
                     "下载地址：1.",
-                    "",
+                    "Download: 1.",
                     "下载地址：1.",
                     "gettingstarted.po",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1610104348081,
                         "id": 10
                     }
                 ],
                 [
                     "`GitHub <https:\/\/github.com\/xulihang\/ImageTrans-docs\/releases\/tag\/opencv>`_, 2.",
-                    "",
+                    "`GitHub <https:\/\/github.com\/xulihang\/ImageTrans-docs\/releases\/tag\/opencv>`_, 2.",
                     " `GitHub <https:\/\/github.com\/xulihang\/ImageTrans-docs\/releases\/tag\/opencv>`_, 2.",
                     "gettingstarted.po",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1610104446275,
                         "id": 10
                     }
                 ],
                 [
                     "`百度网盘 <https:\/\/pan.baidu.com\/s\/1D9EZMKqwgqQjdEjwYFkZQQ>`_",
-                    "",
+                    "`Baidu Netdisk <https:\/\/pan.baidu.com\/s\/1D9EZMKqwgqQjdEjwYFkZQQ>`_",
                     " `百度网盘 <https:\/\/pan.baidu.com\/s\/1D9EZMKqwgqQjdEjwYFkZQQ>`_",
                     "gettingstarted.po",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1610104470474,
                         "id": 10
                     }
                 ],
@@ -244,10 +284,13 @@
                 ],
                 [
                     "菜单栏点击文件-新建项目，选择一个位置并输入项目文件名以保存。",
-                    "",
+                    "Click File->New, select a place and enter the project name to save the project file.",
                     "菜单栏点击文件-新建项目，选择一个位置并输入项目文件名以保存。",
                     "gettingstarted.po",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1610104498776,
                         "id": 15
                     }
                 ],
@@ -286,10 +329,12 @@
                 ],
                 [
                     "或者用右键菜单-粘贴图片的方式添加单张图片。",
-                    "",
+                    "You can also use the context menu to paste a image.",
                     "或者用右键菜单-粘贴图片的方式添加单张图片。",
                     "gettingstarted.po",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1610104557973,
                         "id": 18
                     }
                 ],
@@ -317,10 +362,12 @@
                 ],
                 [
                     "提供手动框选和四种自动框选，并支持精细调整文本框。",
-                    "",
+                    "The tool supports manual selection and four automatic selection. Further adjustment is also supported.",
                     "提供手动框选和四种自动框选，并支持精细调整文本框。",
                     "gettingstarted.po",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1610104640849,
                         "id": 20
                     }
                 ],
@@ -348,10 +395,12 @@
                 ],
                 [
                     "或者点击左侧工具栏的快速框选按钮，可以直接滑动建框。",
-                    "",
+                    "There is also a quick creation mode. Click the button on the left and you can press and drag your mouse cursor to create boxes quickly.",
                     "或者点击左侧工具栏的快速框选按钮，可以直接滑动建框。",
                     "gettingstarted.po",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1610104818981,
                         "id": 23
                     }
                 ],
@@ -425,19 +474,24 @@
                 ],
                 [
                     "选择语言和OCR引擎（仅限百度或者Azure），点击菜单-编辑-自动识别气泡，可以自动识别气泡。",
-                    "",
+                    "Select the language and OCR engine (only Baidu and Azure support this), click Edit->Detect Balloons.",
                     "选择语言和OCR引擎（仅限百度或者Azure），点击菜单-编辑-自动识别气泡，可以自动识别气泡。",
                     "gettingstarted.po",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1610104850958,
                         "id": 29
                     }
                 ],
                 [
                     "另提供较为复杂的启发式和自然场景文字检测方法，详见 :ref:`text-detection`",
-                    "",
+                    "Heuristic and natural scene text detection methods are also provided, which are more complex. See: ref: `text-detection`",
                     "另提供较为复杂的启发式和自然场景文字检测方法，详见 :ref:`text-detection`",
                     "gettingstarted.po",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1610104901648,
                         "id": 30
                     }
                 ],
@@ -929,19 +983,23 @@
                 ],
                 [
                     "点击左侧的字体按钮以启用字体设置工具栏，可以便捷地设置本地样式。",
-                    "",
+                    "Click the Font button on the left to enable the font settings toolbar, which makes it easy to set local styles.",
                     "点击左侧的字体按钮以启用字体设置工具栏，可以便捷地设置本地样式。",
                     "gettingstarted.po",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1610104937421,
                         "id": 63
                     }
                 ],
                 [
                     "点击左侧的多选按钮以启动多选工具栏，可以调整多个文本框的位置并统一其字体样式。",
-                    "",
+                    "Click the Selection button on the left to enable the multi-selection toolbar. You can adjust the position of multiple text boxes and unify their font styles.",
                     "点击左侧的多选按钮以启动多选工具栏，可以调整多个文本框的位置并统一其字体样式。",
                     "gettingstarted.po",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1610104986298,
                         "id": 64
                     }
                 ],

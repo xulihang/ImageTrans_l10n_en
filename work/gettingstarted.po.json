@@ -143,30 +143,18 @@
                     "下载地址：1.",
                     "gettingstarted.po",
                     {
+                        "note": "",
                         "creator": "xulihang",
                         "createdTime": 1610104348081,
-                        "id": 9
+                        "id": 10
                     }
                 ],
                 [
-                    "`Liberica 8u275 full version  <https:\/\/github.com\/bell-sw\/Liberica\/releases\/tag\/8u275%2B1>`_",
-                    "`Liberica 8u275 full version  <https:\/\/github.com\/bell-sw\/Liberica\/releases\/tag\/8u275%2B1>`_",
-                    " `Liberica 8u275 full version  <https:\/\/github.com\/bell-sw\/Liberica\/releases\/tag\/8u275%2B1>`_",
+                    "`Liberica 8u275 full version  <https:\/\/github.com\/bell-sw\/Liberica\/releases\/tag\/8u275%2B1>`_ 2.",
+                    "",
+                    " `Liberica 8u275 full version  <https:\/\/github.com\/bell-sw\/Liberica\/releases\/tag\/8u275%2B1>`_ 2.",
                     "gettingstarted.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1610105029892,
-                        "id": 9
-                    }
-                ],
-                [
-                    "2.",
-                    "2.",
-                    " 2.",
-                    "gettingstarted.po",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1610105029892,
                         "id": 9
                     }
                 ],
@@ -486,12 +474,12 @@
                 ],
                 [
                     "另提供较为复杂的启发式和自然场景文字检测方法，详见 :ref:`text-detection`",
-                    "Heuristic and natural scene text detection methods are also provided, which are more complex. See :ref: `text-detection`",
+                    "Heuristic and natural scene text detection methods are also provided, which are more complex. See :ref:`text-detection`",
                     "另提供较为复杂的启发式和自然场景文字检测方法，详见 :ref:`text-detection`",
                     "gettingstarted.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1610106667252,
+                        "createdTime": 1610106765728,
                         "id": 30
                     }
                 ],

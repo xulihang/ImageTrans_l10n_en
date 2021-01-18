@@ -2826,10 +2826,12 @@
                 ],
                 [
                     "半透明",
-                    "",
+                    "Translucent",
                     "半透明",
                     "xl\/sharedStrings.xml",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1610953235444,
                         "id": "P147242AB-tu240"
                     }
                 ],

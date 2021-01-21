@@ -2938,17 +2938,6 @@
                     }
                 ],
                 [
-                    "Pretranslate",
-                    "",
-                    "Pretranslate",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1602844834290,
-                        "id": "P147242AB-tu250"
-                    }
-                ],
-                [
                     "模糊匹配",
                     "Fuzzy match",
                     "模糊匹配",
@@ -2957,7 +2946,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594174052953,
-                        "id": "P147242AB-tu251"
+                        "id": "P147242AB-tu250"
                     }
                 ],
                 [
@@ -2969,7 +2958,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1594174055642,
-                        "id": "P147242AB-tu252"
+                        "id": "P147242AB-tu251"
                     }
                 ],
                 [
@@ -2981,7 +2970,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1592312212000,
-                        "id": "P147242AB-tu253"
+                        "id": "P147242AB-tu252"
                     }
                 ],
                 [
@@ -2992,6 +2981,17 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1602844834291,
+                        "id": "P147242AB-tu253"
+                    }
+                ],
+                [
+                    "间隔（毫秒）：",
+                    "Interval (ms):",
+                    "间隔（毫秒）：",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1611234926499,
                         "id": "P147242AB-tu254"
                     }
                 ],

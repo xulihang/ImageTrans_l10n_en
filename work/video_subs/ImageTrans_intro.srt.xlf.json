@@ -1,0 +1,793 @@
+{
+    "filename": "video_subs\\ImageTrans_intro.srt.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/xulihang\/Downloads\/ImageTrans字幕\/video_subs\/ImageTrans_intro.srt": [
+                [
+                    "大家好，今天给大家讲一下，",
+                    "Hello, everyone. Today, I'm going to introduce you to",
+                    "大家好，今天给大家讲一下，",
+                    "\/C:\/Users\/xulihang\/Downloads\/ImageTrans字幕\/video_subs\/ImageTrans_intro.srt",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1612579274915,
+                        "id": "1"
+                    }
+                ],
+                [
+                    "ImageTrans这一款图像文字转录和翻译工具。",
+                    "ImageTrans, an image transcription and translation tool.",
+                    "ImageTrans这一款图像文字转录和翻译工具。",
+                    "\/C:\/Users\/xulihang\/Downloads\/ImageTrans字幕\/video_subs\/ImageTrans_intro.srt",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1612579281824,
+                        "id": "2"
+                    }
+                ],
+                [
+                    "那这款工具呢，它支持常见的图像翻译任务，",
+                    "This tool can complete common image translation tasks,",
+                    "那这款工具呢，它支持常见的图像翻译任务，",
+                    "\/C:\/Users\/xulihang\/Downloads\/ImageTrans字幕\/video_subs\/ImageTrans_intro.srt",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1612579350229,
+                        "id": "3"
+                    }
+                ],
+                [
+                    "并且针对漫画呢做了很多的功能设计。",
+                    "and it has many features designed for comics.",
+                    "并且针对漫画呢做了很多的功能设计。",
+                    "\/C:\/Users\/xulihang\/Downloads\/ImageTrans字幕\/video_subs\/ImageTrans_intro.srt",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1612579335248,
+                        "id": "4"
+                    }
+                ],
+                [
+                    "那我们今天就以呆伯特漫画为例。",
+                    "Let's take the Dilbert comics for example.",
+                    "那我们今天就以呆伯特漫画为例。",
+                    "\/C:\/Users\/xulihang\/Downloads\/ImageTrans字幕\/video_subs\/ImageTrans_intro.srt",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1612579406576,
+                        "id": "5"
+                    }
+                ],
+                [
+                    "来演示一下怎么用ImageTrans来翻译漫画。",
+                    "I will show you how to use ImageTrans to translate comics.",
+                    "来演示一下怎么用ImageTrans来翻译漫画。",
+                    "\/C:\/Users\/xulihang\/Downloads\/ImageTrans字幕\/video_subs\/ImageTrans_intro.srt",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1612579432683,
+                        "id": "6"
+                    }
+                ],
+                [
+                    "首先新建一个项目。",
+                    "First, create a new project.",
+                    "首先新建一个项目。",
+                    "\/C:\/Users\/xulihang\/Downloads\/ImageTrans字幕\/video_subs\/ImageTrans_intro.srt",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1612579443231,
+                        "id": "7"
+                    }
+                ],
+                [
+                    "然后导入图片文件夹。",
+                    "Import images from a folder.",
+                    "然后导入图片文件夹。",
+                    "\/C:\/Users\/xulihang\/Downloads\/ImageTrans字幕\/video_subs\/ImageTrans_intro.srt",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1612579454460,
+                        "id": "8"
+                    }
+                ],
+                [
+                    "调整一下显示比例。",
+                    "Adjust the view.",
+                    "调整一下显示比例。",
+                    "\/C:\/Users\/xulihang\/Downloads\/ImageTrans字幕\/video_subs\/ImageTrans_intro.srt",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1612579505801,
+                        "id": "9"
+                    }
+                ],
+                [
+                    "那我们首先第一步要做的就是",
+                    "Now, what we have to do first is to",
+                    "那我们首先第一步要做的就是",
+                    "\/C:\/Users\/xulihang\/Downloads\/ImageTrans字幕\/video_subs\/ImageTrans_intro.srt",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1612579530218,
+                        "id": "10"
+                    }
+                ],
+                [
+                    "把这四段文字给它框出来。",
+                    "create textboxes for these four paragraphs.",
+                    "把这四段文字给它框出来。",
+                    "\/C:\/Users\/xulihang\/Downloads\/ImageTrans字幕\/video_subs\/ImageTrans_intro.srt",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1612579619593,
+                        "id": "11"
+                    }
+                ],
+                [
+                    "我们可以先手动的给它进行一个框选。",
+                    "We can do this manually.",
+                    "我们可以先手动的给它进行一个框选。",
+                    "\/C:\/Users\/xulihang\/Downloads\/ImageTrans字幕\/video_subs\/ImageTrans_intro.srt",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1612579645649,
+                        "id": "12"
+                    }
+                ],
+                [
+                    "我们双击这个图片。",
+                    "Double-click this image.",
+                    "我们双击这个图片。",
+                    "\/C:\/Users\/xulihang\/Downloads\/ImageTrans字幕\/video_subs\/ImageTrans_intro.srt",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1612579652346,
+                        "id": "13"
+                    }
+                ],
+                [
+                    "会生成一个框，然后我们点击这个框进行拖动。",
+                    "A box will be generated. Then we can click on it and drag it around...",
+                    "会生成一个框，然后我们点击这个框进行拖动。",
+                    "\/C:\/Users\/xulihang\/Downloads\/ImageTrans字幕\/video_subs\/ImageTrans_intro.srt",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1612579739258,
+                        "id": "14"
+                    }
+                ],
+                [
+                    "调整位置。",
+                    "to adjust its position.",
+                    "调整位置。",
+                    "\/C:\/Users\/xulihang\/Downloads\/ImageTrans字幕\/video_subs\/ImageTrans_intro.srt",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1612579746877,
+                        "id": "15"
+                    }
+                ],
+                [
+                    "再点右下角这个点。",
+                    "Click on the lower right point",
+                    "再点右下角这个点。",
+                    "\/C:\/Users\/xulihang\/Downloads\/ImageTrans字幕\/video_subs\/ImageTrans_intro.srt",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1612579774277,
+                        "id": "16"
+                    }
+                ],
+                [
+                    "可以调整这个框的形状。",
+                    "to adjust its size.",
+                    "可以调整这个框的形状。",
+                    "\/C:\/Users\/xulihang\/Downloads\/ImageTrans字幕\/video_subs\/ImageTrans_intro.srt",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1612579781067,
+                        "id": "17"
+                    }
+                ],
+                [
+                    "把这个框给它选中之后呢，",
+                    "When this is done,",
+                    "把这个框给它选中之后呢，",
+                    "\/C:\/Users\/xulihang\/Downloads\/ImageTrans字幕\/video_subs\/ImageTrans_intro.srt",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1612579826215,
+                        "id": "18"
+                    }
+                ],
+                [
+                    "我们可以进行OCR操作，把这个文字给它识别出来。",
+                    "we can OCR the box to get the text.",
+                    "我们可以进行OCR操作，把这个文字给它识别出来。",
+                    "\/C:\/Users\/xulihang\/Downloads\/ImageTrans字幕\/video_subs\/ImageTrans_intro.srt",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1612579835921,
+                        "id": "19"
+                    }
+                ],
+                [
+                    "那我们也可以全自动地把这些区域检测出来。",
+                    "We can also detect these areas automatically.",
+                    "那我们也可以全自动地把这些区域检测出来。",
+                    "\/C:\/Users\/xulihang\/Downloads\/ImageTrans字幕\/video_subs\/ImageTrans_intro.srt",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1612579861887,
+                        "id": "20"
+                    }
+                ],
+                [
+                    "我们这里用微软的这个OCR服务。",
+                    "Here, we use the OCR service provided by Microsoft Azure.",
+                    "我们这里用微软的这个OCR服务。",
+                    "\/C:\/Users\/xulihang\/Downloads\/ImageTrans字幕\/video_subs\/ImageTrans_intro.srt",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1612579882244,
+                        "id": "21"
+                    }
+                ],
+                [
+                    "然后再点自动识别文字。",
+                    "Click Detect Text Areas and Recognize Text.",
+                    "然后再点自动识别文字。",
+                    "\/C:\/Users\/xulihang\/Downloads\/ImageTrans字幕\/video_subs\/ImageTrans_intro.srt",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1612579921386,
+                        "id": "22"
+                    }
+                ],
+                [
+                    "那它这个结果呢，它首先默认是以字符行为单位的。",
+                    "Then text lines will be detected.",
+                    "那它这个结果呢，它首先默认是以字符行为单位的。",
+                    "\/C:\/Users\/xulihang\/Downloads\/ImageTrans字幕\/video_subs\/ImageTrans_intro.srt",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1612580009371,
+                        "id": "23"
+                    }
+                ],
+                [
+                    "那我们给他合并一下上下区域。",
+                    "Now, we can do a vertical merge.",
+                    "那我们给他合并一下上下区域。",
+                    "\/C:\/Users\/xulihang\/Downloads\/ImageTrans字幕\/video_subs\/ImageTrans_intro.srt",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1612580043150,
+                        "id": "24"
+                    }
+                ],
+                [
+                    "然后呢，去掉多余换行。",
+                    "Remove redundant line breaks.",
+                    "然后呢，去掉多余换行。",
+                    "\/C:\/Users\/xulihang\/Downloads\/ImageTrans字幕\/video_subs\/ImageTrans_intro.srt",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1612580067026,
+                        "id": "25"
+                    }
+                ],
+                [
+                    "同时我们也纠正一下结果。",
+                    "Also, rectify the result.",
+                    "同时我们也纠正一下结果。",
+                    "\/C:\/Users\/xulihang\/Downloads\/ImageTrans字幕\/video_subs\/ImageTrans_intro.srt",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1612580077799,
+                        "id": "26"
+                    }
+                ],
+                [
+                    "我们把这个区域稍微给他拓展一下。",
+                    "Let's expand these areas a little.",
+                    "我们把这个区域稍微给他拓展一下。",
+                    "\/C:\/Users\/xulihang\/Downloads\/ImageTrans字幕\/video_subs\/ImageTrans_intro.srt",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1612580176971,
+                        "id": "27"
+                    }
+                ],
+                [
+                    "这时我们预览的话呢，会显示这个原文预览的效果。",
+                    "If we preview the translation at this time, the source text will be used.",
+                    "这时我们预览的话呢，会显示这个原文预览的效果。",
+                    "\/C:\/Users\/xulihang\/Downloads\/ImageTrans字幕\/video_subs\/ImageTrans_intro.srt",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1612580157731,
+                        "id": "28"
+                    }
+                ],
+                [
+                    "把这个原文抹除，然后用识别的原文替换。",
+                    "It will remove source text in the image and replace it with the recognized text.",
+                    "把这个原文抹除，然后用识别的原文替换。",
+                    "\/C:\/Users\/xulihang\/Downloads\/ImageTrans字幕\/video_subs\/ImageTrans_intro.srt",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1612580223461,
+                        "id": "29"
+                    }
+                ],
+                [
+                    "那我们识别出来之后呢，就可以进行翻译了。",
+                    "Now, we can do the translation.",
+                    "那我们识别出来之后呢，就可以进行翻译了。",
+                    "\/C:\/Users\/xulihang\/Downloads\/ImageTrans字幕\/video_subs\/ImageTrans_intro.srt",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1612580236537,
+                        "id": "30"
+                    }
+                ],
+                [
+                    "我们先点这个辅助翻译。",
+                    "Click on Translation Assist.",
+                    "我们先点这个辅助翻译。",
+                    "\/C:\/Users\/xulihang\/Downloads\/ImageTrans字幕\/video_subs\/ImageTrans_intro.srt",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1612580249389,
+                        "id": "31"
+                    }
+                ],
+                [
+                    "然后点这个文本框。",
+                    "Then click one text box.",
+                    "然后点这个文本框。",
+                    "\/C:\/Users\/xulihang\/Downloads\/ImageTrans字幕\/video_subs\/ImageTrans_intro.srt",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1612580332319,
+                        "id": "32"
+                    }
+                ],
+                [
+                    "它就会显示这个机器翻译的结果。",
+                    "It will display machine translation results.",
+                    "它就会显示这个机器翻译的结果。",
+                    "\/C:\/Users\/xulihang\/Downloads\/ImageTrans字幕\/video_subs\/ImageTrans_intro.srt",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1612580278187,
+                        "id": "33"
+                    }
+                ],
+                [
+                    "比如我们这里有腾讯和百度的机器翻译。",
+                    "Here, we have machine translation results by Baidu and Tencent.",
+                    "比如我们这里有腾讯和百度的机器翻译。",
+                    "\/C:\/Users\/xulihang\/Downloads\/ImageTrans字幕\/video_subs\/ImageTrans_intro.srt",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1612580330814,
+                        "id": "34"
+                    }
+                ],
+                [
+                    "这个拟声词翻译得不是很好，",
+                    "The onomatopoeia is not translated correctly.",
+                    "这个拟声词翻译得不是很好，",
+                    "\/C:\/Users\/xulihang\/Downloads\/ImageTrans字幕\/video_subs\/ImageTrans_intro.srt",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1612580348581,
+                        "id": "35"
+                    }
+                ],
+                [
+                    "我们来手动给他翻一下。",
+                    "Let's translate it by ourselves.",
+                    "我们来手动给他翻一下。",
+                    "\/C:\/Users\/xulihang\/Downloads\/ImageTrans字幕\/video_subs\/ImageTrans_intro.srt",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1612580388743,
+                        "id": "36"
+                    }
+                ],
+                [
+                    "这是一个哄（擤）鼻涕的声音。",
+                    "It was a nose-blowing sound.",
+                    "这是一个哄（擤）鼻涕的声音。 ",
+                    "\/C:\/Users\/xulihang\/Downloads\/ImageTrans字幕\/video_subs\/ImageTrans_intro.srt",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1612580483658,
+                        "id": "37"
+                    }
+                ],
+                [
+                    "那就翻译成哄吧。",
+                    "We can translate it with \"哄\".",
+                    "那就翻译成哄吧。",
+                    "\/C:\/Users\/xulihang\/Downloads\/ImageTrans字幕\/video_subs\/ImageTrans_intro.srt",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1612580500436,
+                        "id": "38"
+                    }
+                ],
+                [
+                    "然后下一句。",
+                    "Next one.",
+                    "然后下一句。",
+                    "\/C:\/Users\/xulihang\/Downloads\/ImageTrans字幕\/video_subs\/ImageTrans_intro.srt",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1612580536746,
+                        "id": "39"
+                    }
+                ],
+                [
+                    "我们就直接利用这个结果了。",
+                    "Here we just use the result directly.",
+                    "我们就直接利用这个结果了。",
+                    "\/C:\/Users\/xulihang\/Downloads\/ImageTrans字幕\/video_subs\/ImageTrans_intro.srt",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1612580560536,
+                        "id": "40"
+                    }
+                ],
+                [
+                    "我们再预览一下。",
+                    "Let's check the translated version.",
+                    "我们再预览一下。",
+                    "\/C:\/Users\/xulihang\/Downloads\/ImageTrans字幕\/video_subs\/ImageTrans_intro.srt",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1612580581696,
+                        "id": "41"
+                    }
+                ],
+                [
+                    "这时候我们觉得可能这个字体它是一个居中的，",
+                    "The text is center-aligned.",
+                    "这时候我们觉得可能这个字体它是一个居中的，",
+                    "\/C:\/Users\/xulihang\/Downloads\/ImageTrans字幕\/video_subs\/ImageTrans_intro.srt",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1612580612932,
+                        "id": "42"
+                    }
+                ],
+                [
+                    "我们想给它设成左对齐。",
+                    "We want to make it left-aligned.",
+                    "我们想给它设成左对齐。",
+                    "\/C:\/Users\/xulihang\/Downloads\/ImageTrans字幕\/video_subs\/ImageTrans_intro.srt",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1612580635448,
+                        "id": "43"
+                    }
+                ],
+                [
+                    "可以再设一下字体的样式。",
+                    "We need to set the style.",
+                    "可以再设一下字体的样式。",
+                    "\/C:\/Users\/xulihang\/Downloads\/ImageTrans字幕\/video_subs\/ImageTrans_intro.srt",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1612580658386,
+                        "id": "44"
+                    }
+                ],
+                [
+                    "字体的话我们就选择雅黑吧。",
+                    "Use Microsoft YaHei as the font.",
+                    "字体的话我们就选择雅黑吧。",
+                    "\/C:\/Users\/xulihang\/Downloads\/ImageTrans字幕\/video_subs\/ImageTrans_intro.srt",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1612580682815,
+                        "id": "45"
+                    }
+                ],
+                [
+                    "然后我们再预览一下效果。",
+                    "Let's check the translation again.",
+                    "然后我们再预览一下效果。",
+                    "\/C:\/Users\/xulihang\/Downloads\/ImageTrans字幕\/video_subs\/ImageTrans_intro.srt",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1612580709555,
+                        "id": "46"
+                    }
+                ],
+                [
+                    "我们觉得这个位置可能需要调整",
+                    "The positions also have to be adjusted.",
+                    "我们觉得这个位置可能需要调整",
+                    "\/C:\/Users\/xulihang\/Downloads\/ImageTrans字幕\/video_subs\/ImageTrans_intro.srt",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1612580730759,
+                        "id": "47"
+                    }
+                ],
+                [
+                    "我们这时候把这个排版模式勾选一下。",
+                    "Check Typesetting Mode.",
+                    "我们这时候把这个排版模式勾选一下。",
+                    "\/C:\/Users\/xulihang\/Downloads\/ImageTrans字幕\/video_subs\/ImageTrans_intro.srt",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1612580739767,
+                        "id": "48"
+                    }
+                ],
+                [
+                    "好。",
+                    "Okay.",
+                    "好。",
+                    "\/C:\/Users\/xulihang\/Downloads\/ImageTrans字幕\/video_subs\/ImageTrans_intro.srt",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1612580743386,
+                        "id": "49"
+                    }
+                ],
+                [
+                    "这样差不多了。",
+                    "This looks good.",
+                    "这样差不多了。",
+                    "\/C:\/Users\/xulihang\/Downloads\/ImageTrans字幕\/video_subs\/ImageTrans_intro.srt",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1612580764698,
+                        "id": "50"
+                    }
+                ],
+                [
+                    "这样我们算把这个图片翻译好了。",
+                    "The translation is done.",
+                    "这样我们算把这个图片翻译好了。",
+                    "\/C:\/Users\/xulihang\/Downloads\/ImageTrans字幕\/video_subs\/ImageTrans_intro.srt",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1612580772552,
+                        "id": "51"
+                    }
+                ],
+                [
+                    "然后我们把这个图片给他导出成成品图，就jpg格式的成品图。",
+                    "Then, we can export the translated image in JPG format.",
+                    "然后我们把这个图片给他导出成成品图，就jpg格式的成品图。",
+                    "\/C:\/Users\/xulihang\/Downloads\/ImageTrans字幕\/video_subs\/ImageTrans_intro.srt",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1612580803553,
+                        "id": "52"
+                    }
+                ],
+                [
+                    "然后会在它这个图片的目录下生成一个out文件夹。",
+                    "An folder named out will be created in the images' folder to store exported images.",
+                    "然后会在它这个图片的目录下生成一个out文件夹。",
+                    "\/C:\/Users\/xulihang\/Downloads\/ImageTrans字幕\/video_subs\/ImageTrans_intro.srt",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1612580894998,
+                        "id": "53"
+                    }
+                ],
+                [
+                    "这就是一个成品图。",
+                    "This is the translated image.",
+                    "这就是一个成品图。",
+                    "\/C:\/Users\/xulihang\/Downloads\/ImageTrans字幕\/video_subs\/ImageTrans_intro.srt",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1612580905480,
+                        "id": "54"
+                    }
+                ],
+                [
+                    "有的朋友呢可能还希望继续使用Photoshop来进行处理。",
+                    "Some users may want to continue the translation with Photoshop.",
+                    "有的朋友呢可能还希望继续使用Photoshop来进行处理。",
+                    "\/C:\/Users\/xulihang\/Downloads\/ImageTrans字幕\/video_subs\/ImageTrans_intro.srt",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1612580943925,
+                        "id": "55"
+                    }
+                ],
+                [
+                    "那我们点这个生成可编辑的PSD文件。",
+                    "We can generate editable PSD files.",
+                    "那我们点这个生成可编辑的PSD文件。",
+                    "\/C:\/Users\/xulihang\/Downloads\/ImageTrans字幕\/video_subs\/ImageTrans_intro.srt",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1612580969557,
+                        "id": "56"
+                    }
+                ],
+                [
+                    "添加覆盖层、精确模式、译文替换。",
+                    "Add overlay mask. Precision mode. Replace with translation.",
+                    "添加覆盖层、精确模式、译文替换。",
+                    "\/C:\/Users\/xulihang\/Downloads\/ImageTrans字幕\/video_subs\/ImageTrans_intro.srt",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1612581068245,
+                        "id": "57"
+                    }
+                ],
+                [
+                    "然后它就会把用Photoshop 处理所需的数据给它生成一下。",
+                    "It will generate the data needed for Photoshop to use.",
+                    "然后它就会把用Photoshop 处理所需的数据给它生成一下。",
+                    "\/C:\/Users\/xulihang\/Downloads\/ImageTrans字幕\/video_subs\/ImageTrans_intro.srt",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1612581114765,
+                        "id": "58"
+                    }
+                ],
+                [
+                    "然后我们再用Photoshop",
+                    "Then, we can run Photoshop",
+                    "然后我们再用Photoshop",
+                    "\/C:\/Users\/xulihang\/Downloads\/ImageTrans字幕\/video_subs\/ImageTrans_intro.srt",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1612581127376,
+                        "id": "59"
+                    }
+                ],
+                [
+                    "脚本",
+                    "Script",
+                    "脚本",
+                    "\/C:\/Users\/xulihang\/Downloads\/ImageTrans字幕\/video_subs\/ImageTrans_intro.srt",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1612581130351,
+                        "id": "60"
+                    }
+                ],
+                [
+                    "选择",
+                    "Select",
+                    "选择",
+                    "\/C:\/Users\/xulihang\/Downloads\/ImageTrans字幕\/video_subs\/ImageTrans_intro.srt",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1601727080231,
+                        "id": "61"
+                    }
+                ],
+                [
+                    "ImageTrans提供的这些脚本",
+                    "scripts provided by ImageTrans",
+                    "ImageTrans提供的这些脚本",
+                    "\/C:\/Users\/xulihang\/Downloads\/ImageTrans字幕\/video_subs\/ImageTrans_intro.srt",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1612581148453,
+                        "id": "62"
+                    }
+                ],
+                [
+                    "我们这里用的是addLayers这个脚本。",
+                    "Here, we need to use this script: addLayers.js",
+                    "我们这里用的是addLayers这个脚本。",
+                    "\/C:\/Users\/xulihang\/Downloads\/ImageTrans字幕\/video_subs\/ImageTrans_intro.srt",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1612581175654,
+                        "id": "63"
+                    }
+                ],
+                [
+                    "然后选择刚才的这个漫画的这个目录。",
+                    "Select the folder of the image we just translated.",
+                    "然后选择刚才的这个漫画的这个目录。",
+                    "\/C:\/Users\/xulihang\/Downloads\/ImageTrans字幕\/video_subs\/ImageTrans_intro.srt",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1612581222121,
+                        "id": "64"
+                    }
+                ],
+                [
+                    "它就会自动地把图层添加上去。",
+                    "It will automatically add layers.",
+                    "它就会自动地把图层添加上去。",
+                    "\/C:\/Users\/xulihang\/Downloads\/ImageTrans字幕\/video_subs\/ImageTrans_intro.srt",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1612581240714,
+                        "id": "65"
+                    }
+                ],
+                [
+                    "让我们看一下它的这个效果。",
+                    "Let's see the result.",
+                    "让我们看一下它的这个效果。",
+                    "\/C:\/Users\/xulihang\/Downloads\/ImageTrans字幕\/video_subs\/ImageTrans_intro.srt",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1612581246822,
+                        "id": "66"
+                    }
+                ],
+                [
+                    "这是一个可以编辑的文字层。",
+                    "This is an editable text box.",
+                    "这是一个可以编辑的文字层。",
+                    "\/C:\/Users\/xulihang\/Downloads\/ImageTrans字幕\/video_subs\/ImageTrans_intro.srt",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1612581262085,
+                        "id": "67"
+                    }
+                ],
+                [
+                    "然后原来的文字呢做了抹除",
+                    "The source text is erased.",
+                    "然后原来的文字呢做了抹除",
+                    "\/C:\/Users\/xulihang\/Downloads\/ImageTrans字幕\/video_subs\/ImageTrans_intro.srt",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1612581276039,
+                        "id": "68"
+                    }
+                ],
+                [
+                    "就是在背景层之上添加了一个",
+                    "Above the original image,",
+                    "就是在背景层之上添加了一个",
+                    "\/C:\/Users\/xulihang\/Downloads\/ImageTrans字幕\/video_subs\/ImageTrans_intro.srt",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1612581307886,
+                        "id": "69"
+                    }
+                ],
+                [
+                    "没有文字的图层。",
+                    "a text-removed image is added.",
+                    "没有文字的图层。",
+                    "\/C:\/Users\/xulihang\/Downloads\/ImageTrans字幕\/video_subs\/ImageTrans_intro.srt",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1612581321856,
+                        "id": "70"
+                    }
+                ],
+                [
+                    "好，以上就是一个ImageTrans 的入门教程，谢谢大家。",
+                    "All right. That's the getting started tutorial of ImageTrans. Thank you.",
+                    "好，以上就是一个ImageTrans 的入门教程，谢谢大家。",
+                    "\/C:\/Users\/xulihang\/Downloads\/ImageTrans字幕\/video_subs\/ImageTrans_intro.srt",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1612581382535,
+                        "id": "71"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}

@@ -8,8 +8,6 @@
                     "与第三方软件的交互",
                     "interoperation.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594692840951,
                         "id": 2
                     }
                 ],
@@ -19,8 +17,6 @@
                     "PSD相关",
                     "interoperation.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594559457857,
                         "id": 3
                     }
                 ],
@@ -30,8 +26,6 @@
                     "ImageTrans支持利用脚本调用Photoshop来实现互操作。",
                     "interoperation.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594692865998,
                         "id": 4
                     }
                 ],
@@ -41,8 +35,6 @@
                     "说明：如果是Windows系统并安装了完整版Photoshop，ImageTrans提供exe脚本工具，可以自动打开PS。",
                     "interoperation.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594692875870,
                         "id": 5
                     }
                 ],
@@ -52,8 +44,6 @@
                     "其它情况需要自行打开PS，点击“文件-脚本-浏览”选择脚本进行操作。",
                     "interoperation.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594692929775,
                         "id": 5
                     }
                 ],
@@ -63,8 +53,6 @@
                     "Photoshop脚本仓库：`<https:\/\/github.com\/xulihang\/ImageTrans_PhotoshopScripts>`_",
                     "interoperation.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594692956647,
                         "id": 6
                     }
                 ],
@@ -74,8 +62,6 @@
                     "PSD转JPG",
                     "interoperation.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594559459010,
                         "id": 7
                     }
                 ],
@@ -85,8 +71,6 @@
                     "软件不能直接显示PSD，需要先将PSD转换为JPG。",
                     "interoperation.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594693018514,
                         "id": 8
                     }
                 ],
@@ -96,8 +80,6 @@
                     "通过菜单-工具-PSD转JPG打开转换工具，调用Photoshop批量进行转换。",
                     "interoperation.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594693052246,
                         "id": 9
                     }
                 ],
@@ -107,8 +89,6 @@
                     "非Windows则使用提供的JSX脚本：pdf2jpg.jsx，选择需要进行转换的目录进行转换。",
                     "interoperation.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594693097415,
                         "id": 10
                     }
                 ],
@@ -118,8 +98,6 @@
                     "从PSD读取文字区域",
                     "interoperation.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594693320681,
                         "id": 11
                     }
                 ],
@@ -129,8 +107,6 @@
                     "如果处理的是PSD文件，可以从PSD文件读取其中的文字图层的坐标、大小和文本，显示在ImageTrans中，并且回填时会自动替换文本，不用生成覆盖层。",
                     "interoperation.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594693373190,
                         "id": 12
                     }
                 ],
@@ -140,8 +116,6 @@
                     "点击菜单-编辑-从PSD读取文字图层（若存在）进行操作。",
                     "interoperation.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594693161325,
                         "id": 12
                     }
                 ],
@@ -151,8 +125,6 @@
                     "非Windows则使用提供的JSX脚本：readTextLayers.jsx，选择目录进行导出，之后点击菜单-项目-导入用PS脚本导出的文字区域信息进行导入。",
                     "interoperation.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594693289038,
                         "id": 13
                     }
                 ],
@@ -162,8 +134,6 @@
                     "读取字体名称",
                     "interoperation.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594693293134,
                         "id": 14
                     }
                 ],
@@ -173,8 +143,6 @@
                     "在字体设置时需要填写PS专用格式的字体名称，可以使用readFont.jsx进行读取。",
                     "interoperation.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594693553727,
                         "id": 15
                     }
                 ],
@@ -184,8 +152,6 @@
                     "该脚本会读取第一个文本框的字体信息。",
                     "interoperation.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594693569878,
                         "id": 15
                     }
                 ],
@@ -195,8 +161,6 @@
                     "生成PSD",
                     "interoperation.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594693577799,
                         "id": 16
                     }
                 ],
@@ -206,8 +170,6 @@
                     "图片翻译完成后，可以生成PSD文件供精细调整。",
                     "interoperation.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594693613342,
                         "id": 17
                     }
                 ],
@@ -217,8 +179,6 @@
                     "点击菜单-生成可编辑的PSD文件调出生成选项对话框。",
                     "interoperation.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594693652863,
                         "id": 17
                     }
                 ],
@@ -228,8 +188,6 @@
                     "以下是选项的说明：",
                     "interoperation.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594559462700,
                         "id": 18
                     }
                 ],
@@ -239,8 +197,6 @@
                     "存在PSD - 直接操作原来的PSD文件，PSD文件需要和JPG文件存放在一起。",
                     "interoperation.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594693713783,
                         "id": 19
                     }
                 ],
@@ -250,8 +206,6 @@
                     "不选则会从JPG文件生成PSD。",
                     "interoperation.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594693763438,
                         "id": 19
                     }
                 ],
@@ -261,8 +215,6 @@
                     "使用译文替换 - 不选则使用原来的文本。",
                     "interoperation.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594693800015,
                         "id": 20
                     }
                 ],
@@ -272,8 +224,6 @@
                     "添加覆盖层 - 添加覆盖层以遮住原来的文字。",
                     "interoperation.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594693848711,
                         "id": 21
                     }
                 ],
@@ -283,8 +233,6 @@
                     "如果对应PSD中的文字图层，则不会添加覆盖层。",
                     "interoperation.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594693871686,
                         "id": 21
                     }
                 ],
@@ -294,8 +242,6 @@
                     "使用精确模式 - 非精确模式下覆盖层是一个矩形框，精确模式下软件会根据背景信息精确生成覆盖层，但会耗费较长时间。",
                     "interoperation.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594693958093,
                         "id": 22
                     }
                 ],
@@ -305,8 +251,6 @@
                     "水平翻转图像 - 适用于中文漫画翻译为日语漫画的情况",
                     "interoperation.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594693986238,
                         "id": 23
                     }
                 ],
@@ -316,8 +260,6 @@
                     "使用点文字 - 所有文本框都设置为点文本，适用于不需要自动换行和文字超出文本框范围的情况",
                     "interoperation.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594694194423,
                         "id": 24
                     }
                 ],
@@ -327,8 +269,6 @@
                     "仅导出 - 仅导出数据文件，暂不执行生成操作",
                     "interoperation.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594694220606,
                         "id": 25
                     }
                 ],
@@ -338,8 +278,6 @@
                     "生成完成后会跳出提示窗口，请耐心等待。",
                     "interoperation.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594694291092,
                         "id": 26
                     }
                 ],
@@ -349,8 +287,6 @@
                     "期间可以切换到PS的窗口查看正在进行的操作，如果PS提出相关操作，需要人工处理。",
                     "interoperation.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594694388269,
                         "id": 26
                     }
                 ],
@@ -360,8 +296,6 @@
                     "非Windows请使用脚本：addLayers.jsx。",
                     "interoperation.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594694402293,
                         "id": 27
                     }
                 ],
@@ -371,8 +305,6 @@
                     "其它",
                     "interoperation.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594694406548,
                         "id": 28
                     }
                 ],
@@ -382,8 +314,6 @@
                     "使用文件-导出功能可以将文字导出为docx文档供翻译，并支持导回操作。",
                     "interoperation.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594694456884,
                         "id": 29
                     }
                 ],
@@ -393,8 +323,6 @@
                     "另外，本工具的项目文件以json格式存储，会编程的朋友可以自由进行处理。",
                     "interoperation.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594694581605,
                         "id": 30
                     }
                 ]

@@ -8,8 +8,6 @@
                     "软件设置",
                     "settings.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594694983957,
                         "id": 2
                     }
                 ],
@@ -19,8 +17,6 @@
                     "通用设置",
                     "settings.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594694987125,
                         "id": 3
                     }
                 ],
@@ -30,8 +26,6 @@
                     "气泡检测",
                     "settings.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594694993526,
                         "id": 4
                     }
                 ],
@@ -41,8 +35,6 @@
                     "本工具的气泡检测使用百度EasyDL和Azure的目标检测服务。",
                     "settings.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594695027724,
                         "id": 5
                     }
                 ],
@@ -52,8 +44,6 @@
                     "需要自行开通账号并训练。",
                     "settings.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594695059141,
                         "id": 5
                     }
                 ],
@@ -63,8 +53,6 @@
                     "推荐的标注方法：",
                     "settings.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594559486403,
                         "id": 6
                     }
                 ],
@@ -74,8 +62,6 @@
                     "选中所有气泡中的文字，选框尽量贴合文字。",
                     "settings.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594695107917,
                         "id": 7
                     }
                 ],
@@ -85,8 +71,6 @@
                     "发布模型后，在菜单-文件-偏好设置-通用里设置发布了URL，同时还需要填写对应的API。",
                     "settings.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594695165477,
                         "id": 8
                     }
                 ],
@@ -96,8 +80,6 @@
                     "文字图像识别",
                     "settings.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594695179525,
                         "id": 9
                     }
                 ],
@@ -107,8 +89,6 @@
                     "默认地址为：`<http:\/\/127.0.0.1:8082\/classify>`_",
                     "settings.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594563600343,
                         "id": 10
                     }
                 ],
@@ -118,8 +98,6 @@
                     "请运行以下仓库的代码： `<https:\/\/github.com\/xulihang\/text-image-classifier>`_。",
                     "settings.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594695202805,
                         "id": 11
                     }
                 ],
@@ -129,8 +107,6 @@
                     "自然场景文字检测",
                     "settings.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594695209694,
                         "id": 12
                     }
                 ],
@@ -140,8 +116,6 @@
                     "支持使用EAST和CRAFT自然场景文字检测方法进行文字检测。",
                     "settings.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594695226205,
                         "id": 13
                     }
                 ],
@@ -151,8 +125,6 @@
                     "默认地址为：`<http:\/\/127.0.0.1:8080\/detect>`_",
                     "settings.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594563620151,
                         "id": 14
                     }
                 ],
@@ -162,8 +134,6 @@
                     "代码地址： `<https:\/\/github.com\/xulihang\/ImageTrans_SceneText_Detection>`_。",
                     "settings.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594695241149,
                         "id": 15
                     }
                 ],
@@ -173,8 +143,6 @@
                     "API设置",
                     "settings.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594695245357,
                         "id": 16
                     }
                 ],
@@ -184,8 +152,6 @@
                     "点击菜单-文件-偏好设置-API，可以设置百度、有道、微软、腾讯等OCR和机器翻译服务提供商的API。",
                     "settings.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594695302693,
                         "id": 17
                     }
                 ],
@@ -195,8 +161,6 @@
                     "下面是需要设置API密钥的服务的列表。",
                     "settings.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1610105045820,
                         "id": 18
                     }
                 ],
@@ -206,8 +170,6 @@
                     "OCR:",
                     "settings.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1610105053419,
                         "id": 19
                     }
                 ],
@@ -217,8 +179,6 @@
                     "`Google <https:\/\/cloud.google.com\/vision\/docs\/ocr>`_",
                     "settings.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1610105058620,
                         "id": 20
                     }
                 ],
@@ -228,8 +188,6 @@
                     "`搜狗 <https:\/\/deepi.sogou.com\/>`_",
                     "settings.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1610105131563,
                         "id": 21
                     }
                 ],
@@ -239,8 +197,6 @@
                     "`百度 <https:\/\/cloud.baidu.com\/product\/ocr_general>`_",
                     "settings.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1610105127742,
                         "id": 22
                     }
                 ],
@@ -250,8 +206,6 @@
                     "`腾讯 <https:\/\/cloud.tencent.com\/product\/generalocr>`_",
                     "settings.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1610105123939,
                         "id": 23
                     }
                 ],
@@ -261,8 +215,6 @@
                     "`有道 <http:\/\/ai.youdao.com\/product-ocr-print.s>`_",
                     "settings.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1610105120331,
                         "id": 24
                     }
                 ],
@@ -272,8 +224,6 @@
                     "`OCRSPACE <https:\/\/ocr.space\/OCRAPI>`_",
                     "settings.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1610105065876,
                         "id": 25
                     }
                 ],
@@ -283,8 +233,6 @@
                     "`微软Azure <https:\/\/azure.microsoft.com\/zh-cn\/services\/cognitive-services\/computer-vision\/>`_",
                     "settings.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1610105111170,
                         "id": 26
                     }
                 ],
@@ -294,8 +242,6 @@
                     "机器翻译见BasicCAT的\\\\ `文档 <https:\/\/docs.basiccat.org\/en\/latest\/advancedFeatures.html#id2>`_。",
                     "settings.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1610105104816,
                         "id": 27
                     }
                 ]

@@ -8,8 +8,6 @@
                     "文字区域检测和译文回填",
                     "textarea_detection_and_text_reinjection.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594695952411,
                         "id": 2
                     }
                 ],
@@ -19,8 +17,6 @@
                     "ImageTrans实现了一套文字区域检测和译文回填方法。",
                     "textarea_detection_and_text_reinjection.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594695966116,
                         "id": 3
                     }
                 ],
@@ -30,8 +26,6 @@
                     "文字区域检测",
                     "textarea_detection_and_text_reinjection.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594695974972,
                         "id": 4
                     }
                 ],
@@ -41,8 +35,6 @@
                     "ImageTrans支持四种文字检测方式：OCR提供的检测功能、基于深度学习目标检测的气泡检测功能、基于规则的启发式检测方法和自然场景文字检测方法。",
                     "textarea_detection_and_text_reinjection.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1610105254213,
                         "id": 5
                     }
                 ],
@@ -52,8 +44,6 @@
                     "这里主要介绍启发式和自然场景文字检测方法。",
                     "textarea_detection_and_text_reinjection.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1610105323987,
                         "id": 6
                     }
                 ],
@@ -63,9 +53,6 @@
                     "启发式",
                     "textarea_detection_and_text_reinjection.po",
                     {
-                        "note": "",
-                        "creator": "xulihang",
-                        "createdTime": 1598847523867,
                         "id": 7
                     }
                 ],
@@ -75,8 +62,6 @@
                     "启发式方法能够较为精确地生成文字区域，并提供详细的参数设置，可以针对不同漫画调整以取得期望的结果。",
                     "textarea_detection_and_text_reinjection.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1610105383158,
                         "id": 8
                     }
                 ],
@@ -86,9 +71,6 @@
                     "操作方法：",
                     "textarea_detection_and_text_reinjection.po",
                     {
-                        "note": "",
-                        "creator": "xulihang",
-                        "createdTime": 1592313528000,
                         "id": 9
                     }
                 ],
@@ -98,8 +80,6 @@
                     "点击编辑-自动定位文字（启发式），将获得所有候选文字区域",
                     "textarea_detection_and_text_reinjection.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594696000820,
                         "id": 10
                     }
                 ],
@@ -109,8 +89,6 @@
                     "点击编辑-文字区域操作-获取文字区域置信度，文字区域可能性较低的区域的文本框颜色将变为黄色。",
                     "textarea_detection_and_text_reinjection.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594696104110,
                         "id": 11
                     }
                 ],
@@ -120,8 +98,6 @@
                     "这类区域可以自行去除或者隐藏，但因为有些区域被误识别为非文字区域，去除的话翻译时还要手动框选，建议不要直接去除。",
                     "textarea_detection_and_text_reinjection.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594696184491,
                         "id": 11
                     }
                 ],
@@ -131,8 +107,6 @@
                     "选择文字区域进行OCR和翻译，操作结束后，可以点击编辑-文字区域操作去除没有原文或者没有译文的区域。",
                     "textarea_detection_and_text_reinjection.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594696271860,
                         "id": 12
                     }
                 ],
@@ -142,8 +116,6 @@
                     "OCR等操作会自动略过文字区域可能性较低的区域。",
                     "textarea_detection_and_text_reinjection.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594696298540,
                         "id": 13
                     }
                 ],
@@ -153,8 +125,6 @@
                     "因为不同的漫画尺寸不同，需要设置不同的文字区域检测参数，可以在项目-设置-文字区域检测里进行设置。",
                     "textarea_detection_and_text_reinjection.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594696700389,
                         "id": 14
                     }
                 ],
@@ -164,8 +134,6 @@
                     "文字区域检测的算法细节见此：`基于规则的漫画文字检测方法 <http:\/\/blog.xulihang.me\/text-localization-for-comics\/>`_",
                     "textarea_detection_and_text_reinjection.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594563738700,
                         "id": 15
                     }
                 ],
@@ -175,8 +143,6 @@
                     "文字区域置信度获取是利用Tensorflow提供的脚本基于卷积神经网络预训练模型重新训练的，相关代码见此： `<https:\/\/github.com\/xulihang\/text-image-classifier>`_。",
                     "textarea_detection_and_text_reinjection.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594696820977,
                         "id": 16
                     }
                 ],
@@ -186,8 +152,6 @@
                     "文字区域检测的操作本工具提供手动分步操作功能，操作方式是菜单栏-编辑-文字区域操作以及右侧编辑区的合并上下区域和合并左右区域按钮。",
                     "textarea_detection_and_text_reinjection.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594696949011,
                         "id": 17
                     }
                 ],
@@ -197,9 +161,6 @@
                     "自然场景文字检测",
                     "textarea_detection_and_text_reinjection.po",
                     {
-                        "note": "",
-                        "creator": "xulihang",
-                        "createdTime": 1594695209694,
                         "id": 18
                     }
                 ],
@@ -209,8 +170,6 @@
                     "自然场景文字检测功能允许用户调用EAST、CRAFT等开源自然场景文字检测方法，这类方法的准确率较高，并能检测倾斜文本，但一般需要花费较长的运行时间。",
                     "textarea_detection_and_text_reinjection.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1610105470291,
                         "id": 19
                     }
                 ],
@@ -220,8 +179,6 @@
                     "译文回填",
                     "textarea_detection_and_text_reinjection.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594696956541,
                         "id": 20
                     }
                 ],
@@ -231,9 +188,6 @@
                     "译文回填分为两步：原文抹除和译文的放置。",
                     "textarea_detection_and_text_reinjection.po",
                     {
-                        "note": "",
-                        "creator": "xulihang",
-                        "createdTime": 1594696985595,
                         "id": 21
                     }
                 ],
@@ -243,8 +197,6 @@
                     "原文抹除",
                     "textarea_detection_and_text_reinjection.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594696994564,
                         "id": 22
                     }
                 ],
@@ -254,8 +206,6 @@
                     "原文抹除有两种模式，一种是精确模式，一种是非精确模式。",
                     "textarea_detection_and_text_reinjection.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594697019019,
                         "id": 23
                     }
                 ],
@@ -265,9 +215,6 @@
                     "精确模式下，会先生成文字掩膜，再根据掩膜进行背景还原。",
                     "textarea_detection_and_text_reinjection.po",
                     {
-                        "note": "",
-                        "creator": "xulihang",
-                        "createdTime": 1610105540655,
                         "id": 24
                     }
                 ],
@@ -277,8 +224,6 @@
                     "背景还原方式有两种，一种是使用图像修复方法，一种是用背景颜色生成文字掩膜以覆盖文字。",
                     "textarea_detection_and_text_reinjection.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1610105572141,
                         "id": 24
                     }
                 ],
@@ -288,8 +233,6 @@
                     "如果掩膜生成不正确，可以使用编辑-生成\/编辑掩膜进行修改，掩膜图像会保存在图片目录，带有mask后缀，而去除文字的图像则带有text-removed后缀。",
                     "textarea_detection_and_text_reinjection.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594697140452,
                         "id": 24
                     }
                 ],
@@ -299,8 +242,6 @@
                     "注意：",
                     "textarea_detection_and_text_reinjection.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1610105586964,
                         "id": 25
                     }
                 ],
@@ -310,9 +251,6 @@
                     "如果掩膜没有手动生成，每次查看翻译版本时会自动生成，会耗费时间进行计算。",
                     "textarea_detection_and_text_reinjection.po",
                     {
-                        "note": "",
-                        "creator": "xulihang",
-                        "createdTime": 1610105649259,
                         "id": 26
                     }
                 ],
@@ -322,9 +260,6 @@
                     "浅色字体区域需要先设置背景颜色和文字颜色或者勾选项目设置里的相关选项，这样程序会判断文字颜色是不是比背景颜色浅，如果较浅，则会对图像做颜色反转，文字掩膜才能够正确生成。",
                     "textarea_detection_and_text_reinjection.po",
                     {
-                        "note": "",
-                        "creator": "xulihang",
-                        "createdTime": 1610105746162,
                         "id": 27
                     }
                 ],
@@ -334,9 +269,6 @@
                     "非精确模式下，则会使用背景颜色生成一个文本框进行遮盖，如果该文本框尚没有设置原文和译文，颜色会变成半透明。",
                     "textarea_detection_and_text_reinjection.po",
                     {
-                        "note": "",
-                        "creator": "xulihang",
-                        "createdTime": 1610105843692,
                         "id": 28
                     }
                 ],
@@ -346,8 +278,6 @@
                     "这一模式较适合背景单一的数字图像。",
                     "textarea_detection_and_text_reinjection.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594698880685,
                         "id": 28
                     }
                 ],
@@ -357,8 +287,6 @@
                     "下图是掩膜编辑器和去除文字器，能用于调整掩膜和文字去除结果：",
                     "textarea_detection_and_text_reinjection.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1610105888592,
                         "id": 29
                     }
                 ],
@@ -368,8 +296,6 @@
                     "掩膜生成和图像修复支持调用插件以使用第三方的方法，现有的插件是 `Sickzil-machine <https:\/\/github.com\/xulihang\/SickZil-Machine>`_。",
                     "textarea_detection_and_text_reinjection.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1610105970711,
                         "id": 30
                     }
                 ],
@@ -379,8 +305,6 @@
                     "译文放置",
                     "textarea_detection_and_text_reinjection.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594698900741,
                         "id": 31
                     }
                 ],
@@ -390,8 +314,6 @@
                     "根据文本框的大小和位置放置译文，支持自动根据文本框的大小调整译文大小，可以在项目设置里进行设置。",
                     "textarea_detection_and_text_reinjection.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594699012602,
                         "id": 32
                     }
                 ],
@@ -401,8 +323,6 @@
                     "颜色检测",
                     "textarea_detection_and_text_reinjection.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594699014618,
                         "id": 33
                     }
                 ],
@@ -412,8 +332,6 @@
                     "本工具能较粗略地自动检测背景颜色和文字颜色，点击编辑-颜色操作进行相关操作。",
                     "textarea_detection_and_text_reinjection.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1594699051768,
                         "id": 34
                     }
                 ]

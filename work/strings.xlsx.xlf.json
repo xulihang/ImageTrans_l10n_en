@@ -1,4 +1,6 @@
 {
+    "filename": "strings.xlsx.xlf",
+    "creationTime": 1614480644839,
     "files": [
         {
             "xl\/sharedStrings.xml": [
@@ -873,6 +875,18 @@
                     "xl\/sharedStrings.xml",
                     {
                         "id": "P147242AB-tu95"
+                    }
+                ],
+                [
+                    "使用离线版气泡检测",
+                    "Use offline balloon detection",
+                    "使用离线版气泡检测",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1614480808190,
+                        "id": "P147242AB-tu96"
                     }
                 ],
                 [
@@ -1758,6 +1772,49 @@
                     }
                 ],
                 [
+                    "调整所选区域",
+                    "Adjust selected area",
+                    "调整所选区域",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1614480837785,
+                        "id": "P147242AB-tu194"
+                    }
+                ],
+                [
+                    "识别",
+                    "OCR",
+                    "识别",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu246"
+                    }
+                ],
+                [
+                    "左移",
+                    "Left",
+                    "左移",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1614480868414,
+                        "id": "P147242AB-tu196"
+                    }
+                ],
+                [
+                    "右移",
+                    "Right",
+                    "右移",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1614480870726,
+                        "id": "P147242AB-tu197"
+                    }
+                ],
+                [
                     "颜色操作",
                     "Color operations",
                     "颜色操作",
@@ -2235,15 +2292,6 @@
                     }
                 ],
                 [
-                    "识别",
-                    "OCR",
-                    "识别",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "id": "P147242AB-tu246"
-                    }
-                ],
-                [
                     "使用中文标点",
                     "Use Chinese punctuation",
                     "使用中文标点",
@@ -2286,6 +2334,17 @@
                     "xl\/sharedStrings.xml",
                     {
                         "id": "P147242AB-tu251"
+                    }
+                ],
+                [
+                    "建框后OCR",
+                    "Auto OCR",
+                    "建框后OCR",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1614480890478,
+                        "id": "P147242AB-tu256"
                     }
                 ],
                 [
@@ -2631,6 +2690,41 @@
                     }
                 ],
                 [
+                    "立即删除",
+                    "Delete",
+                    "立即删除",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1593945213056,
+                        "id": "P147242AB-tu295"
+                    }
+                ],
+                [
+                    "立即合并",
+                    "Merge",
+                    "立即合并",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1614480907166,
+                        "id": "P147242AB-tu296"
+                    }
+                ],
+                [
+                    "选中后：",
+                    "After selection:",
+                    "选中后：",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1614480919174,
+                        "id": "P147242AB-tu297"
+                    }
+                ],
+                [
                     "ws:\/\/",
                     "",
                     "ws:\/\/",
@@ -2880,6 +2974,15 @@
                     "xl\/sharedStrings.xml",
                     {
                         "id": "P147242AB-tu317"
+                    }
+                ],
+                [
+                    "V",
+                    "",
+                    "V",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu326"
                     }
                 ],
                 [
@@ -4896,6 +4999,17 @@
                     "xl\/sharedStrings.xml",
                     {
                         "id": "P147242AB-tu539"
+                    }
+                ],
+                [
+                    "模型未正确放置",
+                    "Model is not placed correctly",
+                    "模型未正确放置",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1614480997328,
+                        "id": "P147242AB-tu549"
                     }
                 ],
                 [

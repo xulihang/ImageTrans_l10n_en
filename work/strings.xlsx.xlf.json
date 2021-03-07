@@ -4030,55 +4030,67 @@
                 ],
                 [
                     "左对齐",
-                    "Left",
+                    "Left Align",
                     "左对齐",
                     "xl\/sharedStrings.xml",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1615096809194,
                         "id": "P147242AB-tu441"
                     }
                 ],
                 [
                     "水平居中",
-                    "Center (horizontal)",
+                    "Center (horizontal) Align",
                     "水平居中",
                     "xl\/sharedStrings.xml",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1615096805670,
                         "id": "P147242AB-tu442"
                     }
                 ],
                 [
                     "右对齐",
-                    "Right",
+                    "Right Align",
                     "右对齐",
                     "xl\/sharedStrings.xml",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1615096778013,
                         "id": "P147242AB-tu443"
                     }
                 ],
                 [
                     "上对齐",
-                    "Top",
+                    "Top Align",
                     "上对齐",
                     "xl\/sharedStrings.xml",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1615096781570,
                         "id": "P147242AB-tu444"
                     }
                 ],
                 [
                     "垂直居中",
-                    "Center (vertical)",
+                    "Center (vertical) Align",
                     "垂直居中",
                     "xl\/sharedStrings.xml",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1615096797367,
                         "id": "P147242AB-tu445"
                     }
                 ],
                 [
                     "下对齐",
-                    "Bottom",
+                    "Bottom Align",
                     "下对齐",
                     "xl\/sharedStrings.xml",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1615096795008,
                         "id": "P147242AB-tu446"
                     }
                 ],

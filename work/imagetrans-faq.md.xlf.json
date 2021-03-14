@@ -379,12 +379,12 @@
                 ],
                 [
                     "但首次运行需要联网以验证是否购买，记录保存7天。",
-                    "However, the first operation requires networking to verify whether the purchase is made. The record will be kept for 7 days.",
+                    "However, it requires networking to verify whether the purchase is made when it is first run. The record will be kept for 7 days.",
                     "但首次运行需要联网以验证是否购买，记录保存7天。",
                     "\/Users\/xulihang\/BasicCAT-website\/_zh\/imagetrans-faq.md",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1615699267100,
+                        "createdTime": 1615701730784,
                         "id": "tu25"
                     }
                 ],

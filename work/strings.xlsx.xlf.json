@@ -2052,19 +2052,23 @@
                 ],
                 [
                     "生成所有图片的成品图",
-                    "Generate translated pictures",
+                    "Generate translated pictures for all",
                     "生成所有图片的成品图",
                     "xl\/sharedStrings.xml",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1616831412637,
                         "id": "P147242AB-tu224"
                     }
                 ],
                 [
                     "生成所有图片的掩膜和去文字图片",
-                    "Generate mask and text-removed pictures",
+                    "Generate mask and text-removed pictures for all",
                     "生成所有图片的掩膜和去文字图片",
                     "xl\/sharedStrings.xml",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1616831456233,
                         "id": "P147242AB-tu225"
                     }
                 ],

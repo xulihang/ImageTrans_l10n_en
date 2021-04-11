@@ -1,0 +1,807 @@
+{
+    "filename": "imagetrans.md.xlf",
+    "files": [
+        {
+            "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans.md": [
+                [
+                    "简介",
+                    "Introduction",
+                    "简介",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1594694594325,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "ImageTrans是一款计算机辅助图片文字转录与翻译工具，能够使用OCR技术自动定位并识别文字，自动抹除原文并回填译文，并且拥有针对漫画设计的文字区域合并与检测算法。",
+                    "ImageTrans is a computer-aided image and comic translation tool. It can automatically locate text areas and perform OCR operations using state-of-art OCR technology and a homebrew text areas merging and detecting algorithm, which is specially designed for comics (also webtoon, manga, manhwa and manhua). The original text can be automatically erased and the translation be reinjected.",
+                    "ImageTrans是一款计算机辅助图片文字转录与翻译工具，能够使用OCR技术自动定位并识别文字，自动抹除原文并回填译文，并且拥有针对漫画设计的文字区域合并与检测算法。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1618124144771,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "ImageTrans是我硕士毕业论文的成果：<g1>一个漫画翻译辅助工具的设计与实现<\/g1>。",
+                    "ImageTrans is the result of the thesis for my master's degree: [Design and Implementation of a Computer-Aided Comics Translation Tool](https:\/\/www.researchgate.net\/publication\/342623300_Design_and_Implementation_of_a_Computer-Aided_Comics_Translation_Tool).",
+                    "ImageTrans是我硕士毕业论文的成果：<g1>一个漫画翻译辅助工具的设计与实现<\/g1>。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1618124165683,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "软件特色",
+                    "Features",
+                    "软件特色",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1618124178347,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "准确定位文字区域",
+                    "Accurate text area detection",
+                    "准确定位文字区域",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1618124285655,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "![](\/album\/imagetrans-features\/localization.jpg)",
+                    "![](\/album\/imagetrans-features\/localization.jpg)",
+                    "![](\/album\/imagetrans-features\/localization.jpg)\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1618124497595,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "支持使用自然场景文字检测法、目标检测法和启发式等多种定位方法。",
+                    "It can use natural scene text detection, object detection and a heuristic method to detect text.",
+                    "\r\n支持使用自然场景文字检测法、目标检测法和启发式等多种定位方法。\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1618124256746,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "准确识别文字",
+                    "Accurate text recognition",
+                    "准确识别文字",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1618124278426,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "支持调用多种OCR",
+                    "Support multiple OCRs",
+                    "支持调用多种OCR",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1618124314403,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "支持谷歌、百度、搜狗、有道等在线OCR服务与Tesseract、PaddleOCR、Windows 10自带OCR等离线OCR引擎。",
+                    "It supports online OCR services such as Google, Baidu, Sogou and Youdao, and offline OCR engines such as Tesseract, PaddleOCR and Windows 10's built-in OCR engine.",
+                    "支持谷歌、百度、搜狗、有道等在线OCR服务与Tesseract、PaddleOCR、Windows 10自带OCR等离线OCR引擎。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1618124347050,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "具体的支持情况和使用方法见<g1>FAQ<\/g1>。",
+                    "See <g1>FAQ<\/g1> for the usage and the list of supported OCRs.",
+                    "具体的支持情况和使用方法见<g1>FAQ<\/g1>。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1618124415642,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "此外也可以通过编写插件来调用其它OCR服务。",
+                    "In addition, you can also call other OCR services by writing plug-ins.",
+                    "此外也可以通过编写插件来调用其它OCR服务。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1618124418882,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "支持主要语言",
+                    "Support major languages",
+                    "支持主要语言",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1618124434546,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "使用的OCR支持世界上所有主要语言。",
+                    "The OCRs used support all the major languages in the world.",
+                    "使用的OCR支持世界上所有主要语言。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1618124447811,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "支持使用多种图像处理方法来改善结果",
+                    "Employ a variety of image processing methods to improve the results",
+                    "支持使用多种图像处理方法来改善结果",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1618124469001,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "去除背景",
+                    "Remove background",
+                    "去除背景",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1618124483297,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "↓",
+                    "↓",
+                    "↓",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1618124487448,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "去除日语振假名",
+                    "Strip Japanese furigana",
+                    "去除日语振假名",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1618124515034,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "去除前：",
+                    "Before:",
+                    "去除前：",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1618124520275,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "搜狗OCR：えーっとはいばん灰原さんのせき席は…",
+                    "Sogou OCR: えーっとはいばん灰原さんのせき席は…",
+                    "\t搜狗OCR：えーっとはいばん灰原さんのせき席は…\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1618124531386,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "去除后：",
+                    "After:",
+                    "去除后：",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1618124534638,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "搜狗OCR：えーっと灰原さんの席は…",
+                    "Sogou OCR: えーっと灰原さんの席は…",
+                    "\t搜狗OCR：えーっと灰原さんの席は…\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1618124543753,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "日语竖排转横排",
+                    "Convert vertically aligned images to horizontally aligned",
+                    "日语竖排转横排",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1618124572145,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "基于CRNN训练的OCR多数只能识别横排文字，使用这些OCR模型时需要将竖排图像转横排",
+                    "Most of the OCR models based on CRNN can only recognize text horizontally aligned, so it is necessary to convert vertical images to horizontal images when using these OCR models",
+                    "基于CRNN训练的OCR多数只能识别横排文字，使用这些OCR模型时需要将竖排图像转横排",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1618124627873,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "百度OCR：強んな勉とら!文事なかす原るん日で灰すみ今",
+                    "Baidu OCR: 強んな勉とら!文事なかす原るん日で灰すみ今",
+                    "\t百度OCR：強んな勉とら!文事なかす原るん日で灰すみ今\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1618124649978,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "↓",
+                    "↓",
+                    "↓",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1618124651855,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "百度OCR：今日からみんなと勉強する事になった灰原哀さんです!",
+                    "Baidu OCR: 今日からみんなと勉強する事になった灰原哀さんです!",
+                    "\t百度OCR：今日からみんなと勉強する事になった灰原哀さんです!\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1618124661994,
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "支持去除换行、空格等文本后处理",
+                    "Post-processing of the text: remove line breaks, spaces",
+                    "支持去除换行、空格等文本后处理",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1618124697129,
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "支持使用拼写检查完善结果",
+                    "Use spellcheck to improve the result",
+                    "支持使用拼写检查完善结果",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1618124717504,
+                        "id": "tu33"
+                    }
+                ],
+                [
+                    "辅助翻译功能",
+                    "Translation assist",
+                    "辅助翻译功能",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1618124747897,
+                        "id": "tu35"
+                    }
+                ],
+                [
+                    "支持调用多种机器翻译引擎，支持翻译记忆和术语管理等常见的计算机辅助翻译软件的功能",
+                    "It can call a variety of machine translation engines. It also supports translation memory and term management and other common functions of computer-aided translation software",
+                    "支持调用多种机器翻译引擎，支持翻译记忆和术语管理等常见的计算机辅助翻译软件的功能",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1618124776001,
+                        "id": "tu36"
+                    }
+                ],
+                [
+                    "准确抹除文字并回填译文",
+                    "Precise text removal and reinjection",
+                    "准确抹除文字并回填译文",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1618124834978,
+                        "id": "tu37"
+                    }
+                ],
+                [
+                    "软件能调用Sickzil-Machine、二值化、PatchMatch等工具和算法生成文字掩膜、去除文字，并根据文字区域的位置和面积回填译文，自动调整译文字体大小。",
+                    "The software can use tools and algorithms like Sickzil-Machine, binarization, PatchMatch to generate text mask and remove text. It can refill the translation and automatically adjust the font size according to the position and area of text regions.",
+                    "软件能调用Sickzil-Machine、二值化、PatchMatch等工具和算法生成文字掩膜、去除文字，并根据文字区域的位置和面积回填译文，自动调整译文字体大小。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1618124957825,
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "以上操作均支持手动调整。",
+                    "All the above operations support manual adjustment.",
+                    "以上操作均支持手动调整。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1618124961223,
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "互操作性",
+                    "Interoperability",
+                    "互操作性",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1618125007192,
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "支持利用脚本将结果保存为Photoshop的PSD格式文件",
+                    "It can use scripts to save the results as Photoshop's PSD files.",
+                    "支持利用脚本将结果保存为Photoshop的PSD格式文件",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1618125862407,
+                        "id": "tu41"
+                    }
+                ],
+                [
+                    "支持将数据导出到Excel、Word、XLIFF等文件或者从这些文件导回翻译",
+                    "It can export the data to Excel, Word, XLIFF files, or import data from these files",
+                    "支持将数据导出到Excel、Word、XLIFF等文件或者从这些文件导回翻译",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1618125907465,
+                        "id": "tu42"
+                    }
+                ],
+                [
+                    "支持使用Chrome插件翻译网页中的图片",
+                    "With the Chrome Extension, it is possible to translate pictures on web pages directly",
+                    "支持使用Chrome插件翻译网页中的图片",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1618125956959,
+                        "id": "tu43"
+                    }
+                ],
+                [
+                    "跨平台",
+                    "Cross-platform",
+                    "跨平台",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1618125984190,
+                        "id": "tu44"
+                    }
+                ],
+                [
+                    "和BasicCAT一样，ImageTrans是跨平台的（Windows、macOS、Linux）。",
+                    "Like BasicCAT, ImageTrans is cross-platform (Windows, MacOS, Linux).",
+                    "和BasicCAT一样，ImageTrans是跨平台的（Windows、macOS、Linux）。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1618125989318,
+                        "id": "tu45"
+                    }
+                ],
+                [
+                    "此外亦能以服务器的形式运行。",
+                    "It can also run as a server.",
+                    "此外亦能以服务器的形式运行。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1618126001150,
+                        "id": "tu45"
+                    }
+                ],
+                [
+                    "其它功能",
+                    "Others",
+                    "其它功能",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1618126006660,
+                        "id": "tu46"
+                    }
+                ],
+                [
+                    "全局字体样式",
+                    "Global font style",
+                    "全局字体样式",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1618126011426,
+                        "id": "tu47"
+                    }
+                ],
+                [
+                    "自动检测背景颜色和文字颜色",
+                    "Automatic detection of background color and text color",
+                    "自动检测背景颜色和文字颜色",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1618126014250,
+                        "id": "tu48"
+                    }
+                ],
+                [
+                    "完善的批处理功能",
+                    "Batch processing",
+                    "完善的批处理功能",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1618126023956,
+                        "id": "tu49"
+                    }
+                ],
+                [
+                    "漫画翻译结果示例",
+                    "Examples of Translated Comics",
+                    "漫画翻译结果示例",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1618126037246,
+                        "id": "tu50"
+                    }
+                ],
+                [
+                    "Come to me , Love —— 美国黄金时代漫画杂志《Boy Loves Girls》第41期",
+                    "Come to me, Love —— From issue 41, Boy Loves Girls (Golden age comics).",
+                    "Come to me , Love —— 美国黄金时代漫画杂志《Boy Loves Girls》第41期",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1618126037246,
+                        "id": "tu51"
+                    }
+                ],
+                [
+                    "浏览页面：",
+                    "Browsing Page: ",
+                    "浏览页面：<x1\/>",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1618126045894,
+                        "id": "tu52"
+                    }
+                ],
+                [
+                    "文本检索页面：",
+                    "Text Searching Page: ",
+                    "文本检索页面：<x1\/>",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1618126061523,
+                        "id": "tu53"
+                    }
+                ],
+                [
+                    "获取ImageTrans",
+                    "Get a Copy",
+                    "获取ImageTrans",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1618126061523,
+                        "id": "tu54"
+                    }
+                ],
+                [
+                    "发送邮件至<g1>admin@basiccat.org<\/g1>申请购买。",
+                    "Mail to <g1>admin@basiccat.org<\/g1> to apply for purchasing ImageTrans.",
+                    "发送邮件至<g1>admin@basiccat.org<\/g1>申请购买。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1618126078448,
+                        "id": "tu55"
+                    }
+                ],
+                [
+                    "使用支付宝或者PayPal完成支付。",
+                    "Complete the payment with Paypal or Alipay.",
+                    "使用支付宝或者PayPal完成支付。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1618126087846,
+                        "id": "tu56"
+                    }
+                ],
+                [
+                    "得到下载链接和邮件。",
+                    "You will get a download link and an email.",
+                    "得到下载链接和邮件。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1618126099505,
+                        "id": "tu57"
+                    }
+                ],
+                [
+                    "或者前往FastSpring支付平台自主购买：<g1>链接<\/g1>。",
+                    "Or self purchase on FastSpring: <g1>link<\/g1>.",
+                    "或者前往FastSpring支付平台自主购买：<g1>链接<\/g1>。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1618126116499,
+                        "id": "tu58"
+                    }
+                ],
+                [
+                    "定价：",
+                    "Pricing:",
+                    "定价：",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1618126123454,
+                        "id": "tu59"
+                    }
+                ],
+                [
+                    "ImageTrans个人用途：￥75",
+                    "ImageTrans for personal use: $10.99",
+                    "ImageTrans个人用途：￥75",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1618126134789,
+                        "id": "tu60"
+                    }
+                ],
+                [
+                    "ImageTrans商业用途：￥1500",
+                    "ImageTrans for commercial purpose: $200",
+                    "ImageTrans商业用途：￥1500",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1618126134789,
+                        "id": "tu61"
+                    }
+                ],
+                [
+                    "半年内免费更新。",
+                    "Free update within half a year.",
+                    "半年内免费更新。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1618126139964,
+                        "id": "tu62"
+                    }
+                ],
+                [
+                    "请按照<g1>安装说明<\/g1>进行操作。",
+                    "Please follow the <g1>installation instruction<\/g1>.",
+                    "请按照<g1>安装说明<\/g1>进行操作。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1618126156551,
+                        "id": "tu63"
+                    }
+                ],
+                [
+                    "来自高校的师生可以用教育网邮箱发送邮件至<g1>admin@basiccat.org<\/g1>，说明相关信息，打算用ImageTrans做什么任务，能够得到优惠。",
+                    "If you are from academic institutions, you can email to <g1>admin@basiccat.org<\/g1> with your institution's email to get a discount. Please tell us who you are and what you are gonna do with ImageTrans.",
+                    "来自高校的师生可以用教育网邮箱发送邮件至<g1>admin@basiccat.org<\/g1>，说明相关信息，打算用ImageTrans做什么任务，能够得到优惠。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1618126179743,
+                        "id": "tu64"
+                    }
+                ],
+                [
+                    "更多内容",
+                    "More",
+                    "更多内容",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1618126188339,
+                        "id": "tu65"
+                    }
+                ],
+                [
+                    "软件文档",
+                    "Documentation",
+                    "<g1>软件文档<\/g1>",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1594174028115,
+                        "id": "tu66"
+                    }
+                ],
+                [
+                    "发布日志",
+                    "Release Notes",
+                    "<g1>发布日志<\/g1>",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1618126195486,
+                        "id": "tu67"
+                    }
+                ],
+                [
+                    "视频教程",
+                    "Video Tutorials and Demos",
+                    "<g1>视频教程<\/g1>",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1618126209136,
+                        "id": "tu68"
+                    }
+                ],
+                [
+                    "常见问题",
+                    "Frequently Asked Questions",
+                    "<g1>常见问题<\/g1>",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1618126219110,
+                        "id": "tu69"
+                    }
+                ],
+                [
+                    "技术支持",
+                    "Technical Support",
+                    "<g1>技术支持<\/g1>",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1618126227532,
+                        "id": "tu70"
+                    }
+                ],
+                [
+                    "技术博客",
+                    "Blog",
+                    "<g1>技术博客<\/g1>",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1618126230744,
+                        "id": "tu71"
+                    }
+                ],
+                [
+                    "相关工具",
+                    "Related tools",
+                    "相关工具",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1618126233628,
+                        "id": "tu72"
+                    }
+                ],
+                [
+                    "<g1>WebP-Converter<\/g1>，转换JPG\/BMP\/PNG格式的图片到WebP或者将WebP转换为JPG。",
+                    "<g1>WebP-Converter<\/g1>. Convert JPG\/BMP\/PNG to WebP and vice versa.",
+                    "<g1>WebP-Converter<\/g1>，转换JPG\/BMP\/PNG格式的图片到WebP或者将WebP转换为JPG。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1618126263663,
+                        "id": "tu73"
+                    }
+                ],
+                [
+                    "<g1>WebImageHelper<\/g1>，下载网页中所有图片或者根据屏幕坐标，下载位于鼠标下方的图片。",
+                    "<g1>WebImageHelper<\/g1>. Download all the images from websites or download the image under the mouse cursor based on screen positions.",
+                    "<g1>WebImageHelper<\/g1>，下载网页中所有图片或者根据屏幕坐标，下载位于鼠标下方的图片。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1618126286319,
+                        "id": "tu74"
+                    }
+                ],
+                [
+                    "该工具可以用于翻译网页中的图片，能将翻译好的图片替换网页中的图片。",
+                    "This can be used to translate images in web. Images can be replaced with their target version.",
+                    "该工具可以用于翻译网页中的图片，能将翻译好的图片替换网页中的图片。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1618126292122,
+                        "id": "tu74"
+                    }
+                ],
+                [
+                    "{% include comments.html %}",
+                    "{% include comments.html %}",
+                    "{% include comments.html %}",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1618126294350,
+                        "id": "tu75"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}

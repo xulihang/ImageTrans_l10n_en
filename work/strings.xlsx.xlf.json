@@ -1,6 +1,6 @@
 {
     "filename": "strings.xlsx.xlf",
-    "creationTime": 1617106226626,
+    "creationTime": 1619445553106,
     "files": [
         {
             "xl\/sharedStrings.xml": [
@@ -5445,6 +5445,18 @@
                     "xl\/sharedStrings.xml",
                     {
                         "id": "P147242AB-tu591"
+                    }
+                ],
+                [
+                    "请先打开一个项目",
+                    "Please open a project first",
+                    "请先打开一个项目",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1619445567698,
+                        "id": "P147242AB-tu592"
                     }
                 ]
             ]

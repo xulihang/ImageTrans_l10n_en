@@ -1,0 +1,173 @@
+{
+    "filename": "imagetrans-how-to-contribute.md.xlf",
+    "files": [
+        {
+            "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans-how-to-contribute.md": [
+                [
+                    "你可以通过以下方式帮助完善ImageTrans:",
+                    "You can contribute to the development of ImageTrans in the following aspects:",
+                    "你可以通过以下方式帮助完善ImageTrans:",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans-how-to-contribute.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1622641117786,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "翻译文档",
+                    "Document Translation",
+                    "翻译文档",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans-how-to-contribute.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1622641134397,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "ImageTrans的文档使用Sphinx制作并托管在readthedocs上。",
+                    "ImageTrans's documentation is created using Sphinx and hosted on readthedocs.",
+                    "ImageTrans的文档使用Sphinx制作并托管在readthedocs上。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans-how-to-contribute.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1622641157986,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "文档代码仓库：",
+                    "The repository:",
+                    "文档代码仓库：<x1\/>",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans-how-to-contribute.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1622641184141,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "需要使用Sphinx的本地化工具提取出po文件并将其翻译。",
+                    "You need to use Sphinx's localization tool to extract the text to po files and translate them.",
+                    "需要使用Sphinx的本地化工具提取出po文件并将其翻译。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans-how-to-contribute.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1622641203949,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "翻译软件界面",
+                    "Translation of UI",
+                    "翻译软件界面",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans-how-to-contribute.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1622641211629,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "ImageTrans使用<g1>B4XLocalizator<\/g1>实现本地化，需要翻译strings.xlsx文件。",
+                    "ImageTrans uses <g1>B4XLocalizator<\/g1> to localize its UI. The strings.xlsx file needs to be translated.",
+                    "ImageTrans使用<g1>B4XLocalizator<\/g1>实现本地化，需要翻译strings.xlsx文件。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans-how-to-contribute.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1622641250386,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "翻译完成后转换为strings.db供软件调用。",
+                    "After translation, it can be converted to strings.db for ImageTrans to use.",
+                    "翻译完成后转换为strings.db供软件调用。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans-how-to-contribute.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1622641278944,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "strings.xlsx在此下载：",
+                    "You can get the strings.xlsx here:",
+                    "strings.xlsx在此下载：<x1\/>",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans-how-to-contribute.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1622641297758,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "开发插件",
+                    "Plug-ins Development",
+                    "开发插件",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans-how-to-contribute.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1622641308421,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "ImageTrans使用ABPlugin开发插件。",
+                    "ImageTrans uses ABPlugin to create plugins.",
+                    "ImageTrans使用ABPlugin开发插件。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans-how-to-contribute.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1622641337496,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "现有插件代码：",
+                    "Source code of existing plug-ins:",
+                    "现有插件代码：<x1\/>",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans-how-to-contribute.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1622641366134,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "提建议",
+                    "Make suggestions",
+                    "提建议",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans-how-to-contribute.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1622641368350,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "前往文档的<g1>issue页面<\/g1>提建议。",
+                    "Go to the docs repo's <g1>issue page<\/g1> to make suggestions.",
+                    "前往文档的<g1>issue页面<\/g1>提建议。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans-how-to-contribute.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1622641555803,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "{% include comments.html %}",
+                    "",
+                    "{% include comments.html %}",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans-how-to-contribute.md",
+                    {
+                        "id": "tu13"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}

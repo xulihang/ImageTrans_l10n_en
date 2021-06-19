@@ -1,0 +1,192 @@
+{
+    "filename": "manga_ocr.po",
+    "files": [
+        {
+            "manga_ocr.po": [
+                [
+                    "日漫OCR",
+                    "Manga OCR",
+                    "日漫OCR",
+                    "manga_ocr.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1624110529347,
+                        "id": 2
+                    }
+                ],
+                [
+                    "日语漫画的文字从右向左竖向排列，并且会带有用于注音的振假名，所以处理方式会有不同。",
+                    "The text of Japanese manga is arranged vertically from right to left, and there will be Furigana for phonetic notation, so the processing methods will be different.",
+                    "日语漫画的文字从右向左竖向排列，并且会带有用于注音的振假名，所以处理方式会有不同。",
+                    "manga_ocr.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1624110553462,
+                        "id": 3
+                    }
+                ],
+                [
+                    "以下是ImageTrans中针对日漫OCR的相关功能设计。",
+                    "The following is the related features of ImageTrans for manga OCR.",
+                    "以下是ImageTrans中针对日漫OCR的相关功能设计。",
+                    "manga_ocr.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1624110594399,
+                        "id": 4
+                    }
+                ],
+                [
+                    "去除振假名",
+                    "Strip Furigana",
+                    "去除振假名",
+                    "manga_ocr.po",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1624110602316,
+                        "id": 5
+                    }
+                ],
+                [
+                    "勾选OCR工具栏的去除振假名，OCR时会把图像中的振假名去除。",
+                    "Check Strip Furigana on the OCR toolbar to remove Furigana in the image during OCR.",
+                    "勾选OCR工具栏的去除振假名，OCR时会把图像中的振假名去除。",
+                    "manga_ocr.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1624110646454,
+                        "id": 6
+                    }
+                ],
+                [
+                    "原图：",
+                    "Original image:",
+                    "原图：",
+                    "manga_ocr.po",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1611196838631,
+                        "id": 7
+                    }
+                ],
+                [
+                    "去除后的图：",
+                    "After:",
+                    "去除后的图：",
+                    "manga_ocr.po",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1618124534638,
+                        "id": 8
+                    }
+                ],
+                [
+                    "竖排转横排",
+                    "Vertical to Horizontal",
+                    "竖排转横排",
+                    "manga_ocr.po",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1624110723537,
+                        "id": 9
+                    }
+                ],
+                [
+                    "勾选OCR工具栏的转换图片为横排，OCR时会以横排的方式重新排列文字。",
+                    "Check Vertical to Horizontal in the OCR toolbar so that the text will be rearranged in during OCR.",
+                    "勾选OCR工具栏的转换图片为横排，OCR时会以横排的方式重新排列文字。",
+                    "manga_ocr.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1624110738035,
+                        "id": 10
+                    }
+                ],
+                [
+                    "这样许多仅能识别横排日语的OCR引擎就也能用了。",
+                    "In this way, many OCR engines that can only recognize horizontal Japanese can also be used.",
+                    "这样许多仅能识别横排日语的OCR引擎就也能用了。",
+                    "manga_ocr.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1624110741895,
+                        "id": 10
+                    }
+                ],
+                [
+                    "转换后的图：",
+                    "After:",
+                    "转换后的图：",
+                    "manga_ocr.po",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1618124534638,
+                        "id": 11
+                    }
+                ],
+                [
+                    "启发式文字检测方法的参数设置",
+                    "Parameter Setting of The Heuristic Text Detection Method",
+                    "启发式文字检测方法的参数设置",
+                    "manga_ocr.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1624110773858,
+                        "id": 12
+                    }
+                ],
+                [
+                    "默认的启发式文字检测方法先横向合并，再纵向合并。",
+                    "The default heuristic text detection method merges horizontally and then vertically.",
+                    "默认的启发式文字检测方法先横向合并，再纵向合并。",
+                    "manga_ocr.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1624110804918,
+                        "id": 13
+                    }
+                ],
+                [
+                    "OCR日漫时，可以设置为先纵向合并后横向合并，并调整纵向合并时文字行的重叠比例以避免不同段落文字被合并的问题。",
+                    "For manga, it can be set to merge vertically and then horizontally. The overlapping ratio of text lines can also be adjusted to avoid the problem of merging different paragraphs.",
+                    "OCR日漫时，可以设置为先纵向合并后横向合并，并调整纵向合并时文字行的重叠比例以避免不同段落文字被合并的问题。",
+                    "manga_ocr.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1624110836048,
+                        "id": 13
+                    }
+                ],
+                [
+                    "从右向左阅读顺序",
+                    "Right to Left Reading Order",
+                    "从右向左阅读顺序",
+                    "manga_ocr.po",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1624110855326,
+                        "id": 14
+                    }
+                ],
+                [
+                    "在项目设置中勾选此选项，合并文字区域时，会把右边的文字放在前面。",
+                    "Check this option in project settings so that when merging text areas, the text on the right will be placed in the front.",
+                    "在项目设置中勾选此选项，合并文字区域时，会把右边的文字放在前面。",
+                    "manga_ocr.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1624110874768,
+                        "id": 15
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}

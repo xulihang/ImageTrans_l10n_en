@@ -1,4 +1,6 @@
 {
+    "filename": "gettingstarted.po",
+    "creationTime": 1624111735940,
     "files": [
         {
             "gettingstarted.po": [
@@ -21,84 +23,49 @@
                     }
                 ],
                 [
-                    "Windows完整版解压到任意目录后即可，Mac完整版打开dmg文件安装ImageTrans到应用目录即可。",
-                    "For Windows, unzip the full version to any folder. For Mac, drag the app in dmg file to Application.",
-                    "Windows完整版解压到任意目录后即可，Mac完整版打开dmg文件安装ImageTrans到应用目录即可。",
+                    "完整版",
+                    "Full Version",
+                    "完整版",
                     "gettingstarted.po",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1624106511053,
                         "id": 4
                     }
                 ],
                 [
-                    "需要使用Tesseract进行OCR的话请自行下载安装（`地址 <https:\/\/tesseract-ocr.github.io\/tessdoc\/Downloads.html>`_）。",
-                    "If you need to use Tesseract for OCR, please install it by yourself （`Link <https:\/\/tesseract-ocr.github.io\/tessdoc\/Downloads.html>`_）.",
-                    "需要使用Tesseract进行OCR的话请自行下载安装（`地址 <https:\/\/tesseract-ocr.github.io\/tessdoc\/Downloads.html>`_）。",
+                    "Windows完整版解压到任意目录后运行ImageTrans.exe即可，Mac完整版打开dmg文件安装ImageTrans到应用目录即可。",
+                    "For Windows, unzip the full version to any folder and run ImageTrans.exe. For Mac, drag the app in dmg file to Application.",
+                    "Windows完整版解压到任意目录后运行ImageTrans.exe即可，Mac完整版打开dmg文件安装ImageTrans到应用目录即可。",
                     "gettingstarted.po",
                     {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1624106527585,
                         "id": 5
                     }
                 ],
                 [
-                    "这里再提供一个Windows的绿色版本：`百度网盘（提取码：ktpt） <https:\/\/pan.baidu.com\/s\/1gJZyuntLetZEpFWI8XqkXA>`_。",
-                    "Here is a Windows version for download: `Baidu Netdisk (code: ktpt) <https:\/\/pan.baidu.com\/s\/1gJZyuntLetZEpFWI8XqkXA>`_).",
-                    "这里再提供一个Windows的绿色版本：`百度网盘（提取码：ktpt） <https:\/\/pan.baidu.com\/s\/1gJZyuntLetZEpFWI8XqkXA>`_。",
+                    "跨平台版",
+                    "Cross Platform Version",
+                    "跨平台版",
                     "gettingstarted.po",
                     {
-                        "id": 5
-                    }
-                ],
-                [
-                    "下载后将tesseract-ocr目录和ImageTrans放在一起。",
-                    "Put the downloaded tesseract-ocr with ImageTrans.",
-                    "下载后将tesseract-ocr目录和ImageTrans放在一起。",
-                    "gettingstarted.po",
-                    {
-                        "id": 5
-                    }
-                ],
-                [
-                    "额外的语言包请放在 ``tesseract-ocr\\\tessdata`` 目录下。",
-                    "Put additional language data files under ``tesseract-ocr\\\\tessdata``.",
-                    "额外的语言包请放在 ``tesseract-ocr\\\tessdata`` 目录下。",
-                    "gettingstarted.po",
-                    {
-                        "id": 5
-                    }
-                ],
-                [
-                    "本工具支持的在线OCR和机器翻译服务均需要设置API才能使用，其中谷歌翻译、云译和ocrspace为免费提供。",
-                    "Both online OCR and machine translation services supported by this tool require API keys to be used. Google Translation, Cloud Translation and OCRSpace are available free of charge.",
-                    "本工具支持的在线OCR和机器翻译服务均需要设置API才能使用，其中谷歌翻译、云译和ocrspace为免费提供。",
-                    "gettingstarted.po",
-                    {
+                        "creator": "xulihang",
+                        "createdTime": 1624111233136,
                         "id": 6
                     }
                 ],
                 [
-                    "付费用户还能获得百度和Azure的API。",
-                    "Paid users will also receive Baidu and Azure's API keys.",
-                    "付费用户还能获得百度和Azure的API。",
-                    "gettingstarted.po",
-                    {
-                        "id": 6
-                    }
-                ],
-                [
-                    "以下内容是对于跨平台的版本：",
-                    "The following is for the cross-platform version:",
-                    "以下内容是对于跨平台的版本：",
-                    "gettingstarted.po",
-                    {
-                        "id": 7
-                    }
-                ],
-                [
-                    "下载ImageTrans的压缩包，解压到任意目录，双击ImageTrans.jar或者命令行输入 ``java -jar ImageTrans.jar`` 即可运行。",
+                    "下载zip压缩包，解压到任意目录，双击ImageTrans.jar或者命令行输入 ``java -jar ImageTrans.jar`` 即可运行。",
                     "Download ImageTrans's zip file, unzip it to any folder, double-click ImageTrans.jar or enter the command line ``java -jar ImageTrans.jar`` to run it.",
-                    "下载ImageTrans的压缩包，解压到任意目录，双击ImageTrans.jar或者命令行输入 ``java -jar ImageTrans.jar`` 即可运行。",
+                    "下载zip压缩包，解压到任意目录，双击ImageTrans.jar或者命令行输入 ``java -jar ImageTrans.jar`` 即可运行。",
                     "gettingstarted.po",
                     {
-                        "id": 8
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1596193054710,
+                        "id": 7
                     }
                 ],
                 [
@@ -107,7 +74,7 @@
                     "软件依赖JRE 1.8运行环境，请先下载安装。",
                     "gettingstarted.po",
                     {
-                        "id": 9
+                        "id": 8
                     }
                 ],
                 [
@@ -116,16 +83,18 @@
                     "下载地址：1.",
                     "gettingstarted.po",
                     {
-                        "id": 10
+                        "id": 8
                     }
                 ],
                 [
                     "`Liberica 8u275 full version  <https:\/\/github.com\/bell-sw\/Liberica\/releases\/tag\/8u275%2B1>`_ 2.",
-                    "",
+                    "`Liberica 8u275 full version  <https:\/\/github.com\/bell-sw\/Liberica\/releases\/tag\/8u275%2B1>`_ 2.",
                     " `Liberica 8u275 full version  <https:\/\/github.com\/bell-sw\/Liberica\/releases\/tag\/8u275%2B1>`_ 2.",
                     "gettingstarted.po",
                     {
-                        "id": 9
+                        "creator": "xulihang",
+                        "createdTime": 1624106572576,
+                        "id": 8
                     }
                 ],
                 [
@@ -134,7 +103,7 @@
                     " `百度网盘（提取码：mhsy） <https:\/\/pan.baidu.com\/s\/1t0g6htstFge0h2dOS0aBog>`_",
                     "gettingstarted.po",
                     {
-                        "id": 9
+                        "id": 8
                     }
                 ],
                 [
@@ -143,7 +112,7 @@
                     "软件依赖OpenCV，请根据系统下载运行库文件，解压后放在ImageTrans的目录下。",
                     "gettingstarted.po",
                     {
-                        "id": 10
+                        "id": 9
                     }
                 ],
                 [
@@ -152,7 +121,7 @@
                     "下载地址：1.",
                     "gettingstarted.po",
                     {
-                        "id": 10
+                        "id": 9
                     }
                 ],
                 [
@@ -161,7 +130,7 @@
                     " `GitHub <https:\/\/github.com\/xulihang\/ImageTrans-docs\/releases\/tag\/opencv>`_, 2.",
                     "gettingstarted.po",
                     {
-                        "id": 10
+                        "id": 9
                     }
                 ],
                 [
@@ -170,7 +139,305 @@
                     " `百度网盘 <https:\/\/pan.baidu.com\/s\/1D9EZMKqwgqQjdEjwYFkZQQ>`_",
                     "gettingstarted.po",
                     {
+                        "id": 9
+                    }
+                ],
+                [
+                    "OCR与机器翻译的配置",
+                    "Configuration of OCR and Machine Translation",
+                    "OCR与机器翻译的配置",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1624106592437,
                         "id": 10
+                    }
+                ],
+                [
+                    "本工具集成了常见的在线OCR和机器翻译服务。",
+                    "ImageTrans has integrated common online OCR and machine translation APIs.",
+                    "本工具集成了常见的在线OCR和机器翻译服务。",
+                    "gettingstarted.po",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1624106812575,
+                        "id": 11
+                    }
+                ],
+                [
+                    "一般这些服务均需要设置API密钥才能使用。",
+                    "Usually, you need to apply for their API keys to call them.",
+                    "一般这些服务均需要设置API密钥才能使用。",
+                    "gettingstarted.po",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1615698777324,
+                        "id": 11
+                    }
+                ],
+                [
+                    "ImageTrans内置了部分服务的API密钥，可以直接使用：",
+                    "ImageTrans has included the API keys of some services, which can be used directly:",
+                    "ImageTrans内置了部分服务的API密钥，可以直接使用：",
+                    "gettingstarted.po",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1624106879064,
+                        "id": 11
+                    }
+                ],
+                [
+                    "OCR： 百度、OCRSPACE、Azure",
+                    "OCR: Baidu, OCRSPACE, Azure",
+                    "OCR： 百度、OCRSPACE、Azure",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1624106903435,
+                        "id": 12
+                    }
+                ],
+                [
+                    "机器翻译： 百度、小牛、腾讯、谷歌免密钥版",
+                    "Machine translation: Baidu, Niutrans, Tencent, Google without api key",
+                    "机器翻译： 百度、小牛、腾讯、谷歌免密钥版",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1624106920200,
+                        "id": 13
+                    }
+                ],
+                [
+                    "另外也支持若干离线OCR和机器翻译。",
+                    "In addition, some offline OCR and machine translation are also supported.",
+                    "另外也支持若干离线OCR和机器翻译。",
+                    "gettingstarted.po",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1624106936206,
+                        "id": 14
+                    }
+                ],
+                [
+                    "离线OCR:",
+                    "Offline OCR:",
+                    "离线OCR:",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1624106943737,
+                        "id": 15
+                    }
+                ],
+                [
+                    "Tesseract",
+                    "Tesseract",
+                    "Tesseract",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1624106947307,
+                        "id": 16
+                    }
+                ],
+                [
+                    "需要使用Tesseract进行OCR的话请自行下载安装（`地址 <https:\/\/tesseract-ocr.github.io\/tessdoc\/Downloads.html>`_），并在ImageTrans里指定Tesseract的路径。",
+                    "If you need to use Tesseract for OCR, please install it by yourself （`Link <https:\/\/tesseract-ocr.github.io\/tessdoc\/Downloads.html>`_）and specify the path of Tesseract in ImageTrans.",
+                    "需要使用Tesseract进行OCR的话请自行下载安装（`地址 <https:\/\/tesseract-ocr.github.io\/tessdoc\/Downloads.html>`_），并在ImageTrans里指定Tesseract的路径。",
+                    "gettingstarted.po",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1624106983347,
+                        "id": 17
+                    }
+                ],
+                [
+                    "这里再提供一个Windows的绿色版本：`百度网盘（提取码：ktpt） <https:\/\/pan.baidu.com\/s\/1gJZyuntLetZEpFWI8XqkXA>`_。",
+                    "Here is a Windows version for download: `Baidu Netdisk (code: ktpt) <https:\/\/pan.baidu.com\/s\/1gJZyuntLetZEpFWI8XqkXA>`_).",
+                    "这里再提供一个Windows的绿色版本：`百度网盘（提取码：ktpt） <https:\/\/pan.baidu.com\/s\/1gJZyuntLetZEpFWI8XqkXA>`_。",
+                    "gettingstarted.po",
+                    {
+                        "id": 18
+                    }
+                ],
+                [
+                    "下载后将tesseract-ocr目录和ImageTrans放在一起。",
+                    "Put the downloaded tesseract-ocr with ImageTrans.",
+                    "下载后将tesseract-ocr目录和ImageTrans放在一起。",
+                    "gettingstarted.po",
+                    {
+                        "id": 18
+                    }
+                ],
+                [
+                    "额外的语言包请放在 ``tesseract-ocr\\\tessdata`` 目录下。",
+                    "Put additional language data files under ``tesseract-ocr\\\\tessdata``.",
+                    "额外的语言包请放在 ``tesseract-ocr\\\tessdata`` 目录下。",
+                    "gettingstarted.po",
+                    {
+                        "id": 18
+                    }
+                ],
+                [
+                    "Windows10自带OCR",
+                    "The built-in OCR in Windows 10",
+                    "Windows10自带OCR",
+                    "gettingstarted.po",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1624106999463,
+                        "id": 19
+                    }
+                ],
+                [
+                    "Windows10自带OCR功能，但需要先安装所需语言。",
+                    "Windows 10 comes with built-in OCR, but you need to install the language environment first.",
+                    "Windows10自带OCR功能，但需要先安装所需语言。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1624107210158,
+                        "id": 20
+                    }
+                ],
+                [
+                    "它和Azure、OCRSPACE的引擎其实是同一个。",
+                    "Actually, it has the same engine as Azure and OCRSPACE.",
+                    "它和Azure、OCRSPACE的引擎其实是同一个。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1624107243960,
+                        "id": 20
+                    }
+                ],
+                [
+                    "ImageTrans中这一OCR引擎的名字叫做WinRT，因为它是基于Windows的 `Windows Runtime API <https:\/\/docs.microsoft.com\/en-us\/uwp\/api\/windows.media.ocr?view=winrt-20348>`_。",
+                    "This OCR engine in ImageTrans is called WinRT because it is based on the  `Windows Runtime API <https:\/\/docs.microsoft.com\/en-us\/uwp\/api\/windows.media.ocr?view=winrt-20348>`_.",
+                    "ImageTrans中这一OCR引擎的名字叫做WinRT，因为它是基于Windows的 `Windows Runtime API <https:\/\/docs.microsoft.com\/en-us\/uwp\/api\/windows.media.ocr?view=winrt-20348>`_。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1624107307099,
+                        "id": 20
+                    }
+                ],
+                [
+                    "PaddleOCR、EasyOCR",
+                    "PaddleOCR, EasyOCR",
+                    "PaddleOCR、EasyOCR",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1624107431500,
+                        "id": 21
+                    }
+                ],
+                [
+                    "需要自行安装Python和上述软件，并用提供的server脚本运行，例如\\\\ `PaddleOCR的Server <https:\/\/github.com\/xulihang\/ImageTrans_plugins\/tree\/master\/paddleOCR\/server>`_。",
+                    "You need to install Python and the above software and run them with the server scripts provided, like `the server of PaddleOCR <https:\/\/github.com\/xulihang\/ImageTrans_plugins\/tree\/master\/paddleOCR\/server>`_.",
+                    "需要自行安装Python和上述软件，并用提供的server脚本运行，例如\\\\ `PaddleOCR的Server <https:\/\/github.com\/xulihang\/ImageTrans_plugins\/tree\/master\/paddleOCR\/server>`_。",
+                    "gettingstarted.po",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1624111776710,
+                        "id": 22
+                    }
+                ],
+                [
+                    "ABBYY",
+                    "ABBYY",
+                    "ABBYY",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1624107464458,
+                        "id": 23
+                    }
+                ],
+                [
+                    "支持调用ABBYY FineReader进行OCR，需要在偏好设置里指定软件的FineCMD.exe的路径。",
+                    "It supports calling ABBYY Finereader for OCR. You need to specify the path of FineCMD.exe in the Preferences.",
+                    "支持调用ABBYY FineReader进行OCR，需要在偏好设置里指定软件的FineCMD.exe的路径。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1624107492542,
+                        "id": 24
+                    }
+                ],
+                [
+                    "离线机器翻译：",
+                    "Offline machine translation:",
+                    "离线机器翻译：",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1624107500349,
+                        "id": 25
+                    }
+                ],
+                [
+                    "OPUS-CAT。",
+                    "OPUS-CAT.",
+                    "OPUS-CAT。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1624107509163,
+                        "id": 26
+                    }
+                ],
+                [
+                    "OPUS-CAT是芬兰赫尔辛基自然语言处理小组的离线机器翻译引擎，到\\\\ `官网 <https:\/\/helsinki-nlp.github.io\/OPUS-CAT\/install>`_\\\\ 下载安装后使用\\\\ `Fiskmo机器翻译插件 <https:\/\/github.com\/xulihang\/BasicCAT\/tree\/master\/plugins\/fiskmoMT>`_\\\\ 调用。",
+                    "Opus-CAT is the offline machine translation engine by Helsinki Natural Language Processing Group. Download and install it from `here <https:\/\/helsinki-nlp.github.io\/OPUS-CAT\/install>`_  and install the `Fiskmo machine translation plug-in <https:\/\/github.com\/xulihang\/BasicCAT\/tree\/master\/plugins\/fiskmoMT>`_ to use it.",
+                    "OPUS-CAT是芬兰赫尔辛基自然语言处理小组的离线机器翻译引擎，到\\\\ `官网 <https:\/\/helsinki-nlp.github.io\/OPUS-CAT\/install>`_\\\\ 下载安装后使用\\\\ `Fiskmo机器翻译插件 <https:\/\/github.com\/xulihang\/BasicCAT\/tree\/master\/plugins\/fiskmoMT>`_\\\\ 调用。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1624107634611,
+                        "id": 26
+                    }
+                ],
+                [
+                    "eztrans xp。",
+                    "eztrans xp.",
+                    "eztrans xp。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1624107651274,
+                        "id": 27
+                    }
+                ],
+                [
+                    "这是一个日韩翻译软件。",
+                    "This is a Japanese-Korean translation software.",
+                    "这是一个日韩翻译软件。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1624107659080,
+                        "id": 27
+                    }
+                ],
+                [
+                    "使用方法见此\\\\ `issue <https:\/\/github.com\/xulihang\/ImageTrans-docs\/issues\/29#issuecomment-818754544>`_。",
+                    "You can learn about its usage in this `issue <https:\/\/github.com\/xulihang\/ImageTrans-docs\/issues\/29#issuecomment-818754544>`_.",
+                    "使用方法见此\\\\ `issue <https:\/\/github.com\/xulihang\/ImageTrans-docs\/issues\/29#issuecomment-818754544>`_。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1624107686020,
+                        "id": 27
                     }
                 ],
                 [
@@ -179,7 +446,7 @@
                     "验证登录",
                     "gettingstarted.po",
                     {
-                        "id": 11
+                        "id": 28
                     }
                 ],
                 [
@@ -188,7 +455,7 @@
                     "每次运行ImageTrans时，会显示验证器，需要填入购买时填写的email和订单号。",
                     "gettingstarted.po",
                     {
-                        "id": 12
+                        "id": 29
                     }
                 ],
                 [
@@ -197,7 +464,7 @@
                     "订单号可以在收到的邮件中找到。",
                     "gettingstarted.po",
                     {
-                        "id": 12
+                        "id": 29
                     }
                 ],
                 [
@@ -206,7 +473,7 @@
                     "一个email可以在三台设备上使用，要更换设备则需要使用邮箱进行重置。",
                     "gettingstarted.po",
                     {
-                        "id": 13
+                        "id": 30
                     }
                 ],
                 [
@@ -215,7 +482,7 @@
                     "新建项目",
                     "gettingstarted.po",
                     {
-                        "id": 14
+                        "id": 31
                     }
                 ],
                 [
@@ -224,7 +491,7 @@
                     "菜单栏点击文件-新建项目，选择一个位置并输入项目文件名以保存。",
                     "gettingstarted.po",
                     {
-                        "id": 15
+                        "id": 32
                     }
                 ],
                 [
@@ -233,7 +500,7 @@
                     "添加图片",
                     "gettingstarted.po",
                     {
-                        "id": 16
+                        "id": 33
                     }
                 ],
                 [
@@ -242,7 +509,7 @@
                     "菜单栏点击文件-导入图片文件夹，选择图片存在的位置。",
                     "gettingstarted.po",
                     {
-                        "id": 17
+                        "id": 34
                     }
                 ],
                 [
@@ -251,7 +518,7 @@
                     "该操作会读取该文件夹下所有的子目录并导入存在的jpg、png文件。",
                     "gettingstarted.po",
                     {
-                        "id": 17
+                        "id": 34
                     }
                 ],
                 [
@@ -260,7 +527,18 @@
                     "或者用右键菜单-粘贴图片的方式添加单张图片。",
                     "gettingstarted.po",
                     {
-                        "id": 18
+                        "id": 35
+                    }
+                ],
+                [
+                    "此外亦能导入PDF文件，并提取可复制的文字。",
+                    "It can also import PDF files and extract selectable text.",
+                    "此外亦能导入PDF文件，并提取可复制的文字。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1624107714511,
+                        "id": 36
                     }
                 ],
                 [
@@ -269,7 +547,7 @@
                     "文字转录",
                     "gettingstarted.po",
                     {
-                        "id": 19
+                        "id": 37
                     }
                 ],
                 [
@@ -278,7 +556,7 @@
                     "工具支持框选文字区域并识别。",
                     "gettingstarted.po",
                     {
-                        "id": 20
+                        "id": 38
                     }
                 ],
                 [
@@ -287,7 +565,7 @@
                     "提供手动框选和四种自动框选，并支持精细调整文本框。",
                     "gettingstarted.po",
                     {
-                        "id": 20
+                        "id": 38
                     }
                 ],
                 [
@@ -296,7 +574,7 @@
                     "手动框选文字",
                     "gettingstarted.po",
                     {
-                        "id": 21
+                        "id": 39
                     }
                 ],
                 [
@@ -305,7 +583,7 @@
                     "在图片上双击建立选择框，点住中间区域进行移动，点住右下角调整大小。",
                     "gettingstarted.po",
                     {
-                        "id": 22
+                        "id": 40
                     }
                 ],
                 [
@@ -314,7 +592,7 @@
                     "或者点击左侧工具栏的快速框选按钮，可以直接滑动建框。",
                     "gettingstarted.po",
                     {
-                        "id": 23
+                        "id": 41
                     }
                 ],
                 [
@@ -323,7 +601,7 @@
                     "OCR",
                     "gettingstarted.po",
                     {
-                        "id": 24
+                        "id": 42
                     }
                 ],
                 [
@@ -332,7 +610,7 @@
                     "选中文字区域，选择语言和OCR引擎，点击识别进行OCR。",
                     "gettingstarted.po",
                     {
-                        "id": 25
+                        "id": 43
                     }
                 ],
                 [
@@ -341,7 +619,7 @@
                     "自动识别文字",
                     "gettingstarted.po",
                     {
-                        "id": 26
+                        "id": 44
                     }
                 ],
                 [
@@ -350,7 +628,7 @@
                     "选择语言和OCR引擎，点击菜单-编辑-自动识别文字，可以自动检测文字区域并转录。",
                     "gettingstarted.po",
                     {
-                        "id": 27
+                        "id": 45
                     }
                 ],
                 [
@@ -359,7 +637,7 @@
                     "其中有道是按段落识别，其它引擎是按行识别，可以通过右侧编辑区域的合并左右区域和合并上下区域进行合并。",
                     "gettingstarted.po",
                     {
-                        "id": 27
+                        "id": 45
                     }
                 ],
                 [
@@ -368,7 +646,7 @@
                     "自动识别气泡",
                     "gettingstarted.po",
                     {
-                        "id": 28
+                        "id": 46
                     }
                 ],
                 [
@@ -377,7 +655,7 @@
                     "选择语言和OCR引擎（仅限百度或者Azure），点击菜单-编辑-自动识别气泡，可以自动识别气泡。",
                     "gettingstarted.po",
                     {
-                        "id": 29
+                        "id": 47
                     }
                 ],
                 [
@@ -386,7 +664,7 @@
                     "另提供较为复杂的启发式和自然场景文字检测方法，详见 :ref:`text-detection`",
                     "gettingstarted.po",
                     {
-                        "id": 30
+                        "id": 48
                     }
                 ],
                 [
@@ -395,7 +673,7 @@
                     "自动OCR所有区域",
                     "gettingstarted.po",
                     {
-                        "id": 31
+                        "id": 49
                     }
                 ],
                 [
@@ -404,7 +682,7 @@
                     "我们可以先把文字区域框出，然后批量进行OCR。",
                     "gettingstarted.po",
                     {
-                        "id": 32
+                        "id": 50
                     }
                 ],
                 [
@@ -413,7 +691,7 @@
                     "点击菜单-编辑-自动OCR所有区域进行操作。",
                     "gettingstarted.po",
                     {
-                        "id": 32
+                        "id": 50
                     }
                 ],
                 [
@@ -422,7 +700,7 @@
                     "排序",
                     "gettingstarted.po",
                     {
-                        "id": 33
+                        "id": 51
                     }
                 ],
                 [
@@ -431,7 +709,7 @@
                     "支持根据坐标信息对文字区域进行排序。",
                     "gettingstarted.po",
                     {
-                        "id": 34
+                        "id": 52
                     }
                 ],
                 [
@@ -440,7 +718,7 @@
                     "导出",
                     "gettingstarted.po",
                     {
-                        "id": 35
+                        "id": 53
                     }
                 ],
                 [
@@ -449,7 +727,7 @@
                     "导出有多种选项。",
                     "gettingstarted.po",
                     {
-                        "id": 36
+                        "id": 54
                     }
                 ],
                 [
@@ -458,7 +736,7 @@
                     "Tab分割的TXT文档，包含坐标信息、字体样式、文字等信息",
                     "gettingstarted.po",
                     {
-                        "id": 37
+                        "id": 55
                     }
                 ],
                 [
@@ -467,7 +745,7 @@
                     "XLSX表格，和TXT的内容一样",
                     "gettingstarted.po",
                     {
-                        "id": 38
+                        "id": 56
                     }
                 ],
                 [
@@ -476,7 +754,7 @@
                     "XLSX表格-根据目录建立工作表，按子目录保存图片名、原文和译文信息",
                     "gettingstarted.po",
                     {
-                        "id": 39
+                        "id": 57
                     }
                 ],
                 [
@@ -485,16 +763,19 @@
                     "所有文本，按每张图片生成包含图片文字的txt文档",
                     "gettingstarted.po",
                     {
-                        "id": 40
+                        "id": 58
                     }
                 ],
                 [
-                    "供翻译的文档，将原文和译文信息以表格的形式导出为一个docx文档或者txt文档",
-                    "Document for translation. Export source text and target text to a docx file or a txt file.",
-                    "供翻译的文档，将原文和译文信息以表格的形式导出为一个docx文档或者txt文档",
+                    "供翻译的文档，将原文和译文信息以表格的形式导出为一个docx、txt或者XLIFF文件",
+                    "Document for translation. Export source text and target text to a docx, txt or XLIFF file.",
+                    "供翻译的文档，将原文和译文信息以表格的形式导出为一个docx、txt或者XLIFF文件",
                     "gettingstarted.po",
                     {
-                        "id": 41
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1624107748688,
+                        "id": 59
                     }
                 ],
                 [
@@ -503,7 +784,7 @@
                     "翻译",
                     "gettingstarted.po",
                     {
-                        "id": 42
+                        "id": 60
                     }
                 ],
                 [
@@ -512,7 +793,7 @@
                     "在译文区域输入译文并点击保存可以完成一个文字区域的翻译。",
                     "gettingstarted.po",
                     {
-                        "id": 43
+                        "id": 61
                     }
                 ],
                 [
@@ -521,7 +802,7 @@
                     "可以将翻译导出为docx文档供外部人员翻译，之后再通过菜单-导回翻译-docx文档进行导回。",
                     "gettingstarted.po",
                     {
-                        "id": 44
+                        "id": 62
                     }
                 ],
                 [
@@ -530,7 +811,7 @@
                     "计算机辅助翻译软件BasicCAT支持直接操作ImageTrans的项目文件进行翻译。",
                     "gettingstarted.po",
                     {
-                        "id": 45
+                        "id": 63
                     }
                 ],
                 [
@@ -539,7 +820,7 @@
                     "翻译记忆、机器翻译和术语管理",
                     "gettingstarted.po",
                     {
-                        "id": 46
+                        "id": 64
                     }
                 ],
                 [
@@ -548,7 +829,7 @@
                     "切换右侧的操作区到辅助翻译页面，可以使用翻译记忆、机器翻译和术语管理这三个功能。",
                     "gettingstarted.po",
                     {
-                        "id": 47
+                        "id": 65
                     }
                 ],
                 [
@@ -557,7 +838,7 @@
                     "机器翻译需要在偏好设置里设置API，并进行启用。",
                     "gettingstarted.po",
                     {
-                        "id": 47
+                        "id": 65
                     }
                 ],
                 [
@@ -566,7 +847,7 @@
                     "另外还需要设置项目的语言，通过项目-设置-选择语言对进行设置。",
                     "gettingstarted.po",
                     {
-                        "id": 47
+                        "id": 65
                     }
                 ],
                 [
@@ -575,7 +856,7 @@
                     "预翻译",
                     "gettingstarted.po",
                     {
-                        "id": 48
+                        "id": 66
                     }
                 ],
                 [
@@ -584,7 +865,7 @@
                     "点击菜单-项目-批处理-预翻译，可以使用翻译记忆或者机器翻译进行批量翻译。",
                     "gettingstarted.po",
                     {
-                        "id": 49
+                        "id": 67
                     }
                 ],
                 [
@@ -593,7 +874,7 @@
                     "当前只支持机器翻译。",
                     "gettingstarted.po",
                     {
-                        "id": 49
+                        "id": 67
                     }
                 ],
                 [
@@ -602,7 +883,7 @@
                     "预览",
                     "gettingstarted.po",
                     {
-                        "id": 50
+                        "id": 68
                     }
                 ],
                 [
@@ -611,7 +892,7 @@
                     "点击左下角的预览替换效果，可以预览翻译效果。",
                     "gettingstarted.po",
                     {
-                        "id": 51
+                        "id": 69
                     }
                 ],
                 [
@@ -620,7 +901,7 @@
                     "选择精确模式会自动识别文字进行抹除并修复背景，非精确模式则会用背景颜色进行遮盖。",
                     "gettingstarted.po",
                     {
-                        "id": 51
+                        "id": 69
                     }
                 ],
                 [
@@ -629,7 +910,7 @@
                     "勾选排版模式时，译文区域将被框出，并支持调整位置。",
                     "gettingstarted.po",
                     {
-                        "id": 52
+                        "id": 70
                     }
                 ],
                 [
@@ -638,7 +919,7 @@
                     "生成成品图",
                     "gettingstarted.po",
                     {
-                        "id": 53
+                        "id": 71
                     }
                 ],
                 [
@@ -647,7 +928,7 @@
                     "首先将图片比例调整为100%，之后点击预览，得到成品图。",
                     "gettingstarted.po",
                     {
-                        "id": 54
+                        "id": 72
                     }
                 ],
                 [
@@ -656,7 +937,7 @@
                     "点击文件-导出当前图片为-JPG，结果将输出在对应图片的文件夹的out文件夹中。",
                     "gettingstarted.po",
                     {
-                        "id": 54
+                        "id": 72
                     }
                 ],
                 [
@@ -665,7 +946,7 @@
                     "另一选项ORA支持将文件导出为多层图像格式ORA，该格式能保存图层信息，供PS、Gimp和Krita等图像编辑软件编辑。",
                     "gettingstarted.po",
                     {
-                        "id": 54
+                        "id": 72
                     }
                 ],
                 [
@@ -674,7 +955,7 @@
                     "除此以外，ImageTrans可支持导出PSD。",
                     "gettingstarted.po",
                     {
-                        "id": 55
+                        "id": 73
                     }
                 ],
                 [
@@ -683,7 +964,7 @@
                     "设置文字样式",
                     "gettingstarted.po",
                     {
-                        "id": 56
+                        "id": 74
                     }
                 ],
                 [
@@ -692,7 +973,7 @@
                     "设置文字样式主要有两个作用，一个是在ImageTrans中进行预览，一个是用于导出PSD时设置字体。",
                     "gettingstarted.po",
                     {
-                        "id": 57
+                        "id": 75
                     }
                 ],
                 [
@@ -701,7 +982,7 @@
                     "点击菜单-项目-设置-字体样式可以进行设置使用的字体、文字大小、行距、对齐方式等等。",
                     "gettingstarted.po",
                     {
-                        "id": 58
+                        "id": 76
                     }
                 ],
                 [
@@ -710,7 +991,7 @@
                     "如果要修改某个样式，请点击该样式以加载设置，修改后点击添加，然后删去原来的样式。",
                     "gettingstarted.po",
                     {
-                        "id": 59
+                        "id": 77
                     }
                 ],
                 [
@@ -719,7 +1000,7 @@
                     "排在第一的样式是默认样式。",
                     "gettingstarted.po",
                     {
-                        "id": 59
+                        "id": 77
                     }
                 ],
                 [
@@ -728,7 +1009,7 @@
                     "因为Photoshop需要的字体名比较特殊，需要从PS中获得。",
                     "gettingstarted.po",
                     {
-                        "id": 60
+                        "id": 78
                     }
                 ],
                 [
@@ -737,7 +1018,7 @@
                     "方法是在PS中新建一张图片，建立一个文本框，设置所需字体，并完成文字编辑操作，是文本框处于非编辑状态。",
                     "gettingstarted.po",
                     {
-                        "id": 60
+                        "id": 78
                     }
                 ],
                 [
@@ -746,7 +1027,7 @@
                     "之后在ImageTrans中点击读取即可。",
                     "gettingstarted.po",
                     {
-                        "id": 60
+                        "id": 78
                     }
                 ],
                 [
@@ -755,7 +1036,7 @@
                     "非Windows系统需要使用readFont.jsx脚本。",
                     "gettingstarted.po",
                     {
-                        "id": 60
+                        "id": 78
                     }
                 ],
                 [
@@ -764,7 +1045,7 @@
                     "可以给文字区域设置专门的字体样式。",
                     "gettingstarted.po",
                     {
-                        "id": 61
+                        "id": 79
                     }
                 ],
                 [
@@ -773,7 +1054,7 @@
                     "另外也支持设置本地样式，除了全局文字样式包含的内容外，支持描边和旋转角度的设置。",
                     "gettingstarted.po",
                     {
-                        "id": 62
+                        "id": 80
                     }
                 ],
                 [
@@ -782,7 +1063,7 @@
                     "设置本地字体样式时会调出全局字体样式的设置界面，默认读取添加在末尾的样式为本地字体样式。",
                     "gettingstarted.po",
                     {
-                        "id": 62
+                        "id": 80
                     }
                 ],
                 [
@@ -791,7 +1072,7 @@
                     "点击左侧的字体按钮以启用字体设置工具栏，可以便捷地设置本地样式。",
                     "gettingstarted.po",
                     {
-                        "id": 63
+                        "id": 81
                     }
                 ],
                 [
@@ -800,7 +1081,7 @@
                     "点击左侧的多选按钮以启动多选工具栏，可以调整多个文本框的位置并统一其字体样式。",
                     "gettingstarted.po",
                     {
-                        "id": 64
+                        "id": 82
                     }
                 ],
                 [
@@ -809,7 +1090,7 @@
                     "批处理",
                     "gettingstarted.po",
                     {
-                        "id": 65
+                        "id": 83
                     }
                 ],
                 [
@@ -818,7 +1099,7 @@
                     "以上对单个图片的操作都可以通过菜单-项目-批处理对所有图片进行操作。",
                     "gettingstarted.po",
                     {
-                        "id": 66
+                        "id": 84
                     }
                 ]
             ]

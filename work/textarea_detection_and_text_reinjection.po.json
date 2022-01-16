@@ -1,4 +1,6 @@
 {
+    "filename": "textarea_detection_and_text_reinjection.po",
+    "creationTime": 1642319341947,
     "files": [
         {
             "textarea_detection_and_text_reinjection.po": [
@@ -138,9 +140,9 @@
                     }
                 ],
                 [
-                    "文字区域置信度获取是利用Tensorflow提供的脚本基于卷积神经网络预训练模型重新训练的，相关代码见此： `<https:\/\/github.com\/xulihang\/text-image-classifier>`_。",
-                    "ImageTrans uses a text\/non-text image classifer trained with Tensorflow based on convolutional neural network pre-trained models. Relevant code can be found here: `<https:\/\/github.com\/xulihang\/text-image-classifier>`_.",
-                    "文字区域置信度获取是利用Tensorflow提供的脚本基于卷积神经网络预训练模型重新训练的，相关代码见此： `<https:\/\/github.com\/xulihang\/text-image-classifier>`_。",
+                    "文字区域置信度获取是利用TensorFlow提供的脚本基于卷积神经网络预训练模型重新训练的，相关代码见此： `<https:\/\/github.com\/xulihang\/text-image-classifier>`_。",
+                    "",
+                    "文字区域置信度获取是利用TensorFlow提供的脚本基于卷积神经网络预训练模型重新训练的，相关代码见此： `<https:\/\/github.com\/xulihang\/text-image-classifier>`_。",
                     "textarea_detection_and_text_reinjection.po",
                     {
                         "id": 16

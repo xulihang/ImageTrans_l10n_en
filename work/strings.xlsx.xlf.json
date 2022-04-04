@@ -1,6 +1,6 @@
 {
     "filename": "strings.xlsx.xlf",
-    "creationTime": 1648349365492,
+    "creationTime": 1649074822351,
     "files": [
         {
             "xl\/sharedStrings.xml": [
@@ -6621,12 +6621,21 @@
                     }
                 ],
                 [
+                    "面包多",
+                    "",
+                    "面包多",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu694"
+                    }
+                ],
+                [
                     "大客户授权",
                     "Enterprise licensing",
                     "大客户授权",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu694"
+                        "id": "P147242AB-tu695"
                     }
                 ],
                 [
@@ -6635,7 +6644,7 @@
                     "服务器NE",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu695"
+                        "id": "P147242AB-tu696"
                     }
                 ],
                 [
@@ -6644,7 +6653,7 @@
                     "服务器CN",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu696"
+                        "id": "P147242AB-tu697"
                     }
                 ],
                 [
@@ -6653,7 +6662,7 @@
                     "登录成功",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu697"
+                        "id": "P147242AB-tu698"
                     }
                 ],
                 [
@@ -6662,7 +6671,7 @@
                     "设备数量已到上限，请用邮箱获取验证码进行重置",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu698"
+                        "id": "P147242AB-tu699"
                     }
                 ],
                 [
@@ -6671,7 +6680,7 @@
                     "未购买",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu699"
+                        "id": "P147242AB-tu700"
                     }
                 ],
                 [
@@ -6680,7 +6689,7 @@
                     "文字检测",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu700"
+                        "id": "P147242AB-tu701"
                     }
                 ],
                 [
@@ -6689,7 +6698,7 @@
                     "文字识别",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu701"
+                        "id": "P147242AB-tu702"
                     }
                 ],
                 [
@@ -6698,7 +6707,7 @@
                     "合并区域",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu702"
+                        "id": "P147242AB-tu703"
                     }
                 ],
                 [
@@ -6709,7 +6718,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1644069954105,
-                        "id": "P147242AB-tu703"
+                        "id": "P147242AB-tu704"
                     }
                 ],
                 [
@@ -6718,7 +6727,7 @@
                     "识别文字颜色",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu704"
+                        "id": "P147242AB-tu705"
                     }
                 ],
                 [
@@ -6727,7 +6736,7 @@
                     "识别背景颜色",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu705"
+                        "id": "P147242AB-tu706"
                     }
                 ],
                 [
@@ -6736,7 +6745,7 @@
                     "生成成品图",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu706"
+                        "id": "P147242AB-tu707"
                     }
                 ]
             ]

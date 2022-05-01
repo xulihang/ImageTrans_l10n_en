@@ -1,6 +1,6 @@
 {
     "filename": "strings.xlsx.xlf",
-    "creationTime": 1651380146130,
+    "creationTime": 1651380486102,
     "files": [
         {
             "xl\/sharedStrings.xml": [
@@ -4065,11 +4065,12 @@
                     }
                 ],
                 [
-                    "默认掩模生成方式：",
+                    "默认掩膜生成方式：",
                     "Default mask generation method:",
-                    "默认掩模生成方式：",
+                    "默认掩膜生成方式：",
                     "xl\/sharedStrings.xml",
                     {
+                        "note": "",
                         "creator": "xulihang",
                         "createdTime": 1651380321291,
                         "id": "P147242AB-tu428"

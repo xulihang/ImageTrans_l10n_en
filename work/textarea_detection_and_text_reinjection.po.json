@@ -321,12 +321,12 @@
                 ],
                 [
                     "如果存在无文字原图，可以通过\\\\ `无文字原图和纯文字图管理器 <https:\/\/github.com\/xulihang\/ImageTrans-docs\/issues\/199#issuecomment-1133639931>`_\\\\ 设置无文字原图，查看翻译时会直接使用原图。",
-                    "If a text-free original image exists, that text-free original image can be set through the `Textless Original Image and Pure-Text Image Manager  <https:\/\/github.com\/xulihang\/ImageTrans-docs\/issues\/199 #issuecomment-1133639931>`_. The original image will be directly used when viewing the translated image.",
+                    "If a text-free original image exists, that text-free original image can be set through the `Textless Original Image and Pure-Text Image Manager <https:\/\/github.com\/xulihang\/ImageTrans-docs\/issues\/199 #issuecomment-1133639931>`_. The original image will be directly used when viewing the translated image.",
                     "如果存在无文字原图，可以通过\\\\ `无文字原图和纯文字图管理器 <https:\/\/github.com\/xulihang\/ImageTrans-docs\/issues\/199#issuecomment-1133639931>`_\\\\ 设置无文字原图，查看翻译时会直接使用原图。",
                     "textarea_detection_and_text_reinjection.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1654330374811,
+                        "createdTime": 1654331191052,
                         "id": 32
                     }
                 ],

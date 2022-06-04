@@ -1,6 +1,5 @@
 {
     "filename": "textarea_detection_and_text_reinjection.po",
-    "creationTime": 1642319341947,
     "files": [
         {
             "textarea_detection_and_text_reinjection.po": [
@@ -131,20 +130,24 @@
                     }
                 ],
                 [
-                    "文字区域检测的算法细节见此：`基于规则的漫画文字检测方法 <http:\/\/blog.xulihang.me\/text-localization-for-comics\/>`_",
-                    "The algorithm details of text area detection can be found here: `Rules-based comic text detection method <http:\/\/blog.xulihang.me\/text-localization-for-comics\/>`_",
-                    "文字区域检测的算法细节见此：`基于规则的漫画文字检测方法 <http:\/\/blog.xulihang.me\/text-localization-for-comics\/>`_",
+                    "文字区域检测的算法细节见此：`基于规则的漫画文字检测方法 <http:\/\/blog.xulihang.me\/text-localization-for-comics\/>`_。",
+                    "The algorithm details of text area detection can be found here: `Rules-based comic text detection method <http:\/\/blog.xulihang.me\/text-localization-for-comics\/>`.",
+                    "文字区域检测的算法细节见此：`基于规则的漫画文字检测方法 <http:\/\/blog.xulihang.me\/text-localization-for-comics\/>`_。",
                     "textarea_detection_and_text_reinjection.po",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1654329068129,
                         "id": 15
                     }
                 ],
                 [
                     "文字区域置信度获取是利用TensorFlow提供的脚本基于卷积神经网络预训练模型重新训练的，相关代码见此： `<https:\/\/github.com\/xulihang\/text-image-classifier>`_。",
-                    "",
+                    "The confidence of text areas is obtained using a CNN model retrained using TensorFlow’s script. See the code here: `<https:\/\/github.com\/xulihang\/text-image-classifier>`_.",
                     "文字区域置信度获取是利用TensorFlow提供的脚本基于卷积神经网络预训练模型重新训练的，相关代码见此： `<https:\/\/github.com\/xulihang\/text-image-classifier>`_。",
                     "textarea_detection_and_text_reinjection.po",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1654329100043,
                         "id": 16
                     }
                 ],
@@ -167,11 +170,13 @@
                     }
                 ],
                 [
-                    "自然场景文字检测功能允许用户调用EAST、CRAFT等开源自然场景文字检测方法，这类方法的准确率较高，并能检测倾斜文本，但一般需要花费较长的运行时间。",
-                    "The natural scene text detection allows users to call open source natural scene text detection methods such as EAST and CRAFT, which have high accuracy and can detect tilted text. But it generally take a long time to produce the result.",
-                    "自然场景文字检测功能允许用户调用EAST、CRAFT等开源自然场景文字检测方法，这类方法的准确率较高，并能检测倾斜文本，但一般需要花费较长的运行时间。",
+                    "自然场景文字检测功能允许用户调用DB、EAST、CRAFT等开源自然场景文字检测方法，这类方法的准确率较高，并能检测倾斜文本，但一般需要花费较长的运行时间。",
+                    "The natural scene text detection allows users to call open source natural scene text detection methods such as DB, EAST and CRAFT, which have high accuracy and can detect tilted text. But it generally take a long time to produce the result.",
+                    "自然场景文字检测功能允许用户调用DB、EAST、CRAFT等开源自然场景文字检测方法，这类方法的准确率较高，并能检测倾斜文本，但一般需要花费较长的运行时间。",
                     "textarea_detection_and_text_reinjection.po",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1654329127462,
                         "id": 19
                     }
                 ],
@@ -293,12 +298,36 @@
                     }
                 ],
                 [
-                    "掩膜生成和图像修复支持调用插件以使用第三方的方法，现有的插件是 `Sickzil-machine <https:\/\/github.com\/xulihang\/SickZil-Machine>`_。",
-                    "There is plug-in support for mask generation and image inpainting to use third-party methods. The existing plug-in is `Sickzil-machine <https:\/\/github.com\/xulihang\/SickZil-Machine>`_.",
-                    "掩膜生成和图像修复支持调用插件以使用第三方的方法，现有的插件是 `Sickzil-machine <https:\/\/github.com\/xulihang\/SickZil-Machine>`_。",
+                    "掩膜生成和图像修复支持调用插件以使用第三方的方法，现有的插件是\\\\ `Sickzil-machine <https:\/\/github.com\/xulihang\/ImageTrans_plugins>`_\\\\ 和\\\\ `Lama <https:\/\/github.com\/xulihang\/ImageTrans_plugins\/tree\/master\/LamaInpaint>`_。",
+                    "There is plug-in support for mask generation and image inpainting to use third-party methods. The existing plug-ins are `Sickzil-machine  <https:\/\/github.com\/xulihang\/ImageTrans_plugins>`_ and `Lama <https:\/\/github.com\/xulihang\/ImageTrans_plugins\/tree\/master\/LamaInpaint>`_.",
+                    "掩膜生成和图像修复支持调用插件以使用第三方的方法，现有的插件是\\\\ `Sickzil-machine <https:\/\/github.com\/xulihang\/ImageTrans_plugins>`_\\\\ 和\\\\ `Lama <https:\/\/github.com\/xulihang\/ImageTrans_plugins\/tree\/master\/LamaInpaint>`_。",
                     "textarea_detection_and_text_reinjection.po",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1654329175346,
                         "id": 30
+                    }
+                ],
+                [
+                    "其它情况：",
+                    "Other cases:",
+                    "其它情况：",
+                    "textarea_detection_and_text_reinjection.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1654329179975,
+                        "id": 31
+                    }
+                ],
+                [
+                    "如果存在无文字原图，可以通过\\\\ `无文字原图和纯文字图管理器 <https:\/\/github.com\/xulihang\/ImageTrans-docs\/issues\/199#issuecomment-1133639931>`_\\\\ 设置无文字原图，查看翻译时会直接使用原图。",
+                    "If a text-free original image exists, that text-free original image can be set through the `Textless Original Image and Pure-Text Image Manager <https:\/\/github.com\/xulihang\/ImageTrans-docs\/issues\/199 #issuecomment -1133639931 >`_. The original image will be directly used when viewing the translated image.",
+                    "如果存在无文字原图，可以通过\\\\ `无文字原图和纯文字图管理器 <https:\/\/github.com\/xulihang\/ImageTrans-docs\/issues\/199#issuecomment-1133639931>`_\\\\ 设置无文字原图，查看翻译时会直接使用原图。",
+                    "textarea_detection_and_text_reinjection.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1654329268988,
+                        "id": 32
                     }
                 ],
                 [
@@ -307,7 +336,7 @@
                     "译文放置",
                     "textarea_detection_and_text_reinjection.po",
                     {
-                        "id": 31
+                        "id": 33
                     }
                 ],
                 [
@@ -316,7 +345,7 @@
                     "根据文本框的大小和位置放置译文，支持自动根据文本框的大小调整译文大小，可以在项目设置里进行设置。",
                     "textarea_detection_and_text_reinjection.po",
                     {
-                        "id": 32
+                        "id": 34
                     }
                 ],
                 [
@@ -325,7 +354,7 @@
                     "颜色检测",
                     "textarea_detection_and_text_reinjection.po",
                     {
-                        "id": 33
+                        "id": 35
                     }
                 ],
                 [
@@ -334,7 +363,7 @@
                     "本工具能较粗略地自动检测背景颜色和文字颜色，点击编辑-颜色操作进行相关操作。",
                     "textarea_detection_and_text_reinjection.po",
                     {
-                        "id": 34
+                        "id": 36
                     }
                 ]
             ]

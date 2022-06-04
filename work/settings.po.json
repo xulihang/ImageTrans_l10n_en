@@ -1,6 +1,5 @@
 {
     "filename": "settings.po",
-    "creationTime": 1642319341822,
     "files": [
         {
             "settings.po": [
@@ -32,14 +31,36 @@
                     }
                 ],
                 [
-                    "本工具的气泡检测使用百度EasyDL和Azure的目标检测服务。",
-                    "The tool's balloon (bubble) detection uses object detection services provided by Baidu EasyDL and Azure.",
-                    "本工具的气泡检测使用百度EasyDL和Azure的目标检测服务。",
+                    "本工具的气泡检测支持调用基于Darknet Yolo或者TensorFlow Object Detection API训练的离线气泡检测模型，需要将模型放在软件的目录中并在菜单-文件-偏好设置-通用里启用离线气泡检测。",
+                    "The tool’s balloon (bubble) detection uses offline balloon detection models trained by Darknet Yolo or TensorFlow Object Detection API.",
+                    "本工具的气泡检测支持调用基于Darknet Yolo或者TensorFlow Object Detection API训练的离线气泡检测模型，需要将模型放在软件的目录中并在菜单-文件-偏好设置-通用里启用离线气泡检测。",
                     "settings.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1624107790373,
+                        "createdTime": 1654328903239,
                         "id": 5
+                    }
+                ],
+                [
+                    "现有的离线模型：\\\\ `日漫气泡识别模型 <https:\/\/github.com\/xulihang\/ImageTrans-docs\/issues\/135>`_。",
+                    "Existing offline model: `balloon detection model for manga <https:\/\/github.com\/xulihang\/ImageTrans-docs\/issues\/135 >`_.",
+                    "现有的离线模型：\\\\ `日漫气泡识别模型 <https:\/\/github.com\/xulihang\/ImageTrans-docs\/issues\/135>`_。",
+                    "settings.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1654328945547,
+                        "id": 6
+                    }
+                ],
+                [
+                    "此外也能使用百度EasyDL和微软Azure的目标检测服务。",
+                    "It can also uses object detection services provided by Baidu EasyDL and Azure. ",
+                    "此外也能使用百度EasyDL和微软Azure的目标检测服务。",
+                    "settings.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1654328964938,
+                        "id": 7
                     }
                 ],
                 [
@@ -48,7 +69,7 @@
                     "需要自行开通账号并训练。",
                     "settings.po",
                     {
-                        "id": 5
+                        "id": 7
                     }
                 ],
                 [
@@ -57,7 +78,7 @@
                     "推荐的标注方法：",
                     "settings.po",
                     {
-                        "id": 6
+                        "id": 8
                     }
                 ],
                 [
@@ -66,27 +87,18 @@
                     "选中所有气泡中的文字，选框尽量贴合文字。",
                     "settings.po",
                     {
-                        "id": 7
+                        "id": 9
                     }
                 ],
                 [
-                    "发布模型后，在菜单-文件-偏好设置-通用里设置发布了URL，同时还需要填写对应的API。",
-                    "After the model is published, you can set the URL through File-Preferences-General setting. The corresponding API key is also required.",
-                    "发布模型后，在菜单-文件-偏好设置-通用里设置发布了URL，同时还需要填写对应的API。",
-                    "settings.po",
-                    {
-                        "id": 8
-                    }
-                ],
-                [
-                    "此外也支持调用基于Darknet Yolo或者TensorFlow Object Detection API训练的离线气泡检测模型。",
-                    "It also supports calling the offline bubble detection model trained by Darknet Yolo or TensorFlow Object Detection API.",
-                    "此外也支持调用基于Darknet Yolo或者TensorFlow Object Detection API训练的离线气泡检测模型。",
+                    "发布模型后，在菜单-文件-偏好设置-API里设置发布了的URL，同时还需要填写对应的API。",
+                    "After the model is published, you can set the URL through File-Preferences-API setting. The corresponding API key is also required.",
+                    "发布模型后，在菜单-文件-偏好设置-API里设置发布了的URL，同时还需要填写对应的API。",
                     "settings.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1624107810478,
-                        "id": 9
+                        "createdTime": 1654328986573,
+                        "id": 10
                     }
                 ],
                 [
@@ -95,7 +107,7 @@
                     "文字图像识别",
                     "settings.po",
                     {
-                        "id": 10
+                        "id": 11
                     }
                 ],
                 [
@@ -106,7 +118,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1624107821779,
-                        "id": 11
+                        "id": 12
                     }
                 ],
                 [
@@ -117,7 +129,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1624107850268,
-                        "id": 11
+                        "id": 12
                     }
                 ],
                 [
@@ -126,7 +138,7 @@
                     "默认地址为：`<http:\/\/127.0.0.1:8082\/classify>`_",
                     "settings.po",
                     {
-                        "id": 12
+                        "id": 13
                     }
                 ],
                 [
@@ -135,7 +147,7 @@
                     "请运行以下仓库的代码： `<https:\/\/github.com\/xulihang\/text-image-classifier>`_。",
                     "settings.po",
                     {
-                        "id": 13
+                        "id": 14
                     }
                 ],
                 [
@@ -144,7 +156,7 @@
                     "自然场景文字检测",
                     "settings.po",
                     {
-                        "id": 14
+                        "id": 15
                     }
                 ],
                 [
@@ -153,7 +165,7 @@
                     "支持使用EAST和CRAFT自然场景文字检测方法进行文字检测。",
                     "settings.po",
                     {
-                        "id": 15
+                        "id": 16
                     }
                 ],
                 [
@@ -162,7 +174,7 @@
                     "默认地址为：`<http:\/\/127.0.0.1:8080\/detect>`_",
                     "settings.po",
                     {
-                        "id": 16
+                        "id": 17
                     }
                 ],
                 [
@@ -171,7 +183,7 @@
                     "代码地址： `<https:\/\/github.com\/xulihang\/ImageTrans_SceneText_Detection>`_。",
                     "settings.po",
                     {
-                        "id": 17
+                        "id": 18
                     }
                 ],
                 [
@@ -180,7 +192,7 @@
                     "API设置",
                     "settings.po",
                     {
-                        "id": 18
+                        "id": 19
                     }
                 ],
                 [
@@ -189,7 +201,7 @@
                     "点击菜单-文件-偏好设置-API，可以设置百度、有道、微软、腾讯等OCR和机器翻译服务提供商的API。",
                     "settings.po",
                     {
-                        "id": 19
+                        "id": 20
                     }
                 ],
                 [
@@ -198,34 +210,36 @@
                     "下面是需要设置API密钥的服务的列表。",
                     "settings.po",
                     {
-                        "id": 20
-                    }
-                ],
-                [
-                    "OCR:",
-                    "OCR:",
-                    "OCR:",
-                    "settings.po",
-                    {
                         "id": 21
                     }
                 ],
                 [
-                    "`Google <https:\/\/cloud.google.com\/vision\/docs\/ocr>`_",
-                    "`Google <https:\/\/cloud.google.com\/vision\/docs\/ocr>`_",
-                    "`Google <https:\/\/cloud.google.com\/vision\/docs\/ocr>`_",
+                    "OCR:",
+                    "OCR:",
+                    "OCR:",
                     "settings.po",
                     {
                         "id": 22
                     }
                 ],
                 [
-                    "`搜狗 <https:\/\/deepi.sogou.com\/>`_",
-                    "`Sogou <https:\/\/deepi.sogou.com\/>`_",
-                    "`搜狗 <https:\/\/deepi.sogou.com\/>`_",
+                    "`Google <https:\/\/cloud.google.com\/vision\/docs\/ocr>`_",
+                    "`Google <https:\/\/cloud.google.com\/vision\/docs\/ocr>`_",
+                    "`Google <https:\/\/cloud.google.com\/vision\/docs\/ocr>`_",
                     "settings.po",
                     {
                         "id": 23
+                    }
+                ],
+                [
+                    "`Clova <https:\/\/clova.ai\/>`_",
+                    "`Clova <https:\/\/clova.ai\/>`_",
+                    "`Clova <https:\/\/clova.ai\/>`_",
+                    "settings.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1654328996154,
+                        "id": 24
                     }
                 ],
                 [
@@ -234,7 +248,7 @@
                     "`百度 <https:\/\/cloud.baidu.com\/product\/ocr_general>`_",
                     "settings.po",
                     {
-                        "id": 24
+                        "id": 25
                     }
                 ],
                 [
@@ -243,7 +257,7 @@
                     "`腾讯 <https:\/\/cloud.tencent.com\/product\/generalocr>`_",
                     "settings.po",
                     {
-                        "id": 25
+                        "id": 26
                     }
                 ],
                 [
@@ -252,7 +266,7 @@
                     "`有道 <http:\/\/ai.youdao.com\/product-ocr-print.s>`_",
                     "settings.po",
                     {
-                        "id": 26
+                        "id": 27
                     }
                 ],
                 [
@@ -261,7 +275,7 @@
                     "`OCRSPACE <https:\/\/ocr.space\/OCRAPI>`_",
                     "settings.po",
                     {
-                        "id": 27
+                        "id": 28
                     }
                 ],
                 [
@@ -270,7 +284,7 @@
                     "`微软Azure <https:\/\/azure.microsoft.com\/zh-cn\/services\/cognitive-services\/computer-vision\/>`_",
                     "settings.po",
                     {
-                        "id": 28
+                        "id": 29
                     }
                 ],
                 [
@@ -279,7 +293,7 @@
                     "机器翻译见BasicCAT的\\\\ `文档 <https:\/\/docs.basiccat.org\/en\/latest\/advancedFeatures.html#id2>`_。",
                     "settings.po",
                     {
-                        "id": 29
+                        "id": 30
                     }
                 ],
                 [
@@ -290,7 +304,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1624107868982,
-                        "id": 30
+                        "id": 31
                     }
                 ],
                 [
@@ -301,7 +315,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1624107898462,
-                        "id": 31
+                        "id": 32
                     }
                 ],
                 [
@@ -312,7 +326,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1624107924560,
-                        "id": 32
+                        "id": 33
                     }
                 ],
                 [
@@ -323,7 +337,18 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1624107961475,
-                        "id": 33
+                        "id": 34
+                    }
+                ],
+                [
+                    "文本编辑区域的字体也能在项目设置中修改。",
+                    "The font of the text editing areas can also be configured in project settings.",
+                    "文本编辑区域的字体也能在项目设置中修改。",
+                    "settings.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1654329018848,
+                        "id": 35
                     }
                 ]
             ]

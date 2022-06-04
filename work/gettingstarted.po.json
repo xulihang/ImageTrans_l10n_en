@@ -1,6 +1,5 @@
 {
     "filename": "gettingstarted.po",
-    "creationTime": 1642319341014,
     "files": [
         {
             "gettingstarted.po": [
@@ -201,13 +200,13 @@
                     }
                 ],
                 [
-                    "机器翻译： 百度、小牛、腾讯、谷歌免密钥版",
-                    "Machine translation: Baidu, Niutrans, Tencent, Google without api key",
-                    "机器翻译： 百度、小牛、腾讯、谷歌免密钥版",
+                    "机器翻译： 百度、腾讯、云译、mymemory、DeepL免密钥版",
+                    "Machine translation: Baidu, Tencent, Cloudtranslation, mymemory, DeepL KeyFree",
+                    "机器翻译： 百度、腾讯、云译、mymemory、DeepL免密钥版",
                     "gettingstarted.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1624106920200,
+                        "createdTime": 1654324949950,
                         "id": 13
                     }
                 ],
@@ -297,58 +296,46 @@
                     }
                 ],
                 [
-                    "Windows10自带OCR功能，但需要先安装所需语言。",
-                    "Windows 10 comes with built-in OCR, but you need to install the language environment first.",
-                    "Windows10自带OCR功能，但需要先安装所需语言。",
+                    "`Windows Runtime API <https:\/\/docs.microsoft.com\/en-us\/uwp\/api\/windows.media.ocr?view=winrt-20348>`_。",
+                    "`Windows Runtime API <https:\/\/docs.microsoft.com\/en-us\/uwp\/api\/windows.media.ocr?view=winrt-20348>`_.",
+                    " `Windows Runtime API <https:\/\/docs.microsoft.com\/en-us\/uwp\/api\/windows.media.ocr?view=winrt-20348>`_。",
                     "gettingstarted.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1624107210158,
+                        "createdTime": 1654324975024,
                         "id": 20
                     }
                 ],
                 [
-                    "它和Azure、OCRSPACE的引擎其实是同一个。",
-                    "Actually, it has the same engine as Azure and OCRSPACE.",
-                    "它和Azure、OCRSPACE的引擎其实是同一个。",
+                    "mangaOCR",
+                    "mangaOCR",
+                    "mangaOCR",
                     "gettingstarted.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1624107243960,
-                        "id": 20
-                    }
-                ],
-                [
-                    "ImageTrans中这一OCR引擎的名字叫做WinRT，因为它是基于Windows的 `Windows Runtime API <https:\/\/docs.microsoft.com\/en-us\/uwp\/api\/windows.media.ocr?view=winrt-20348>`_。",
-                    "This OCR engine in ImageTrans is called WinRT because it is based on the  `Windows Runtime API <https:\/\/docs.microsoft.com\/en-us\/uwp\/api\/windows.media.ocr?view=winrt-20348>`_.",
-                    "ImageTrans中这一OCR引擎的名字叫做WinRT，因为它是基于Windows的 `Windows Runtime API <https:\/\/docs.microsoft.com\/en-us\/uwp\/api\/windows.media.ocr?view=winrt-20348>`_。",
-                    "gettingstarted.po",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1624107307099,
-                        "id": 20
-                    }
-                ],
-                [
-                    "PaddleOCR、EasyOCR",
-                    "PaddleOCR, EasyOCR",
-                    "PaddleOCR、EasyOCR",
-                    "gettingstarted.po",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1624107431500,
+                        "createdTime": 1654324976862,
                         "id": 21
                     }
                 ],
                 [
-                    "需要自行安装Python和上述软件，并用提供的server脚本运行，例如\\\\ `PaddleOCR的Server <https:\/\/github.com\/xulihang\/ImageTrans_plugins\/tree\/master\/paddleOCR\/server>`_。",
-                    "You need to install Python and the above software and run them with the server scripts provided, like `the server of PaddleOCR <https:\/\/github.com\/xulihang\/ImageTrans_plugins\/tree\/master\/paddleOCR\/server>`_.",
-                    "需要自行安装Python和上述软件，并用提供的server脚本运行，例如\\\\ `PaddleOCR的Server <https:\/\/github.com\/xulihang\/ImageTrans_plugins\/tree\/master\/paddleOCR\/server>`_。",
+                    "该OCR能十分准确地识别日漫的文字。",
+                    "This OCR can accurately recognize the text of manga.",
+                    "该OCR能十分准确地识别日漫的文字。",
                     "gettingstarted.po",
                     {
-                        "note": "",
                         "creator": "xulihang",
-                        "createdTime": 1624111776710,
+                        "createdTime": 1654325000578,
+                        "id": 22
+                    }
+                ],
+                [
+                    "安装说明见此：\\\\ `<https:\/\/github.com\/xulihang\/ImageTrans_plugins\/tree\/master\/mangaOCR>`_。",
+                    "Installation instruction: `<https:\/\/github.com\/xulihang\/ImageTrans_plugins\/tree\/master\/mangaOCR>`_.",
+                    "安装说明见此：\\\\ `<https:\/\/github.com\/xulihang\/ImageTrans_plugins\/tree\/master\/mangaOCR>`_。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1654325046568,
                         "id": 22
                     }
                 ],
@@ -375,6 +362,29 @@
                     }
                 ],
                 [
+                    "PaddleOCR、EasyOCR",
+                    "PaddleOCR, EasyOCR",
+                    "PaddleOCR、EasyOCR",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1624107431500,
+                        "id": 25
+                    }
+                ],
+                [
+                    "需要自行安装Python和上述软件，并用提供的server脚本运行，例如\\\\ `PaddleOCR的Server <https:\/\/github.com\/xulihang\/ImageTrans_plugins\/tree\/master\/paddleOCR\/server>`_。",
+                    "You need to install Python and the above software and run them with the server scripts provided, like `the server of PaddleOCR <https:\/\/github.com\/xulihang\/ImageTrans_plugins\/tree\/master\/paddleOCR\/server>`_.",
+                    "需要自行安装Python和上述软件，并用提供的server脚本运行，例如\\\\ `PaddleOCR的Server <https:\/\/github.com\/xulihang\/ImageTrans_plugins\/tree\/master\/paddleOCR\/server>`_。",
+                    "gettingstarted.po",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1624111776710,
+                        "id": 26
+                    }
+                ],
+                [
                     "离线机器翻译：",
                     "Offline machine translation:",
                     "离线机器翻译：",
@@ -382,7 +392,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1624107500349,
-                        "id": 25
+                        "id": 27
                     }
                 ],
                 [
@@ -393,18 +403,18 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1624107509163,
-                        "id": 26
+                        "id": 28
                     }
                 ],
                 [
-                    "OPUS-CAT是芬兰赫尔辛基自然语言处理小组的离线机器翻译引擎，到\\\\ `官网 <https:\/\/helsinki-nlp.github.io\/OPUS-CAT\/install>`_\\\\ 下载安装后使用\\\\ `Fiskmo机器翻译插件 <https:\/\/github.com\/xulihang\/BasicCAT\/tree\/master\/plugins\/fiskmoMT>`_\\\\ 调用。",
-                    "Opus-CAT is the offline machine translation engine by Helsinki Natural Language Processing Group. Download and install it from `here <https:\/\/helsinki-nlp.github.io\/OPUS-CAT\/install>`_  and install the `Fiskmo machine translation plug-in <https:\/\/github.com\/xulihang\/BasicCAT\/tree\/master\/plugins\/fiskmoMT>`_ to use it.",
-                    "OPUS-CAT是芬兰赫尔辛基自然语言处理小组的离线机器翻译引擎，到\\\\ `官网 <https:\/\/helsinki-nlp.github.io\/OPUS-CAT\/install>`_\\\\ 下载安装后使用\\\\ `Fiskmo机器翻译插件 <https:\/\/github.com\/xulihang\/BasicCAT\/tree\/master\/plugins\/fiskmoMT>`_\\\\ 调用。",
+                    "OPUS-CAT是芬兰赫尔辛基自然语言处理小组的离线机器翻译引擎，到\\\\ `官网 <https:\/\/helsinki-nlp.github.io\/OPUS-CAT\/install>`_\\\\ 下载安装后使用\\\\ `OPUS-CAT机器翻译插件 <https:\/\/github.com\/xulihang\/ImageTrans-docs\/issues\/177#issuecomment-1070305647>`_\\\\ 调用。",
+                    "Opus-CAT is the offline machine translation engine by Helsinki Natural Language Processing Group. Download and install it from `here <https:\/\/helsinki-nlp.github.io\/OPUS-CAT\/install>`_ and install the OPUS-CAT machine translation `plug-in <https:\/\/github.com\/xulihang\/ImageTrans-docs\/issues\/177#issuecomment-1070305647>`_ to use it.",
+                    "OPUS-CAT是芬兰赫尔辛基自然语言处理小组的离线机器翻译引擎，到\\\\ `官网 <https:\/\/helsinki-nlp.github.io\/OPUS-CAT\/install>`_\\\\ 下载安装后使用\\\\ `OPUS-CAT机器翻译插件 <https:\/\/github.com\/xulihang\/ImageTrans-docs\/issues\/177#issuecomment-1070305647>`_\\\\ 调用。",
                     "gettingstarted.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1624107634611,
-                        "id": 26
+                        "createdTime": 1654325146988,
+                        "id": 28
                     }
                 ],
                 [
@@ -415,7 +425,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1624107651274,
-                        "id": 27
+                        "id": 29
                     }
                 ],
                 [
@@ -426,18 +436,18 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1624107659080,
-                        "id": 27
+                        "id": 29
                     }
                 ],
                 [
-                    "使用方法见此\\\\ `issue <https:\/\/github.com\/xulihang\/ImageTrans-docs\/issues\/29#issuecomment-818754544>`_。",
-                    "You can learn about its usage in this `issue <https:\/\/github.com\/xulihang\/ImageTrans-docs\/issues\/29#issuecomment-818754544>`_.",
-                    "使用方法见此\\\\ `issue <https:\/\/github.com\/xulihang\/ImageTrans-docs\/issues\/29#issuecomment-818754544>`_。",
+                    "使用方法见\\\\ `issue29 <https:\/\/github.com\/xulihang\/ImageTrans-docs\/issues\/29#issuecomment-818754544>`_。",
+                    "Check out `issue29 <https:\/\/github.com\/xulihang\/ImageTrans-docs\/issues\/29#issuecomment -818754544 >`_ for its usage.",
+                    "使用方法见\\\\ `issue29 <https:\/\/github.com\/xulihang\/ImageTrans-docs\/issues\/29#issuecomment-818754544>`_。",
                     "gettingstarted.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1624107686020,
-                        "id": 27
+                        "createdTime": 1654325179845,
+                        "id": 29
                     }
                 ],
                 [
@@ -446,25 +456,29 @@
                     "验证登录",
                     "gettingstarted.po",
                     {
-                        "id": 28
+                        "id": 30
                     }
                 ],
                 [
-                    "每次运行ImageTrans时，会显示验证器，需要填入购买时填写的email和订单号。",
-                    "Each time you run ImageTrans, a validator will show up. You need to verify with your the email and order number.",
-                    "每次运行ImageTrans时，会显示验证器，需要填入购买时填写的email和订单号。",
+                    "运行ImageTrans时，会显示验证器，需要填入购买时填写的email和订单号。",
+                    "When you start ImageTrans, a validator will show up. You need to verify with your the email and order number. ",
+                    "运行ImageTrans时，会显示验证器，需要填入购买时填写的email和订单号。",
                     "gettingstarted.po",
                     {
-                        "id": 29
+                        "creator": "xulihang",
+                        "createdTime": 1654325212543,
+                        "id": 31
                     }
                 ],
                 [
-                    "订单号可以在收到的邮件中找到。",
-                    "The order number can be found in the email you receieved after your purchase.",
-                    "订单号可以在收到的邮件中找到。",
+                    "订单号可以在订单页面中找到。",
+                    "The order number can be found in the purchase page.",
+                    "订单号可以在订单页面中找到。",
                     "gettingstarted.po",
                     {
-                        "id": 29
+                        "creator": "xulihang",
+                        "createdTime": 1654325230908,
+                        "id": 31
                     }
                 ],
                 [
@@ -473,7 +487,7 @@
                     "一个email可以在三台设备上使用，要更换设备则需要使用邮箱进行重置。",
                     "gettingstarted.po",
                     {
-                        "id": 30
+                        "id": 32
                     }
                 ],
                 [
@@ -482,7 +496,7 @@
                     "新建项目",
                     "gettingstarted.po",
                     {
-                        "id": 31
+                        "id": 33
                     }
                 ],
                 [
@@ -491,7 +505,7 @@
                     "菜单栏点击文件-新建项目，选择一个位置并输入项目文件名以保存。",
                     "gettingstarted.po",
                     {
-                        "id": 32
+                        "id": 34
                     }
                 ],
                 [
@@ -500,7 +514,7 @@
                     "添加图片",
                     "gettingstarted.po",
                     {
-                        "id": 33
+                        "id": 35
                     }
                 ],
                 [
@@ -509,7 +523,7 @@
                     "菜单栏点击文件-导入图片文件夹，选择图片存在的位置。",
                     "gettingstarted.po",
                     {
-                        "id": 34
+                        "id": 36
                     }
                 ],
                 [
@@ -518,7 +532,7 @@
                     "该操作会读取该文件夹下所有的子目录并导入存在的jpg、png文件。",
                     "gettingstarted.po",
                     {
-                        "id": 34
+                        "id": 36
                     }
                 ],
                 [
@@ -527,7 +541,7 @@
                     "或者用右键菜单-粘贴图片的方式添加单张图片。",
                     "gettingstarted.po",
                     {
-                        "id": 35
+                        "id": 37
                     }
                 ],
                 [
@@ -538,7 +552,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1624107714511,
-                        "id": 36
+                        "id": 38
                     }
                 ],
                 [
@@ -547,7 +561,7 @@
                     "文字转录",
                     "gettingstarted.po",
                     {
-                        "id": 37
+                        "id": 39
                     }
                 ],
                 [
@@ -556,7 +570,7 @@
                     "工具支持框选文字区域并识别。",
                     "gettingstarted.po",
                     {
-                        "id": 38
+                        "id": 40
                     }
                 ],
                 [
@@ -565,7 +579,7 @@
                     "提供手动框选和四种自动框选，并支持精细调整文本框。",
                     "gettingstarted.po",
                     {
-                        "id": 38
+                        "id": 40
                     }
                 ],
                 [
@@ -574,7 +588,7 @@
                     "手动框选文字",
                     "gettingstarted.po",
                     {
-                        "id": 39
+                        "id": 41
                     }
                 ],
                 [
@@ -583,7 +597,7 @@
                     "在图片上双击建立选择框，点住中间区域进行移动，点住右下角调整大小。",
                     "gettingstarted.po",
                     {
-                        "id": 40
+                        "id": 42
                     }
                 ],
                 [
@@ -592,7 +606,7 @@
                     "或者点击左侧工具栏的快速框选按钮，可以直接滑动建框。",
                     "gettingstarted.po",
                     {
-                        "id": 41
+                        "id": 43
                     }
                 ],
                 [
@@ -601,7 +615,7 @@
                     "OCR",
                     "gettingstarted.po",
                     {
-                        "id": 42
+                        "id": 44
                     }
                 ],
                 [
@@ -610,7 +624,7 @@
                     "选中文字区域，选择语言和OCR引擎，点击识别进行OCR。",
                     "gettingstarted.po",
                     {
-                        "id": 43
+                        "id": 45
                     }
                 ],
                 [
@@ -619,7 +633,7 @@
                     "自动识别文字",
                     "gettingstarted.po",
                     {
-                        "id": 44
+                        "id": 46
                     }
                 ],
                 [
@@ -628,16 +642,18 @@
                     "选择语言和OCR引擎，点击菜单-编辑-自动识别文字，可以自动检测文字区域并转录。",
                     "gettingstarted.po",
                     {
-                        "id": 45
+                        "id": 47
                     }
                 ],
                 [
-                    "其中有道是按段落识别，其它引擎是按行识别，可以通过右侧编辑区域的合并左右区域和合并上下区域进行合并。",
-                    "Youdou detects in paragragh level and other engines detect text lines. You can use the merge buttons at the right side to merge these areas.",
-                    "其中有道是按段落识别，其它引擎是按行识别，可以通过右侧编辑区域的合并左右区域和合并上下区域进行合并。",
+                    "其中有道和谷歌是按段落识别，其它引擎是按行识别，可以通过右侧编辑区域的合并左右区域和合并上下区域进行合并。",
+                    "Youdou and Google detect in paragragh level and other engines detect text lines.",
+                    "其中有道和谷歌是按段落识别，其它引擎是按行识别，可以通过右侧编辑区域的合并左右区域和合并上下区域进行合并。",
                     "gettingstarted.po",
                     {
-                        "id": 45
+                        "creator": "xulihang",
+                        "createdTime": 1654325264230,
+                        "id": 47
                     }
                 ],
                 [
@@ -646,25 +662,40 @@
                     "自动识别气泡",
                     "gettingstarted.po",
                     {
-                        "id": 46
-                    }
-                ],
-                [
-                    "选择语言和OCR引擎（仅限百度或者Azure），点击菜单-编辑-自动识别气泡，可以自动识别气泡。",
-                    "Select the language and OCR engine (only Baidu and Azure support this), click Edit->Detect Balloons.",
-                    "选择语言和OCR引擎（仅限百度或者Azure），点击菜单-编辑-自动识别气泡，可以自动识别气泡。",
-                    "gettingstarted.po",
-                    {
-                        "id": 47
-                    }
-                ],
-                [
-                    "另提供较为复杂的启发式和自然场景文字检测方法，详见 :ref:`text-detection`",
-                    "Heuristic and natural scene text detection methods are also provided, which are more complex. See :ref:`text-detection`",
-                    "另提供较为复杂的启发式和自然场景文字检测方法，详见 :ref:`text-detection`",
-                    "gettingstarted.po",
-                    {
                         "id": 48
+                    }
+                ],
+                [
+                    "点击菜单-编辑-自动识别气泡，可以自动识别气泡。",
+                    "Click Edit->Detect Balloons to detect all the balloons (or bubbles).",
+                    "点击菜单-编辑-自动识别气泡，可以自动识别气泡。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1654325333409,
+                        "id": 49
+                    }
+                ],
+                [
+                    "默认使用百度的在线气泡检测服务，可以自行配置离线气泡检测，详见\\\\ :ref:`balloon-detection`。",
+                    "By default, Baidu's online balloon detection service is used. You can also use offline balloon detection. See :ref:`balloon-detection` for details.",
+                    "默认使用百度的在线气泡检测服务，可以自行配置离线气泡检测，详见\\\\ :ref:`balloon-detection`。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1654325416496,
+                        "id": 49
+                    }
+                ],
+                [
+                    "另提供较为复杂的启发式和自然场景文字检测方法，详见\\\\ :ref:`text-detection`。",
+                    "Heuristic and natural scene text detection methods are also provided, which are more complex. See :ref:`text-detection`.",
+                    "另提供较为复杂的启发式和自然场景文字检测方法，详见\\\\ :ref:`text-detection`。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1654325439687,
+                        "id": 50
                     }
                 ],
                 [
@@ -673,7 +704,7 @@
                     "自动OCR所有区域",
                     "gettingstarted.po",
                     {
-                        "id": 49
+                        "id": 51
                     }
                 ],
                 [
@@ -682,7 +713,7 @@
                     "我们可以先把文字区域框出，然后批量进行OCR。",
                     "gettingstarted.po",
                     {
-                        "id": 50
+                        "id": 52
                     }
                 ],
                 [
@@ -691,7 +722,7 @@
                     "点击菜单-编辑-自动OCR所有区域进行操作。",
                     "gettingstarted.po",
                     {
-                        "id": 50
+                        "id": 52
                     }
                 ],
                 [
@@ -700,7 +731,7 @@
                     "排序",
                     "gettingstarted.po",
                     {
-                        "id": 51
+                        "id": 53
                     }
                 ],
                 [
@@ -709,7 +740,18 @@
                     "支持根据坐标信息对文字区域进行排序。",
                     "gettingstarted.po",
                     {
-                        "id": 52
+                        "id": 54
+                    }
+                ],
+                [
+                    "另外针对漫画，提供分镜检测功能，可以在分镜的基础上进行排序，详见\\\\ `issue147 <https:\/\/github.com\/xulihang\/ImageTrans-docs\/issues\/147>`_。",
+                    "There is also a sort-by-panel feature designed for comics. Check out `issue147 <https:\/\/github.com\/xulihang\/ImageTrans-docs\/issues\/147>`_ for details. ",
+                    "另外针对漫画，提供分镜检测功能，可以在分镜的基础上进行排序，详见\\\\ `issue147 <https:\/\/github.com\/xulihang\/ImageTrans-docs\/issues\/147>`_。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1654325522893,
+                        "id": 55
                     }
                 ],
                 [
@@ -718,7 +760,7 @@
                     "导出",
                     "gettingstarted.po",
                     {
-                        "id": 53
+                        "id": 56
                     }
                 ],
                 [
@@ -727,7 +769,7 @@
                     "导出有多种选项。",
                     "gettingstarted.po",
                     {
-                        "id": 54
+                        "id": 57
                     }
                 ],
                 [
@@ -736,7 +778,7 @@
                     "Tab分割的TXT文档，包含坐标信息、字体样式、文字等信息",
                     "gettingstarted.po",
                     {
-                        "id": 55
+                        "id": 58
                     }
                 ],
                 [
@@ -745,7 +787,7 @@
                     "XLSX表格，和TXT的内容一样",
                     "gettingstarted.po",
                     {
-                        "id": 56
+                        "id": 59
                     }
                 ],
                 [
@@ -754,7 +796,7 @@
                     "XLSX表格-根据目录建立工作表，按子目录保存图片名、原文和译文信息",
                     "gettingstarted.po",
                     {
-                        "id": 57
+                        "id": 60
                     }
                 ],
                 [
@@ -763,7 +805,7 @@
                     "所有文本，按每张图片生成包含图片文字的txt文档",
                     "gettingstarted.po",
                     {
-                        "id": 58
+                        "id": 61
                     }
                 ],
                 [
@@ -775,7 +817,18 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1624107748688,
-                        "id": 59
+                        "id": 62
+                    }
+                ],
+                [
+                    "网页-将项目导出为网页，可供局域网内的手机阅读，支持语音朗读和按分镜阅读",
+                    "Webpage - Export the project as a web page for reading on mobile phones in a local network. It supports text to speech and reading by panels.",
+                    "网页-将项目导出为网页，可供局域网内的手机阅读，支持语音朗读和按分镜阅读",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1654325998689,
+                        "id": 63
                     }
                 ],
                 [
@@ -784,7 +837,7 @@
                     "翻译",
                     "gettingstarted.po",
                     {
-                        "id": 60
+                        "id": 64
                     }
                 ],
                 [
@@ -793,16 +846,18 @@
                     "在译文区域输入译文并点击保存可以完成一个文字区域的翻译。",
                     "gettingstarted.po",
                     {
-                        "id": 61
+                        "id": 65
                     }
                 ],
                 [
-                    "可以将翻译导出为docx文档供外部人员翻译，之后再通过菜单-导回翻译-docx文档进行导回。",
-                    "Translations can be exported as docx documents for external translation, and then import back through File->Import translation.",
-                    "可以将翻译导出为docx文档供外部人员翻译，之后再通过菜单-导回翻译-docx文档进行导回。",
+                    "可以将翻译导出为docx、txt或者XLIFF文档供外部人员翻译，之后再通过菜单-导回翻译进行导回。",
+                    "Translations can be exported as docx , txt or XLIFF documents for external translation, and then import back through File->Import translation.",
+                    "可以将翻译导出为docx、txt或者XLIFF文档供外部人员翻译，之后再通过菜单-导回翻译进行导回。",
                     "gettingstarted.po",
                     {
-                        "id": 62
+                        "creator": "xulihang",
+                        "createdTime": 1654325565490,
+                        "id": 66
                     }
                 ],
                 [
@@ -811,7 +866,7 @@
                     "计算机辅助翻译软件BasicCAT支持直接操作ImageTrans的项目文件进行翻译。",
                     "gettingstarted.po",
                     {
-                        "id": 63
+                        "id": 67
                     }
                 ],
                 [
@@ -820,7 +875,7 @@
                     "翻译记忆、机器翻译和术语管理",
                     "gettingstarted.po",
                     {
-                        "id": 64
+                        "id": 68
                     }
                 ],
                 [
@@ -829,7 +884,7 @@
                     "切换右侧的操作区到辅助翻译页面，可以使用翻译记忆、机器翻译和术语管理这三个功能。",
                     "gettingstarted.po",
                     {
-                        "id": 65
+                        "id": 69
                     }
                 ],
                 [
@@ -838,7 +893,7 @@
                     "机器翻译需要在偏好设置里设置API，并进行启用。",
                     "gettingstarted.po",
                     {
-                        "id": 65
+                        "id": 69
                     }
                 ],
                 [
@@ -847,7 +902,7 @@
                     "另外还需要设置项目的语言，通过项目-设置-选择语言对进行设置。",
                     "gettingstarted.po",
                     {
-                        "id": 65
+                        "id": 69
                     }
                 ],
                 [
@@ -856,7 +911,7 @@
                     "预翻译",
                     "gettingstarted.po",
                     {
-                        "id": 66
+                        "id": 70
                     }
                 ],
                 [
@@ -865,7 +920,7 @@
                     "点击菜单-项目-批处理-预翻译，可以使用翻译记忆或者机器翻译进行批量翻译。",
                     "gettingstarted.po",
                     {
-                        "id": 67
+                        "id": 71
                     }
                 ],
                 [
@@ -874,43 +929,52 @@
                     "当前只支持机器翻译。",
                     "gettingstarted.po",
                     {
-                        "id": 67
+                        "id": 71
                     }
                 ],
                 [
-                    "预览",
-                    "Preview",
-                    "预览",
+                    "查看翻译",
+                    "Check Translated",
+                    "查看翻译",
                     "gettingstarted.po",
                     {
-                        "id": 68
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1654325588944,
+                        "id": 72
                     }
                 ],
                 [
-                    "点击左下角的预览替换效果，可以预览翻译效果。",
-                    "Click Preview translation in the lower left corner to preview the translation.",
-                    "点击左下角的预览替换效果，可以预览翻译效果。",
+                    "勾选左下角的查看翻译，可以查看翻译后的图片。",
+                    "Check Translated in the lower-left corner to see the translated image.",
+                    "勾选左下角的查看翻译，可以查看翻译后的图片。",
                     "gettingstarted.po",
                     {
-                        "id": 69
+                        "creator": "xulihang",
+                        "createdTime": 1654325620109,
+                        "id": 73
                     }
                 ],
                 [
-                    "选择精确模式会自动识别文字进行抹除并修复背景，非精确模式则会用背景颜色进行遮盖。",
+                    "精确模式会生成文字掩膜并修复背景，非精确模式则会用背景颜色进行遮盖。",
                     "The precision mode will detect text and reconstruct the background. The imprecision mode will just cover the area with the background color.",
-                    "选择精确模式会自动识别文字进行抹除并修复背景，非精确模式则会用背景颜色进行遮盖。",
+                    "精确模式会生成文字掩膜并修复背景，非精确模式则会用背景颜色进行遮盖。",
                     "gettingstarted.po",
                     {
-                        "id": 69
+                        "creator": "xulihang",
+                        "createdTime": 1654325660748,
+                        "id": 73
                     }
                 ],
                 [
-                    "勾选排版模式时，译文区域将被框出，并支持调整位置。",
-                    "When Typesetting mode is checked before preview, target text areas will be boxed out. You can readjust their size and location.",
-                    "勾选排版模式时，译文区域将被框出，并支持调整位置。",
+                    "在查看翻译状态下勾选排版模式，译文区域将被框出，并支持调整位置和修改样式。",
+                    "When Typesetting mode is checked with Translated checked, target text areas will be boxed out. You can readjust their size and location.",
+                    "在查看翻译状态下勾选排版模式，译文区域将被框出，并支持调整位置和修改样式。",
                     "gettingstarted.po",
                     {
-                        "id": 70
+                        "creator": "xulihang",
+                        "createdTime": 1654325660748,
+                        "id": 74
                     }
                 ],
                 [
@@ -919,16 +983,18 @@
                     "生成成品图",
                     "gettingstarted.po",
                     {
-                        "id": 71
+                        "id": 75
                     }
                 ],
                 [
-                    "首先将图片比例调整为100%，之后点击预览，得到成品图。",
-                    "First switch the image scale to 100%, and then click preview to get the translated picture.",
-                    "首先将图片比例调整为100%，之后点击预览，得到成品图。",
+                    "首先将图片比例调整为100%，之后点击查看翻译，得到成品图。",
+                    "First switch the image scale to 100%, and then check Translated to get the translated picture.",
+                    "首先将图片比例调整为100%，之后点击查看翻译，得到成品图。",
                     "gettingstarted.po",
                     {
-                        "id": 72
+                        "creator": "xulihang",
+                        "createdTime": 1654325687242,
+                        "id": 76
                     }
                 ],
                 [
@@ -937,7 +1003,7 @@
                     "点击文件-导出当前图片为-JPG，结果将输出在对应图片的文件夹的out文件夹中。",
                     "gettingstarted.po",
                     {
-                        "id": 72
+                        "id": 76
                     }
                 ],
                 [
@@ -946,7 +1012,7 @@
                     "另一选项ORA支持将文件导出为多层图像格式ORA，该格式能保存图层信息，供PS、Gimp和Krita等图像编辑软件编辑。",
                     "gettingstarted.po",
                     {
-                        "id": 72
+                        "id": 76
                     }
                 ],
                 [
@@ -955,7 +1021,7 @@
                     "除此以外，ImageTrans可支持导出PSD。",
                     "gettingstarted.po",
                     {
-                        "id": 73
+                        "id": 77
                     }
                 ],
                 [
@@ -964,25 +1030,29 @@
                     "设置文字样式",
                     "gettingstarted.po",
                     {
-                        "id": 74
+                        "id": 78
                     }
                 ],
                 [
-                    "设置文字样式主要有两个作用，一个是在ImageTrans中进行预览，一个是用于导出PSD时设置字体。",
-                    "Setting text styles has effects in two processes: Preview translation in ImageTrans and export as PSDs.",
-                    "设置文字样式主要有两个作用，一个是在ImageTrans中进行预览，一个是用于导出PSD时设置字体。",
+                    "设置文字样式主要有两个作用，一个是在ImageTrans中使用，一个是用于导出PSD时设置字体。",
+                    "Setting text styles has effects in two processes: see translated result in ImageTrans and export as PSDs.",
+                    "设置文字样式主要有两个作用，一个是在ImageTrans中使用，一个是用于导出PSD时设置字体。",
                     "gettingstarted.po",
                     {
-                        "id": 75
+                        "creator": "xulihang",
+                        "createdTime": 1654328533641,
+                        "id": 79
                     }
                 ],
                 [
-                    "点击菜单-项目-设置-字体样式可以进行设置使用的字体、文字大小、行距、对齐方式等等。",
-                    "Click Project->Settings->Font Style to set the font name, font size, leading, alignment, and so on.",
-                    "点击菜单-项目-设置-字体样式可以进行设置使用的字体、文字大小、行距、对齐方式等等。",
+                    "点击菜单-项目-设置-字体样式可以设置全局样式，设置选项包括使用的字体、文字大小、文字方向、行距、对齐方式、旋转角度、描边等等。",
+                    "Click Project->Settings->Font Style to set the font name, font size, direction, leading, alignment, rotation, stroke and so on.",
+                    "点击菜单-项目-设置-字体样式可以设置全局样式，设置选项包括使用的字体、文字大小、文字方向、行距、对齐方式、旋转角度、描边等等。",
                     "gettingstarted.po",
                     {
-                        "id": 76
+                        "creator": "xulihang",
+                        "createdTime": 1654328577272,
+                        "id": 80
                     }
                 ],
                 [
@@ -991,7 +1061,7 @@
                     "如果要修改某个样式，请点击该样式以加载设置，修改后点击添加，然后删去原来的样式。",
                     "gettingstarted.po",
                     {
-                        "id": 77
+                        "id": 81
                     }
                 ],
                 [
@@ -1000,70 +1070,51 @@
                     "排在第一的样式是默认样式。",
                     "gettingstarted.po",
                     {
-                        "id": 77
+                        "id": 81
                     }
                 ],
                 [
-                    "因为Photoshop需要的字体名比较特殊，需要从PS中获得。",
-                    "Because Photoshop requires a special font name, it needs to be obtained from PS.",
-                    "因为Photoshop需要的字体名比较特殊，需要从PS中获得。",
+                    "在样式上方右键可以执行排序和删除操作，在列表的空白处右键可以选择从其它项目导入样式。",
+                    "You can right-click above the style to sort and delete it, and right-click in the blank space of the list to import styles from another project.",
+                    "在样式上方右键可以执行排序和删除操作，在列表的空白处右键可以选择从其它项目导入样式。",
                     "gettingstarted.po",
                     {
-                        "id": 78
+                        "creator": "xulihang",
+                        "createdTime": 1654328639043,
+                        "id": 81
                     }
                 ],
                 [
-                    "方法是在PS中新建一张图片，建立一个文本框，设置所需字体，并完成文字编辑操作，是文本框处于非编辑状态。",
-                    "The way is to create a new picture in PS, create a text box, set the font you want, and complete the text editing operation, letting the text box in non-editing status.",
-                    "方法是在PS中新建一张图片，建立一个文本框，设置所需字体，并完成文字编辑操作，是文本框处于非编辑状态。",
+                    "设置全局样式后可以给文字区域指定使用哪个样式。",
+                    "After setting the global style, you can specify which style to use for the text area.",
+                    "设置全局样式后可以给文字区域指定使用哪个样式。",
                     "gettingstarted.po",
                     {
-                        "id": 78
+                        "creator": "xulihang",
+                        "createdTime": 1654328644963,
+                        "id": 82
                     }
                 ],
                 [
-                    "之后在ImageTrans中点击读取即可。",
-                    "Then click Read in ImageTrans.",
-                    "之后在ImageTrans中点击读取即可。",
+                    "另外也支持设置本地样式。",
+                    "You can also set up local styles.",
+                    "另外也支持设置本地样式。",
                     "gettingstarted.po",
                     {
-                        "id": 78
+                        "creator": "xulihang",
+                        "createdTime": 1654328668543,
+                        "id": 83
                     }
                 ],
                 [
-                    "非Windows系统需要使用readFont.jsx脚本。",
-                    "Non-Windows systems have to use readFont.jsx scripts.",
-                    "非Windows系统需要使用readFont.jsx脚本。",
+                    "本地样式的优先级大于全局样式。",
+                    "The local style has a higher priority than the global style.",
+                    "本地样式的优先级大于全局样式。",
                     "gettingstarted.po",
                     {
-                        "id": 78
-                    }
-                ],
-                [
-                    "可以给文字区域设置专门的字体样式。",
-                    "You can set special font styles for text areas.",
-                    "可以给文字区域设置专门的字体样式。",
-                    "gettingstarted.po",
-                    {
-                        "id": 79
-                    }
-                ],
-                [
-                    "另外也支持设置本地样式，除了全局文字样式包含的内容外，支持描边和旋转角度的设置。",
-                    "Local styles are also supported. Stroke and rotation angles are supported in addition to what the global text style has.",
-                    "另外也支持设置本地样式，除了全局文字样式包含的内容外，支持描边和旋转角度的设置。",
-                    "gettingstarted.po",
-                    {
-                        "id": 80
-                    }
-                ],
-                [
-                    "设置本地字体样式时会调出全局字体样式的设置界面，默认读取添加在末尾的样式为本地字体样式。",
-                    "When setting the local font style, the interface for the global font style setting will appear. The last new-added style will be saved as the local font style.",
-                    "设置本地字体样式时会调出全局字体样式的设置界面，默认读取添加在末尾的样式为本地字体样式。",
-                    "gettingstarted.po",
-                    {
-                        "id": 80
+                        "creator": "xulihang",
+                        "createdTime": 1654328671400,
+                        "id": 83
                     }
                 ],
                 [
@@ -1072,7 +1123,40 @@
                     "点击左侧的字体按钮以启用字体设置工具栏，可以便捷地设置本地样式。",
                     "gettingstarted.po",
                     {
-                        "id": 81
+                        "id": 84
+                    }
+                ],
+                [
+                    "也可以通过文字区域列表上方的字体设置进行设置。",
+                    "It can also be set through the font setting button above the text area list.",
+                    "也可以通过文字区域列表上方的字体设置进行设置。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1654328712486,
+                        "id": 85
+                    }
+                ],
+                [
+                    "它有一个专门的界面，能设置描边、旋转、是否启用本地样式。",
+                    "It has a dedicated interface where you can set stroke, rotation, and whether to enable the local style.",
+                    "它有一个专门的界面，能设置描边、旋转、是否启用本地样式。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1654328757476,
+                        "id": 85
+                    }
+                ],
+                [
+                    "它能调出全局字体样式的设置界面进行更详细的设置（会读取添加在末尾的样式为本地字体样式）。",
+                    "It can bring up the global font style setup interface for more detailed setup (reads the style added at the end as local font style).",
+                    "它能调出全局字体样式的设置界面进行更详细的设置（会读取添加在末尾的样式为本地字体样式）。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1654328766200,
+                        "id": 85
                     }
                 ],
                 [
@@ -1081,7 +1165,110 @@
                     "点击左侧的多选按钮以启动多选工具栏，可以调整多个文本框的位置并统一其字体样式。",
                     "gettingstarted.po",
                     {
-                        "id": 82
+                        "id": 86
+                    }
+                ],
+                [
+                    "获取Photoshop用字体名",
+                    "Get the font name for Photoshop",
+                    "获取Photoshop用字体名",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1654328782687,
+                        "id": 87
+                    }
+                ],
+                [
+                    "因为Photoshop需要的字体名比较特殊，需要从PS中获得。",
+                    "Because Photoshop requires a special font name, it needs to be obtained from PS.",
+                    "因为Photoshop需要的字体名比较特殊，需要从PS中获得。",
+                    "gettingstarted.po",
+                    {
+                        "id": 88
+                    }
+                ],
+                [
+                    "方法是在PS中新建一张图片，建立一个文本框，设置所需字体，并完成文字编辑操作，是文本框处于非编辑状态。",
+                    "The way is to create a new picture in PS, create a text box, set the font you want, and complete the text editing operation, letting the text box in non-editing status.",
+                    "方法是在PS中新建一张图片，建立一个文本框，设置所需字体，并完成文字编辑操作，是文本框处于非编辑状态。",
+                    "gettingstarted.po",
+                    {
+                        "id": 88
+                    }
+                ],
+                [
+                    "之后在ImageTrans中点击读取即可。",
+                    "Then click Read in ImageTrans.",
+                    "之后在ImageTrans中点击读取即可。",
+                    "gettingstarted.po",
+                    {
+                        "id": 88
+                    }
+                ],
+                [
+                    "非Windows系统需要使用readFont.jsx脚本。",
+                    "Non-Windows systems have to use readFont.jsx scripts.",
+                    "非Windows系统需要使用readFont.jsx脚本。",
+                    "gettingstarted.po",
+                    {
+                        "id": 88
+                    }
+                ],
+                [
+                    "自动调整字体大小",
+                    "Auto font resize",
+                    "自动调整字体大小",
+                    "gettingstarted.po",
+                    {
+                        "note": "",
+                        "creator": "anonymous",
+                        "createdTime": 0,
+                        "id": 89
+                    }
+                ],
+                [
+                    "软件默认能根据文字区域大小自动调整字体大小。",
+                    "By default, the software can automatically adjust the font size according to the size of the text area.",
+                    "软件默认能根据文字区域大小自动调整字体大小。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1654328802783,
+                        "id": 90
+                    }
+                ],
+                [
+                    "可以在项目设置中设置是否启用该功能以及最大、最小字体大小。",
+                    "You can set whether to enable this feature and the maximum and minimum font sizes in the project settings.",
+                    "可以在项目设置中设置是否启用该功能以及最大、最小字体大小。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1654328810047,
+                        "id": 90
+                    }
+                ],
+                [
+                    "字体大小的优先级是这样的：",
+                    "The font size priority is as follows:",
+                    "字体大小的优先级是这样的：",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1654328818799,
+                        "id": 91
+                    }
+                ],
+                [
+                    "本地样式中的字体大小>自动调整字体大小>全局样式中的字体大小。",
+                    "Font size in local style > Auto font size > Font size in global style.",
+                    "本地样式中的字体大小>自动调整字体大小>全局样式中的字体大小。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1654328849218,
+                        "id": 92
                     }
                 ],
                 [
@@ -1090,7 +1277,7 @@
                     "批处理",
                     "gettingstarted.po",
                     {
-                        "id": 83
+                        "id": 93
                     }
                 ],
                 [
@@ -1099,7 +1286,7 @@
                     "以上对单个图片的操作都可以通过菜单-项目-批处理对所有图片进行操作。",
                     "gettingstarted.po",
                     {
-                        "id": 84
+                        "id": 94
                     }
                 ]
             ]

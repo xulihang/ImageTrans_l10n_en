@@ -2,15 +2,15 @@
     "filename": "imagetrans-faq.md.xlf",
     "files": [
         {
-            "\/D:\/git\/ImageTrans_l10n_en\/imagetrans-faq.md": [
+            "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans-faq.md": [
                 [
-                    "ImageTrans 常见问题整理",
-                    "ImageTrans FAQ",
-                    "ImageTrans 常见问题整理",
-                    "\/D:\/git\/ImageTrans_l10n_en\/imagetrans-faq.md",
+                    "ImageTrans 常见问题整理，更多问题可在<g1>这里<\/g1>搜索。",
+                    "ImageTrans FAQ. Search more issues <g1>here<\/g1>.",
+                    "ImageTrans 常见问题整理，更多问题可在<g1>这里<\/g1>搜索。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans-faq.md",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1615697998137,
+                        "createdTime": 1654333114927,
                         "id": "tu1"
                     }
                 ],
@@ -18,7 +18,7 @@
                     "软件支持哪些语言？",
                     "What languages does ImageTrans support?",
                     "软件支持哪些语言？",
-                    "\/D:\/git\/ImageTrans_l10n_en\/imagetrans-faq.md",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans-faq.md",
                     {
                         "creator": "xulihang",
                         "createdTime": 1615698010225,
@@ -29,7 +29,7 @@
                     "软件本身支持所有语言。",
                     "ImageTrans itself supports all natural languages.",
                     "软件本身支持所有语言。",
-                    "\/D:\/git\/ImageTrans_l10n_en\/imagetrans-faq.md",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans-faq.md",
                     {
                         "creator": "xulihang",
                         "createdTime": 1615698048777,
@@ -40,7 +40,7 @@
                     "限制主要在于OCR和机器翻译。",
                     "The major limitations lie on OCR and machine translation.",
                     "限制主要在于OCR和机器翻译。",
-                    "\/D:\/git\/ImageTrans_l10n_en\/imagetrans-faq.md",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans-faq.md",
                     {
                         "creator": "xulihang",
                         "createdTime": 1615698084811,
@@ -51,7 +51,7 @@
                     "下面是ImageTrans所用部分OCR和机器翻译服务支持语言的说明页面:",
                     "I've collected some language support pages of some OCR and machine translation services.",
                     "下面是ImageTrans所用部分OCR和机器翻译服务支持语言的说明页面:",
-                    "\/D:\/git\/ImageTrans_l10n_en\/imagetrans-faq.md",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans-faq.md",
                     {
                         "creator": "xulihang",
                         "createdTime": 1615698160139,
@@ -62,7 +62,7 @@
                     "是否支持竖排日语？",
                     "Is vertical Japanese supported?",
                     "是否支持竖排日语？",
-                    "\/D:\/git\/ImageTrans_l10n_en\/imagetrans-faq.md",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans-faq.md",
                     {
                         "creator": "xulihang",
                         "createdTime": 1615698176372,
@@ -70,13 +70,13 @@
                     }
                 ],
                 [
-                    "搜狗、有道、百度精确版、谷歌、tesseract和Windows 10自带OCR都能识别竖排日语。",
-                    "Sogou, Youdao, Baidu accurate, Google, Tesseract and the built-in OCR of windows 10 can recognize vertical Japanese.",
-                    "搜狗、有道、百度精确版、谷歌、tesseract和Windows 10自带OCR都能识别竖排日语。",
-                    "\/D:\/git\/ImageTrans_l10n_en\/imagetrans-faq.md",
+                    "有道、百度、谷歌、mangaOCR、tesseract和Windows 10自带OCR都能识别竖排日语。",
+                    "Youdao, Baidu, Google, mmangaOCR, Tesseract and the built-in OCR of windows 10 can recognize vertical Japanese.",
+                    "有道、百度、谷歌、mangaOCR、tesseract和Windows 10自带OCR都能识别竖排日语。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans-faq.md",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1615698234512,
+                        "createdTime": 1654332908114,
                         "id": "tu6"
                     }
                 ],
@@ -84,7 +84,7 @@
                     "ImageTrans还提供竖排图像转横排的功能，让只支持识别横排日语的OCR引擎也能识别竖排日语。",
                     "ImageTrans can also convert vertically-aligned text to horizontally-aligned so that OCR engines which can only recognize horizontal Japanese can also recognize vertical Japanese.",
                     "ImageTrans还提供竖排图像转横排的功能，让只支持识别横排日语的OCR引擎也能识别竖排日语。",
-                    "\/D:\/git\/ImageTrans_l10n_en\/imagetrans-faq.md",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans-faq.md",
                     {
                         "creator": "xulihang",
                         "createdTime": 1615698339125,
@@ -95,7 +95,7 @@
                     "个人用途版和商业用途版有什么区别？",
                     "What's the difference between the personal purpose and commercial purpose versions?",
                     "个人用途版和商业用途版有什么区别？",
-                    "\/D:\/git\/ImageTrans_l10n_en\/imagetrans-faq.md",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans-faq.md",
                     {
                         "creator": "xulihang",
                         "createdTime": 1615698369798,
@@ -106,7 +106,7 @@
                     "目前两者在功能上并没有区别。",
                     "At present, there is no functional difference between the two.",
                     "目前两者在功能上并没有区别。",
-                    "\/D:\/git\/ImageTrans_l10n_en\/imagetrans-faq.md",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans-faq.md",
                     {
                         "creator": "xulihang",
                         "createdTime": 1615698381271,
@@ -114,13 +114,13 @@
                     }
                 ],
                 [
-                    "商业用途版主要针对用于商业翻译工作的公司。",
-                    "The commercial version is set for companies that use it for commercial translation.",
-                    "商业用途版主要针对用于商业翻译工作的公司。",
-                    "\/D:\/git\/ImageTrans_l10n_en\/imagetrans-faq.md",
+                    "商业用途版主要针对用于商业翻译工作的公司，购买后可以用于50台设备。",
+                    "The commercial version is set for companies that use it for commercial translation, which can be used on 50 devices.",
+                    "商业用途版主要针对用于商业翻译工作的公司，购买后可以用于50台设备。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans-faq.md",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1615698409871,
+                        "createdTime": 1654332947658,
                         "id": "tu8"
                     }
                 ],
@@ -128,7 +128,7 @@
                     "这个价格是每个月的费用还是一次性买断的费用？",
                     "Is the price for a monthly fee or a life-time fee?",
                     "这个价格是每个月的费用还是一次性买断的费用？",
-                    "\/D:\/git\/ImageTrans_l10n_en\/imagetrans-faq.md",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans-faq.md",
                     {
                         "creator": "xulihang",
                         "createdTime": 1615698437975,
@@ -139,7 +139,7 @@
                     "购买的版本可以终身使用，并支持半年内免费更新。",
                     "The purchased version can be used for life and can be updated for free within half a year.",
                     "购买的版本可以终身使用，并支持半年内免费更新。",
-                    "\/D:\/git\/ImageTrans_l10n_en\/imagetrans-faq.md",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans-faq.md",
                     {
                         "creator": "xulihang",
                         "createdTime": 1615698440544,
@@ -150,7 +150,7 @@
                     "软件支持在哪些平台运行，支持Linux吗？",
                     "Which platforms does the software support? Can it run on Linux?",
                     "软件支持在哪些平台运行，支持Linux吗？",
-                    "\/D:\/git\/ImageTrans_l10n_en\/imagetrans-faq.md",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans-faq.md",
                     {
                         "creator": "xulihang",
                         "createdTime": 1615698483256,
@@ -161,7 +161,7 @@
                     "ImageTrans是基于JavaFX开发的跨平台应用，可以在Windows、macOS和Linux上运行。",
                     "ImageTrans is a cross-platform application based on JavaFX. It can run on Windows, macOS and Linux.",
                     "ImageTrans是基于JavaFX开发的跨平台应用，可以在Windows、macOS和Linux上运行。",
-                    "\/D:\/git\/ImageTrans_l10n_en\/imagetrans-faq.md",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans-faq.md",
                     {
                         "creator": "xulihang",
                         "createdTime": 1615698524680,
@@ -172,7 +172,7 @@
                     "软件依赖于OpenCV，为此专门有提供Windows、macOS、Linux的运行库。",
                     "It also relies OpenCV. Pre-built libraries for Windows, macOS and Linux are provided.",
                     "软件依赖于OpenCV，为此专门有提供Windows、macOS、Linux的运行库。",
-                    "\/D:\/git\/ImageTrans_l10n_en\/imagetrans-faq.md",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans-faq.md",
                     {
                         "creator": "xulihang",
                         "createdTime": 1615698556449,
@@ -183,7 +183,7 @@
                     "为什么机器翻译的结果和原文一样？",
                     "Why is the result of machine translation the same as the source text?",
                     "为什么机器翻译的结果和原文一样？",
-                    "\/D:\/git\/ImageTrans_l10n_en\/imagetrans-faq.md",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans-faq.md",
                     {
                         "creator": "xulihang",
                         "createdTime": 1615698571257,
@@ -194,7 +194,7 @@
                     "需要在项目设置里先指定翻译的语言对。",
                     "You need to specify the language pair in the project settings.",
                     "需要在项目设置里先指定翻译的语言对。",
-                    "\/D:\/git\/ImageTrans_l10n_en\/imagetrans-faq.md",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans-faq.md",
                     {
                         "creator": "xulihang",
                         "createdTime": 1615698587169,
@@ -205,7 +205,7 @@
                     "什么是OCR和机器翻译 API？",
                     "What is OCR and machine translation API?",
                     "什么是OCR和机器翻译 API？",
-                    "\/D:\/git\/ImageTrans_l10n_en\/imagetrans-faq.md",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans-faq.md",
                     {
                         "creator": "xulihang",
                         "createdTime": 1615698590234,
@@ -216,7 +216,7 @@
                     "要怎么申请？",
                     "How to apply?",
                     "要怎么申请？",
-                    "\/D:\/git\/ImageTrans_l10n_en\/imagetrans-faq.md",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans-faq.md",
                     {
                         "creator": "xulihang",
                         "createdTime": 1615698595178,
@@ -227,7 +227,7 @@
                     "API是应用程序接口的缩写。",
                     "API is an abbreviation of application program interface.",
                     "API是应用程序接口的缩写。",
-                    "\/D:\/git\/ImageTrans_l10n_en\/imagetrans-faq.md",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans-faq.md",
                     {
                         "creator": "xulihang",
                         "createdTime": 1615698607186,
@@ -238,7 +238,7 @@
                     "谷歌、微软等公司将其研发的OCR、机器翻译以API的形式开放出来，供第三方软件进行调用。",
                     "Companies like Google and Microsoft will open their OCR and machine translation in the form of API for third-party software to use.",
                     "谷歌、微软等公司将其研发的OCR、机器翻译以API的形式开放出来，供第三方软件进行调用。",
-                    "\/D:\/git\/ImageTrans_l10n_en\/imagetrans-faq.md",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans-faq.md",
                     {
                         "creator": "xulihang",
                         "createdTime": 1615698677596,
@@ -249,7 +249,7 @@
                     "ImageTrans集成了常见的OCR和机器翻译API。",
                     "ImageTrans has integrated common OCR and machine translation APIs.",
                     "ImageTrans集成了常见的OCR和机器翻译API。",
-                    "\/D:\/git\/ImageTrans_l10n_en\/imagetrans-faq.md",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans-faq.md",
                     {
                         "creator": "xulihang",
                         "createdTime": 1615698710107,
@@ -260,7 +260,7 @@
                     "这些API通常需要申请API密钥进行调用。",
                     "Usually, you need to apply for their API keys to call them.",
                     "这些API通常需要申请API密钥进行调用。",
-                    "\/D:\/git\/ImageTrans_l10n_en\/imagetrans-faq.md",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans-faq.md",
                     {
                         "creator": "xulihang",
                         "createdTime": 1615698777324,
@@ -271,7 +271,7 @@
                     "具体操作方法见各大平台的文档。",
                     "The detailed operation steps can be found in the documents of these platforms.",
                     "具体操作方法见各大平台的文档。",
-                    "\/D:\/git\/ImageTrans_l10n_en\/imagetrans-faq.md",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans-faq.md",
                     {
                         "creator": "xulihang",
                         "createdTime": 1615698813765,
@@ -282,7 +282,7 @@
                     "下面是我网上搜到的申请Google Vision的OCR API密钥的教程：",
                     "The following is a tutorial about applying for the OCR API key of Google vision that I found on the Internet:",
                     "下面是我网上搜到的申请Google Vision的OCR API密钥的教程：",
-                    "\/D:\/git\/ImageTrans_l10n_en\/imagetrans-faq.md",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans-faq.md",
                     {
                         "creator": "xulihang",
                         "createdTime": 1615698817357,
@@ -293,7 +293,7 @@
                     "软件支持哪些OCR和机器翻译服务？",
                     "What OCR and MT services does the software support?",
                     "软件支持哪些OCR和机器翻译服务？",
-                    "\/D:\/git\/ImageTrans_l10n_en\/imagetrans-faq.md",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans-faq.md",
                     {
                         "creator": "xulihang",
                         "createdTime": 1615698831772,
@@ -304,7 +304,7 @@
                     "下面是目前支持的在线服务的列表",
                     "The following is a list of currently supported online services",
                     "下面是目前支持的在线服务的列表",
-                    "\/D:\/git\/ImageTrans_l10n_en\/imagetrans-faq.md",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans-faq.md",
                     {
                         "creator": "xulihang",
                         "createdTime": 1615698835965,
@@ -312,13 +312,14 @@
                     }
                 ],
                 [
-                    "OCR：百度、搜狗、有道、腾讯、谷歌、微软Azure、OCRSPACE、ABBYY Cloud、Clova",
-                    "OCR: Baidu, Sogou, Youdao, Tencent, Google, Microsoft azure, ocrspace, abbyy cloud, Clova",
-                    "OCR：百度、搜狗、有道、腾讯、谷歌、微软Azure、OCRSPACE、ABBYY Cloud、Clova",
-                    "\/D:\/git\/ImageTrans_l10n_en\/imagetrans-faq.md",
+                    "OCR：百度、有道、腾讯、谷歌、微软Azure、OCRSPACE、ABBYY Cloud、Clova",
+                    "OCR: Baidu, Youdao, Tencent, Google, Microsoft Azure, OCRSPACE, ABBYY Cloud, Clova",
+                    "OCR：百度、有道、腾讯、谷歌、微软Azure、OCRSPACE、ABBYY Cloud、Clova",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans-faq.md",
                     {
+                        "note": "",
                         "creator": "xulihang",
-                        "createdTime": 1615698840485,
+                        "createdTime": 1654332963904,
                         "id": "tu20"
                     }
                 ],
@@ -326,7 +327,7 @@
                     "机器翻译：百度、有道、腾讯、小牛、谷歌、微软、彩云小译、云译、Papago",
                     "Machine translation: Baidu, Youdao, Tencent, Niutrans, Google, Microsoft, Colorful Clouds, Cloud Translation, Papago:",
                     "机器翻译：百度、有道、腾讯、小牛、谷歌、微软、彩云小译、云译、Papago",
-                    "\/D:\/git\/ImageTrans_l10n_en\/imagetrans-faq.md",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans-faq.md",
                     {
                         "creator": "xulihang",
                         "createdTime": 1615698871797,
@@ -334,13 +335,13 @@
                     }
                 ],
                 [
-                    "ImageTrans默认包含了百度、Azure、OCRSPACE等OCR服务的密钥，以及百度、腾讯、小牛和谷歌等机器翻译服务的密钥。",
-                    "By default, ImageTrans contains the keys of OCR services like Baidu, azure and ocrspace and machine translation services such as Baidu, Tencent, Niutrans and Google.",
-                    "ImageTrans默认包含了百度、Azure、OCRSPACE等OCR服务的密钥，以及百度、腾讯、小牛和谷歌等机器翻译服务的密钥。",
-                    "\/D:\/git\/ImageTrans_l10n_en\/imagetrans-faq.md",
+                    "ImageTrans默认包含了百度、Azure、OCRSPACE等OCR服务的密钥，以及百度、腾讯、小牛等机器翻译服务的密钥。",
+                    "By default, ImageTrans contains the keys of OCR services like Baidu, Azure and OCRSPACE and machine translation services such as Baidu, Tencent and Niutrans.",
+                    "ImageTrans默认包含了百度、Azure、OCRSPACE等OCR服务的密钥，以及百度、腾讯、小牛等机器翻译服务的密钥。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans-faq.md",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1615699012441,
+                        "createdTime": 1654333019020,
                         "id": "tu22"
                     }
                 ],
@@ -348,7 +349,7 @@
                     "另外也支持离线的OCR和机器翻译，见下一个问题。",
                     "In addition, offline OCR and machine translation are also supported. See the next question.",
                     "另外也支持离线的OCR和机器翻译，见下一个问题。",
-                    "\/D:\/git\/ImageTrans_l10n_en\/imagetrans-faq.md",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans-faq.md",
                     {
                         "creator": "xulihang",
                         "createdTime": 1615699018920,
@@ -359,7 +360,7 @@
                     "软件可以离线使用吗？",
                     "Can the software be used offline?",
                     "软件可以离线使用吗？",
-                    "\/D:\/git\/ImageTrans_l10n_en\/imagetrans-faq.md",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans-faq.md",
                     {
                         "creator": "xulihang",
                         "createdTime": 1615699233331,
@@ -370,7 +371,7 @@
                     "软件可以离线使用。",
                     "The software can be used offline.",
                     "软件可以离线使用。",
-                    "\/D:\/git\/ImageTrans_l10n_en\/imagetrans-faq.md",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans-faq.md",
                     {
                         "creator": "xulihang",
                         "createdTime": 1615699236507,
@@ -381,7 +382,7 @@
                     "但首次运行需要联网以验证是否购买，记录保存7天。",
                     "However, it requires networking to verify whether the purchase is made when it is first run. The record will be kept for 7 days.",
                     "但首次运行需要联网以验证是否购买，记录保存7天。",
-                    "\/D:\/git\/ImageTrans_l10n_en\/imagetrans-faq.md",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans-faq.md",
                     {
                         "creator": "xulihang",
                         "createdTime": 1615701730784,
@@ -392,7 +393,7 @@
                     "软件可以离线翻译图片，并支持离线版OCR和机器翻译。",
                     "The software can translate pictures offline, and support offline OCR and machine translation.",
                     "软件可以离线翻译图片，并支持离线版OCR和机器翻译。",
-                    "\/D:\/git\/ImageTrans_l10n_en\/imagetrans-faq.md",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans-faq.md",
                     {
                         "creator": "xulihang",
                         "createdTime": 1615699280748,
@@ -400,24 +401,24 @@
                     }
                 ],
                 [
-                    "离线版OCR：tesseract、Windows 10自带OCR、ImageTrans_OCR、PaddleOCR、EasyOCR",
-                    "Offline OCR: Tesseract, Windows 10's built-in OCR, ImageTrans_ OCR、PaddleOCR、EasyOCR",
-                    "离线版OCR：tesseract、Windows 10自带OCR、ImageTrans_OCR、PaddleOCR、EasyOCR",
-                    "\/D:\/git\/ImageTrans_l10n_en\/imagetrans-faq.md",
+                    "离线版OCR：tesseract、mangaOCR、Windows 10自带OCR、PaddleOCR、EasyOCR",
+                    "Offline OCR: Tesseract, mangaOCR, Windows 10's built-in OCR, PaddleOCR, EasyOCR",
+                    "离线版OCR：tesseract、mangaOCR、Windows 10自带OCR、PaddleOCR、EasyOCR",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans-faq.md",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1615699315924,
+                        "createdTime": 1654333321309,
                         "id": "tu27"
                     }
                 ],
                 [
-                    "离线版机器翻译：OPUS-CAT",
-                    "Off line machine translation: OPUS-CAT",
-                    "离线版机器翻译：OPUS-CAT",
-                    "\/D:\/git\/ImageTrans_l10n_en\/imagetrans-faq.md",
+                    "离线版机器翻译：OPUS-CAT、eztrans、Sugoi",
+                    "Offline machine translation: OPUS-CAT, eztrans, Sugoi",
+                    "离线版机器翻译：OPUS-CAT、eztrans、Sugoi",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans-faq.md",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1615699330811,
+                        "createdTime": 1654333071838,
                         "id": "tu28"
                     }
                 ],
@@ -425,7 +426,7 @@
                     "在线的OCR和机器翻译，尤其是机器翻译，往往效果更好，支持的语种也更全面，但也存在需要联网、对请求有限制等问题。",
                     "Online OCR and machine translation, especially machine translation, ofter produce better results and support more languages, but there are also problems such as the need for networking and restrictions on requests.",
                     "在线的OCR和机器翻译，尤其是机器翻译，往往效果更好，支持的语种也更全面，但也存在需要联网、对请求有限制等问题。",
-                    "\/D:\/git\/ImageTrans_l10n_en\/imagetrans-faq.md",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans-faq.md",
                     {
                         "creator": "xulihang",
                         "createdTime": 1615699366845,
@@ -436,7 +437,7 @@
                     "为什么进行批量OCR和机器翻译操作时，有些框没有结果？",
                     "Why do some boxes have no results when batch OCR and MT operations are performed?",
                     "为什么进行批量OCR和机器翻译操作时，有些框没有结果？",
-                    "\/D:\/git\/ImageTrans_l10n_en\/imagetrans-faq.md",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans-faq.md",
                     {
                         "creator": "xulihang",
                         "createdTime": 1615699370341,
@@ -447,7 +448,7 @@
                     "在线OCR和机器翻译服务对请求有限制，比如每秒只能请求5次。",
                     "Online OCR and machine translation services have restrictions on requests, such as five requests per second.",
                     "在线OCR和机器翻译服务对请求有限制，比如每秒只能请求5次。",
-                    "\/D:\/git\/ImageTrans_l10n_en\/imagetrans-faq.md",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans-faq.md",
                     {
                         "creator": "xulihang",
                         "createdTime": 1615699382510,
@@ -458,7 +459,7 @@
                     "ImageTrans允许设置OCR和机器翻译请求的时间间隔以避免这一问题。",
                     "ImageTrans allows you to set the time interval between OCR and MT requests to avoid this problem.",
                     "ImageTrans允许设置OCR和机器翻译请求的时间间隔以避免这一问题。",
-                    "\/D:\/git\/ImageTrans_l10n_en\/imagetrans-faq.md",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans-faq.md",
                     {
                         "creator": "xulihang",
                         "createdTime": 1615699406757,
@@ -469,7 +470,7 @@
                     "如果是OCR没有结果，也可能是OCR引擎没有识别出文字。",
                     "If OCR has no result, the OCR engine may not be able to recognize the text.",
                     "如果是OCR没有结果，也可能是OCR引擎没有识别出文字。",
-                    "\/D:\/git\/ImageTrans_l10n_en\/imagetrans-faq.md",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans-faq.md",
                     {
                         "creator": "xulihang",
                         "createdTime": 1615699596553,
@@ -477,210 +478,179 @@
                     }
                 ],
                 [
-                    "为什么显示翻译版本时，文字非常小？",
-                    "Why is the text very small when the translated version is displayed?",
-                    "为什么显示翻译版本时，文字非常小？",
-                    "\/D:\/git\/ImageTrans_l10n_en\/imagetrans-faq.md",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1615699652745,
-                        "id": "tu33"
-                    }
-                ],
-                [
-                    "ImageTrans能够根据文本框面积自动计算适合的文字显示大小，但对于部分字体，这一功能会失效。",
-                    "ImageTrans can automatically calculate the appropriate text size according to the text area, but for some fonts, this function may fail.",
-                    "ImageTrans能够根据文本框面积自动计算适合的文字显示大小，但对于部分字体，这一功能会失效。",
-                    "\/D:\/git\/ImageTrans_l10n_en\/imagetrans-faq.md",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1615699742106,
-                        "id": "tu34"
-                    }
-                ],
-                [
-                    "这时需要添加字体样式，换用支持的字体或者手动调整文字大小。",
-                    "For this situation, you need to add a font style which uses a supported font or manually adjust the font size.",
-                    "这时需要添加字体样式，换用支持的字体或者手动调整文字大小。",
-                    "\/D:\/git\/ImageTrans_l10n_en\/imagetrans-faq.md",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1615699781083,
-                        "id": "tu34"
-                    }
-                ],
-                [
                     "为什么文字没有完全抹除？",
                     "Why the text not completely erased?",
                     "为什么文字没有完全抹除？",
-                    "\/D:\/git\/ImageTrans_l10n_en\/imagetrans-faq.md",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans-faq.md",
                     {
                         "creator": "xulihang",
                         "createdTime": 1615699834404,
-                        "id": "tu35"
+                        "id": "tu33"
                     }
                 ],
                 [
                     "文本框需要完全覆盖文字，并且离文字边缘存在一定间距。",
                     "The text box needs to completely cover the text. There should be a certain distance between the box and the edge of the text.",
                     "文本框需要完全覆盖文字，并且离文字边缘存在一定间距。",
-                    "\/D:\/git\/ImageTrans_l10n_en\/imagetrans-faq.md",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans-faq.md",
                     {
                         "creator": "xulihang",
                         "createdTime": 1615699919724,
-                        "id": "tu36"
+                        "id": "tu34"
                     }
                 ],
                 [
                     "如果文字背景复杂，往往还需要手动处理。",
                     "If the text background is complex, it often needs to be processed manually.",
                     "如果文字背景复杂，往往还需要手动处理。",
-                    "\/D:\/git\/ImageTrans_l10n_en\/imagetrans-faq.md",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans-faq.md",
                     {
                         "creator": "xulihang",
                         "createdTime": 1615699915965,
-                        "id": "tu36"
+                        "id": "tu34"
                     }
                 ],
                 [
                     "软件有英文界面吗？",
                     "Does the software have an English interface?",
                     "软件有英文界面吗？",
-                    "\/D:\/git\/ImageTrans_l10n_en\/imagetrans-faq.md",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans-faq.md",
                     {
                         "creator": "xulihang",
                         "createdTime": 1615699926013,
-                        "id": "tu37"
+                        "id": "tu35"
                     }
                 ],
                 [
                     "软件目前支持英文和中文两种界面语言。",
                     "At present, ImageTrans can be displayed in English or Chinese.",
                     "软件目前支持英文和中文两种界面语言。",
-                    "\/D:\/git\/ImageTrans_l10n_en\/imagetrans-faq.md",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans-faq.md",
                     {
                         "creator": "xulihang",
                         "createdTime": 1615699968686,
-                        "id": "tu38"
+                        "id": "tu36"
                     }
                 ],
                 [
                     "为什么文字行没有被合并？",
                     "Why are text lines not merged?",
                     "为什么文字行没有被合并？",
-                    "\/D:\/git\/ImageTrans_l10n_en\/imagetrans-faq.md",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans-faq.md",
                     {
                         "creator": "xulihang",
                         "createdTime": 1618238037258,
-                        "id": "tu39"
+                        "id": "tu37"
                     }
                 ],
                 [
                     "有多种原因。",
                     "The reasons are manifold.",
                     "有多种原因。",
-                    "\/D:\/git\/ImageTrans_l10n_en\/imagetrans-faq.md",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans-faq.md",
                     {
                         "creator": "xulihang",
                         "createdTime": 1618238050325,
-                        "id": "tu40"
+                        "id": "tu38"
                     }
                 ],
                 [
                     "默认的增长高度或者宽度过小，需要把数值调大一点（一般是文字行的高度）。",
                     "The default growth height or width is too small. You need to increase the value (generally the height of the text line).",
                     "默认的增长高度或者宽度过小，需要把数值调大一点（一般是文字行的高度）。",
-                    "\/D:\/git\/ImageTrans_l10n_en\/imagetrans-faq.md",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans-faq.md",
                     {
                         "creator": "xulihang",
                         "createdTime": 1618238064682,
-                        "id": "tu41"
+                        "id": "tu39"
                     }
                 ],
                 [
                     "文字区域间存在间隔，影响了合并。",
                     "There is a separation line between text areas, which affects the merging.",
                     "文字区域间存在间隔，影响了合并。",
-                    "\/D:\/git\/ImageTrans_l10n_en\/imagetrans-faq.md",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans-faq.md",
                     {
                         "creator": "xulihang",
                         "createdTime": 1618238094209,
-                        "id": "tu42"
+                        "id": "tu40"
                     }
                 ],
                 [
                     "有多种处理方法：",
                     "There are many ways to deal with it:",
                     "有多种处理方法：",
-                    "\/D:\/git\/ImageTrans_l10n_en\/imagetrans-faq.md",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans-faq.md",
                     {
                         "creator": "xulihang",
                         "createdTime": 1618238102797,
-                        "id": "tu42"
+                        "id": "tu40"
                     }
                 ],
                 [
                     "缩小拓展像素值",
                     "Reduce the pixel to expand",
                     "缩小拓展像素值",
-                    "\/D:\/git\/ImageTrans_l10n_en\/imagetrans-faq.md",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans-faq.md",
                     {
                         "creator": "xulihang",
                         "createdTime": 1618238119620,
-                        "id": "tu43"
+                        "id": "tu41"
                     }
                 ],
                 [
                     "手动合并",
                     "Merge manually",
                     "手动合并",
-                    "\/D:\/git\/ImageTrans_l10n_en\/imagetrans-faq.md",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans-faq.md",
                     {
                         "creator": "xulihang",
                         "createdTime": 1618238132908,
-                        "id": "tu44"
+                        "id": "tu42"
                     }
                 ],
                 [
                     "取消判断是否存在间隔",
                     "Uncheck Infer Separation",
                     "取消判断是否存在间隔",
-                    "\/D:\/git\/ImageTrans_l10n_en\/imagetrans-faq.md",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans-faq.md",
                     {
                         "creator": "xulihang",
                         "createdTime": 1618238163868,
-                        "id": "tu45"
+                        "id": "tu43"
                     }
                 ],
                 [
                     "示例图片：",
                     "Example:",
                     "示例图片：",
-                    "\/D:\/git\/ImageTrans_l10n_en\/imagetrans-faq.md",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans-faq.md",
                     {
                         "creator": "xulihang",
                         "createdTime": 1618238168628,
-                        "id": "tu46"
+                        "id": "tu44"
                     }
                 ],
                 [
                     "合并后：",
                     "Merged:",
                     "合并后：",
-                    "\/D:\/git\/ImageTrans_l10n_en\/imagetrans-faq.md",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans-faq.md",
                     {
                         "creator": "xulihang",
                         "createdTime": 1618238171311,
-                        "id": "tu48"
+                        "id": "tu46"
                     }
                 ],
                 [
                     "{% include comments.html %}",
-                    "",
                     "{% include comments.html %}",
-                    "\/D:\/git\/ImageTrans_l10n_en\/imagetrans-faq.md",
+                    "{% include comments.html %}",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/imagetrans-faq.md",
                     {
-                        "id": "tu50"
+                        "creator": "xulihang",
+                        "createdTime": 1654333078889,
+                        "id": "tu48"
                     }
                 ]
             ]

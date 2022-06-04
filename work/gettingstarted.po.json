@@ -246,22 +246,24 @@
                 ],
                 [
                     "需要使用Tesseract进行OCR的话请自行下载安装（`地址 <https:\/\/tesseract-ocr.github.io\/tessdoc\/Downloads.html>`_），并在ImageTrans里指定Tesseract的路径。",
-                    "If you need to use Tesseract for OCR, please install it by yourself （`Link <https:\/\/tesseract-ocr.github.io\/tessdoc\/Downloads.html>`_）and specify the path of Tesseract in ImageTrans.",
+                    "If you need to use Tesseract for OCR, please install it by yourself (`Link <https:\/\/tesseract-ocr.github.io\/tessdoc\/Downloads.html>`_) and specify the path of Tesseract in ImageTrans.",
                     "需要使用Tesseract进行OCR的话请自行下载安装（`地址 <https:\/\/tesseract-ocr.github.io\/tessdoc\/Downloads.html>`_），并在ImageTrans里指定Tesseract的路径。",
                     "gettingstarted.po",
                     {
                         "note": "",
                         "creator": "xulihang",
-                        "createdTime": 1624106983347,
+                        "createdTime": 1654329790465,
                         "id": 17
                     }
                 ],
                 [
                     "这里再提供一个Windows的绿色版本：`百度网盘（提取码：ktpt） <https:\/\/pan.baidu.com\/s\/1gJZyuntLetZEpFWI8XqkXA>`_。",
-                    "Here is a Windows version for download: `Baidu Netdisk (code: ktpt) <https:\/\/pan.baidu.com\/s\/1gJZyuntLetZEpFWI8XqkXA>`_).",
+                    "Here is a Windows version for download: `Baidu Netdisk (code: ktpt) <https:\/\/pan.baidu.com\/s\/1gJZyuntLetZEpFWI8XqkXA>`_.",
                     "这里再提供一个Windows的绿色版本：`百度网盘（提取码：ktpt） <https:\/\/pan.baidu.com\/s\/1gJZyuntLetZEpFWI8XqkXA>`_。",
                     "gettingstarted.po",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1654329793912,
                         "id": 18
                     }
                 ],
@@ -441,12 +443,12 @@
                 ],
                 [
                     "使用方法见\\\\ `issue29 <https:\/\/github.com\/xulihang\/ImageTrans-docs\/issues\/29#issuecomment-818754544>`_。",
-                    "Check out `issue29 <https:\/\/github.com\/xulihang\/ImageTrans-docs\/issues\/29#issuecomment -818754544 >`_ for its usage.",
+                    "Check out `issue29  <https:\/\/github.com\/xulihang\/ImageTrans-docs\/issues\/29#issuecomment -818754544>`_ for its usage.",
                     "使用方法见\\\\ `issue29 <https:\/\/github.com\/xulihang\/ImageTrans-docs\/issues\/29#issuecomment-818754544>`_。",
                     "gettingstarted.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1654325179845,
+                        "createdTime": 1654330118572,
                         "id": 29
                     }
                 ],

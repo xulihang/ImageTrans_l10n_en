@@ -131,12 +131,12 @@
                 ],
                 [
                     "文字区域检测的算法细节见此：`基于规则的漫画文字检测方法 <http:\/\/blog.xulihang.me\/text-localization-for-comics\/>`_。",
-                    "The algorithm details of text area detection can be found here: `Rules-based comic text detection method <http:\/\/blog.xulihang.me\/text-localization-for-comics\/>`.",
+                    "The algorithm details of text area detection can be found here: `Rules-based comic text detection method <http:\/\/blog.xulihang.me\/text-localization-for-comics\/>`_.",
                     "文字区域检测的算法细节见此：`基于规则的漫画文字检测方法 <http:\/\/blog.xulihang.me\/text-localization-for-comics\/>`_。",
                     "textarea_detection_and_text_reinjection.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1654329068129,
+                        "createdTime": 1654330306351,
                         "id": 15
                     }
                 ],
@@ -321,12 +321,12 @@
                 ],
                 [
                     "如果存在无文字原图，可以通过\\\\ `无文字原图和纯文字图管理器 <https:\/\/github.com\/xulihang\/ImageTrans-docs\/issues\/199#issuecomment-1133639931>`_\\\\ 设置无文字原图，查看翻译时会直接使用原图。",
-                    "If a text-free original image exists, that text-free original image can be set through the `Textless Original Image and Pure-Text Image Manager <https:\/\/github.com\/xulihang\/ImageTrans-docs\/issues\/199 #issuecomment -1133639931 >`_. The original image will be directly used when viewing the translated image.",
+                    "If a text-free original image exists, that text-free original image can be set through the `Textless Original Image and Pure-Text Image Manager  <https:\/\/github.com\/xulihang\/ImageTrans-docs\/issues\/199 #issuecomment-1133639931>`_. The original image will be directly used when viewing the translated image.",
                     "如果存在无文字原图，可以通过\\\\ `无文字原图和纯文字图管理器 <https:\/\/github.com\/xulihang\/ImageTrans-docs\/issues\/199#issuecomment-1133639931>`_\\\\ 设置无文字原图，查看翻译时会直接使用原图。",
                     "textarea_detection_and_text_reinjection.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1654329268988,
+                        "createdTime": 1654330374811,
                         "id": 32
                     }
                 ],

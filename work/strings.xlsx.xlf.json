@@ -5268,10 +5268,12 @@
                 ],
                 [
                     "气泡检测",
-                    "Balloon Detection",
+                    "Balloon detection",
                     "气泡检测",
                     "xl\/sharedStrings.xml",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1663471704038,
                         "id": "P147242AB-tu545"
                     }
                 ],

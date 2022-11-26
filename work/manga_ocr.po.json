@@ -1,5 +1,6 @@
 {
     "filename": "manga_ocr.po",
+    "creationTime": 1669439858559,
     "files": [
         {
             "manga_ocr.po": [
@@ -118,17 +119,6 @@
                     }
                 ],
                 [
-                    "但该方法只适用于背景单一的图像。",
-                    "However, this method only applies to images with a simple background.",
-                    "但该方法只适用于背景单一的图像。",
-                    "manga_ocr.po",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1654329499549,
-                        "id": 10
-                    }
-                ],
-                [
                     "转换后的图：",
                     "After:",
                     "转换后的图：",
@@ -194,17 +184,6 @@
                         "creator": "xulihang",
                         "createdTime": 1624110874768,
                         "id": 15
-                    }
-                ],
-                [
-                    "注：如果OCR能直接识别竖排日语，可以不进行竖排转横排这样的操作。",
-                    "Note: If the OCR engine can directly recognize vertical Japanese, you don't have to perform Vertical to Horizontal conversions.",
-                    "注：如果OCR能直接识别竖排日语，可以不进行竖排转横排这样的操作。",
-                    "manga_ocr.po",
-                    {
-                        "creator": "xulihang",
-                        "createdTime": 1654329552757,
-                        "id": 16
                     }
                 ]
             ]

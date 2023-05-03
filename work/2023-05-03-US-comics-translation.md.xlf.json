@@ -1,13 +1,14 @@
 {
     "filename": "2023-05-03-US-comics-translation.md.xlf",
+    "creationTime": 1683077922182,
     "files": [
         {
-            "\/D:\/git\/BasicCAT-website\/_zh\/2023-05-03-US-comics-translation.md": [
+            "\/C:\/Users\/xulihang\/AppData\/Local\/Temp\/2023-05-03-US-comics-translation.md": [
                 [
                     "ImageTrans是通用的计算机辅助图片翻译软件，并针对漫画做了很多功能设计。",
                     "ImageTrans is a general-purpose computer-aided image translation software, and has done a lot of functional design for comics.",
                     "ImageTrans是通用的计算机辅助图片翻译软件，并针对漫画做了很多功能设计。",
-                    "\/D:\/git\/BasicCAT-website\/_zh\/2023-05-03-US-comics-translation.md",
+                    "\/C:\/Users\/xulihang\/AppData\/Local\/Temp\/2023-05-03-US-comics-translation.md",
                     {
                         "creator": "xulihang",
                         "createdTime": 1683076447300,
@@ -18,7 +19,7 @@
                     "本文会以《复仇者》漫画的一张图片为例来演示如何用ImageTrans翻译美漫。",
                     "This article will use a picture from the Avengers comic as an example to show how to translate a comic with ImageTrans.",
                     "本文会以《复仇者》漫画的一张图片为例来演示如何用ImageTrans翻译美漫。",
-                    "\/D:\/git\/BasicCAT-website\/_zh\/2023-05-03-US-comics-translation.md",
+                    "\/C:\/Users\/xulihang\/AppData\/Local\/Temp\/2023-05-03-US-comics-translation.md",
                     {
                         "creator": "xulihang",
                         "createdTime": 1683076465564,
@@ -29,7 +30,7 @@
                     "所选图片来自《复仇者解散》系列，故事一开始轻松愉快的场景。",
                     "The selected image is from the Avengers Disassembled series, where the story begins with a relaxed and enjoyable scene.",
                     "所选图片来自《复仇者解散》系列，故事一开始轻松愉快的场景。",
-                    "\/D:\/git\/BasicCAT-website\/_zh\/2023-05-03-US-comics-translation.md",
+                    "\/C:\/Users\/xulihang\/AppData\/Local\/Temp\/2023-05-03-US-comics-translation.md",
                     {
                         "creator": "xulihang",
                         "createdTime": 1683076517342,
@@ -40,7 +41,7 @@
                     "原图：",
                     "Original image:",
                     "原图：",
-                    "\/D:\/git\/BasicCAT-website\/_zh\/2023-05-03-US-comics-translation.md",
+                    "\/C:\/Users\/xulihang\/AppData\/Local\/Temp\/2023-05-03-US-comics-translation.md",
                     {
                         "note": "",
                         "creator": "xulihang",
@@ -52,7 +53,7 @@
                     "<x1\/>原图<x2\/>",
                     "<x1\/>Original image<x2\/>",
                     "<x1\/>原图<x2\/>",
-                    "\/D:\/git\/BasicCAT-website\/_zh\/2023-05-03-US-comics-translation.md",
+                    "\/C:\/Users\/xulihang\/AppData\/Local\/Temp\/2023-05-03-US-comics-translation.md",
                     {
                         "creator": "xulihang",
                         "createdTime": 1683076550755,
@@ -63,7 +64,7 @@
                     "翻译的版本：",
                     "Translated version:",
                     "翻译的版本：",
-                    "\/D:\/git\/BasicCAT-website\/_zh\/2023-05-03-US-comics-translation.md",
+                    "\/C:\/Users\/xulihang\/AppData\/Local\/Temp\/2023-05-03-US-comics-translation.md",
                     {
                         "creator": "xulihang",
                         "createdTime": 1683076566126,
@@ -74,7 +75,7 @@
                     "<x1\/>中文翻译版本<x2\/>",
                     "<x1\/>Chinese version<x2\/>",
                     "<x1\/>中文翻译版本<x2\/>",
-                    "\/D:\/git\/BasicCAT-website\/_zh\/2023-05-03-US-comics-translation.md",
+                    "\/C:\/Users\/xulihang\/AppData\/Local\/Temp\/2023-05-03-US-comics-translation.md",
                     {
                         "creator": "xulihang",
                         "createdTime": 1683076598356,
@@ -85,7 +86,7 @@
                     "具体操作流程",
                     "Detailed Procedures:",
                     "具体操作流程",
-                    "\/D:\/git\/BasicCAT-website\/_zh\/2023-05-03-US-comics-translation.md",
+                    "\/C:\/Users\/xulihang\/AppData\/Local\/Temp\/2023-05-03-US-comics-translation.md",
                     {
                         "creator": "xulihang",
                         "createdTime": 1683076616107,
@@ -96,7 +97,7 @@
                     "使用启发式文字区域检测方法检测所有文字区域。",
                     "Detect all text areas using the heuristic text area detection method.",
                     "使用启发式文字区域检测方法检测所有文字区域。",
-                    "\/D:\/git\/BasicCAT-website\/_zh\/2023-05-03-US-comics-translation.md",
+                    "\/C:\/Users\/xulihang\/AppData\/Local\/Temp\/2023-05-03-US-comics-translation.md",
                     {
                         "creator": "xulihang",
                         "createdTime": 1683076622298,
@@ -107,7 +108,7 @@
                     "如果有误识别的区域，则手动进行去除。",
                     "If there is a misidentified area, remove it manually.",
                     "如果有误识别的区域，则手动进行去除。",
-                    "\/D:\/git\/BasicCAT-website\/_zh\/2023-05-03-US-comics-translation.md",
+                    "\/C:\/Users\/xulihang\/AppData\/Local\/Temp\/2023-05-03-US-comics-translation.md",
                     {
                         "creator": "xulihang",
                         "createdTime": 1683076627194,
@@ -118,7 +119,7 @@
                     "生成文字掩膜，去除文字。",
                     "Generate the text mask and remove text.",
                     "生成文字掩膜，去除文字。",
-                    "\/D:\/git\/BasicCAT-website\/_zh\/2023-05-03-US-comics-translation.md",
+                    "\/C:\/Users\/xulihang\/AppData\/Local\/Temp\/2023-05-03-US-comics-translation.md",
                     {
                         "creator": "xulihang",
                         "createdTime": 1683076646916,
@@ -129,7 +130,7 @@
                     "文字去除有两种方式，一种是用背景颜色覆盖（涂白），一种是用图像修复方法，可以还原背景。",
                     "There are two ways to remove text: one is to cover it with the background color, and the other is to use an image inpainting method to restore the background.",
                     "文字去除有两种方式，一种是用背景颜色覆盖（涂白），一种是用图像修复方法，可以还原背景。",
-                    "\/D:\/git\/BasicCAT-website\/_zh\/2023-05-03-US-comics-translation.md",
+                    "\/C:\/Users\/xulihang\/AppData\/Local\/Temp\/2023-05-03-US-comics-translation.md",
                     {
                         "creator": "xulihang",
                         "createdTime": 1683076683374,
@@ -140,7 +141,7 @@
                     "这里因为文字多存在气泡里，文字和气泡边缘比较近，可以选择背景颜色覆盖法。",
                     "Here, because the text is mostly in the bubbles and the edges of the text and the bubble are relatively close, we can choose the covering method.",
                     "这里因为文字多存在气泡里，文字和气泡边缘比较近，可以选择背景颜色覆盖法。",
-                    "\/D:\/git\/BasicCAT-website\/_zh\/2023-05-03-US-comics-translation.md",
+                    "\/C:\/Users\/xulihang\/AppData\/Local\/Temp\/2023-05-03-US-comics-translation.md",
                     {
                         "creator": "xulihang",
                         "createdTime": 1683076750995,
@@ -151,7 +152,7 @@
                     "生成下图这样的掩膜，之后就可以得到去文字图。",
                     "Generate a mask like the following one, and then we can get an image with text removed.",
                     "生成下图这样的掩膜，之后就可以得到去文字图。",
-                    "\/D:\/git\/BasicCAT-website\/_zh\/2023-05-03-US-comics-translation.md",
+                    "\/C:\/Users\/xulihang\/AppData\/Local\/Temp\/2023-05-03-US-comics-translation.md",
                     {
                         "creator": "xulihang",
                         "createdTime": 1683076776966,
@@ -162,7 +163,7 @@
                     "掩膜：",
                     "Mask:",
                     "掩膜：",
-                    "\/D:\/git\/BasicCAT-website\/_zh\/2023-05-03-US-comics-translation.md",
+                    "\/C:\/Users\/xulihang\/AppData\/Local\/Temp\/2023-05-03-US-comics-translation.md",
                     {
                         "creator": "xulihang",
                         "createdTime": 1683076786421,
@@ -173,7 +174,7 @@
                     "<x1\/>掩膜<x2\/>",
                     "<x1\/>Mask:<x2\/>",
                     "<x1\/>掩膜<x2\/>",
-                    "\/D:\/git\/BasicCAT-website\/_zh\/2023-05-03-US-comics-translation.md",
+                    "\/C:\/Users\/xulihang\/AppData\/Local\/Temp\/2023-05-03-US-comics-translation.md",
                     {
                         "creator": "xulihang",
                         "createdTime": 1683076792037,
@@ -184,7 +185,7 @@
                     "去文字图：",
                     "Text-removed image:",
                     "去文字图：",
-                    "\/D:\/git\/BasicCAT-website\/_zh\/2023-05-03-US-comics-translation.md",
+                    "\/C:\/Users\/xulihang\/AppData\/Local\/Temp\/2023-05-03-US-comics-translation.md",
                     {
                         "note": "",
                         "creator": "xulihang",
@@ -196,7 +197,7 @@
                     "<x1\/>去文字图<x2\/>",
                     "<x1\/>Text-removed image:<x2\/>",
                     "<x1\/>去文字图<x2\/>",
-                    "\/D:\/git\/BasicCAT-website\/_zh\/2023-05-03-US-comics-translation.md",
+                    "\/C:\/Users\/xulihang\/AppData\/Local\/Temp\/2023-05-03-US-comics-translation.md",
                     {
                         "note": "",
                         "creator": "xulihang",
@@ -208,7 +209,7 @@
                     "选取一个OCR引擎，比如百度，识别所有文字区域的文字。",
                     "Select an OCR engine, such as Baidu, to recognize the text of text areas.",
                     "选取一个OCR引擎，比如百度，识别所有文字区域的文字。",
-                    "\/D:\/git\/BasicCAT-website\/_zh\/2023-05-03-US-comics-translation.md",
+                    "\/C:\/Users\/xulihang\/AppData\/Local\/Temp\/2023-05-03-US-comics-translation.md",
                     {
                         "creator": "xulihang",
                         "createdTime": 1683076833349,
@@ -219,7 +220,7 @@
                     "设置字体，在偏好设置里取消自动调整文字大小，并新建一个默认的文字样式。",
                     "Set the text style. Disable auto text size in the settings, and create a new default text style.",
                     "设置字体，在偏好设置里取消自动调整文字大小，并新建一个默认的文字样式。",
-                    "\/D:\/git\/BasicCAT-website\/_zh\/2023-05-03-US-comics-translation.md",
+                    "\/C:\/Users\/xulihang\/AppData\/Local\/Temp\/2023-05-03-US-comics-translation.md",
                     {
                         "creator": "xulihang",
                         "createdTime": 1683076888058,
@@ -230,7 +231,7 @@
                     "手动完成每个区域的翻译，可以比对多个机器翻译引擎，或者直接调用机器翻译的结果。",
                     "Manually translate each area. We can compare the results of multiple machine translation engines, or use the machine translation result directly.",
                     "手动完成每个区域的翻译，可以比对多个机器翻译引擎，或者直接调用机器翻译的结果。",
-                    "\/D:\/git\/BasicCAT-website\/_zh\/2023-05-03-US-comics-translation.md",
+                    "\/C:\/Users\/xulihang\/AppData\/Local\/Temp\/2023-05-03-US-comics-translation.md",
                     {
                         "creator": "xulihang",
                         "createdTime": 1683076960965,
@@ -241,7 +242,7 @@
                     "小技巧：",
                     "Hint:",
                     "小技巧：",
-                    "\/D:\/git\/BasicCAT-website\/_zh\/2023-05-03-US-comics-translation.md",
+                    "\/C:\/Users\/xulihang\/AppData\/Local\/Temp\/2023-05-03-US-comics-translation.md",
                     {
                         "creator": "xulihang",
                         "createdTime": 1683076965777,
@@ -252,7 +253,7 @@
                     "美漫翻译会遇到很多人名，比如Janet，机器翻译的结果是珍妮特。",
                     "We will encounter a lot of names in American comic translation, such as Janet, whose machine translation in Chinese is “珍妮特”.",
                     "美漫翻译会遇到很多人名，比如Janet，机器翻译的结果是珍妮特。",
-                    "\/D:\/git\/BasicCAT-website\/_zh\/2023-05-03-US-comics-translation.md",
+                    "\/C:\/Users\/xulihang\/AppData\/Local\/Temp\/2023-05-03-US-comics-translation.md",
                     {
                         "creator": "xulihang",
                         "createdTime": 1683077064116,
@@ -263,7 +264,7 @@
                     "如果我们希望翻译成詹尼特，可以添加自动更正规则，将“珍妮”替换为“詹尼”。",
                     "If we want to translate to “詹尼特”, we can add an auto-correct rule that replaces “珍妮” with “詹尼”.",
                     "如果我们希望翻译成詹尼特，可以添加自动更正规则，将“珍妮”替换为“詹尼”。",
-                    "\/D:\/git\/BasicCAT-website\/_zh\/2023-05-03-US-comics-translation.md",
+                    "\/C:\/Users\/xulihang\/AppData\/Local\/Temp\/2023-05-03-US-comics-translation.md",
                     {
                         "creator": "xulihang",
                         "createdTime": 1683077085899,
@@ -274,7 +275,7 @@
                     "在翻译过程中完成嵌字工作，并根据气泡大小调整译文的内容和换行。",
                     "Complete the lettering during the translation process, and adjust the content and line breaks of the translation according to the bubble size.",
                     "在翻译过程中完成嵌字工作，并根据气泡大小调整译文的内容和换行。",
-                    "\/D:\/git\/BasicCAT-website\/_zh\/2023-05-03-US-comics-translation.md",
+                    "\/C:\/Users\/xulihang\/AppData\/Local\/Temp\/2023-05-03-US-comics-translation.md",
                     {
                         "creator": "xulihang",
                         "createdTime": 1683077122466,
@@ -282,15 +283,115 @@
                     }
                 ],
                 [
+                    "小技巧：",
+                    "Hint:",
+                    "小技巧：\r\n",
+                    "\/C:\/Users\/xulihang\/AppData\/Local\/Temp\/2023-05-03-US-comics-translation.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1683076965777,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "美漫常常使用粗斜体来进行强调。",
+                    "American comics often use bold and italic for emphasis.",
+                    "美漫常常使用粗斜体来进行强调。",
+                    "\/C:\/Users\/xulihang\/AppData\/Local\/Temp\/2023-05-03-US-comics-translation.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1683077963057,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "在ImageTrans里我们可以使用BBCode来给文字添加富文本效果。",
+                    "In ImageTrans, we can use BBCode to add rich text effects to text.",
+                    "在ImageTrans里我们可以使用BBCode来给文字添加富文本效果。",
+                    "\/C:\/Users\/xulihang\/AppData\/Local\/Temp\/2023-05-03-US-comics-translation.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1683077980918,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "因为中文字体通常不支持斜体，我们这里使用仿斜体来实现倾斜效果。",
+                    "Because Chinese fonts usually do not support italic, we use faux italic here to achieve the effect.",
+                    "因为中文字体通常不支持斜体，我们这里使用仿斜体来实现倾斜效果。",
+                    "\/C:\/Users\/xulihang\/AppData\/Local\/Temp\/2023-05-03-US-comics-translation.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1683078005450,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "下面是一个示例：",
+                    "Following is an example:",
+                    "下面是一个示例：",
+                    "\/C:\/Users\/xulihang\/AppData\/Local\/Temp\/2023-05-03-US-comics-translation.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1683078012646,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "原文：",
+                    "Source:",
+                    "原文：",
+                    "\/C:\/Users\/xulihang\/AppData\/Local\/Temp\/2023-05-03-US-comics-translation.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1683078019817,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "<x1\/>原文<x2\/>",
+                    "<x1\/>Source<x2\/>",
+                    "<x1\/>原文<x2\/>",
+                    "\/C:\/Users\/xulihang\/AppData\/Local\/Temp\/2023-05-03-US-comics-translation.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1683078025407,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "翻译版：",
+                    "Target:",
+                    "翻译版：",
+                    "\/C:\/Users\/xulihang\/AppData\/Local\/Temp\/2023-05-03-US-comics-translation.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1683078033239,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "<x1\/>翻译版<x2\/>",
+                    "<x1\/>Target<x2\/>",
+                    "<x1\/>翻译版<x2\/>",
+                    "\/C:\/Users\/xulihang\/AppData\/Local\/Temp\/2023-05-03-US-comics-translation.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1683078039555,
+                        "id": "tu24"
+                    }
+                ],
+                [
                     "翻译完成后导出成品图。",
                     "Generate the translated image after translation.",
                     "翻译完成后导出成品图。",
-                    "\/D:\/git\/BasicCAT-website\/_zh\/2023-05-03-US-comics-translation.md",
+                    "\/C:\/Users\/xulihang\/AppData\/Local\/Temp\/2023-05-03-US-comics-translation.md",
                     {
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1683077143484,
-                        "id": "tu20"
+                        "id": "tu25"
                     }
                 ]
             ]

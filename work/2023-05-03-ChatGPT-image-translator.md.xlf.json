@@ -1,0 +1,417 @@
+{
+    "filename": "2023-05-03-ChatGPT-image-translator.md.xlf",
+    "files": [
+        {
+            "\/D:\/git\/BasicCAT-website\/_zh\/2023-05-03-ChatGPT-image-translator.md": [
+                [
+                    "ChatGPT是一个大型语言模型驱动的聊天程序，我们可以使用它来完成语言翻译、校对等任务。",
+                    "ChatGPT is a large language model-driven chat program that we can use to complete tasks such as language translation and proofreading.",
+                    "ChatGPT是一个大型语言模型驱动的聊天程序，我们可以使用它来完成语言翻译、校对等任务。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2023-05-03-ChatGPT-image-translator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1683081467473,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "ImageTrans提供了ChatGPT的插件，让我们可以调用ChatGPT来帮助翻译图片。",
+                    "ImageTrans provides a plugin for ChatGPT that allows us to call ChatGPT to help translate images.",
+                    "ImageTrans提供了ChatGPT的插件，让我们可以调用ChatGPT来帮助翻译图片。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2023-05-03-ChatGPT-image-translator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1683081477241,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "使用需求",
+                    "Requirements",
+                    "使用需求",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2023-05-03-ChatGPT-image-translator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1683081488380,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "注册OpenAI的账号并生成一个API密钥。",
+                    "Register an OpenAI account and generate an API key.",
+                    "注册OpenAI的账号并生成一个API密钥。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2023-05-03-ChatGPT-image-translator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1683081491161,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "使用方法",
+                    "Instructions",
+                    "使用方法",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2023-05-03-ChatGPT-image-translator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1683081497041,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "在ImageTrans的偏好设置里填入API密钥。",
+                    "Fill in the API key in the preferences of ImageTrans.",
+                    "在ImageTrans的偏好设置里填入API密钥。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2023-05-03-ChatGPT-image-translator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1683081501968,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "<x1\/>偏好设置<x2\/>",
+                    "<x1\/>Preferences<x2\/>",
+                    "<x1\/>偏好设置<x2\/>",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2023-05-03-ChatGPT-image-translator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1683081514771,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "调用ChatGPT进行翻译。",
+                    "Call ChatGPT to translate.",
+                    "调用ChatGPT进行翻译。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2023-05-03-ChatGPT-image-translator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1683081517408,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "<x1\/>ImageTrans<x2\/>",
+                    "<x1\/>ImageTrans<x2\/>",
+                    "<x1\/>ImageTrans<x2\/>",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2023-05-03-ChatGPT-image-translator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1683081523230,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "可以在翻译时显示结果供参考或者用于批量翻译。",
+                    "It can be used as a reference during translation or for batch translation.",
+                    "可以在翻译时显示结果供参考或者用于批量翻译。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2023-05-03-ChatGPT-image-translator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1683081561389,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "自定义诱导内容",
+                    "Customize the Prompt",
+                    "自定义诱导内容",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2023-05-03-ChatGPT-image-translator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1683081583234,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "默认使用下面的英文用于诱导翻译：",
+                    "By default, the following English prompt is used to get the translation:",
+                    "默认使用下面的英文用于诱导翻译：",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2023-05-03-ChatGPT-image-translator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1683081609765,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "Translate the following into {langcode}:",
+                    "Translate the following into {langcode}:",
+                    "Translate the following into {langcode}:",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2023-05-03-ChatGPT-image-translator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1683081615002,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "{source}",
+                    "{source}",
+                    " {source}\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2023-05-03-ChatGPT-image-translator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1683081616369,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "其中<g1>{langcode}<\/g1>会被替换为目标语言，比如Chinese，而<g2>{source}<\/g2>会被替换为要翻译的文本。",
+                    "<g1>{langcode}<\/g1> is replaced with the target language's name, such as Chinese, and<g2>{source}<\/g2> is replaced with the text to be translated.",
+                    "其中<g1>{langcode}<\/g1>会被替换为目标语言，比如Chinese，而<g2>{source}<\/g2>会被替换为要翻译的文本。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2023-05-03-ChatGPT-image-translator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1683081652253,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "你可以在偏好设置里自己定义诱导内容，比如改用中文进行诱导：",
+                    "You can define your own prompt  in your preferences, such as the following Chinese version:",
+                    "你可以在偏好设置里自己定义诱导内容，比如改用中文进行诱导：",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2023-05-03-ChatGPT-image-translator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1683081685853,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "翻译下述内容至中文：{source}",
+                    "翻译下述内容至中文：{source}",
+                    "翻译下述内容至中文：{source}\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2023-05-03-ChatGPT-image-translator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1683081690673,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "局限",
+                    "Limitation",
+                    "局限",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2023-05-03-ChatGPT-image-translator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1683081695465,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "该插件的局限性在于不像网页版那样可以进行连续对话，以完善翻译。",
+                    "The limitation of the plugin is that it does not allow for continuous conversations like the web version to improve the translation.",
+                    "该插件的局限性在于不像网页版那样可以进行连续对话，以完善翻译。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2023-05-03-ChatGPT-image-translator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1683081699711,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "其它机器翻译",
+                    "Other Machine Translation Engines",
+                    "其它机器翻译",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2023-05-03-ChatGPT-image-translator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1683081718011,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "除了ChatGPT，ImageTrans也支持其它机器翻译引擎。",
+                    "In addition to ChatGPT, ImageTrans also supports other machine translation engines.",
+                    "除了ChatGPT，ImageTrans也支持其它机器翻译引擎。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2023-05-03-ChatGPT-image-translator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1683081723222,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "但要注意，多数引擎均需要自己提供API密钥。",
+                    "Note, however, that most of the engines need you to provide an API key.",
+                    "但要注意，多数引擎均需要自己提供API密钥。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2023-05-03-ChatGPT-image-translator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1683081772403,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "百度（密钥内置）",
+                    "Baidu (key built-in)",
+                    "百度（密钥内置）",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2023-05-03-ChatGPT-image-translator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1683081781273,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "腾讯（密钥内置）",
+                    "Tencent (key built-in)",
+                    "腾讯（密钥内置）",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2023-05-03-ChatGPT-image-translator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1683081784209,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "彩云小译（内置试用版密钥）",
+                    "Colurful Clouds (trial key built-in)",
+                    "彩云小译（内置试用版密钥）",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2023-05-03-ChatGPT-image-translator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1683081809067,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "DeepL（有无需密钥版）",
+                    "DeepL (free version available)",
+                    "DeepL（有无需密钥版）",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2023-05-03-ChatGPT-image-translator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1683081838619,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "云译（免费）",
+                    "Cloud Translation (free)",
+                    "云译（免费）",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2023-05-03-ChatGPT-image-translator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1683081856758,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "小牛翻译",
+                    "Niutrans",
+                    "小牛翻译",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2023-05-03-ChatGPT-image-translator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1683081894610,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "有道翻译",
+                    "Youdao",
+                    "有道翻译",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2023-05-03-ChatGPT-image-translator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1683081894610,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "火山翻译",
+                    "Volcano",
+                    "火山翻译",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2023-05-03-ChatGPT-image-translator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1683081894610,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "MyMemory（免费）",
+                    "MyMemory (free)",
+                    "MyMemory（免费）",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2023-05-03-ChatGPT-image-translator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1683081896437,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "Microsoft",
+                    "Microsoft",
+                    "Microsoft",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2023-05-03-ChatGPT-image-translator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1683081899303,
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "Google",
+                    "Google",
+                    "Google",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2023-05-03-ChatGPT-image-translator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1683081900207,
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "Yandex",
+                    "Yandex",
+                    "Yandex",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2023-05-03-ChatGPT-image-translator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1683081900879,
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "Papago",
+                    "Papago",
+                    "Papago",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2023-05-03-ChatGPT-image-translator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1683081901663,
+                        "id": "tu33"
+                    }
+                ],
+                [
+                    "Opus-CAT（离线，免费）",
+                    "Opus-CAT (offline, free)",
+                    "Opus-CAT（离线，免费）",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2023-05-03-ChatGPT-image-translator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1683081905357,
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    "Sugoi Translator（离线，免费）",
+                    "Sugoi Translator (offline, free)",
+                    "Sugoi Translator（离线，免费）",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2023-05-03-ChatGPT-image-translator.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1683081915809,
+                        "id": "tu35"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}

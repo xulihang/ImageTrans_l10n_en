@@ -9,6 +9,9 @@
                     "快速入门",
                     "gettingstarted.po",
                     {
+                        "note": "",
+                        "creator": "anonymous",
+                        "createdTime": 0,
                         "id": 2
                     }
                 ],
@@ -18,6 +21,9 @@
                     "软件安装",
                     "gettingstarted.po",
                     {
+                        "note": "",
+                        "creator": "anonymous",
+                        "createdTime": 0,
                         "id": 3
                     }
                 ],
@@ -27,6 +33,7 @@
                     "完整版",
                     "gettingstarted.po",
                     {
+                        "note": "",
                         "creator": "xulihang",
                         "createdTime": 1624106511053,
                         "id": 4
@@ -50,6 +57,7 @@
                     "跨平台版",
                     "gettingstarted.po",
                     {
+                        "note": "",
                         "creator": "xulihang",
                         "createdTime": 1624111233136,
                         "id": 6
@@ -85,17 +93,18 @@
                     "下载地址：1.",
                     "gettingstarted.po",
                     {
+                        "note": "",
+                        "creator": "anonymous",
+                        "createdTime": 0,
                         "id": 8
                     }
                 ],
                 [
                     "`Liberica JRE 11.0.19 full version  <https:\/\/github.com\/bell-sw\/Liberica\/releases\/tag\/11.0.19%2B7>`_ 2.",
-                    "`Liberica JRE 11.0.19 full version  <https:\/\/github.com\/bell-sw\/Liberica\/releases\/tag\/11.0.19%2B7>`_ 2.",
+                    "",
                     " `Liberica JRE 11.0.19 full version  <https:\/\/github.com\/bell-sw\/Liberica\/releases\/tag\/11.0.19%2B7>`_ 2.",
                     "gettingstarted.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1684054377329,
                         "id": 8
                     }
                 ],
@@ -105,6 +114,9 @@
                     " `百度网盘（提取码：mhsy） <https:\/\/pan.baidu.com\/s\/1t0g6htstFge0h2dOS0aBog>`_",
                     "gettingstarted.po",
                     {
+                        "note": "",
+                        "creator": "anonymous",
+                        "createdTime": 0,
                         "id": 8
                     }
                 ],
@@ -114,6 +126,9 @@
                     "软件依赖OpenCV，请根据系统下载运行库文件，解压后放在ImageTrans的目录下。",
                     "gettingstarted.po",
                     {
+                        "note": "",
+                        "creator": "anonymous",
+                        "createdTime": 0,
                         "id": 9
                     }
                 ],
@@ -123,12 +138,15 @@
                     "下载地址：1.",
                     "gettingstarted.po",
                     {
+                        "note": "",
+                        "creator": "anonymous",
+                        "createdTime": 0,
                         "id": 9
                     }
                 ],
                 [
                     "`GitHub <https:\/\/github.com\/xulihang\/ImageTrans-docs\/releases\/tag\/opencv>`_, 2.",
-                    "`GitHub <https:\/\/github.com\/xulihang\/ImageTrans-docs\/releases\/tag\/opencv>`_, 2.",
+                    "",
                     " `GitHub <https:\/\/github.com\/xulihang\/ImageTrans-docs\/releases\/tag\/opencv>`_, 2.",
                     "gettingstarted.po",
                     {
@@ -141,6 +159,9 @@
                     " `百度网盘 <https:\/\/pan.baidu.com\/s\/1D9EZMKqwgqQjdEjwYFkZQQ>`_",
                     "gettingstarted.po",
                     {
+                        "note": "",
+                        "creator": "anonymous",
+                        "createdTime": 0,
                         "id": 9
                     }
                 ],
@@ -150,6 +171,7 @@
                     "OCR与机器翻译的配置",
                     "gettingstarted.po",
                     {
+                        "note": "",
                         "creator": "xulihang",
                         "createdTime": 1624106592437,
                         "id": 10
@@ -197,6 +219,7 @@
                     "OCR： 百度、OCRSPACE、Azure",
                     "gettingstarted.po",
                     {
+                        "note": "",
                         "creator": "xulihang",
                         "createdTime": 1624106903435,
                         "id": 12
@@ -208,6 +231,7 @@
                     "机器翻译： 百度、腾讯、云译、mymemory、DeepL免密钥版",
                     "gettingstarted.po",
                     {
+                        "note": "",
                         "creator": "xulihang",
                         "createdTime": 1654324949950,
                         "id": 13
@@ -231,6 +255,7 @@
                     "离线OCR:",
                     "gettingstarted.po",
                     {
+                        "note": "",
                         "creator": "xulihang",
                         "createdTime": 1624106943737,
                         "id": 15
@@ -238,12 +263,10 @@
                 ],
                 [
                     "Tesseract",
-                    "Tesseract",
+                    "",
                     "Tesseract",
                     "gettingstarted.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1624106947307,
                         "id": 16
                     }
                 ],
@@ -265,6 +288,7 @@
                     "这里再提供一个Windows的绿色版本：`百度网盘（提取码：ktpt） <https:\/\/pan.baidu.com\/s\/1gJZyuntLetZEpFWI8XqkXA>`_。",
                     "gettingstarted.po",
                     {
+                        "note": "",
                         "creator": "xulihang",
                         "createdTime": 1654329793912,
                         "id": 18
@@ -276,6 +300,9 @@
                     "下载后将tesseract-ocr目录和ImageTrans放在一起。",
                     "gettingstarted.po",
                     {
+                        "note": "",
+                        "creator": "anonymous",
+                        "createdTime": 0,
                         "id": 18
                     }
                 ],
@@ -285,6 +312,9 @@
                     "额外的语言包请放在 ``tesseract-ocr\\\tessdata`` 目录下。",
                     "gettingstarted.po",
                     {
+                        "note": "",
+                        "creator": "anonymous",
+                        "createdTime": 0,
                         "id": 18
                     }
                 ],
@@ -306,6 +336,7 @@
                     "Windows10自带OCR功能，但需要先安装所需语言。",
                     "gettingstarted.po",
                     {
+                        "note": "",
                         "creator": "xulihang",
                         "createdTime": 1684585608848,
                         "id": 20
@@ -317,6 +348,7 @@
                     "它和Azure、OCRSPACE的引擎其实是同一个。",
                     "gettingstarted.po",
                     {
+                        "note": "",
                         "creator": "xulihang",
                         "createdTime": 1684585624841,
                         "id": 20
@@ -328,6 +360,7 @@
                     "ImageTrans中这一OCR引擎的名字叫做WinRT，因为它是基于Windows的\\\\ `Windows Runtime API <https:\/\/docs.microsoft.com\/en-us\/uwp\/api\/windows.media.ocr?view=winrt-20348>`_。",
                     "gettingstarted.po",
                     {
+                        "note": "",
                         "creator": "xulihang",
                         "createdTime": 1684585646761,
                         "id": 20
@@ -335,12 +368,10 @@
                 ],
                 [
                     "mangaOCR",
-                    "mangaOCR",
+                    "",
                     "mangaOCR",
                     "gettingstarted.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1654324976862,
                         "id": 21
                     }
                 ],
@@ -350,6 +381,7 @@
                     "该OCR能十分准确地识别日漫的文字。",
                     "gettingstarted.po",
                     {
+                        "note": "",
                         "creator": "xulihang",
                         "createdTime": 1654325000578,
                         "id": 22
@@ -361,6 +393,7 @@
                     "安装说明见此：\\\\ `<https:\/\/github.com\/xulihang\/ImageTrans_plugins\/tree\/master\/mangaOCR>`_。",
                     "gettingstarted.po",
                     {
+                        "note": "",
                         "creator": "xulihang",
                         "createdTime": 1654325046568,
                         "id": 22
@@ -368,12 +401,10 @@
                 ],
                 [
                     "macOCR",
-                    "macOCR",
+                    "",
                     "macOCR",
                     "gettingstarted.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1684054407933,
                         "id": 23
                     }
                 ],
@@ -383,6 +414,7 @@
                     "macOS版本10.15以上系统自带的OCR。",
                     "gettingstarted.po",
                     {
+                        "note": "",
                         "creator": "xulihang",
                         "createdTime": 1684054433847,
                         "id": 24
@@ -394,6 +426,7 @@
                     "使用说明见此：\\\\ `<https:\/\/github.com\/xulihang\/ImageTrans-docs\/issues\/341>`_。",
                     "gettingstarted.po",
                     {
+                        "note": "",
                         "creator": "xulihang",
                         "createdTime": 1684054466863,
                         "id": 24
@@ -401,12 +434,10 @@
                 ],
                 [
                     "ABBYY",
-                    "ABBYY",
+                    "",
                     "ABBYY",
                     "gettingstarted.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1624107464458,
                         "id": 25
                     }
                 ],
@@ -416,6 +447,7 @@
                     "支持调用ABBYY FineReader进行OCR，需要在偏好设置里指定软件的FineCMD.exe的路径。",
                     "gettingstarted.po",
                     {
+                        "note": "",
                         "creator": "xulihang",
                         "createdTime": 1624107492542,
                         "id": 26
@@ -427,6 +459,7 @@
                     "PaddleOCR、EasyOCR",
                     "gettingstarted.po",
                     {
+                        "note": "",
                         "creator": "xulihang",
                         "createdTime": 1624107431500,
                         "id": 27
@@ -450,6 +483,7 @@
                     "离线机器翻译：",
                     "gettingstarted.po",
                     {
+                        "note": "",
                         "creator": "xulihang",
                         "createdTime": 1624107500349,
                         "id": 29
@@ -461,6 +495,7 @@
                     "OPUS-CAT。",
                     "gettingstarted.po",
                     {
+                        "note": "",
                         "creator": "xulihang",
                         "createdTime": 1624107509163,
                         "id": 30
@@ -472,6 +507,7 @@
                     "OPUS-CAT是芬兰赫尔辛基自然语言处理小组的离线机器翻译引擎，到\\\\ `官网 <https:\/\/helsinki-nlp.github.io\/OPUS-CAT\/install>`_\\\\ 下载安装后使用\\\\ `OPUS-CAT机器翻译插件 <https:\/\/github.com\/xulihang\/ImageTrans-docs\/issues\/177#issuecomment-1070305647>`_\\\\ 调用。",
                     "gettingstarted.po",
                     {
+                        "note": "",
                         "creator": "xulihang",
                         "createdTime": 1654325146988,
                         "id": 30
@@ -483,6 +519,7 @@
                     "eztrans xp。",
                     "gettingstarted.po",
                     {
+                        "note": "",
                         "creator": "xulihang",
                         "createdTime": 1624107651274,
                         "id": 31
@@ -494,6 +531,7 @@
                     "这是一个日韩翻译软件。",
                     "gettingstarted.po",
                     {
+                        "note": "",
                         "creator": "xulihang",
                         "createdTime": 1624107659080,
                         "id": 31
@@ -505,6 +543,7 @@
                     "使用方法见\\\\ `issue29 <https:\/\/github.com\/xulihang\/ImageTrans-docs\/issues\/29#issuecomment-818754544>`_。",
                     "gettingstarted.po",
                     {
+                        "note": "",
                         "creator": "xulihang",
                         "createdTime": 1654330118572,
                         "id": 31
@@ -516,6 +555,9 @@
                     "验证登录",
                     "gettingstarted.po",
                     {
+                        "note": "",
+                        "creator": "anonymous",
+                        "createdTime": 0,
                         "id": 32
                     }
                 ],
@@ -525,6 +567,7 @@
                     "运行ImageTrans时，会显示验证器，需要填入购买时填写的email和订单号。",
                     "gettingstarted.po",
                     {
+                        "note": "",
                         "creator": "xulihang",
                         "createdTime": 1654325212543,
                         "id": 33
@@ -536,6 +579,7 @@
                     "订单号可以在订单页面中找到。",
                     "gettingstarted.po",
                     {
+                        "note": "",
                         "creator": "xulihang",
                         "createdTime": 1654325230908,
                         "id": 33
@@ -547,6 +591,9 @@
                     "一个email可以在三台设备上使用，要更换设备则需要使用邮箱进行重置。",
                     "gettingstarted.po",
                     {
+                        "note": "",
+                        "creator": "anonymous",
+                        "createdTime": 0,
                         "id": 34
                     }
                 ],
@@ -556,6 +603,9 @@
                     "新建项目",
                     "gettingstarted.po",
                     {
+                        "note": "",
+                        "creator": "anonymous",
+                        "createdTime": 0,
                         "id": 35
                     }
                 ],
@@ -565,6 +615,9 @@
                     "菜单栏点击文件-新建项目，选择一个位置并输入项目文件名以保存。",
                     "gettingstarted.po",
                     {
+                        "note": "",
+                        "creator": "anonymous",
+                        "createdTime": 0,
                         "id": 36
                     }
                 ],
@@ -574,6 +627,9 @@
                     "添加图片",
                     "gettingstarted.po",
                     {
+                        "note": "",
+                        "creator": "anonymous",
+                        "createdTime": 0,
                         "id": 37
                     }
                 ],
@@ -583,6 +639,9 @@
                     "菜单栏点击文件-导入图片文件夹，选择图片存在的位置。",
                     "gettingstarted.po",
                     {
+                        "note": "",
+                        "creator": "anonymous",
+                        "createdTime": 0,
                         "id": 38
                     }
                 ],
@@ -592,6 +651,9 @@
                     "该操作会读取该文件夹下所有的子目录并导入存在的jpg、png文件。",
                     "gettingstarted.po",
                     {
+                        "note": "",
+                        "creator": "anonymous",
+                        "createdTime": 0,
                         "id": 38
                     }
                 ],
@@ -601,6 +663,9 @@
                     "或者用右键菜单-粘贴图片的方式添加单张图片。",
                     "gettingstarted.po",
                     {
+                        "note": "",
+                        "creator": "anonymous",
+                        "createdTime": 0,
                         "id": 39
                     }
                 ],
@@ -610,6 +675,7 @@
                     "此外亦能导入PDF文件，并提取可复制的文字。",
                     "gettingstarted.po",
                     {
+                        "note": "",
                         "creator": "xulihang",
                         "createdTime": 1624107714511,
                         "id": 40
@@ -621,6 +687,9 @@
                     "文字转录",
                     "gettingstarted.po",
                     {
+                        "note": "",
+                        "creator": "anonymous",
+                        "createdTime": 0,
                         "id": 41
                     }
                 ],
@@ -630,6 +699,9 @@
                     "工具支持框选文字区域并识别。",
                     "gettingstarted.po",
                     {
+                        "note": "",
+                        "creator": "anonymous",
+                        "createdTime": 0,
                         "id": 42
                     }
                 ],
@@ -639,6 +711,9 @@
                     "提供手动框选和四种自动框选，并支持精细调整文本框。",
                     "gettingstarted.po",
                     {
+                        "note": "",
+                        "creator": "anonymous",
+                        "createdTime": 0,
                         "id": 42
                     }
                 ],
@@ -648,6 +723,9 @@
                     "手动框选文字",
                     "gettingstarted.po",
                     {
+                        "note": "",
+                        "creator": "anonymous",
+                        "createdTime": 0,
                         "id": 43
                     }
                 ],
@@ -657,6 +735,9 @@
                     "在图片上双击建立选择框，点住中间区域进行移动，点住右下角调整大小。",
                     "gettingstarted.po",
                     {
+                        "note": "",
+                        "creator": "anonymous",
+                        "createdTime": 0,
                         "id": 44
                     }
                 ],
@@ -666,12 +747,15 @@
                     "或者点击左侧工具栏的快速框选按钮，可以直接滑动建框。",
                     "gettingstarted.po",
                     {
+                        "note": "",
+                        "creator": "anonymous",
+                        "createdTime": 0,
                         "id": 45
                     }
                 ],
                 [
                     "OCR",
-                    "OCR",
+                    "",
                     "OCR",
                     "gettingstarted.po",
                     {
@@ -684,6 +768,9 @@
                     "选中文字区域，选择语言和OCR引擎，点击识别进行OCR。",
                     "gettingstarted.po",
                     {
+                        "note": "",
+                        "creator": "anonymous",
+                        "createdTime": 0,
                         "id": 47
                     }
                 ],
@@ -693,6 +780,9 @@
                     "自动识别文字",
                     "gettingstarted.po",
                     {
+                        "note": "",
+                        "creator": "anonymous",
+                        "createdTime": 0,
                         "id": 48
                     }
                 ],
@@ -702,6 +792,9 @@
                     "选择语言和OCR引擎，点击菜单-编辑-自动识别文字，可以自动检测文字区域并转录。",
                     "gettingstarted.po",
                     {
+                        "note": "",
+                        "creator": "anonymous",
+                        "createdTime": 0,
                         "id": 49
                     }
                 ],
@@ -711,6 +804,7 @@
                     "其中有道和谷歌是按段落识别，其它引擎是按行识别，可以通过右侧编辑区域的合并左右区域和合并上下区域进行合并。",
                     "gettingstarted.po",
                     {
+                        "note": "",
                         "creator": "xulihang",
                         "createdTime": 1654325264230,
                         "id": 49
@@ -722,6 +816,9 @@
                     "自动识别气泡",
                     "gettingstarted.po",
                     {
+                        "note": "",
+                        "creator": "anonymous",
+                        "createdTime": 0,
                         "id": 50
                     }
                 ],
@@ -731,6 +828,7 @@
                     "点击菜单-编辑-自动识别气泡，可以自动识别气泡。",
                     "gettingstarted.po",
                     {
+                        "note": "",
                         "creator": "xulihang",
                         "createdTime": 1654325333409,
                         "id": 51
@@ -742,6 +840,7 @@
                     "默认使用百度的在线气泡检测服务，可以自行配置离线气泡检测，详见\\\\ :ref:`balloon-detection`。",
                     "gettingstarted.po",
                     {
+                        "note": "",
                         "creator": "xulihang",
                         "createdTime": 1654325416496,
                         "id": 51
@@ -753,6 +852,7 @@
                     "另提供较为复杂的启发式和自然场景文字检测方法，详见\\\\ :ref:`text-detection`。",
                     "gettingstarted.po",
                     {
+                        "note": "",
                         "creator": "xulihang",
                         "createdTime": 1654325439687,
                         "id": 52
@@ -764,6 +864,9 @@
                     "自动OCR所有区域",
                     "gettingstarted.po",
                     {
+                        "note": "",
+                        "creator": "anonymous",
+                        "createdTime": 0,
                         "id": 53
                     }
                 ],
@@ -773,6 +876,9 @@
                     "我们可以先把文字区域框出，然后批量进行OCR。",
                     "gettingstarted.po",
                     {
+                        "note": "",
+                        "creator": "anonymous",
+                        "createdTime": 0,
                         "id": 54
                     }
                 ],
@@ -782,6 +888,9 @@
                     "点击菜单-编辑-自动OCR所有区域进行操作。",
                     "gettingstarted.po",
                     {
+                        "note": "",
+                        "creator": "anonymous",
+                        "createdTime": 0,
                         "id": 54
                     }
                 ],
@@ -791,6 +900,9 @@
                     "排序",
                     "gettingstarted.po",
                     {
+                        "note": "",
+                        "creator": "anonymous",
+                        "createdTime": 0,
                         "id": 55
                     }
                 ],
@@ -800,6 +912,9 @@
                     "支持根据坐标信息对文字区域进行排序。",
                     "gettingstarted.po",
                     {
+                        "note": "",
+                        "creator": "anonymous",
+                        "createdTime": 0,
                         "id": 56
                     }
                 ],
@@ -809,6 +924,7 @@
                     "另外针对漫画，提供分镜检测功能，可以在分镜的基础上进行排序，详见\\\\ `issue147 <https:\/\/github.com\/xulihang\/ImageTrans-docs\/issues\/147>`_。",
                     "gettingstarted.po",
                     {
+                        "note": "",
                         "creator": "xulihang",
                         "createdTime": 1654325522893,
                         "id": 57
@@ -820,6 +936,9 @@
                     "导出",
                     "gettingstarted.po",
                     {
+                        "note": "",
+                        "creator": "anonymous",
+                        "createdTime": 0,
                         "id": 58
                     }
                 ],
@@ -829,6 +948,9 @@
                     "导出有多种选项。",
                     "gettingstarted.po",
                     {
+                        "note": "",
+                        "creator": "anonymous",
+                        "createdTime": 0,
                         "id": 59
                     }
                 ],
@@ -838,6 +960,9 @@
                     "Tab分割的TXT文档，包含坐标信息、字体样式、文字等信息",
                     "gettingstarted.po",
                     {
+                        "note": "",
+                        "creator": "anonymous",
+                        "createdTime": 0,
                         "id": 60
                     }
                 ],
@@ -847,6 +972,9 @@
                     "XLSX表格，和TXT的内容一样",
                     "gettingstarted.po",
                     {
+                        "note": "",
+                        "creator": "anonymous",
+                        "createdTime": 0,
                         "id": 61
                     }
                 ],
@@ -856,6 +984,9 @@
                     "XLSX表格-根据目录建立工作表，按子目录保存图片名、原文和译文信息",
                     "gettingstarted.po",
                     {
+                        "note": "",
+                        "creator": "anonymous",
+                        "createdTime": 0,
                         "id": 62
                     }
                 ],
@@ -865,6 +996,9 @@
                     "所有文本，按每张图片生成包含图片文字的txt文档",
                     "gettingstarted.po",
                     {
+                        "note": "",
+                        "creator": "anonymous",
+                        "createdTime": 0,
                         "id": 63
                     }
                 ],
@@ -898,6 +1032,7 @@
                     "图像PDF，将项目导出为PDF",
                     "gettingstarted.po",
                     {
+                        "note": "",
                         "creator": "xulihang",
                         "createdTime": 1684054519774,
                         "id": 66
@@ -909,6 +1044,7 @@
                     "TMX，导出原文译文为翻译记忆文件",
                     "gettingstarted.po",
                     {
+                        "note": "",
                         "creator": "xulihang",
                         "createdTime": 1684054542007,
                         "id": 67
@@ -920,6 +1056,9 @@
                     "翻译",
                     "gettingstarted.po",
                     {
+                        "note": "",
+                        "creator": "anonymous",
+                        "createdTime": 0,
                         "id": 68
                     }
                 ],
@@ -929,6 +1068,9 @@
                     "在译文区域输入译文并点击保存可以完成一个文字区域的翻译。",
                     "gettingstarted.po",
                     {
+                        "note": "",
+                        "creator": "anonymous",
+                        "createdTime": 0,
                         "id": 69
                     }
                 ],
@@ -938,6 +1080,7 @@
                     "可以将翻译导出为docx、txt或者XLIFF文档供外部人员翻译，之后再通过菜单-导回翻译进行导回。",
                     "gettingstarted.po",
                     {
+                        "note": "",
                         "creator": "xulihang",
                         "createdTime": 1654325565490,
                         "id": 70
@@ -949,6 +1092,9 @@
                     "计算机辅助翻译软件BasicCAT支持直接操作ImageTrans的项目文件进行翻译。",
                     "gettingstarted.po",
                     {
+                        "note": "",
+                        "creator": "anonymous",
+                        "createdTime": 0,
                         "id": 71
                     }
                 ],
@@ -958,6 +1104,9 @@
                     "翻译记忆、机器翻译和术语管理",
                     "gettingstarted.po",
                     {
+                        "note": "",
+                        "creator": "anonymous",
+                        "createdTime": 0,
                         "id": 72
                     }
                 ],
@@ -967,6 +1116,9 @@
                     "切换右侧的操作区到辅助翻译页面，可以使用翻译记忆、机器翻译和术语管理这三个功能。",
                     "gettingstarted.po",
                     {
+                        "note": "",
+                        "creator": "anonymous",
+                        "createdTime": 0,
                         "id": 73
                     }
                 ],
@@ -976,6 +1128,9 @@
                     "机器翻译需要在偏好设置里设置API，并进行启用。",
                     "gettingstarted.po",
                     {
+                        "note": "",
+                        "creator": "anonymous",
+                        "createdTime": 0,
                         "id": 73
                     }
                 ],
@@ -985,6 +1140,9 @@
                     "另外还需要设置项目的语言，通过项目-设置-选择语言对进行设置。",
                     "gettingstarted.po",
                     {
+                        "note": "",
+                        "creator": "anonymous",
+                        "createdTime": 0,
                         "id": 73
                     }
                 ],
@@ -994,6 +1152,9 @@
                     "预翻译",
                     "gettingstarted.po",
                     {
+                        "note": "",
+                        "creator": "anonymous",
+                        "createdTime": 0,
                         "id": 74
                     }
                 ],
@@ -1003,6 +1164,9 @@
                     "点击菜单-项目-批处理-预翻译，可以使用翻译记忆或者机器翻译进行批量翻译。",
                     "gettingstarted.po",
                     {
+                        "note": "",
+                        "creator": "anonymous",
+                        "createdTime": 0,
                         "id": 75
                     }
                 ],
@@ -1012,6 +1176,9 @@
                     "当前只支持机器翻译。",
                     "gettingstarted.po",
                     {
+                        "note": "",
+                        "creator": "anonymous",
+                        "createdTime": 0,
                         "id": 75
                     }
                 ],
@@ -1033,6 +1200,7 @@
                     "勾选左下角的查看翻译，可以查看翻译后的图片。",
                     "gettingstarted.po",
                     {
+                        "note": "",
                         "creator": "xulihang",
                         "createdTime": 1654325620109,
                         "id": 77
@@ -1044,6 +1212,7 @@
                     "精确模式会生成文字掩膜并修复背景，非精确模式则会用背景颜色进行遮盖。",
                     "gettingstarted.po",
                     {
+                        "note": "",
                         "creator": "xulihang",
                         "createdTime": 1654325660748,
                         "id": 77
@@ -1055,6 +1224,7 @@
                     "在查看翻译状态下勾选排版模式，译文区域将被框出，并支持调整位置和修改样式。",
                     "gettingstarted.po",
                     {
+                        "note": "",
                         "creator": "xulihang",
                         "createdTime": 1654325660748,
                         "id": 78
@@ -1066,6 +1236,9 @@
                     "生成成品图",
                     "gettingstarted.po",
                     {
+                        "note": "",
+                        "creator": "anonymous",
+                        "createdTime": 0,
                         "id": 79
                     }
                 ],
@@ -1075,6 +1248,7 @@
                     "首先将图片比例调整为100%，之后点击查看翻译，得到成品图。",
                     "gettingstarted.po",
                     {
+                        "note": "",
                         "creator": "xulihang",
                         "createdTime": 1654325687242,
                         "id": 80
@@ -1086,6 +1260,9 @@
                     "点击文件-导出当前图片为-JPG，结果将输出在对应图片的文件夹的out文件夹中。",
                     "gettingstarted.po",
                     {
+                        "note": "",
+                        "creator": "anonymous",
+                        "createdTime": 0,
                         "id": 80
                     }
                 ],
@@ -1095,6 +1272,9 @@
                     "另一选项ORA支持将文件导出为多层图像格式ORA，该格式能保存图层信息，供PS、Gimp和Krita等图像编辑软件编辑。",
                     "gettingstarted.po",
                     {
+                        "note": "",
+                        "creator": "anonymous",
+                        "createdTime": 0,
                         "id": 80
                     }
                 ],
@@ -1104,6 +1284,9 @@
                     "除此以外，ImageTrans可支持导出PSD。",
                     "gettingstarted.po",
                     {
+                        "note": "",
+                        "creator": "anonymous",
+                        "createdTime": 0,
                         "id": 81
                     }
                 ],
@@ -1113,6 +1296,9 @@
                     "设置文字样式",
                     "gettingstarted.po",
                     {
+                        "note": "",
+                        "creator": "anonymous",
+                        "createdTime": 0,
                         "id": 82
                     }
                 ],
@@ -1122,6 +1308,7 @@
                     "设置文字样式主要有两个作用，一个是在ImageTrans中使用，一个是用于导出PSD时设置字体。",
                     "gettingstarted.po",
                     {
+                        "note": "",
                         "creator": "xulihang",
                         "createdTime": 1654328533641,
                         "id": 83
@@ -1133,6 +1320,7 @@
                     "点击菜单-项目-设置-字体样式可以设置全局样式，设置选项包括使用的字体、文字大小、文字方向、行距、对齐方式、旋转角度、描边等等。",
                     "gettingstarted.po",
                     {
+                        "note": "",
                         "creator": "xulihang",
                         "createdTime": 1654328577272,
                         "id": 84
@@ -1144,6 +1332,9 @@
                     "如果要修改某个样式，请点击该样式以加载设置，修改后点击添加，然后删去原来的样式。",
                     "gettingstarted.po",
                     {
+                        "note": "",
+                        "creator": "anonymous",
+                        "createdTime": 0,
                         "id": 85
                     }
                 ],
@@ -1153,6 +1344,9 @@
                     "排在第一的样式是默认样式。",
                     "gettingstarted.po",
                     {
+                        "note": "",
+                        "creator": "anonymous",
+                        "createdTime": 0,
                         "id": 85
                     }
                 ],
@@ -1162,6 +1356,7 @@
                     "在样式上方右键可以执行排序和删除操作，在列表的空白处右键可以选择从其它项目导入样式。",
                     "gettingstarted.po",
                     {
+                        "note": "",
                         "creator": "xulihang",
                         "createdTime": 1654328639043,
                         "id": 85
@@ -1173,6 +1368,7 @@
                     "设置全局样式后可以给文字区域指定使用哪个样式。",
                     "gettingstarted.po",
                     {
+                        "note": "",
                         "creator": "xulihang",
                         "createdTime": 1654328644963,
                         "id": 86
@@ -1184,6 +1380,7 @@
                     "另外也支持设置本地样式。",
                     "gettingstarted.po",
                     {
+                        "note": "",
                         "creator": "xulihang",
                         "createdTime": 1654328668543,
                         "id": 87
@@ -1195,6 +1392,7 @@
                     "本地样式的优先级大于全局样式。",
                     "gettingstarted.po",
                     {
+                        "note": "",
                         "creator": "xulihang",
                         "createdTime": 1654328671400,
                         "id": 87
@@ -1206,6 +1404,9 @@
                     "点击左侧的字体按钮以启用字体设置工具栏，可以便捷地设置本地样式。",
                     "gettingstarted.po",
                     {
+                        "note": "",
+                        "creator": "anonymous",
+                        "createdTime": 0,
                         "id": 88
                     }
                 ],
@@ -1215,6 +1416,7 @@
                     "也可以通过文字区域列表上方的字体设置进行设置。",
                     "gettingstarted.po",
                     {
+                        "note": "",
                         "creator": "xulihang",
                         "createdTime": 1654328712486,
                         "id": 89
@@ -1226,6 +1428,7 @@
                     "它有一个专门的界面，能设置描边、旋转、是否启用本地样式。",
                     "gettingstarted.po",
                     {
+                        "note": "",
                         "creator": "xulihang",
                         "createdTime": 1654328757476,
                         "id": 89
@@ -1237,6 +1440,7 @@
                     "它能调出全局字体样式的设置界面进行更详细的设置（会读取添加在末尾的样式为本地字体样式）。",
                     "gettingstarted.po",
                     {
+                        "note": "",
                         "creator": "xulihang",
                         "createdTime": 1654328766200,
                         "id": 89
@@ -1248,6 +1452,9 @@
                     "点击左侧的多选按钮以启动多选工具栏，可以调整多个文本框的位置并统一其字体样式。",
                     "gettingstarted.po",
                     {
+                        "note": "",
+                        "creator": "anonymous",
+                        "createdTime": 0,
                         "id": 90
                     }
                 ],
@@ -1257,6 +1464,7 @@
                     "获取Photoshop用字体名",
                     "gettingstarted.po",
                     {
+                        "note": "",
                         "creator": "xulihang",
                         "createdTime": 1654328782687,
                         "id": 91
@@ -1268,6 +1476,9 @@
                     "因为Photoshop需要的字体名比较特殊，需要从PS中获得。",
                     "gettingstarted.po",
                     {
+                        "note": "",
+                        "creator": "anonymous",
+                        "createdTime": 0,
                         "id": 92
                     }
                 ],
@@ -1277,6 +1488,9 @@
                     "方法是在PS中新建一张图片，建立一个文本框，设置所需字体，并完成文字编辑操作，是文本框处于非编辑状态。",
                     "gettingstarted.po",
                     {
+                        "note": "",
+                        "creator": "anonymous",
+                        "createdTime": 0,
                         "id": 92
                     }
                 ],
@@ -1286,6 +1500,9 @@
                     "之后在ImageTrans中点击读取即可。",
                     "gettingstarted.po",
                     {
+                        "note": "",
+                        "creator": "anonymous",
+                        "createdTime": 0,
                         "id": 92
                     }
                 ],
@@ -1295,6 +1512,9 @@
                     "非Windows系统需要使用readFont.jsx脚本。",
                     "gettingstarted.po",
                     {
+                        "note": "",
+                        "creator": "anonymous",
+                        "createdTime": 0,
                         "id": 92
                     }
                 ],
@@ -1316,6 +1536,7 @@
                     "软件默认能根据文字区域大小自动调整字体大小。",
                     "gettingstarted.po",
                     {
+                        "note": "",
                         "creator": "xulihang",
                         "createdTime": 1654328802783,
                         "id": 94
@@ -1327,6 +1548,7 @@
                     "可以在项目设置中设置是否启用该功能以及最大、最小字体大小。",
                     "gettingstarted.po",
                     {
+                        "note": "",
                         "creator": "xulihang",
                         "createdTime": 1654328810047,
                         "id": 94
@@ -1338,6 +1560,7 @@
                     "字体大小的优先级是这样的：",
                     "gettingstarted.po",
                     {
+                        "note": "",
                         "creator": "xulihang",
                         "createdTime": 1654328818799,
                         "id": 95
@@ -1349,6 +1572,7 @@
                     "本地样式中的字体大小>自动调整字体大小>全局样式中的字体大小。",
                     "gettingstarted.po",
                     {
+                        "note": "",
                         "creator": "xulihang",
                         "createdTime": 1654328849218,
                         "id": 96
@@ -1360,6 +1584,7 @@
                     "富文本",
                     "gettingstarted.po",
                     {
+                        "note": "",
                         "creator": "xulihang",
                         "createdTime": 1684054558550,
                         "id": 97
@@ -1371,6 +1596,7 @@
                     "ImageTrans可以使用BBCode来标记富文本格式，比如下图中运用的粗体和斜体。",
                     "gettingstarted.po",
                     {
+                        "note": "",
                         "creator": "xulihang",
                         "createdTime": 1684054813972,
                         "id": 98
@@ -1382,6 +1608,7 @@
                     "是使用这样的标记文本表示的： ``留[b][fi]性感[\/fi][\/b]的绿发，穿绿皮衣的那个人。`` 。",
                     "gettingstarted.po",
                     {
+                        "note": "",
                         "creator": "xulihang",
                         "createdTime": 1684585699774,
                         "id": 99
@@ -1393,6 +1620,7 @@
                     "下面是支持的标记说明：",
                     "gettingstarted.po",
                     {
+                        "note": "",
                         "creator": "xulihang",
                         "createdTime": 1684054908331,
                         "id": 100
@@ -1404,6 +1632,7 @@
                     "标签名",
                     "gettingstarted.po",
                     {
+                        "note": "",
                         "creator": "xulihang",
                         "createdTime": 1684054914272,
                         "id": 101
@@ -1415,6 +1644,7 @@
                     "效果",
                     "gettingstarted.po",
                     {
+                        "note": "",
                         "creator": "xulihang",
                         "createdTime": 1684054920140,
                         "id": 102
@@ -1426,6 +1656,7 @@
                     "用例",
                     "gettingstarted.po",
                     {
+                        "note": "",
                         "creator": "xulihang",
                         "createdTime": 1684054927430,
                         "id": 103
@@ -1433,12 +1664,10 @@
                 ],
                 [
                     "b",
-                    "b",
+                    "",
                     "b",
                     "gettingstarted.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1684058479787,
                         "id": 104
                     }
                 ],
@@ -1448,6 +1677,7 @@
                     "粗体",
                     "gettingstarted.po",
                     {
+                        "note": "",
                         "creator": "xulihang",
                         "createdTime": 1684054967183,
                         "id": 105
@@ -1459,6 +1689,7 @@
                     "[b]文本[\/b]",
                     "gettingstarted.po",
                     {
+                        "note": "",
                         "creator": "xulihang",
                         "createdTime": 1684054974655,
                         "id": 106
@@ -1466,12 +1697,10 @@
                 ],
                 [
                     "i",
-                    "i",
+                    "",
                     "i",
                     "gettingstarted.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1684054976367,
                         "id": 107
                     }
                 ],
@@ -1481,6 +1710,7 @@
                     "斜体",
                     "gettingstarted.po",
                     {
+                        "note": "",
                         "creator": "xulihang",
                         "createdTime": 1684054980402,
                         "id": 108
@@ -1492,6 +1722,7 @@
                     "[i]文本[\/i]",
                     "gettingstarted.po",
                     {
+                        "note": "",
                         "creator": "xulihang",
                         "createdTime": 1684054986675,
                         "id": 109
@@ -1499,12 +1730,10 @@
                 ],
                 [
                     "fb",
-                    "fb",
+                    "",
                     "fb",
                     "gettingstarted.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1684054989223,
                         "id": 110
                     }
                 ],
@@ -1526,6 +1755,7 @@
                     "[fb]文本[\/fb]",
                     "gettingstarted.po",
                     {
+                        "note": "",
                         "creator": "xulihang",
                         "createdTime": 1684054998127,
                         "id": 112
@@ -1533,12 +1763,10 @@
                 ],
                 [
                     "fi",
-                    "fi",
+                    "",
                     "fi",
                     "gettingstarted.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1684054999887,
                         "id": 113
                     }
                 ],
@@ -1560,6 +1788,7 @@
                     "[fi]文本[\/fi]",
                     "gettingstarted.po",
                     {
+                        "note": "",
                         "creator": "xulihang",
                         "createdTime": 1684055007982,
                         "id": 115
@@ -1567,12 +1796,10 @@
                 ],
                 [
                     "fontfamily",
-                    "fontfamily",
+                    "",
                     "fontfamily",
                     "gettingstarted.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1684055011991,
                         "id": 116
                     }
                 ],
@@ -1582,6 +1809,7 @@
                     "字体名",
                     "gettingstarted.po",
                     {
+                        "note": "",
                         "creator": "xulihang",
                         "createdTime": 1684055020539,
                         "id": 117
@@ -1593,6 +1821,7 @@
                     "[fontname=Arial]文本[\/fontname]",
                     "gettingstarted.po",
                     {
+                        "note": "",
                         "creator": "xulihang",
                         "createdTime": 1684055044766,
                         "id": 118
@@ -1600,12 +1829,10 @@
                 ],
                 [
                     "fontsize",
-                    "fontsize",
+                    "",
                     "fontsize",
                     "gettingstarted.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1684055046542,
                         "id": 119
                     }
                 ],
@@ -1615,6 +1842,7 @@
                     "文字大小",
                     "gettingstarted.po",
                     {
+                        "note": "",
                         "creator": "xulihang",
                         "createdTime": 1684055050715,
                         "id": 120
@@ -1626,6 +1854,7 @@
                     "[fontsize=32]文本[\/fontsize]",
                     "gettingstarted.po",
                     {
+                        "note": "",
                         "creator": "xulihang",
                         "createdTime": 1684055057070,
                         "id": 121
@@ -1633,12 +1862,10 @@
                 ],
                 [
                     "fontcolor",
-                    "fontcolor",
+                    "",
                     "fontcolor",
                     "gettingstarted.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1684055058558,
                         "id": 122
                     }
                 ],
@@ -1648,6 +1875,7 @@
                     "文字颜色",
                     "gettingstarted.po",
                     {
+                        "note": "",
                         "creator": "xulihang",
                         "createdTime": 1684055061038,
                         "id": 123
@@ -1659,6 +1887,7 @@
                     "[fontcolor=#FF0000]文本[\/fontcolor]",
                     "gettingstarted.po",
                     {
+                        "note": "",
                         "creator": "xulihang",
                         "createdTime": 1684055067407,
                         "id": 124
@@ -1670,6 +1899,7 @@
                     "点编辑区域右侧的按钮R可以启用富文本编辑器，便于快速插入对应的BBCode代码。",
                     "gettingstarted.po",
                     {
+                        "note": "",
                         "creator": "xulihang",
                         "createdTime": 1684055090386,
                         "id": 125
@@ -1681,6 +1911,9 @@
                     "批处理",
                     "gettingstarted.po",
                     {
+                        "note": "",
+                        "creator": "anonymous",
+                        "createdTime": 0,
                         "id": 126
                     }
                 ],
@@ -1690,6 +1923,9 @@
                     "以上对单个图片的操作都可以通过菜单-项目-批处理对所有图片进行操作。",
                     "gettingstarted.po",
                     {
+                        "note": "",
+                        "creator": "anonymous",
+                        "createdTime": 0,
                         "id": 127
                     }
                 ]

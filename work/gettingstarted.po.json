@@ -1,6 +1,5 @@
 {
     "filename": "gettingstarted.po",
-    "creationTime": 1684054357497,
     "files": [
         {
             "gettingstarted.po": [
@@ -302,13 +301,35 @@
                     }
                 ],
                 [
-                    "`Windows Runtime API <https:\/\/docs.microsoft.com\/en-us\/uwp\/api\/windows.media.ocr?view=winrt-20348>`_。",
-                    "`Windows Runtime API <https:\/\/docs.microsoft.com\/en-us\/uwp\/api\/windows.media.ocr?view=winrt-20348>`_.",
-                    " `Windows Runtime API <https:\/\/docs.microsoft.com\/en-us\/uwp\/api\/windows.media.ocr?view=winrt-20348>`_。",
+                    "Windows10自带OCR功能，但需要先安装所需语言。",
+                    "Windows 10 comes with built-in OCR, but you need to install the language environment first.",
+                    "Windows10自带OCR功能，但需要先安装所需语言。",
                     "gettingstarted.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1654324975024,
+                        "createdTime": 1684585608848,
+                        "id": 20
+                    }
+                ],
+                [
+                    "它和Azure、OCRSPACE的引擎其实是同一个。",
+                    "Actually, it has the same engine as Azure and OCRSPACE.",
+                    "它和Azure、OCRSPACE的引擎其实是同一个。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1684585624841,
+                        "id": 20
+                    }
+                ],
+                [
+                    "ImageTrans中这一OCR引擎的名字叫做WinRT，因为它是基于Windows的\\\\ `Windows Runtime API <https:\/\/docs.microsoft.com\/en-us\/uwp\/api\/windows.media.ocr?view=winrt-20348>`_。",
+                    "This OCR engine in ImageTrans is called WinRT because it is based on the `Windows Runtime API <https:\/\/docs.microsoft.com\/en-us\/uwp\/api\/windows.media.ocr?view=winrt-20348>`_.",
+                    "ImageTrans中这一OCR引擎的名字叫做WinRT，因为它是基于Windows的\\\\ `Windows Runtime API <https:\/\/docs.microsoft.com\/en-us\/uwp\/api\/windows.media.ocr?view=winrt-20348>`_。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1684585646761,
                         "id": 20
                     }
                 ],
@@ -1356,13 +1377,20 @@
                     }
                 ],
                 [
-                    "是使用这样的标记文本表示的： ``留[b][fi]性感[\/fi][\/b]的绿发，穿绿皮衣的那个人。`` 。",
-                    "It is represented using the following text with BBCode: ``留[b][fi]性感[\/fi][\/b]的绿发，穿绿皮衣的那个人。``.",
-                    "是使用这样的标记文本表示的： ``留[b][fi]性感[\/fi][\/b]的绿发，穿绿皮衣的那个人。`` 。",
+                    "是使用这样的标记文本表示的： ``留[b][fi]性感[\/fi][\/b]的绿发，穿绿皮衣的那个人。",
+                    "",
+                    "是使用这样的标记文本表示的： ``留[b][fi]性感[\/fi][\/b]的绿发，穿绿皮衣的那个人。",
                     "gettingstarted.po",
                     {
-                        "creator": "xulihang",
-                        "createdTime": 1684054889906,
+                        "id": 99
+                    }
+                ],
+                [
+                    "`` 。",
+                    "",
+                    "`` 。",
+                    "gettingstarted.po",
+                    {
                         "id": 99
                     }
                 ],

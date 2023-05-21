@@ -1,5 +1,6 @@
 {
     "filename": "gettingstarted.po",
+    "creationTime": 1684662768148,
     "files": [
         {
             "gettingstarted.po": [
@@ -1603,14 +1604,20 @@
                     }
                 ],
                 [
-                    "是使用这样的标记文本表示的： ``留[b][fi]性感[\/fi][\/b]的绿发，穿绿皮衣的那个人。`` 。",
-                    "It is represented using the following text with BBCode: ``留[b][fi]性感[\/fi][\/b]的绿发，穿绿皮衣的那个人。``.",
-                    "是使用这样的标记文本表示的： ``留[b][fi]性感[\/fi][\/b]的绿发，穿绿皮衣的那个人。`` 。",
+                    "是使用这样的标记文本表示的： ``留[b][fi]性感[\/fi][\/b]的绿发，穿绿皮衣的那个人。",
+                    "",
+                    "是使用这样的标记文本表示的： ``留[b][fi]性感[\/fi][\/b]的绿发，穿绿皮衣的那个人。",
                     "gettingstarted.po",
                     {
-                        "note": "",
-                        "creator": "xulihang",
-                        "createdTime": 1684585699774,
+                        "id": 99
+                    }
+                ],
+                [
+                    "`` 。",
+                    "",
+                    "`` 。",
+                    "gettingstarted.po",
+                    {
                         "id": 99
                     }
                 ],

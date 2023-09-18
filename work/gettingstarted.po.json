@@ -42,13 +42,13 @@
                 ],
                 [
                     "Windows完整版解压到任意目录后运行ImageTrans.exe即可，Mac完整版打开dmg文件安装ImageTrans到应用目录即可。",
-                    "For Windows, unzip the full version to any folder and run ImageTrans.exe. For Mac, drag the app in dmg file to Application.",
+                    "For Windows, unzip the full version to any folder and run ImageTrans.exe. For Mac, drag the app in the dmg file to Application.",
                     "Windows完整版解压到任意目录后运行ImageTrans.exe即可，Mac完整版打开dmg文件安装ImageTrans到应用目录即可。",
                     "gettingstarted.po",
                     {
                         "note": "",
                         "creator": "xulihang",
-                        "createdTime": 1624106527585,
+                        "createdTime": 1695039444366,
                         "id": 5
                     }
                 ],
@@ -123,13 +123,13 @@
                 ],
                 [
                     "软件依赖OpenCV，请根据系统下载运行库文件，解压后放在ImageTrans的目录下。",
-                    "ImageTrans also relies on OpenCV, please download the runtime file according to your system, unzip and put them under ImageTrans's folder.",
+                    "ImageTrans also relies on OpenCV, please download the runtime file according to your system, unzip and put it under ImageTrans's folder.",
                     "软件依赖OpenCV，请根据系统下载运行库文件，解压后放在ImageTrans的目录下。",
                     "gettingstarted.po",
                     {
                         "note": "",
-                        "creator": "anonymous",
-                        "createdTime": 0,
+                        "creator": "xulihang",
+                        "createdTime": 1695039475881,
                         "id": 9
                     }
                 ],
@@ -289,6 +289,7 @@
                     "这里再提供一个Windows的绿色版本：`百度网盘（提取码：ktpt） <https:\/\/pan.baidu.com\/s\/1gJZyuntLetZEpFWI8XqkXA>`_。",
                     "gettingstarted.po",
                     {
+                        "neglected": "no",
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1654329793912,
@@ -301,6 +302,7 @@
                     "下载后将tesseract-ocr目录和ImageTrans放在一起。",
                     "gettingstarted.po",
                     {
+                        "neglected": "no",
                         "note": "",
                         "creator": "anonymous",
                         "createdTime": 0,
@@ -313,6 +315,7 @@
                     "额外的语言包请放在 ``tesseract-ocr\\\tessdata`` 目录下。",
                     "gettingstarted.po",
                     {
+                        "neglected": "no",
                         "note": "",
                         "creator": "anonymous",
                         "createdTime": 0,
@@ -390,13 +393,13 @@
                 ],
                 [
                     "安装说明见此：\\\\ `<https:\/\/github.com\/xulihang\/ImageTrans_plugins\/tree\/master\/mangaOCR>`_。",
-                    "Installation instruction: `<https:\/\/github.com\/xulihang\/ImageTrans_plugins\/tree\/master\/mangaOCR>`_.",
+                    "Installation instructions: `<https:\/\/github.com\/xulihang\/ImageTrans_plugins\/tree\/master\/mangaOCR>`_.",
                     "安装说明见此：\\\\ `<https:\/\/github.com\/xulihang\/ImageTrans_plugins\/tree\/master\/mangaOCR>`_。",
                     "gettingstarted.po",
                     {
                         "note": "",
                         "creator": "xulihang",
-                        "createdTime": 1654325046568,
+                        "createdTime": 1695039502135,
                         "id": 22
                     }
                 ],
@@ -504,13 +507,13 @@
                 ],
                 [
                     "OPUS-CAT是芬兰赫尔辛基自然语言处理小组的离线机器翻译引擎，到\\\\ `官网 <https:\/\/helsinki-nlp.github.io\/OPUS-CAT\/install>`_\\\\ 下载安装后使用\\\\ `OPUS-CAT机器翻译插件 <https:\/\/github.com\/xulihang\/ImageTrans-docs\/issues\/177#issuecomment-1070305647>`_\\\\ 调用。",
-                    "Opus-CAT is the offline machine translation engine by Helsinki Natural Language Processing Group. Download and install it from `here <https:\/\/helsinki-nlp.github.io\/OPUS-CAT\/install>`_ and install the OPUS-CAT machine translation `plug-in <https:\/\/github.com\/xulihang\/ImageTrans-docs\/issues\/177#issuecomment-1070305647>`_ to use it.",
+                    "Opus-CAT is the offline machine translation engine by the Helsinki Natural Language Processing Group. Download and install it from `here <https:\/\/helsinki-nlp.github.io\/OPUS-CAT\/install>`_ and install the OPUS-CAT machine translation `plug-in <https:\/\/github.com\/xulihang\/ImageTrans-docs\/issues\/177#issuecomment-1070305647>`_ to use it.",
                     "OPUS-CAT是芬兰赫尔辛基自然语言处理小组的离线机器翻译引擎，到\\\\ `官网 <https:\/\/helsinki-nlp.github.io\/OPUS-CAT\/install>`_\\\\ 下载安装后使用\\\\ `OPUS-CAT机器翻译插件 <https:\/\/github.com\/xulihang\/ImageTrans-docs\/issues\/177#issuecomment-1070305647>`_\\\\ 调用。",
                     "gettingstarted.po",
                     {
                         "note": "",
                         "creator": "xulihang",
-                        "createdTime": 1654325146988,
+                        "createdTime": 1695039518423,
                         "id": 30
                     }
                 ],
@@ -540,13 +543,13 @@
                 ],
                 [
                     "使用方法见\\\\ `issue29 <https:\/\/github.com\/xulihang\/ImageTrans-docs\/issues\/29#issuecomment-818754544>`_。",
-                    "Check out `issue29  <https:\/\/github.com\/xulihang\/ImageTrans-docs\/issues\/29#issuecomment -818754544>`_ for its usage.",
+                    "Check out `issue29  <https:\/\/github.com\/xulihang\/ImageTrans-docs\/issues\/29#issuecomment-818754544>`_ for its usage.",
                     "使用方法见\\\\ `issue29 <https:\/\/github.com\/xulihang\/ImageTrans-docs\/issues\/29#issuecomment-818754544>`_。",
                     "gettingstarted.po",
                     {
                         "note": "",
                         "creator": "xulihang",
-                        "createdTime": 1654330118572,
+                        "createdTime": 1695039307409,
                         "id": 31
                     }
                 ],
@@ -564,37 +567,37 @@
                 ],
                 [
                     "运行ImageTrans时，会显示验证器，需要填入购买时填写的email和订单号。",
-                    "When you start ImageTrans, a validator will show up. You need to verify with your the email and order number. ",
+                    "When you start ImageTrans, a validator will show up. You need to verify with your email and order number. ",
                     "运行ImageTrans时，会显示验证器，需要填入购买时填写的email和订单号。",
                     "gettingstarted.po",
                     {
                         "note": "",
                         "creator": "xulihang",
-                        "createdTime": 1654325212543,
+                        "createdTime": 1695039323435,
                         "id": 33
                     }
                 ],
                 [
                     "订单号可以在订单页面中找到。",
-                    "The order number can be found in the purchase page.",
+                    "The order number can be found on the purchase page.",
                     "订单号可以在订单页面中找到。",
                     "gettingstarted.po",
                     {
                         "note": "",
                         "creator": "xulihang",
-                        "createdTime": 1654325230908,
+                        "createdTime": 1695039332036,
                         "id": 33
                     }
                 ],
                 [
                     "一个email可以在三台设备上使用，要更换设备则需要使用邮箱进行重置。",
-                    "Each email can be used for verification on at most three devices. If you want to use it on the fourth device, you have to reset with your email.",
+                    "Each email can be used for verification on at most three devices. If you want to use it on the fourth device, you have to reset it with your email.",
                     "一个email可以在三台设备上使用，要更换设备则需要使用邮箱进行重置。",
                     "gettingstarted.po",
                     {
                         "note": "",
-                        "creator": "anonymous",
-                        "createdTime": 0,
+                        "creator": "xulihang",
+                        "createdTime": 1695039545303,
                         "id": 34
                     }
                 ],
@@ -648,25 +651,25 @@
                 ],
                 [
                     "该操作会读取该文件夹下所有的子目录并导入存在的jpg、png文件。",
-                    "It will read all the subfolders and import existing jpg, png files.",
+                    "It will read all the subfolders and import existing jpg and png files.",
                     "该操作会读取该文件夹下所有的子目录并导入存在的jpg、png文件。",
                     "gettingstarted.po",
                     {
                         "note": "",
-                        "creator": "anonymous",
-                        "createdTime": 0,
+                        "creator": "xulihang",
+                        "createdTime": 1695039353849,
                         "id": 38
                     }
                 ],
                 [
                     "或者用右键菜单-粘贴图片的方式添加单张图片。",
-                    "You can also use the context menu to paste a image.",
+                    "You can also use the context menu to paste an image.",
                     "或者用右键菜单-粘贴图片的方式添加单张图片。",
                     "gettingstarted.po",
                     {
                         "note": "",
-                        "creator": "anonymous",
-                        "createdTime": 0,
+                        "creator": "xulihang",
+                        "createdTime": 1695039359326,
                         "id": 39
                     }
                 ],
@@ -708,13 +711,13 @@
                 ],
                 [
                     "提供手动框选和四种自动框选，并支持精细调整文本框。",
-                    "The tool supports manual selection and four automatic selection. Further adjustment is also supported.",
+                    "The tool supports manual selection and four automatic selection methods. Further adjustment is also supported.",
                     "提供手动框选和四种自动框选，并支持精细调整文本框。",
                     "gettingstarted.po",
                     {
                         "note": "",
-                        "creator": "anonymous",
-                        "createdTime": 0,
+                        "creator": "xulihang",
+                        "createdTime": 1695039581828,
                         "id": 42
                     }
                 ],
@@ -801,13 +804,13 @@
                 ],
                 [
                     "其中有道和谷歌是按段落识别，其它引擎是按行识别，可以通过右侧编辑区域的合并左右区域和合并上下区域进行合并。",
-                    "Youdou and Google detect in paragragh level and other engines detect text lines.",
+                    "Youdou and Google detect in paragraph level and other engines detect text lines.",
                     "其中有道和谷歌是按段落识别，其它引擎是按行识别，可以通过右侧编辑区域的合并左右区域和合并上下区域进行合并。",
                     "gettingstarted.po",
                     {
                         "note": "",
                         "creator": "xulihang",
-                        "createdTime": 1654325264230,
+                        "createdTime": 1695039621356,
                         "id": 49
                     }
                 ],
@@ -909,13 +912,13 @@
                 ],
                 [
                     "支持根据坐标信息对文字区域进行排序。",
-                    "Sort text areas based on coordinate.",
+                    "Sort text areas based on coordinates.",
                     "支持根据坐标信息对文字区域进行排序。",
                     "gettingstarted.po",
                     {
                         "note": "",
-                        "creator": "anonymous",
-                        "createdTime": 0,
+                        "creator": "xulihang",
+                        "createdTime": 1695039639741,
                         "id": 56
                     }
                 ],
@@ -1017,13 +1020,13 @@
                 ],
                 [
                     "网页，将项目导出为网页，可供局域网内的手机阅读，支持语音朗读和按分镜阅读",
-                    "Webpage. Export the project as a web page for reading on mobile phones in a local network. It supports text to speech and reading by panels.",
+                    "Webpage. Export the project as a web page for reading on mobile phones in a local network. It supports text-to-speech and reading by panels.",
                     "网页，将项目导出为网页，可供局域网内的手机阅读，支持语音朗读和按分镜阅读",
                     "gettingstarted.po",
                     {
                         "note": "",
                         "creator": "xulihang",
-                        "createdTime": 1684054500655,
+                        "createdTime": 1695039664140,
                         "id": 65
                     }
                 ],
@@ -1077,13 +1080,13 @@
                 ],
                 [
                     "可以将翻译导出为docx、txt或者XLIFF文档供外部人员翻译，之后再通过菜单-导回翻译进行导回。",
-                    "Translations can be exported as docx , txt or XLIFF documents for external translation, and then import back through File->Import translation.",
+                    "Translations can be exported as docx , txt or XLIFF documents for external translation, and then imported back through File->Import translation.",
                     "可以将翻译导出为docx、txt或者XLIFF文档供外部人员翻译，之后再通过菜单-导回翻译进行导回。",
                     "gettingstarted.po",
                     {
                         "note": "",
                         "creator": "xulihang",
-                        "createdTime": 1654325565490,
+                        "createdTime": 1695039689036,
                         "id": 70
                     }
                 ],
@@ -1113,13 +1116,13 @@
                 ],
                 [
                     "切换右侧的操作区到辅助翻译页面，可以使用翻译记忆、机器翻译和术语管理这三个功能。",
-                    "Switch the tab page on the right to Translation Assistant page to use translation memory, machine translation, and terminology management.",
+                    "Switch the tab page on the right to the translation assistant page to use translation memory, machine translation, and terminology management.",
                     "切换右侧的操作区到辅助翻译页面，可以使用翻译记忆、机器翻译和术语管理这三个功能。",
                     "gettingstarted.po",
                     {
                         "note": "",
-                        "creator": "anonymous",
-                        "createdTime": 0,
+                        "creator": "xulihang",
+                        "createdTime": 1695039715453,
                         "id": 73
                     }
                 ],
@@ -1245,13 +1248,13 @@
                 ],
                 [
                     "首先将图片比例调整为100%，之后点击查看翻译，得到成品图。",
-                    "First switch the image scale to 100%, and then check Translated to get the translated picture.",
+                    "First, switch the image scale to 100%, and then check Translated to get the translated picture.",
                     "首先将图片比例调整为100%，之后点击查看翻译，得到成品图。",
                     "gettingstarted.po",
                     {
                         "note": "",
                         "creator": "xulihang",
-                        "createdTime": 1654325687242,
+                        "createdTime": 1695039737892,
                         "id": 80
                     }
                 ],
@@ -1305,13 +1308,13 @@
                 ],
                 [
                     "设置文字样式主要有两个作用，一个是在ImageTrans中使用，一个是用于导出PSD时设置字体。",
-                    "Setting text styles has effects in two processes: see translated result in ImageTrans and export as PSDs.",
+                    "Setting text styles has effects in two processes: see the translated result in ImageTrans and export as PSDs.",
                     "设置文字样式主要有两个作用，一个是在ImageTrans中使用，一个是用于导出PSD时设置字体。",
                     "gettingstarted.po",
                     {
                         "note": "",
                         "creator": "xulihang",
-                        "createdTime": 1654328533641,
+                        "createdTime": 1695039756692,
                         "id": 83
                     }
                 ],
@@ -1437,13 +1440,13 @@
                 ],
                 [
                     "它能调出全局字体样式的设置界面进行更详细的设置（会读取添加在末尾的样式为本地字体样式）。",
-                    "It can bring up the global font style setup interface for more detailed setup (reads the style added at the end as local font style).",
+                    "It can bring up the global font style setup interface for a more detailed setup (reads the style added at the end as local font style).",
                     "它能调出全局字体样式的设置界面进行更详细的设置（会读取添加在末尾的样式为本地字体样式）。",
                     "gettingstarted.po",
                     {
                         "note": "",
                         "creator": "xulihang",
-                        "createdTime": 1654328766200,
+                        "createdTime": 1695039801615,
                         "id": 89
                     }
                 ],
@@ -1926,13 +1929,13 @@
                 ],
                 [
                     "以上对单个图片的操作都可以通过菜单-项目-批处理对所有图片进行操作。",
-                    "All of the above operations on a single picture can be perforemd in batch through Project->Batch.",
+                    "All of the above operations on a single picture can be performed in batch through Project->Batch.",
                     "以上对单个图片的操作都可以通过菜单-项目-批处理对所有图片进行操作。",
                     "gettingstarted.po",
                     {
                         "note": "",
-                        "creator": "anonymous",
-                        "createdTime": 0,
+                        "creator": "xulihang",
+                        "createdTime": 1695039838365,
                         "id": 127
                     }
                 ]

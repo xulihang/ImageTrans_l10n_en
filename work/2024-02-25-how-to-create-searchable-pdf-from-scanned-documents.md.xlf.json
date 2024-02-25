@@ -1,0 +1,164 @@
+{
+    "filename": "2024-02-25-how-to-create-searchable-pdf-from-scanned-documents.md.xlf",
+    "files": [
+        {
+            "\/D:\/git\/BasicCAT-website\/_zh\/2024-02-25-how-to-create-searchable-pdf-from-scanned-documents.md": [
+                [
+                    "ImageTrans是一款计算机辅助文字识别和图片翻译软件，可以使用OCR技术识别扫描文档中的文字，并保存为可搜索的PDF文档。",
+                    "ImageTrans is a computer-aided text recognition and image translation software that uses OCR technology to recognize text in scanned documents and save them as searchable PDF documents.",
+                    "ImageTrans是一款计算机辅助文字识别和图片翻译软件，可以使用OCR技术识别扫描文档中的文字，并保存为可搜索的PDF文档。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-02-25-how-to-create-searchable-pdf-from-scanned-documents.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1708850076444,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "扫描文档可以检索，可以大大方便我们对各种图书、文献进行管理。",
+                    "Making the a searchable PDF can greatly facilitate our management of various books and documents.",
+                    "扫描文档可以检索，可以大大方便我们对各种图书、文献进行管理。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-02-25-how-to-create-searchable-pdf-from-scanned-documents.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1708850116082,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "也可以把PDF当作txt电子书直接阅读文字，方便在手机上阅读版面较大的文档。",
+                    "We can also read the PDF's text directly, making it easy to read A4 documents on mobile phones.",
+                    "也可以把PDF当作txt电子书直接阅读文字，方便在手机上阅读版面较大的文档。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-02-25-how-to-create-searchable-pdf-from-scanned-documents.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1708850178246,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "以下是操作步骤：",
+                    "Here are the steps to do this:",
+                    "以下是操作步骤：",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-02-25-how-to-create-searchable-pdf-from-scanned-documents.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1708850210919,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "导入图片到ImageTrans。",
+                    "Import images to ImageTrans.",
+                    "导入图片到ImageTrans。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-02-25-how-to-create-searchable-pdf-from-scanned-documents.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1708850215242,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "识别图片中的文字行。",
+                    "Recognize text lines in images.",
+                    "识别图片中的文字行。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-02-25-how-to-create-searchable-pdf-from-scanned-documents.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1708850234783,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "如果有识别错误或者缺漏，可以手动调整。",
+                    "If there are errors or omissions, we can adjusted manually.",
+                    "如果有识别错误或者缺漏，可以手动调整。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-02-25-how-to-create-searchable-pdf-from-scanned-documents.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1708850254935,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "<x1\/>首页<x2\/>",
+                    "<x1\/>Home<x2\/>",
+                    "<x1\/>首页<x2\/>",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-02-25-how-to-create-searchable-pdf-from-scanned-documents.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1708850260921,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "导出图片为PDF。",
+                    "Export the images as a PDF.",
+                    "导出图片为PDF。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-02-25-how-to-create-searchable-pdf-from-scanned-documents.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1708850268335,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "使用原文图像并用原文添加可检索文本层。",
+                    "Use the original images and add a searchable text layer with the source text.",
+                    "使用原文图像并用原文添加可检索文本层。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-02-25-how-to-create-searchable-pdf-from-scanned-documents.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1708850288211,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "<x1\/>导出选项<x2\/>",
+                    "<x1\/>export options<x2\/>",
+                    "<x1\/>导出选项<x2\/>",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-02-25-how-to-create-searchable-pdf-from-scanned-documents.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1708850307422,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "使用PDF阅读器打开PDF，搜索相关关键词，可以看到关键词能被搜索并高亮出来。",
+                    "Use a PDF viewer to open the PDF, search some keywords, and we can see that the keywords can be searched and highlighted.",
+                    "使用PDF阅读器打开PDF，搜索相关关键词，可以看到关键词能被搜索并高亮出来。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-02-25-how-to-create-searchable-pdf-from-scanned-documents.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1708850341735,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "<x1\/>PDF阅读器<x2\/>",
+                    "<x1\/>PDF Reader<x2\/>",
+                    "<x1\/>PDF阅读器<x2\/>",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-02-25-how-to-create-searchable-pdf-from-scanned-documents.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1708850350968,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "下载示例PDF",
+                    "Download sample PDF",
+                    "<g1>下载示例PDF<\/g1>",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-02-25-how-to-create-searchable-pdf-from-scanned-documents.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1708850357576,
+                        "id": "tu11"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}

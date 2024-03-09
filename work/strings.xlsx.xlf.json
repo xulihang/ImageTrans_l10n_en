@@ -1,6 +1,6 @@
 {
     "filename": "strings.xlsx.xlf",
-    "creationTime": 1708832034758,
+    "creationTime": 1709960043668,
     "files": [
         {
             "xl\/sharedStrings.xml": [
@@ -5263,12 +5263,34 @@
                     }
                 ],
                 [
+                    "依据段落位置信息进行合并（需存在文字）",
+                    "Merge based on paragraphs position (text required)",
+                    "依据段落位置信息进行合并（需存在文字）",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709960154019,
+                        "id": "P147242AB-tu535"
+                    }
+                ],
+                [
+                    "段落间文字行像素差阈值：",
+                    "Offset threshold for text lines between paragraphs:",
+                    "段落间文字行像素差阈值：",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1709960144789,
+                        "id": "P147242AB-tu536"
+                    }
+                ],
+                [
                     "TextRemover",
                     "",
                     "TextRemover",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu535"
+                        "id": "P147242AB-tu537"
                     }
                 ],
                 [
@@ -5277,7 +5299,7 @@
                     "去除",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu536"
+                        "id": "P147242AB-tu538"
                     }
                 ],
                 [
@@ -5286,7 +5308,7 @@
                     "算法：",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu537"
+                        "id": "P147242AB-tu539"
                     }
                 ],
                 [
@@ -5295,7 +5317,7 @@
                     "模式：",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu538"
+                        "id": "P147242AB-tu540"
                     }
                 ],
                 [
@@ -5304,7 +5326,7 @@
                     "去除所选",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu539"
+                        "id": "P147242AB-tu541"
                     }
                 ],
                 [
@@ -5313,7 +5335,7 @@
                     "图像修复半径：",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu540"
+                        "id": "P147242AB-tu542"
                     }
                 ],
                 [
@@ -5322,7 +5344,7 @@
                     "精确模式原文抹除方式：",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu541"
+                        "id": "P147242AB-tu543"
                     }
                 ],
                 [
@@ -5333,7 +5355,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1642216771945,
-                        "id": "P147242AB-tu542"
+                        "id": "P147242AB-tu544"
                     }
                 ],
                 [
@@ -5345,7 +5367,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1651380321291,
-                        "id": "P147242AB-tu543"
+                        "id": "P147242AB-tu545"
                     }
                 ],
                 [
@@ -5356,7 +5378,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1651380329786,
-                        "id": "P147242AB-tu544"
+                        "id": "P147242AB-tu546"
                     }
                 ],
                 [
@@ -5367,7 +5389,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1677990386449,
-                        "id": "P147242AB-tu545"
+                        "id": "P147242AB-tu547"
                     }
                 ],
                 [
@@ -5379,7 +5401,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1700908254094,
-                        "id": "P147242AB-tu546"
+                        "id": "P147242AB-tu548"
                     }
                 ],
                 [
@@ -5390,7 +5412,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1699782671300,
-                        "id": "P147242AB-tu546"
+                        "id": "P147242AB-tu548"
                     }
                 ],
                 [
@@ -5399,7 +5421,7 @@
                     "选择主题：",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu547"
+                        "id": "P147242AB-tu549"
                     }
                 ],
                 [
@@ -5408,7 +5430,7 @@
                     "外部CSS",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu548"
+                        "id": "P147242AB-tu550"
                     }
                 ],
                 [
@@ -5417,7 +5439,7 @@
                     "选取",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu549"
+                        "id": "P147242AB-tu551"
                     }
                 ],
                 [
@@ -5426,61 +5448,61 @@
                     "相似度",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu550"
-                    }
-                ],
-                [
-                    "",
-                    "",
-                    "",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "id": "P147242AB-tu551"
-                    }
-                ],
-                [
-                    "",
-                    "",
-                    "",
-                    "xl\/sharedStrings.xml",
-                    {
                         "id": "P147242AB-tu552"
                     }
                 ],
                 [
-                    "",
+                    "",
                     "",
-                    "",
+                    "",
                     "xl\/sharedStrings.xml",
                     {
                         "id": "P147242AB-tu553"
                     }
                 ],
                 [
-                    "",
+                    "",
                     "",
-                    "",
+                    "",
                     "xl\/sharedStrings.xml",
                     {
                         "id": "P147242AB-tu554"
                     }
                 ],
                 [
-                    "",
+                    "",
                     "",
-                    "",
+                    "",
                     "xl\/sharedStrings.xml",
                     {
                         "id": "P147242AB-tu555"
                     }
                 ],
                 [
+                    "",
+                    "",
+                    "",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu556"
+                    }
+                ],
+                [
+                    "",
+                    "",
+                    "",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu557"
+                    }
+                ],
+                [
                     "",
                     "",
                     "",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu556"
+                        "id": "P147242AB-tu558"
                     }
                 ],
                 [
@@ -5489,7 +5511,7 @@
                     "",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu557"
+                        "id": "P147242AB-tu559"
                     }
                 ],
                 [
@@ -5500,7 +5522,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1688877497901,
-                        "id": "P147242AB-tu558"
+                        "id": "P147242AB-tu560"
                     }
                 ],
                 [
@@ -5511,7 +5533,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1623637336602,
-                        "id": "P147242AB-tu559"
+                        "id": "P147242AB-tu561"
                     }
                 ],
                 [
@@ -5522,7 +5544,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1623637360913,
-                        "id": "P147242AB-tu560"
+                        "id": "P147242AB-tu562"
                     }
                 ],
                 [
@@ -5533,7 +5555,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1623637379469,
-                        "id": "P147242AB-tu560"
+                        "id": "P147242AB-tu562"
                     }
                 ],
                 [
@@ -5544,7 +5566,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1623637398494,
-                        "id": "P147242AB-tu560"
+                        "id": "P147242AB-tu562"
                     }
                 ],
                 [
@@ -5555,7 +5577,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1688266269819,
-                        "id": "P147242AB-tu561"
+                        "id": "P147242AB-tu563"
                     }
                 ],
                 [
@@ -5566,7 +5588,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1695541256478,
-                        "id": "P147242AB-tu562"
+                        "id": "P147242AB-tu564"
                     }
                 ],
                 [
@@ -5578,7 +5600,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1645863464075,
-                        "id": "P147242AB-tu563"
+                        "id": "P147242AB-tu565"
                     }
                 ],
                 [
@@ -5589,7 +5611,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1639296604828,
-                        "id": "P147242AB-tu564"
+                        "id": "P147242AB-tu566"
                     }
                 ],
                 [
@@ -5600,7 +5622,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1639296611872,
-                        "id": "P147242AB-tu565"
+                        "id": "P147242AB-tu567"
                     }
                 ],
                 [
@@ -5611,7 +5633,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1639296628840,
-                        "id": "P147242AB-tu566"
+                        "id": "P147242AB-tu568"
                     }
                 ],
                 [
@@ -5622,7 +5644,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1645863468266,
-                        "id": "P147242AB-tu567"
+                        "id": "P147242AB-tu569"
                     }
                 ],
                 [
@@ -5633,7 +5655,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1645863472323,
-                        "id": "P147242AB-tu568"
+                        "id": "P147242AB-tu570"
                     }
                 ],
                 [
@@ -5642,7 +5664,7 @@
                     "本地样式",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu569"
+                        "id": "P147242AB-tu571"
                     }
                 ],
                 [
@@ -5651,7 +5673,7 @@
                     "示例文本",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu570"
+                        "id": "P147242AB-tu572"
                     }
                 ],
                 [
@@ -5660,7 +5682,7 @@
                     "描边",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu571"
+                        "id": "P147242AB-tu573"
                     }
                 ],
                 [
@@ -5669,25 +5691,25 @@
                     "旋转",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu572"
-                    }
-                ],
-                [
-                    "255,255,255,1",
-                    "255,255,255,1",
-                    "255,255,255,1",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "id": "P147242AB-tu573"
-                    }
-                ],
-                [
-                    "r,g,b,a",
-                    "r,g,b,a",
-                    "r,g,b,a",
-                    "xl\/sharedStrings.xml",
-                    {
                         "id": "P147242AB-tu574"
+                    }
+                ],
+                [
+                    "255,255,255,1",
+                    "255,255,255,1",
+                    "255,255,255,1",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu575"
+                    }
+                ],
+                [
+                    "r,g,b,a",
+                    "r,g,b,a",
+                    "r,g,b,a",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu576"
                     }
                 ],
                 [
@@ -5696,7 +5718,7 @@
                     "半径：",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu575"
+                        "id": "P147242AB-tu577"
                     }
                 ],
                 [
@@ -5705,7 +5727,7 @@
                     "RGBA:",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu576"
+                        "id": "P147242AB-tu578"
                     }
                 ],
                 [
@@ -5714,7 +5736,7 @@
                     "角度（0-360）：",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu577"
+                        "id": "P147242AB-tu579"
                     }
                 ],
                 [
@@ -5723,7 +5745,7 @@
                     "启用本地字体样式",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu578"
+                        "id": "P147242AB-tu580"
                     }
                 ],
                 [
@@ -5732,7 +5754,7 @@
                     "添加到全局样式",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu579"
+                        "id": "P147242AB-tu581"
                     }
                 ],
                 [
@@ -5741,7 +5763,7 @@
                     "验证器",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu580"
+                        "id": "P147242AB-tu582"
                     }
                 ],
                 [
@@ -5750,7 +5772,7 @@
                     "支付方式：",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu581"
+                        "id": "P147242AB-tu583"
                     }
                 ],
                 [
@@ -5759,7 +5781,7 @@
                     "订单号：",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu582"
+                        "id": "P147242AB-tu584"
                     }
                 ],
                 [
@@ -5768,7 +5790,7 @@
                     "验证服务器：",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu583"
+                        "id": "P147242AB-tu585"
                     }
                 ],
                 [
@@ -5779,7 +5801,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1663471174434,
-                        "id": "P147242AB-tu584"
+                        "id": "P147242AB-tu586"
                     }
                 ],
                 [
@@ -5790,7 +5812,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1663471222652,
-                        "id": "P147242AB-tu585"
+                        "id": "P147242AB-tu587"
                     }
                 ],
                 [
@@ -5801,7 +5823,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1663471243940,
-                        "id": "P147242AB-tu586"
+                        "id": "P147242AB-tu588"
                     }
                 ],
                 [
@@ -5813,7 +5835,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1680404198846,
-                        "id": "P147242AB-tu587"
+                        "id": "P147242AB-tu589"
                     }
                 ],
                 [
@@ -5824,7 +5846,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1680404207986,
-                        "id": "P147242AB-tu588"
+                        "id": "P147242AB-tu590"
                     }
                 ],
                 [
@@ -5833,7 +5855,7 @@
                     "{\r\n",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu589"
+                        "id": "P147242AB-tu591"
                     }
                 ],
                 [
@@ -5842,7 +5864,7 @@
                     "  \"（\":\"︵\",\r\n",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu589"
+                        "id": "P147242AB-tu591"
                     }
                 ],
                 [
@@ -5851,7 +5873,7 @@
                     "  \"）\":\"︶\",\r\n",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu589"
+                        "id": "P147242AB-tu591"
                     }
                 ],
                 [
@@ -5860,7 +5882,7 @@
                     "  \"『\":\"﹃\",\r\n",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu589"
+                        "id": "P147242AB-tu591"
                     }
                 ],
                 [
@@ -5869,7 +5891,7 @@
                     "  \"』\":\"﹄\"\r\n",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu589"
+                        "id": "P147242AB-tu591"
                     }
                 ],
                 [
@@ -5878,7 +5900,7 @@
                     "}",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu589"
+                        "id": "P147242AB-tu591"
                     }
                 ],
                 [
@@ -5890,7 +5912,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1691222841020,
-                        "id": "P147242AB-tu590"
+                        "id": "P147242AB-tu592"
                     }
                 ],
                 [
@@ -5901,7 +5923,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1695541284236,
-                        "id": "P147242AB-tu591"
+                        "id": "P147242AB-tu593"
                     }
                 ],
                 [
@@ -5910,7 +5932,7 @@
                     "[︵﹃]",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu592"
+                        "id": "P147242AB-tu594"
                     }
                 ],
                 [
@@ -5921,7 +5943,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1692517275965,
-                        "id": "P147242AB-tu593"
+                        "id": "P147242AB-tu595"
                     }
                 ],
                 [
@@ -5930,7 +5952,7 @@
                     "URL",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu594"
+                        "id": "P147242AB-tu596"
                     }
                 ],
                 [
@@ -5941,7 +5963,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1692517289806,
-                        "id": "P147242AB-tu595"
+                        "id": "P147242AB-tu597"
                     }
                 ],
                 [
@@ -5952,7 +5974,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1692517297101,
-                        "id": "P147242AB-tu596"
+                        "id": "P147242AB-tu598"
                     }
                 ],
                 [
@@ -5963,7 +5985,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1692517329694,
-                        "id": "P147242AB-tu597"
+                        "id": "P147242AB-tu599"
                     }
                 ],
                 [
@@ -5974,7 +5996,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1692517506521,
-                        "id": "P147242AB-tu598"
+                        "id": "P147242AB-tu600"
                     }
                 ],
                 [
@@ -5985,7 +6007,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1702808992777,
-                        "id": "P147242AB-tu599"
+                        "id": "P147242AB-tu601"
                     }
                 ],
                 [
@@ -5994,7 +6016,7 @@
                     "移除",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu600"
+                        "id": "P147242AB-tu602"
                     }
                 ],
                 [
@@ -6005,7 +6027,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1644069879742,
-                        "id": "P147242AB-tu601"
+                        "id": "P147242AB-tu603"
                     }
                 ],
                 [
@@ -6016,7 +6038,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1648349488742,
-                        "id": "P147242AB-tu602"
+                        "id": "P147242AB-tu604"
                     }
                 ],
                 [
@@ -6025,7 +6047,7 @@
                     "请等待……",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu603"
+                        "id": "P147242AB-tu605"
                     }
                 ],
                 [
@@ -6034,7 +6056,7 @@
                     "完成",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu604"
+                        "id": "P147242AB-tu606"
                     }
                 ],
                 [
@@ -6045,7 +6067,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1653185054887,
-                        "id": "P147242AB-tu605"
+                        "id": "P147242AB-tu607"
                     }
                 ],
                 [
@@ -6054,7 +6076,7 @@
                     "验证码不对",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu606"
+                        "id": "P147242AB-tu608"
                     }
                 ],
                 [
@@ -6063,7 +6085,7 @@
                     "失败",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu607"
+                        "id": "P147242AB-tu609"
                     }
                 ],
                 [
@@ -6072,7 +6094,7 @@
                     "请过60秒再发",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu608"
+                        "id": "P147242AB-tu610"
                     }
                 ],
                 [
@@ -6081,7 +6103,7 @@
                     "已发送",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu609"
+                        "id": "P147242AB-tu611"
                     }
                 ],
                 [
@@ -6090,7 +6112,7 @@
                     "发送失败",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu610"
+                        "id": "P147242AB-tu612"
                     }
                 ],
                 [
@@ -6099,7 +6121,7 @@
                     "是否用图像补充无原文的区域",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu611"
+                        "id": "P147242AB-tu613"
                     }
                 ],
                 [
@@ -6108,7 +6130,7 @@
                     "是",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu612"
+                        "id": "P147242AB-tu614"
                     }
                 ],
                 [
@@ -6117,7 +6139,7 @@
                     "否",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu613"
+                        "id": "P147242AB-tu615"
                     }
                 ],
                 [
@@ -6128,7 +6150,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1648349500823,
-                        "id": "P147242AB-tu614"
+                        "id": "P147242AB-tu616"
                     }
                 ],
                 [
@@ -6139,7 +6161,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1648349507481,
-                        "id": "P147242AB-tu615"
+                        "id": "P147242AB-tu617"
                     }
                 ],
                 [
@@ -6148,7 +6170,7 @@
                     "处理中……",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu616"
+                        "id": "P147242AB-tu618"
                     }
                 ],
                 [
@@ -6160,7 +6182,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1708832224681,
-                        "id": "P147242AB-tu617"
+                        "id": "P147242AB-tu619"
                     }
                 ],
                 [
@@ -6171,7 +6193,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1680404261718,
-                        "id": "P147242AB-tu617"
+                        "id": "P147242AB-tu619"
                     }
                 ],
                 [
@@ -6182,7 +6204,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1642319480566,
-                        "id": "P147242AB-tu618"
+                        "id": "P147242AB-tu620"
                     }
                 ],
                 [
@@ -6193,7 +6215,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1642319484926,
-                        "id": "P147242AB-tu619"
+                        "id": "P147242AB-tu621"
                     }
                 ],
                 [
@@ -6204,7 +6226,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1642319532654,
-                        "id": "P147242AB-tu620"
+                        "id": "P147242AB-tu622"
                     }
                 ],
                 [
@@ -6215,7 +6237,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1642319599921,
-                        "id": "P147242AB-tu621"
+                        "id": "P147242AB-tu623"
                     }
                 ],
                 [
@@ -6226,7 +6248,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1642319571857,
-                        "id": "P147242AB-tu622"
+                        "id": "P147242AB-tu624"
                     }
                 ],
                 [
@@ -6237,7 +6259,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1642319577005,
-                        "id": "P147242AB-tu623"
+                        "id": "P147242AB-tu625"
                     }
                 ],
                 [
@@ -6248,7 +6270,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1642319620110,
-                        "id": "P147242AB-tu624"
+                        "id": "P147242AB-tu626"
                     }
                 ],
                 [
@@ -6259,7 +6281,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1642319636426,
-                        "id": "P147242AB-tu625"
+                        "id": "P147242AB-tu627"
                     }
                 ],
                 [
@@ -6268,7 +6290,7 @@
                     "均衡含文字与无文字区域？",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu626"
+                        "id": "P147242AB-tu628"
                     }
                 ],
                 [
@@ -6277,7 +6299,7 @@
                     "OpenCV没有安装，相关功能将不可用。",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu627"
+                        "id": "P147242AB-tu629"
                     }
                 ],
                 [
@@ -6286,7 +6308,7 @@
                     "更多请查阅文档。",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu627"
+                        "id": "P147242AB-tu629"
                     }
                 ],
                 [
@@ -6295,7 +6317,7 @@
                     "文本框",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu628"
+                        "id": "P147242AB-tu630"
                     }
                 ],
                 [
@@ -6304,7 +6326,7 @@
                     "辅助翻译",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu629"
+                        "id": "P147242AB-tu631"
                     }
                 ],
                 [
@@ -6315,7 +6337,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1644069885309,
-                        "id": "P147242AB-tu630"
+                        "id": "P147242AB-tu632"
                     }
                 ],
                 [
@@ -6324,7 +6346,7 @@
                     "全部片段",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu631"
+                        "id": "P147242AB-tu633"
                     }
                 ],
                 [
@@ -6333,7 +6355,7 @@
                     "无文本片段",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu632"
+                        "id": "P147242AB-tu634"
                     }
                 ],
                 [
@@ -6342,7 +6364,7 @@
                     "有文本片段",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu633"
+                        "id": "P147242AB-tu635"
                     }
                 ],
                 [
@@ -6351,7 +6373,7 @@
                     "高置信度片段",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu634"
+                        "id": "P147242AB-tu636"
                     }
                 ],
                 [
@@ -6363,7 +6385,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1708832237945,
-                        "id": "P147242AB-tu635"
+                        "id": "P147242AB-tu637"
                     }
                 ],
                 [
@@ -6374,7 +6396,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1703392008695,
-                        "id": "P147242AB-tu636"
+                        "id": "P147242AB-tu638"
                     }
                 ],
                 [
@@ -6385,7 +6407,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1701504596107,
-                        "id": "P147242AB-tu637"
+                        "id": "P147242AB-tu639"
                     }
                 ],
                 [
@@ -6397,7 +6419,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1619445567698,
-                        "id": "P147242AB-tu638"
+                        "id": "P147242AB-tu640"
                     }
                 ],
                 [
@@ -6406,7 +6428,7 @@
                     "所选目录与之前的目录不一致，之前的图片可能无法显示。",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu639"
+                        "id": "P147242AB-tu641"
                     }
                 ],
                 [
@@ -6415,7 +6437,7 @@
                     "没有检测到图片，如果有PSD请先将PSD转换为JPG。",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu640"
+                        "id": "P147242AB-tu642"
                     }
                 ],
                 [
@@ -6424,7 +6446,7 @@
                     "可以使用工具-PSD2JPG进行批量转换",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu640"
+                        "id": "P147242AB-tu642"
                     }
                 ],
                 [
@@ -6433,7 +6455,7 @@
                     "错误",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu641"
+                        "id": "P147242AB-tu643"
                     }
                 ],
                 [
@@ -6442,7 +6464,7 @@
                     "导入中……",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu642"
+                        "id": "P147242AB-tu644"
                     }
                 ],
                 [
@@ -6451,7 +6473,7 @@
                     "参数不正确",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu643"
+                        "id": "P147242AB-tu645"
                     }
                 ],
                 [
@@ -6460,7 +6482,7 @@
                     "翻译中……",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu644"
+                        "id": "P147242AB-tu646"
                     }
                 ],
                 [
@@ -6471,7 +6493,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1668317579742,
-                        "id": "P147242AB-tu645"
+                        "id": "P147242AB-tu647"
                     }
                 ],
                 [
@@ -6482,7 +6504,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1705757299176,
-                        "id": "P147242AB-tu646"
+                        "id": "P147242AB-tu648"
                     }
                 ],
                 [
@@ -6493,7 +6515,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1684662794220,
-                        "id": "P147242AB-tu647"
+                        "id": "P147242AB-tu649"
                     }
                 ],
                 [
@@ -6504,7 +6526,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1684662800700,
-                        "id": "P147242AB-tu647"
+                        "id": "P147242AB-tu649"
                     }
                 ],
                 [
@@ -6515,7 +6537,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1642319642942,
-                        "id": "P147242AB-tu648"
+                        "id": "P147242AB-tu650"
                     }
                 ],
                 [
@@ -6526,7 +6548,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1642319644865,
-                        "id": "P147242AB-tu649"
+                        "id": "P147242AB-tu651"
                     }
                 ],
                 [
@@ -6535,7 +6557,7 @@
                     "读取中……",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu650"
+                        "id": "P147242AB-tu652"
                     }
                 ],
                 [
@@ -6544,7 +6566,7 @@
                     "out.txt已生成，若PS未自动运行，请手动使用脚本处理。",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu651"
+                        "id": "P147242AB-tu653"
                     }
                 ],
                 [
@@ -6553,7 +6575,7 @@
                     "out.txt已生成，若非windows系统或PS非完整版，请手动使用脚本处理。",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu652"
+                        "id": "P147242AB-tu654"
                     }
                 ],
                 [
@@ -6562,7 +6584,7 @@
                     "生成中……",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu653"
+                        "id": "P147242AB-tu655"
                     }
                 ],
                 [
@@ -6571,7 +6593,7 @@
                     "{1}不支持该操作",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu654"
+                        "id": "P147242AB-tu656"
                     }
                 ],
                 [
@@ -6580,7 +6602,7 @@
                     "识别中...",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu655"
+                        "id": "P147242AB-tu657"
                     }
                 ],
                 [
@@ -6589,34 +6611,13 @@
                     "识别中……",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu656"
-                    }
-                ],
-                [
-                    "获取文字区域置信度中...",
-                    "Getting text area confidence...",
-                    "获取文字区域置信度中...",
-                    "xl\/sharedStrings.xml",
-                    {
-                        "note": "",
-                        "creator": "xulihang",
-                        "createdTime": 1640520921833,
-                        "id": "P147242AB-tu657"
-                    }
-                ],
-                [
-                    "远程处理中...",
-                    "Processing in remote...",
-                    "远程处理中...",
-                    "xl\/sharedStrings.xml",
-                    {
                         "id": "P147242AB-tu658"
                     }
                 ],
                 [
-                    "获取文字区域置信度中……",
+                    "获取文字区域置信度中...",
                     "Getting text area confidence...",
-                    "获取文字区域置信度中……",
+                    "获取文字区域置信度中...",
                     "xl\/sharedStrings.xml",
                     {
                         "note": "",
@@ -6626,12 +6627,33 @@
                     }
                 ],
                 [
+                    "远程处理中...",
+                    "Processing in remote...",
+                    "远程处理中...",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu660"
+                    }
+                ],
+                [
+                    "获取文字区域置信度中……",
+                    "Getting text area confidence...",
+                    "获取文字区域置信度中……",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1640520921833,
+                        "id": "P147242AB-tu661"
+                    }
+                ],
+                [
                     "识别完成后是否继续获取文字区域置信度",
                     "Get text areas confidence after detection?",
                     "识别完成后是否继续获取文字区域置信度",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu660"
+                        "id": "P147242AB-tu662"
                     }
                 ],
                 [
@@ -6640,7 +6662,7 @@
                     "检测中……",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu661"
+                        "id": "P147242AB-tu663"
                     }
                 ],
                 [
@@ -6649,7 +6671,7 @@
                     "气泡识别完成后是否继续OCR",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu662"
+                        "id": "P147242AB-tu664"
                     }
                 ],
                 [
@@ -6658,7 +6680,7 @@
                     "气泡识别中……",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu663"
+                        "id": "P147242AB-tu665"
                     }
                 ],
                 [
@@ -6667,7 +6689,7 @@
                     "启发式",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu664"
+                        "id": "P147242AB-tu666"
                     }
                 ],
                 [
@@ -6678,7 +6700,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1663471704038,
-                        "id": "P147242AB-tu665"
+                        "id": "P147242AB-tu667"
                     }
                 ],
                 [
@@ -6687,7 +6709,7 @@
                     "取消操作",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu666"
+                        "id": "P147242AB-tu668"
                     }
                 ],
                 [
@@ -6696,7 +6718,7 @@
                     "请选择一种文字区域检测方法。",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu667"
+                        "id": "P147242AB-tu669"
                     }
                 ],
                 [
@@ -6705,7 +6727,7 @@
                     "纵向合并",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu668"
+                        "id": "P147242AB-tu670"
                     }
                 ],
                 [
@@ -6714,7 +6736,7 @@
                     "横向合并",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu669"
+                        "id": "P147242AB-tu671"
                     }
                 ],
                 [
@@ -6723,7 +6745,7 @@
                     "纵向合并+横向合并",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu670"
+                        "id": "P147242AB-tu672"
                     }
                 ],
                 [
@@ -6732,7 +6754,7 @@
                     "横向合并+纵向合并",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu671"
+                        "id": "P147242AB-tu673"
                     }
                 ],
                 [
@@ -6741,7 +6763,7 @@
                     "不合并区域",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu672"
+                        "id": "P147242AB-tu674"
                     }
                 ],
                 [
@@ -6750,7 +6772,7 @@
                     "选择要进行的区域合并操作",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu673"
+                        "id": "P147242AB-tu675"
                     }
                 ],
                 [
@@ -6761,7 +6783,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1645863484534,
-                        "id": "P147242AB-tu674"
+                        "id": "P147242AB-tu676"
                     }
                 ],
                 [
@@ -6772,7 +6794,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1688266288160,
-                        "id": "P147242AB-tu675"
+                        "id": "P147242AB-tu677"
                     }
                 ],
                 [
@@ -6781,7 +6803,7 @@
                     "修改掩膜与无文字图",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu676"
+                        "id": "P147242AB-tu678"
                     }
                 ],
                 [
@@ -6790,7 +6812,7 @@
                     "创建副本",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu677"
+                        "id": "P147242AB-tu679"
                     }
                 ],
                 [
@@ -6801,7 +6823,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1644069891520,
-                        "id": "P147242AB-tu678"
+                        "id": "P147242AB-tu680"
                     }
                 ],
                 [
@@ -6813,7 +6835,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1682932408106,
-                        "id": "P147242AB-tu679"
+                        "id": "P147242AB-tu681"
                     }
                 ],
                 [
@@ -6822,7 +6844,7 @@
                     "当前文字区域",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu680"
+                        "id": "P147242AB-tu682"
                     }
                 ],
                 [
@@ -6831,7 +6853,7 @@
                     "项目未保存，是否保存项目？",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu681"
+                        "id": "P147242AB-tu683"
                     }
                 ],
                 [
@@ -6840,7 +6862,7 @@
                     "不保存退出",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu682"
+                        "id": "P147242AB-tu684"
                     }
                 ],
                 [
@@ -6849,7 +6871,7 @@
                     "请在图像上取色",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu683"
+                        "id": "P147242AB-tu685"
                     }
                 ],
                 [
@@ -6858,7 +6880,7 @@
                     "确认清空吗？",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu684"
+                        "id": "P147242AB-tu686"
                     }
                 ],
                 [
@@ -6867,7 +6889,7 @@
                     "提醒",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu685"
+                        "id": "P147242AB-tu687"
                     }
                 ],
                 [
@@ -6876,7 +6898,7 @@
                     "导出中……",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu686"
+                        "id": "P147242AB-tu688"
                     }
                 ],
                 [
@@ -6887,7 +6909,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1701601180168,
-                        "id": "P147242AB-tu687"
+                        "id": "P147242AB-tu689"
                     }
                 ],
                 [
@@ -6899,7 +6921,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1688266320088,
-                        "id": "P147242AB-tu688"
+                        "id": "P147242AB-tu690"
                     }
                 ],
                 [
@@ -6908,7 +6930,7 @@
                     "请先生成文字掩膜",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu689"
+                        "id": "P147242AB-tu691"
                     }
                 ],
                 [
@@ -6917,7 +6939,7 @@
                     "确认删除吗？",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu690"
+                        "id": "P147242AB-tu692"
                     }
                 ],
                 [
@@ -6926,7 +6948,7 @@
                     "横向",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu691"
+                        "id": "P147242AB-tu693"
                     }
                 ],
                 [
@@ -6935,7 +6957,7 @@
                     "竖直",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu692"
+                        "id": "P147242AB-tu694"
                     }
                 ],
                 [
@@ -6946,7 +6968,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1658630152642,
-                        "id": "P147242AB-tu693"
+                        "id": "P147242AB-tu695"
                     }
                 ],
                 [
@@ -6958,7 +6980,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1644069906501,
-                        "id": "P147242AB-tu694"
+                        "id": "P147242AB-tu696"
                     }
                 ],
                 [
@@ -6970,7 +6992,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1644069918847,
-                        "id": "P147242AB-tu695"
+                        "id": "P147242AB-tu697"
                     }
                 ],
                 [
@@ -6981,7 +7003,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1644069976944,
-                        "id": "P147242AB-tu696"
+                        "id": "P147242AB-tu698"
                     }
                 ],
                 [
@@ -6992,7 +7014,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1688877508893,
-                        "id": "P147242AB-tu697"
+                        "id": "P147242AB-tu699"
                     }
                 ],
                 [
@@ -7003,7 +7025,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1688877516309,
-                        "id": "P147242AB-tu698"
+                        "id": "P147242AB-tu700"
                     }
                 ],
                 [
@@ -7012,7 +7034,7 @@
                     "泰语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu699"
+                        "id": "P147242AB-tu701"
                     }
                 ],
                 [
@@ -7021,7 +7043,7 @@
                     "拉丁语系",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu700"
+                        "id": "P147242AB-tu702"
                     }
                 ],
                 [
@@ -7030,7 +7052,7 @@
                     "简体中文_竖",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu701"
+                        "id": "P147242AB-tu703"
                     }
                 ],
                 [
@@ -7039,7 +7061,7 @@
                     "日语_竖",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu702"
+                        "id": "P147242AB-tu704"
                     }
                 ],
                 [
@@ -7048,7 +7070,7 @@
                     "藏语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu703"
+                        "id": "P147242AB-tu705"
                     }
                 ],
                 [
@@ -7057,7 +7079,7 @@
                     "古汉语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu704"
+                        "id": "P147242AB-tu706"
                     }
                 ],
                 [
@@ -7068,7 +7090,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1701601184296,
-                        "id": "P147242AB-tu705"
+                        "id": "P147242AB-tu707"
                     }
                 ],
                 [
@@ -7079,7 +7101,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1645863493174,
-                        "id": "P147242AB-tu706"
+                        "id": "P147242AB-tu708"
                     }
                 ],
                 [
@@ -7090,7 +7112,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1651380336969,
-                        "id": "P147242AB-tu707"
+                        "id": "P147242AB-tu709"
                     }
                 ],
                 [
@@ -7101,7 +7123,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1680404267266,
-                        "id": "P147242AB-tu708"
+                        "id": "P147242AB-tu710"
                     }
                 ],
                 [
@@ -7112,7 +7134,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1680404275142,
-                        "id": "P147242AB-tu708"
+                        "id": "P147242AB-tu710"
                     }
                 ],
                 [
@@ -7123,7 +7145,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1680404280308,
-                        "id": "P147242AB-tu709"
+                        "id": "P147242AB-tu711"
                     }
                 ],
                 [
@@ -7134,7 +7156,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1616510536929,
-                        "id": "P147242AB-tu710"
+                        "id": "P147242AB-tu712"
                     }
                 ],
                 [
@@ -7145,7 +7167,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1636811641160,
-                        "id": "P147242AB-tu711"
+                        "id": "P147242AB-tu713"
                     }
                 ],
                 [
@@ -7156,7 +7178,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1636811702860,
-                        "id": "P147242AB-tu712"
+                        "id": "P147242AB-tu714"
                     }
                 ],
                 [
@@ -7165,7 +7187,7 @@
                     "请选择语言对",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu713"
+                        "id": "P147242AB-tu715"
                     }
                 ],
                 [
@@ -7176,7 +7198,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1703392069314,
-                        "id": "P147242AB-tu714"
+                        "id": "P147242AB-tu716"
                     }
                 ],
                 [
@@ -7185,7 +7207,7 @@
                     "内建二值化方法",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu715"
+                        "id": "P147242AB-tu717"
                     }
                 ],
                 [
@@ -7197,7 +7219,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1677990374164,
-                        "id": "P147242AB-tu716"
+                        "id": "P147242AB-tu718"
                     }
                 ],
                 [
@@ -7206,7 +7228,7 @@
                     "中文",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu717"
+                        "id": "P147242AB-tu719"
                     }
                 ],
                 [
@@ -7215,7 +7237,7 @@
                     "英语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu718"
+                        "id": "P147242AB-tu720"
                     }
                 ],
                 [
@@ -7224,7 +7246,7 @@
                     "日语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu719"
+                        "id": "P147242AB-tu721"
                     }
                 ],
                 [
@@ -7233,7 +7255,7 @@
                     "韩语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu720"
+                        "id": "P147242AB-tu722"
                     }
                 ],
                 [
@@ -7242,7 +7264,7 @@
                     "法语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu721"
+                        "id": "P147242AB-tu723"
                     }
                 ],
                 [
@@ -7251,7 +7273,7 @@
                     "西班牙语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu722"
+                        "id": "P147242AB-tu724"
                     }
                 ],
                 [
@@ -7260,7 +7282,7 @@
                     "葡萄牙语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu723"
+                        "id": "P147242AB-tu725"
                     }
                 ],
                 [
@@ -7269,7 +7291,7 @@
                     "德语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu724"
+                        "id": "P147242AB-tu726"
                     }
                 ],
                 [
@@ -7278,7 +7300,7 @@
                     "意大利语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu725"
+                        "id": "P147242AB-tu727"
                     }
                 ],
                 [
@@ -7287,7 +7309,7 @@
                     "俄语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu726"
+                        "id": "P147242AB-tu728"
                     }
                 ],
                 [
@@ -7296,7 +7318,7 @@
                     "丹麦语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu727"
+                        "id": "P147242AB-tu729"
                     }
                 ],
                 [
@@ -7305,7 +7327,7 @@
                     "荷兰语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu728"
+                        "id": "P147242AB-tu730"
                     }
                 ],
                 [
@@ -7314,7 +7336,7 @@
                     "马来语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu729"
+                        "id": "P147242AB-tu731"
                     }
                 ],
                 [
@@ -7323,7 +7345,7 @@
                     "瑞典语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu730"
+                        "id": "P147242AB-tu732"
                     }
                 ],
                 [
@@ -7332,7 +7354,7 @@
                     "印尼语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu731"
+                        "id": "P147242AB-tu733"
                     }
                 ],
                 [
@@ -7341,7 +7363,7 @@
                     "波兰语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu732"
+                        "id": "P147242AB-tu734"
                     }
                 ],
                 [
@@ -7350,7 +7372,7 @@
                     "罗马尼亚语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu733"
+                        "id": "P147242AB-tu735"
                     }
                 ],
                 [
@@ -7359,7 +7381,7 @@
                     "土耳其语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu734"
+                        "id": "P147242AB-tu736"
                     }
                 ],
                 [
@@ -7368,7 +7390,7 @@
                     "希腊语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu735"
+                        "id": "P147242AB-tu737"
                     }
                 ],
                 [
@@ -7377,7 +7399,7 @@
                     "匈牙利语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu736"
+                        "id": "P147242AB-tu738"
                     }
                 ],
                 [
@@ -7386,7 +7408,7 @@
                     "自动检测",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu737"
+                        "id": "P147242AB-tu739"
                     }
                 ],
                 [
@@ -7395,7 +7417,7 @@
                     "繁体中文",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu738"
+                        "id": "P147242AB-tu740"
                     }
                 ],
                 [
@@ -7404,7 +7426,7 @@
                     "南非荷兰语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu739"
+                        "id": "P147242AB-tu741"
                     }
                 ],
                 [
@@ -7413,7 +7435,7 @@
                     "阿塞拜疆语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu740"
+                        "id": "P147242AB-tu742"
                     }
                 ],
                 [
@@ -7422,7 +7444,7 @@
                     "白俄罗斯语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu741"
+                        "id": "P147242AB-tu743"
                     }
                 ],
                 [
@@ -7431,7 +7453,7 @@
                     "保加利亚语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu742"
+                        "id": "P147242AB-tu744"
                     }
                 ],
                 [
@@ -7440,7 +7462,7 @@
                     "波斯尼亚语（拉丁文）",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu743"
+                        "id": "P147242AB-tu745"
                     }
                 ],
                 [
@@ -7449,7 +7471,7 @@
                     "加泰罗尼亚语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu744"
+                        "id": "P147242AB-tu746"
                     }
                 ],
                 [
@@ -7458,7 +7480,7 @@
                     "宿务语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu745"
+                        "id": "P147242AB-tu747"
                     }
                 ],
                 [
@@ -7467,7 +7489,7 @@
                     "科西嘉语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu746"
+                        "id": "P147242AB-tu748"
                     }
                 ],
                 [
@@ -7476,7 +7498,7 @@
                     "捷克语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu747"
+                        "id": "P147242AB-tu749"
                     }
                 ],
                 [
@@ -7485,7 +7507,7 @@
                     "威尔士语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu748"
+                        "id": "P147242AB-tu750"
                     }
                 ],
                 [
@@ -7494,7 +7516,7 @@
                     "世界语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu749"
+                        "id": "P147242AB-tu751"
                     }
                 ],
                 [
@@ -7503,7 +7525,7 @@
                     "爱沙尼亚语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu750"
+                        "id": "P147242AB-tu752"
                     }
                 ],
                 [
@@ -7512,7 +7534,7 @@
                     "巴斯克语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu751"
+                        "id": "P147242AB-tu753"
                     }
                 ],
                 [
@@ -7521,7 +7543,7 @@
                     "芬兰语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu752"
+                        "id": "P147242AB-tu754"
                     }
                 ],
                 [
@@ -7530,7 +7552,7 @@
                     "弗里斯兰语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu753"
+                        "id": "P147242AB-tu755"
                     }
                 ],
                 [
@@ -7539,7 +7561,7 @@
                     "爱尔兰语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu754"
+                        "id": "P147242AB-tu756"
                     }
                 ],
                 [
@@ -7548,7 +7570,7 @@
                     "苏格兰盖尔语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu755"
+                        "id": "P147242AB-tu757"
                     }
                 ],
                 [
@@ -7557,7 +7579,7 @@
                     "加利西亚语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu756"
+                        "id": "P147242AB-tu758"
                     }
                 ],
                 [
@@ -7566,7 +7588,7 @@
                     "豪萨语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu757"
+                        "id": "P147242AB-tu759"
                     }
                 ],
                 [
@@ -7575,7 +7597,7 @@
                     "夏威夷语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu758"
+                        "id": "P147242AB-tu760"
                     }
                 ],
                 [
@@ -7584,7 +7606,7 @@
                     "印地语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu759"
+                        "id": "P147242AB-tu761"
                     }
                 ],
                 [
@@ -7593,7 +7615,7 @@
                     "苗族语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu760"
+                        "id": "P147242AB-tu762"
                     }
                 ],
                 [
@@ -7602,7 +7624,7 @@
                     "克罗地亚语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu761"
+                        "id": "P147242AB-tu763"
                     }
                 ],
                 [
@@ -7611,7 +7633,7 @@
                     "海地语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu762"
+                        "id": "P147242AB-tu764"
                     }
                 ],
                 [
@@ -7620,7 +7642,7 @@
                     "印度尼西亚语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu763"
+                        "id": "P147242AB-tu765"
                     }
                 ],
                 [
@@ -7629,7 +7651,7 @@
                     "伊博语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu764"
+                        "id": "P147242AB-tu766"
                     }
                 ],
                 [
@@ -7638,7 +7660,7 @@
                     "冰岛语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu765"
+                        "id": "P147242AB-tu767"
                     }
                 ],
                 [
@@ -7647,7 +7669,7 @@
                     "印尼爪哇语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu766"
+                        "id": "P147242AB-tu768"
                     }
                 ],
                 [
@@ -7656,7 +7678,7 @@
                     "库尔德语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu767"
+                        "id": "P147242AB-tu769"
                     }
                 ],
                 [
@@ -7665,7 +7687,7 @@
                     "拉丁语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu768"
+                        "id": "P147242AB-tu770"
                     }
                 ],
                 [
@@ -7674,7 +7696,7 @@
                     "卢森堡语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu769"
+                        "id": "P147242AB-tu771"
                     }
                 ],
                 [
@@ -7683,7 +7705,7 @@
                     "立陶宛语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu770"
+                        "id": "P147242AB-tu772"
                     }
                 ],
                 [
@@ -7692,7 +7714,7 @@
                     "拉脱维亚语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu771"
+                        "id": "P147242AB-tu773"
                     }
                 ],
                 [
@@ -7701,7 +7723,7 @@
                     "马尔加什语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu772"
+                        "id": "P147242AB-tu774"
                     }
                 ],
                 [
@@ -7710,7 +7732,7 @@
                     "毛利语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu773"
+                        "id": "P147242AB-tu775"
                     }
                 ],
                 [
@@ -7719,7 +7741,7 @@
                     "马其顿语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu774"
+                        "id": "P147242AB-tu776"
                     }
                 ],
                 [
@@ -7728,7 +7750,7 @@
                     "蒙古语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu775"
+                        "id": "P147242AB-tu777"
                     }
                 ],
                 [
@@ -7737,7 +7759,7 @@
                     "马拉地语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu776"
+                        "id": "P147242AB-tu778"
                     }
                 ],
                 [
@@ -7746,7 +7768,7 @@
                     "马耳他语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu777"
+                        "id": "P147242AB-tu779"
                     }
                 ],
                 [
@@ -7755,7 +7777,7 @@
                     "尼泊尔语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu778"
+                        "id": "P147242AB-tu780"
                     }
                 ],
                 [
@@ -7764,7 +7786,7 @@
                     "挪威语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu779"
+                        "id": "P147242AB-tu781"
                     }
                 ],
                 [
@@ -7773,7 +7795,7 @@
                     "齐切瓦语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu780"
+                        "id": "P147242AB-tu782"
                     }
                 ],
                 [
@@ -7782,7 +7804,7 @@
                     "斯洛伐克语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu781"
+                        "id": "P147242AB-tu783"
                     }
                 ],
                 [
@@ -7791,7 +7813,7 @@
                     "斯洛文尼亚语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu782"
+                        "id": "P147242AB-tu784"
                     }
                 ],
                 [
@@ -7800,7 +7822,7 @@
                     "萨摩亚语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu783"
+                        "id": "P147242AB-tu785"
                     }
                 ],
                 [
@@ -7809,7 +7831,7 @@
                     "修纳语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu784"
+                        "id": "P147242AB-tu786"
                     }
                 ],
                 [
@@ -7818,7 +7840,7 @@
                     "索马里语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu785"
+                        "id": "P147242AB-tu787"
                     }
                 ],
                 [
@@ -7827,7 +7849,7 @@
                     "阿尔巴尼亚语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu786"
+                        "id": "P147242AB-tu788"
                     }
                 ],
                 [
@@ -7836,7 +7858,7 @@
                     "塞尔维亚语（拉丁文）",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu787"
+                        "id": "P147242AB-tu789"
                     }
                 ],
                 [
@@ -7845,7 +7867,7 @@
                     "塞索托语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu788"
+                        "id": "P147242AB-tu790"
                     }
                 ],
                 [
@@ -7854,7 +7876,7 @@
                     "印尼巽他语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu789"
+                        "id": "P147242AB-tu791"
                     }
                 ],
                 [
@@ -7863,7 +7885,7 @@
                     "斯瓦希里语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu790"
+                        "id": "P147242AB-tu792"
                     }
                 ],
                 [
@@ -7872,7 +7894,7 @@
                     "塔吉克语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu791"
+                        "id": "P147242AB-tu793"
                     }
                 ],
                 [
@@ -7881,7 +7903,7 @@
                     "菲律宾语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu792"
+                        "id": "P147242AB-tu794"
                     }
                 ],
                 [
@@ -7890,7 +7912,7 @@
                     "乌克兰语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu793"
+                        "id": "P147242AB-tu795"
                     }
                 ],
                 [
@@ -7899,7 +7921,7 @@
                     "乌兹别克语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu794"
+                        "id": "P147242AB-tu796"
                     }
                 ],
                 [
@@ -7908,7 +7930,7 @@
                     "越南语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu795"
+                        "id": "P147242AB-tu797"
                     }
                 ],
                 [
@@ -7917,7 +7939,7 @@
                     "班图语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu796"
+                        "id": "P147242AB-tu798"
                     }
                 ],
                 [
@@ -7926,7 +7948,7 @@
                     "约鲁巴语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu797"
+                        "id": "P147242AB-tu799"
                     }
                 ],
                 [
@@ -7935,7 +7957,7 @@
                     "南非祖鲁语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu798"
+                        "id": "P147242AB-tu800"
                     }
                 ],
                 [
@@ -7944,7 +7966,7 @@
                     "简体中文",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu799"
+                        "id": "P147242AB-tu801"
                     }
                 ],
                 [
@@ -7953,7 +7975,7 @@
                     "斯洛维尼亚语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu800"
+                        "id": "P147242AB-tu802"
                     }
                 ],
                 [
@@ -7962,7 +7984,7 @@
                     "阿拉伯语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu801"
+                        "id": "P147242AB-tu803"
                     }
                 ],
                 [
@@ -7971,7 +7993,7 @@
                     "塞尔维亚语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu802"
+                        "id": "P147242AB-tu804"
                     }
                 ],
                 [
@@ -7980,7 +8002,7 @@
                     "塞尔维亚语拉丁语",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu803"
+                        "id": "P147242AB-tu805"
                     }
                 ],
                 [
@@ -7989,7 +8011,7 @@
                     "通用",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu804"
+                        "id": "P147242AB-tu806"
                     }
                 ],
                 [
@@ -7998,7 +8020,7 @@
                     "主题",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu805"
+                        "id": "P147242AB-tu807"
                     }
                 ],
                 [
@@ -8007,7 +8029,7 @@
                     "拼写检查",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu806"
+                        "id": "P147242AB-tu808"
                     }
                 ],
                 [
@@ -8018,7 +8040,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1640520936857,
-                        "id": "P147242AB-tu807"
+                        "id": "P147242AB-tu809"
                     }
                 ],
                 [
@@ -8030,7 +8052,7 @@
                         "note": "",
                         "creator": "anonymous",
                         "createdTime": 0,
-                        "id": "P147242AB-tu808"
+                        "id": "P147242AB-tu810"
                     }
                 ],
                 [
@@ -8039,7 +8061,7 @@
                     "默认主题",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu809"
+                        "id": "P147242AB-tu811"
                     }
                 ],
                 [
@@ -8048,7 +8070,7 @@
                     "暗色主题",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu810"
+                        "id": "P147242AB-tu812"
                     }
                 ],
                 [
@@ -8057,7 +8079,7 @@
                     "绿色主题",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu811"
+                        "id": "P147242AB-tu813"
                     }
                 ],
                 [
@@ -8068,7 +8090,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1703392032038,
-                        "id": "P147242AB-tu812"
+                        "id": "P147242AB-tu814"
                     }
                 ],
                 [
@@ -8077,7 +8099,7 @@
                     "请重启程序",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu813"
+                        "id": "P147242AB-tu815"
                     }
                 ],
                 [
@@ -8088,7 +8110,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1614480997328,
-                        "id": "P147242AB-tu814"
+                        "id": "P147242AB-tu816"
                     }
                 ],
                 [
@@ -8099,7 +8121,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1707980808146,
-                        "id": "P147242AB-tu815"
+                        "id": "P147242AB-tu817"
                     }
                 ],
                 [
@@ -8110,7 +8132,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1669440004904,
-                        "id": "P147242AB-tu816"
+                        "id": "P147242AB-tu818"
                     }
                 ],
                 [
@@ -8121,7 +8143,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1669440031377,
-                        "id": "P147242AB-tu817"
+                        "id": "P147242AB-tu819"
                     }
                 ],
                 [
@@ -8132,7 +8154,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1694841477313,
-                        "id": "P147242AB-tu818"
+                        "id": "P147242AB-tu820"
                     }
                 ],
                 [
@@ -8143,7 +8165,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1651380352693,
-                        "id": "P147242AB-tu819"
+                        "id": "P147242AB-tu821"
                     }
                 ],
                 [
@@ -8152,7 +8174,7 @@
                     "文字区域检测",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu820"
+                        "id": "P147242AB-tu822"
                     }
                 ],
                 [
@@ -8161,7 +8183,7 @@
                     "字体样式",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu821"
+                        "id": "P147242AB-tu823"
                     }
                 ],
                 [
@@ -8173,7 +8195,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1705228492376,
-                        "id": "P147242AB-tu822"
+                        "id": "P147242AB-tu824"
                     }
                 ],
                 [
@@ -8182,7 +8204,7 @@
                     "自动更正",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu823"
+                        "id": "P147242AB-tu825"
                     }
                 ],
                 [
@@ -8193,7 +8215,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1636811676931,
-                        "id": "P147242AB-tu824"
+                        "id": "P147242AB-tu826"
                     }
                 ],
                 [
@@ -8204,7 +8226,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1648349517858,
-                        "id": "P147242AB-tu825"
+                        "id": "P147242AB-tu827"
                     }
                 ],
                 [
@@ -8215,7 +8237,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1663471296714,
-                        "id": "P147242AB-tu826"
+                        "id": "P147242AB-tu828"
                     }
                 ],
                 [
@@ -8227,7 +8249,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1699782683723,
-                        "id": "P147242AB-tu827"
+                        "id": "P147242AB-tu829"
                     }
                 ],
                 [
@@ -8238,7 +8260,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1694841489962,
-                        "id": "P147242AB-tu828"
+                        "id": "P147242AB-tu830"
                     }
                 ],
                 [
@@ -8249,7 +8271,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1632555815144,
-                        "id": "P147242AB-tu829"
+                        "id": "P147242AB-tu831"
                     }
                 ],
                 [
@@ -8260,7 +8282,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1632555819485,
-                        "id": "P147242AB-tu830"
+                        "id": "P147242AB-tu832"
                     }
                 ],
                 [
@@ -8271,7 +8293,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1688266387008,
-                        "id": "P147242AB-tu831"
+                        "id": "P147242AB-tu833"
                     }
                 ],
                 [
@@ -8282,7 +8304,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1688266361144,
-                        "id": "P147242AB-tu832"
+                        "id": "P147242AB-tu834"
                     }
                 ],
                 [
@@ -8294,7 +8316,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1702799539752,
-                        "id": "P147242AB-tu833"
+                        "id": "P147242AB-tu835"
                     }
                 ],
                 [
@@ -8303,7 +8325,7 @@
                     "图像修复",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu834"
+                        "id": "P147242AB-tu836"
                     }
                 ],
                 [
@@ -8312,7 +8334,7 @@
                     "覆盖文字",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu835"
+                        "id": "P147242AB-tu837"
                     }
                 ],
                 [
@@ -8323,7 +8345,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1707980779556,
-                        "id": "P147242AB-tu836"
+                        "id": "P147242AB-tu838"
                     }
                 ],
                 [
@@ -8334,7 +8356,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1707980789090,
-                        "id": "P147242AB-tu837"
+                        "id": "P147242AB-tu839"
                     }
                 ],
                 [
@@ -8343,7 +8365,7 @@
                     "居中",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu838"
+                        "id": "P147242AB-tu840"
                     }
                 ],
                 [
@@ -8352,7 +8374,7 @@
                     "去除内部区域",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu839"
+                        "id": "P147242AB-tu841"
                     }
                 ],
                 [
@@ -8361,7 +8383,7 @@
                     "请打开PS，新建一个图像并新建一个文本框，完成后再点确认。",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu840"
+                        "id": "P147242AB-tu842"
                     }
                 ],
                 [
@@ -8370,7 +8392,7 @@
                     "程序会读取该文本框的字体。",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu840"
+                        "id": "P147242AB-tu842"
                     }
                 ],
                 [
@@ -8379,7 +8401,7 @@
                     "行距不正确",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu841"
+                        "id": "P147242AB-tu843"
                     }
                 ],
                 [
@@ -8391,7 +8413,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1662864756053,
-                        "id": "P147242AB-tu842"
+                        "id": "P147242AB-tu844"
                     }
                 ],
                 [
@@ -8402,7 +8424,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1662864763781,
-                        "id": "P147242AB-tu843"
+                        "id": "P147242AB-tu845"
                     }
                 ],
                 [
@@ -8413,7 +8435,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1682932421944,
-                        "id": "P147242AB-tu844"
+                        "id": "P147242AB-tu846"
                     }
                 ],
                 [
@@ -8424,7 +8446,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1682932427945,
-                        "id": "P147242AB-tu845"
+                        "id": "P147242AB-tu847"
                     }
                 ],
                 [
@@ -8435,7 +8457,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1682932434425,
-                        "id": "P147242AB-tu845"
+                        "id": "P147242AB-tu847"
                     }
                 ],
                 [
@@ -8446,7 +8468,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1682932441213,
-                        "id": "P147242AB-tu846"
+                        "id": "P147242AB-tu848"
                     }
                 ],
                 [
@@ -8457,7 +8479,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1688266404744,
-                        "id": "P147242AB-tu847"
+                        "id": "P147242AB-tu849"
                     }
                 ],
                 [
@@ -8468,7 +8490,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1688266420355,
-                        "id": "P147242AB-tu848"
+                        "id": "P147242AB-tu850"
                     }
                 ],
                 [
@@ -8479,7 +8501,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1648349562897,
-                        "id": "P147242AB-tu849"
+                        "id": "P147242AB-tu851"
                     }
                 ],
                 [
@@ -8488,7 +8510,7 @@
                     "出错，请再复制图像一次",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu850"
+                        "id": "P147242AB-tu852"
                     }
                 ],
                 [
@@ -8497,7 +8519,7 @@
                     "请先复制图像",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu851"
+                        "id": "P147242AB-tu853"
                     }
                 ],
                 [
@@ -8508,7 +8530,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1658630167535,
-                        "id": "P147242AB-tu852"
+                        "id": "P147242AB-tu854"
                     }
                 ],
                 [
@@ -8519,7 +8541,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1688877537262,
-                        "id": "P147242AB-tu853"
+                        "id": "P147242AB-tu855"
                     }
                 ],
                 [
@@ -8530,7 +8552,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1688877524718,
-                        "id": "P147242AB-tu854"
+                        "id": "P147242AB-tu856"
                     }
                 ],
                 [
@@ -8539,7 +8561,7 @@
                     "表达式不正确",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu855"
+                        "id": "P147242AB-tu857"
                     }
                 ],
                 [
@@ -8548,7 +8570,7 @@
                     "- 原文：",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu856"
+                        "id": "P147242AB-tu858"
                     }
                 ],
                 [
@@ -8557,7 +8579,7 @@
                     "- 译文：",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu857"
+                        "id": "P147242AB-tu859"
                     }
                 ],
                 [
@@ -8566,7 +8588,7 @@
                     "- 替换：",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu858"
+                        "id": "P147242AB-tu860"
                     }
                 ],
                 [
@@ -8575,7 +8597,7 @@
                     "译文：",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu859"
+                        "id": "P147242AB-tu861"
                     }
                 ],
                 [
@@ -8584,7 +8606,7 @@
                     "{1}项被替换",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu860"
+                        "id": "P147242AB-tu862"
                     }
                 ],
                 [
@@ -8593,7 +8615,7 @@
                     "连接中...",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu861"
+                        "id": "P147242AB-tu863"
                     }
                 ],
                 [
@@ -8602,7 +8624,7 @@
                     "已连接",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu862"
+                        "id": "P147242AB-tu864"
                     }
                 ],
                 [
@@ -8611,7 +8633,7 @@
                     "已断开",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu863"
+                        "id": "P147242AB-tu865"
                     }
                 ],
                 [
@@ -8622,7 +8644,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1648349570108,
-                        "id": "P147242AB-tu864"
+                        "id": "P147242AB-tu866"
                     }
                 ],
                 [
@@ -8633,7 +8655,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1648349578989,
-                        "id": "P147242AB-tu865"
+                        "id": "P147242AB-tu867"
                     }
                 ],
                 [
@@ -8644,7 +8666,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1648349581702,
-                        "id": "P147242AB-tu866"
+                        "id": "P147242AB-tu868"
                     }
                 ],
                 [
@@ -8655,7 +8677,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1648349585742,
-                        "id": "P147242AB-tu867"
+                        "id": "P147242AB-tu869"
                     }
                 ],
                 [
@@ -8666,7 +8688,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1648349589614,
-                        "id": "P147242AB-tu868"
+                        "id": "P147242AB-tu870"
                     }
                 ],
                 [
@@ -8675,7 +8697,7 @@
                     "已启动",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu869"
+                        "id": "P147242AB-tu871"
                     }
                 ],
                 [
@@ -8684,7 +8706,7 @@
                     "已关闭",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu870"
+                        "id": "P147242AB-tu872"
                     }
                 ],
                 [
@@ -8695,7 +8717,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1632555823749,
-                        "id": "P147242AB-tu871"
+                        "id": "P147242AB-tu873"
                     }
                 ],
                 [
@@ -8706,7 +8728,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1699782694619,
-                        "id": "P147242AB-tu872"
+                        "id": "P147242AB-tu874"
                     }
                 ],
                 [
@@ -8715,7 +8737,7 @@
                     "忽略",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu873"
+                        "id": "P147242AB-tu875"
                     }
                 ],
                 [
@@ -8726,7 +8748,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1688266439488,
-                        "id": "P147242AB-tu874"
+                        "id": "P147242AB-tu876"
                     }
                 ],
                 [
@@ -8737,7 +8759,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1688266446320,
-                        "id": "P147242AB-tu875"
+                        "id": "P147242AB-tu877"
                     }
                 ],
                 [
@@ -8748,7 +8770,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1688266451432,
-                        "id": "P147242AB-tu876"
+                        "id": "P147242AB-tu878"
                     }
                 ],
                 [
@@ -8759,7 +8781,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1707365970725,
-                        "id": "P147242AB-tu877"
+                        "id": "P147242AB-tu879"
                     }
                 ],
                 [
@@ -8770,7 +8792,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1639296645122,
-                        "id": "P147242AB-tu878"
+                        "id": "P147242AB-tu880"
                     }
                 ],
                 [
@@ -8781,7 +8803,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1639296648470,
-                        "id": "P147242AB-tu879"
+                        "id": "P147242AB-tu881"
                     }
                 ],
                 [
@@ -8792,7 +8814,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1639296677396,
-                        "id": "P147242AB-tu880"
+                        "id": "P147242AB-tu882"
                     }
                 ],
                 [
@@ -8804,7 +8826,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1639296686303,
-                        "id": "P147242AB-tu881"
+                        "id": "P147242AB-tu883"
                     }
                 ],
                 [
@@ -8815,7 +8837,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1649075256871,
-                        "id": "P147242AB-tu882"
+                        "id": "P147242AB-tu884"
                     }
                 ],
                 [
@@ -8824,7 +8846,7 @@
                     "大客户授权",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu883"
+                        "id": "P147242AB-tu885"
                     }
                 ],
                 [
@@ -8833,7 +8855,7 @@
                     "服务器NE",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu884"
+                        "id": "P147242AB-tu886"
                     }
                 ],
                 [
@@ -8842,7 +8864,7 @@
                     "服务器CN",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu885"
+                        "id": "P147242AB-tu887"
                     }
                 ],
                 [
@@ -8851,7 +8873,7 @@
                     "登录成功",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu886"
+                        "id": "P147242AB-tu888"
                     }
                 ],
                 [
@@ -8860,7 +8882,7 @@
                     "设备数量已到上限，请用邮箱获取验证码进行重置",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu887"
+                        "id": "P147242AB-tu889"
                     }
                 ],
                 [
@@ -8869,7 +8891,7 @@
                     "未购买",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu888"
+                        "id": "P147242AB-tu890"
                     }
                 ],
                 [
@@ -8878,7 +8900,7 @@
                     "文字检测",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu889"
+                        "id": "P147242AB-tu891"
                     }
                 ],
                 [
@@ -8887,7 +8909,7 @@
                     "文字识别",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu890"
+                        "id": "P147242AB-tu892"
                     }
                 ],
                 [
@@ -8896,7 +8918,7 @@
                     "合并区域",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu891"
+                        "id": "P147242AB-tu893"
                     }
                 ],
                 [
@@ -8907,7 +8929,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1644069954105,
-                        "id": "P147242AB-tu892"
+                        "id": "P147242AB-tu894"
                     }
                 ],
                 [
@@ -8916,7 +8938,7 @@
                     "识别文字颜色",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu893"
+                        "id": "P147242AB-tu895"
                     }
                 ],
                 [
@@ -8925,7 +8947,7 @@
                     "识别背景颜色",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu894"
+                        "id": "P147242AB-tu896"
                     }
                 ],
                 [
@@ -8936,7 +8958,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1668317597546,
-                        "id": "P147242AB-tu895"
+                        "id": "P147242AB-tu897"
                     }
                 ],
                 [
@@ -8945,7 +8967,7 @@
                     "生成成品图",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu896"
+                        "id": "P147242AB-tu898"
                     }
                 ],
                 [
@@ -8957,7 +8979,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1701601206680,
-                        "id": "P147242AB-tu897"
+                        "id": "P147242AB-tu899"
                     }
                 ]
             ]

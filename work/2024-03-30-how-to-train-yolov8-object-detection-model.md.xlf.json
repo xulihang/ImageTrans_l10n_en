@@ -1,0 +1,458 @@
+{
+    "filename": "2024-03-30-how-to-train-yolov8-object-detection-model.md.xlf",
+    "files": [
+        {
+            "\/D:\/git\/BasicCAT-website\/_zh\/2024-03-30-how-to-train-yolov8-object-detection-model.md": [
+                [
+                    "YOLOv8是最新的YOLO目标检测模型，推理还是训练都非常容易上手。",
+                    "YOLOv8 is the latest YOLO object detection model. The inference and training in YOLOv8 are very easy to get started.",
+                    "YOLOv8是最新的YOLO目标检测模型，推理还是训练都非常容易上手。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-03-30-how-to-train-yolov8-object-detection-model.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1711800155223,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "ImageTrans在2.10.0中加入了对YOLOv8模型的支持，可以利用Java调用OpenCV的DNN模块进行目标检测，并且提供了目标检测标注数据管理器，可以将ImageTrans项目导出为YOLO格式的训练数据集或者从数据集导入到ImageTrans项目，方便根据需求自己训练模型。",
+                    "ImageTrans v2.10.0 added support for YOLOv8 model. It can use Java to call OpenCV's DNN module for object detection. An object detection annotation data manager is also provided so that we can export an ImageTrans project to a YOLO format training dataset or import the dataset to an ImageTrans project, which makes it easy to train our own model according to the needs.",
+                    "ImageTrans在2.10.0中加入了对YOLOv8模型的支持，可以利用Java调用OpenCV的DNN模块进行目标检测，并且提供了目标检测标注数据管理器，可以将ImageTrans项目导出为YOLO格式的训练数据集或者从数据集导入到ImageTrans项目，方便根据需求自己训练模型。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-03-30-how-to-train-yolov8-object-detection-model.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1711800299703,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "下面是具体的操作步骤：",
+                    "Here's the detailed steps to do this:",
+                    "下面是具体的操作步骤：",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-03-30-how-to-train-yolov8-object-detection-model.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1711800320791,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "打开一个ImageTrans项目，利用自动或手动方式完成对图片中目标（主要是文字区域）的定位。",
+                    "Open an ImageTrans project and use automatic or manual methods to complete the annotations of the objects (mainly text areas) in images.",
+                    "打开一个ImageTrans项目，利用自动或手动方式完成对图片中目标（主要是文字区域）的定位。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-03-30-how-to-train-yolov8-object-detection-model.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1711800353839,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "通过菜单-工具，打开目标检测标注数据管理器。",
+                    "Open Object Detection Annotation Data Manager through menu->tools.",
+                    "通过菜单-工具，打开目标检测标注数据管理器。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-03-30-how-to-train-yolov8-object-detection-model.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1711800384528,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "导出数据到一个目录。",
+                    "Export the data to a directory.",
+                    "导出数据到一个目录。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-03-30-how-to-train-yolov8-object-detection-model.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1711800420223,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "数据会以YOLO格式，按以下结构存储。",
+                    "The data will be stored in YOLO format according to the following structure.",
+                    "数据会以YOLO格式，按以下结构存储。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-03-30-how-to-train-yolov8-object-detection-model.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1711800423606,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "├─images",
+                    "",
+                    "├─images\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-03-30-how-to-train-yolov8-object-detection-model.md",
+                    {
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "│  ├─train",
+                    "",
+                    "│  ├─train\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-03-30-how-to-train-yolov8-object-detection-model.md",
+                    {
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "│  │      image1.jpg",
+                    "",
+                    "│  │      image1.jpg\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-03-30-how-to-train-yolov8-object-detection-model.md",
+                    {
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "│  │      image2.jpg",
+                    "",
+                    "│  │      image2.jpg\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-03-30-how-to-train-yolov8-object-detection-model.md",
+                    {
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "│  │",
+                    "",
+                    "│  │\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-03-30-how-to-train-yolov8-object-detection-model.md",
+                    {
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "│  └─val",
+                    "",
+                    "│  └─val\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-03-30-how-to-train-yolov8-object-detection-model.md",
+                    {
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "│         image3.jpg",
+                    "",
+                    "│         image3.jpg\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-03-30-how-to-train-yolov8-object-detection-model.md",
+                    {
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "│         image4.jpg",
+                    "",
+                    "│         image4.jpg\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-03-30-how-to-train-yolov8-object-detection-model.md",
+                    {
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "│",
+                    "",
+                    "│\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-03-30-how-to-train-yolov8-object-detection-model.md",
+                    {
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "├─labels",
+                    "",
+                    "├─labels\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-03-30-how-to-train-yolov8-object-detection-model.md",
+                    {
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "│  │",
+                    "",
+                    "│  │\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-03-30-how-to-train-yolov8-object-detection-model.md",
+                    {
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "│  ├─train",
+                    "",
+                    "│  ├─train\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-03-30-how-to-train-yolov8-object-detection-model.md",
+                    {
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "│  │      image1.txt",
+                    "",
+                    "│  │      image1.txt\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-03-30-how-to-train-yolov8-object-detection-model.md",
+                    {
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "│  │      image2.txt",
+                    "",
+                    "│  │      image2.txt\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-03-30-how-to-train-yolov8-object-detection-model.md",
+                    {
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "│  │",
+                    "",
+                    "│  │\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-03-30-how-to-train-yolov8-object-detection-model.md",
+                    {
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "│  └─val",
+                    "",
+                    "│  └─val\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-03-30-how-to-train-yolov8-object-detection-model.md",
+                    {
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "│         image3.txt",
+                    "",
+                    "│         image3.txt\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-03-30-how-to-train-yolov8-object-detection-model.md",
+                    {
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "│         image4.txt",
+                    "",
+                    "│         image4.txt\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-03-30-how-to-train-yolov8-object-detection-model.md",
+                    {
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "│",
+                    "",
+                    "│\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-03-30-how-to-train-yolov8-object-detection-model.md",
+                    {
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "├─balloon.yaml",
+                    "",
+                    "├─balloon.yaml\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-03-30-how-to-train-yolov8-object-detection-model.md",
+                    {
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "安装Python，并根据YOLOv8的<g1>文档<\/g1>安装yolo。",
+                    "Install Python and follow YOLOv8's documentation to install YOLO.",
+                    "安装Python，并根据YOLOv8的<g1>文档<\/g1>安装yolo。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-03-30-how-to-train-yolov8-object-detection-model.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1711800431798,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "在导出的数据的目录下，新建一个<g1>train.py<\/g1>的文件，并用Python执行以进行模型训练：",
+                    "Create a new <g1>train.py<\/g1> file in the directory of the exported data and execute it using Python to start training the model:",
+                    "在导出的数据的目录下，新建一个<g1>train.py<\/g1>的文件，并用Python执行以进行模型训练：",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-03-30-how-to-train-yolov8-object-detection-model.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1711800463927,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "from ultralytics import YOLO",
+                    "",
+                    "from ultralytics import YOLO\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-03-30-how-to-train-yolov8-object-detection-model.md",
+                    {
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "model = YOLO('yolov8n.pt')  # load a pretrained model (recommended for training)",
+                    "",
+                    "model = YOLO('yolov8n.pt')  # load a pretrained model (recommended for training)\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-03-30-how-to-train-yolov8-object-detection-model.md",
+                    {
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "# Train the model",
+                    "",
+                    "# Train the model\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-03-30-how-to-train-yolov8-object-detection-model.md",
+                    {
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "results = model.train(data='balloon.yaml', epochs=100, imgsz=640)",
+                    "",
+                    "results = model.train(data='balloon.yaml', epochs=100, imgsz=640)\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-03-30-how-to-train-yolov8-object-detection-model.md",
+                    {
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "通过命令行执行上述代码：",
+                    "Execute the above code through the command line:",
+                    "通过命令行执行上述代码：",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-03-30-how-to-train-yolov8-object-detection-model.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1711800472438,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "python train.py",
+                    "",
+                    "python train.py\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-03-30-how-to-train-yolov8-object-detection-model.md",
+                    {
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "通常，20张图片，训练100个epoch已经可以得到不错的效果了。",
+                    "Usually, training 100 epochs with 20 images can achieve a good result.",
+                    "通常，20张图片，训练100个epoch已经可以得到不错的效果了。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-03-30-how-to-train-yolov8-object-detection-model.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1711800489966,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "在CPU上也能完成训练。",
+                    "The training can be done with a CPU.",
+                    "在CPU上也能完成训练。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-03-30-how-to-train-yolov8-object-detection-model.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1711800520825,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "训练完成后，在<g1>runs\\detect\\train\\weights<\/g1>里，我们可以找到训练好的模型文件。",
+                    "After the training is completed, we can find the trained model file in <g1>runs\\detect\\train \\weights<\/g1>.",
+                    "训练完成后，在<g1>runs\\detect\\train\\weights<\/g1>里，我们可以找到训练好的模型文件。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-03-30-how-to-train-yolov8-object-detection-model.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1711800537591,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "这里我们用以下代码，转换<g2>best.pt<\/g2>为ImageTrans支持的onnx格式：",
+                    "Here, we use the following code to convert <g2>best.pt<\/g2> to the onnx format supported by ImageTrans:",
+                    "这里我们用以下代码，转换<g2>best.pt<\/g2>为ImageTrans支持的onnx格式：",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-03-30-how-to-train-yolov8-object-detection-model.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1711800555551,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "from ultralytics import YOLO",
+                    "",
+                    "from ultralytics import YOLO\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-03-30-how-to-train-yolov8-object-detection-model.md",
+                    {
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "model = YOLO('best.pt')",
+                    "",
+                    "model = YOLO('best.pt')\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-03-30-how-to-train-yolov8-object-detection-model.md",
+                    {
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "success = model.export(format='onnx')",
+                    "",
+                    "success = model.export(format='onnx')\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-03-30-how-to-train-yolov8-object-detection-model.md",
+                    {
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "将上述代码保存为<g1>convert.py<\/g1>，通过命令行执行：",
+                    "Save the above code as <g1>convert. py<\/g1> and execute it from the command line:",
+                    "将上述代码保存为<g1>convert.py<\/g1>，通过命令行执行：",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-03-30-how-to-train-yolov8-object-detection-model.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1711800565551,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "python convert.py",
+                    "",
+                    "python convert.py\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-03-30-how-to-train-yolov8-object-detection-model.md",
+                    {
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "将转换得到的<g1>best.onnx<\/g1>复制到ImageTrans的目录，重命名为<g2>model.onnx<\/g2>，并在ImageTrans的偏好设置里启用离线气泡检测。",
+                    "Copy the converted <g1>best.onnx<\/g1> to the directory of ImageTrans, rename it <g2>model.onnx<\/g2>, and enable offline balloon detection in ImageTrans's preferences.",
+                    "将转换得到的<g1>best.onnx<\/g1>复制到ImageTrans的目录，重命名为<g2>model.onnx<\/g2>，并在ImageTrans的偏好设置里启用离线气泡检测。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-03-30-how-to-train-yolov8-object-detection-model.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1711800585894,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "之后，便可以在ImageTrans中通过气泡检测调用YOLOv8目标检测模型了。",
+                    "Afterwards, the YOLOv8 object detection model can be called in ImageTrans through balloon detection.",
+                    "之后，便可以在ImageTrans中通过气泡检测调用YOLOv8目标检测模型了。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-03-30-how-to-train-yolov8-object-detection-model.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1711800594526,
+                        "id": "tu18"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}

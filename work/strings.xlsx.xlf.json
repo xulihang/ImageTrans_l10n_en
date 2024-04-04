@@ -1005,10 +1005,12 @@
                 ],
                 [
                     "“敏捷的棕毛狐狸跃过一只懒狗”",
-                    "\"The agile brown fox leaps over a lazy dog.\"",
+                    "“敏捷的棕毛狐狸跃过一只懒狗”",
                     "“敏捷的棕毛狐狸跃过一只懒狗”",
                     "xl\/sharedStrings.xml",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1712228689093,
                         "id": "P147242AB-tu103"
                     }
                 ],

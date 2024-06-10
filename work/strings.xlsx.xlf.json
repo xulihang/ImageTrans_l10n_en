@@ -1,6 +1,6 @@
 {
     "filename": "strings.xlsx.xlf",
-    "creationTime": 1717829780030,
+    "creationTime": 1717998871947,
     "files": [
         {
             "xl\/sharedStrings.xml": [
@@ -9428,6 +9428,39 @@
                     }
                 ],
                 [
+                    "使用识别的文字颜色做为描边颜色",
+                    "Use the detected text color as the stroke color",
+                    "使用识别的文字颜色做为描边颜色",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717998931165,
+                        "id": "P147242AB-tu932"
+                    }
+                ],
+                [
+                    "根据描边颜色深浅设置文字颜色",
+                    "Set the text color based on the depth of the stroke color",
+                    "根据描边颜色深浅设置文字颜色",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717998981312,
+                        "id": "P147242AB-tu933"
+                    }
+                ],
+                [
+                    "根据文字颜色深浅设置描边颜色",
+                    "Set the stroke color based on the depth of the text color",
+                    "根据文字颜色深浅设置描边颜色",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1717998976034,
+                        "id": "P147242AB-tu934"
+                    }
+                ],
+                [
                     "根据文字颜色匹配样式",
                     "Set font style based on text color",
                     "根据文字颜色匹配样式",
@@ -9435,7 +9468,19 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1668317597546,
-                        "id": "P147242AB-tu932"
+                        "id": "P147242AB-tu935"
+                    }
+                ],
+                [
+                    "根据描边颜色匹配样式",
+                    "Set font style based on stroke color",
+                    "根据描边颜色匹配样式",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1717998997275,
+                        "id": "P147242AB-tu936"
                     }
                 ],
                 [
@@ -9444,7 +9489,7 @@
                     "生成成品图",
                     "xl\/sharedStrings.xml",
                     {
-                        "id": "P147242AB-tu933"
+                        "id": "P147242AB-tu937"
                     }
                 ],
                 [
@@ -9456,7 +9501,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1701601206680,
-                        "id": "P147242AB-tu934"
+                        "id": "P147242AB-tu938"
                     }
                 ]
             ]

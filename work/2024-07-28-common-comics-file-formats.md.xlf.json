@@ -1,0 +1,307 @@
+{
+    "filename": "2024-07-28-common-comics-file-formats.md.xlf",
+    "files": [
+        {
+            "\/D:\/git\/BasicCAT-website\/_zh\/2024-07-28-common-comics-file-formats.md": [
+                [
+                    "本文我们介绍和漫画有关的常见文件格式。",
+                    "In this article, we introduce common file formats related to comics.",
+                    "本文我们介绍和漫画有关的常见文件格式。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-07-28-common-comics-file-formats.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722165029472,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "图片格式",
+                    "Picture format",
+                    "图片格式",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-07-28-common-comics-file-formats.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722165086985,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "漫画需要以图像或者图形格式保存。",
+                    "Comic pictures need to be saved in image or graphic format.",
+                    "漫画需要以图像或者图形格式保存。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-07-28-common-comics-file-formats.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722165093390,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "常见的图像格式：",
+                    "Common image formats:",
+                    "常见的图像格式：",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-07-28-common-comics-file-formats.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722165097185,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "JPG，一种有损的图像格式",
+                    "JPG, a lossy image format",
+                    "JPG，一种有损的图像格式",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-07-28-common-comics-file-formats.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722165101577,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "BMP，一种无损的图像格式",
+                    "BMP, a lossless image format",
+                    "BMP，一种无损的图像格式",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-07-28-common-comics-file-formats.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722165109672,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "PNG，一种支持透明度的图像格式，可以保存更丰富的内容",
+                    "PNG, an image format that supports transparency which saves richer content",
+                    "PNG，一种支持透明度的图像格式，可以保存更丰富的内容",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-07-28-common-comics-file-formats.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722165132856,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "WebP，一种压缩率高，主要用于网页的图像格式",
+                    "WebP, an image format with a high compression rate, mainly used for web pages",
+                    "WebP，一种压缩率高，主要用于网页的图像格式",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-07-28-common-comics-file-formats.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722165143600,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "GIF，一种动图格式",
+                    "GIF, a motion picture format",
+                    "GIF，一种动图格式",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-07-28-common-comics-file-formats.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722165162944,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "TIFF，一种图像格式，可以在一个文件中保存多张图像",
+                    "TIFF, an image format that allows multiple images to be saved in a single file",
+                    "TIFF，一种图像格式，可以在一个文件中保存多张图像",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-07-28-common-comics-file-formats.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722165171096,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "常见的图形格式：",
+                    "Common graphic formats:",
+                    "常见的图形格式：",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-07-28-common-comics-file-formats.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722165181271,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "SVG",
+                    "SVG",
+                    "SVG",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-07-28-common-comics-file-formats.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722165185009,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "EPS",
+                    "EPS",
+                    "EPS",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-07-28-common-comics-file-formats.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722165187864,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "漫画文件格式",
+                    "Comic File Format",
+                    "漫画文件格式",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-07-28-common-comics-file-formats.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722165193825,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "通常需要将多张漫画图片保存在一个文件里，以便分发。",
+                    "It is often necessary to save multiple comic images in a single file for distribution.",
+                    "通常需要将多张漫画图片保存在一个文件里，以便分发。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-07-28-common-comics-file-formats.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722165201704,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "下面是常用的几种格式：",
+                    "Here are a few of the formats that are commonly used:",
+                    "下面是常用的几种格式：",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-07-28-common-comics-file-formats.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722165208760,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "PDF",
+                    "PDF",
+                    "PDF",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-07-28-common-comics-file-formats.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722165215496,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "ZIP",
+                    "ZIP",
+                    "ZIP",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-07-28-common-comics-file-formats.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722165216472,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "CBR\/CBZ，这两种格式其实就是压缩包，前者使用RAR压缩，后者使用ZIP压缩",
+                    "CBR\/CBZ. These two formats are actually compressed packages, the former using RAR compression, the latter using ZIP compression",
+                    "CBR\/CBZ，这两种格式其实就是压缩包，前者使用RAR压缩，后者使用ZIP压缩",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-07-28-common-comics-file-formats.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722165260413,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "EPUB，开源的电子书格式，使用ZIP压缩",
+                    "EPUB, an open source ebook format that uses ZIP compression",
+                    "EPUB，开源的电子书格式，使用ZIP压缩",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-07-28-common-comics-file-formats.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722165237784,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "MOBI\/AZW。",
+                    "MOBI\/AZW.",
+                    "MOBI\/AZW。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-07-28-common-comics-file-formats.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722165245703,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "Kindle的电子书格式",
+                    "Kindle's e-book format",
+                    "Kindle的电子书格式",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-07-28-common-comics-file-formats.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722165277649,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "工程项目格式",
+                    "Project Format",
+                    "工程项目格式",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-07-28-common-comics-file-formats.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722165288344,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "PSD\/PSB，Adobe Photoshop的文件格式",
+                    "PSD\/PSB, Adobe Photoshop's file format",
+                    "PSD\/PSB，Adobe Photoshop的文件格式",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-07-28-common-comics-file-formats.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722165317485,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "AI，Adobe illustrator的文件格式",
+                    "AI, Adobe Illustrator's file format",
+                    "AI，Adobe illustrator的文件格式",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-07-28-common-comics-file-formats.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722165320316,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "IDML\/INDD，Adobe InDesign的文件格式",
+                    "IDML\/INDD, Adobe InDesign's file format",
+                    "IDML\/INDD，Adobe InDesign的文件格式",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-07-28-common-comics-file-formats.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722165326608,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "漫画翻译软件ImageTrans支持以上大多数的文件格式。",
+                    "The comic translation software, ImageTrans, supports most of the file formats mentioned above.",
+                    "漫画翻译软件ImageTrans支持以上大多数的文件格式。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-07-28-common-comics-file-formats.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722165341643,
+                        "id": "tu26"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}

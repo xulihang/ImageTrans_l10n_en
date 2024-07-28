@@ -1,0 +1,166 @@
+{
+    "filename": "2024-07-28-comic-reader-app-that-translates.md.xlf",
+    "files": [
+        {
+            "\/D:\/git\/BasicCAT-website\/_zh\/2024-07-28-comic-reader-app-that-translates.md": [
+                [
+                    "<g1>ImageTrans<\/g1>是一款计算机辅助图片翻译软件。",
+                    "<g1>ImageTrans<\/g1> is a computer-aided image translation software.",
+                    "<g1>ImageTrans<\/g1>是一款计算机辅助图片翻译软件。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-07-28-comic-reader-app-that-translates.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1722171747199,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "它具有较好的图片浏览功能，并且能识别图片中的文字并进行翻译，我们可以使用它来阅读外国漫画。",
+                    "It has a good image viewer and can recognize the text in the images and translate. We can use it as a comic reader to read foreign comics (or manga, webtoon, manhua, etc.).",
+                    "它具有较好的图片浏览功能，并且能识别图片中的文字并进行翻译，我们可以使用它来阅读外国漫画。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-07-28-comic-reader-app-that-translates.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722171919855,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "阅读相关的功能：",
+                    "Reading related features:",
+                    "阅读相关的功能：",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-07-28-comic-reader-app-that-translates.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722172067702,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "支持鼠标拖拽移动",
+                    "Dragging support with the mouse",
+                    "支持鼠标拖拽移动",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-07-28-comic-reader-app-that-translates.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722171962356,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "支持快捷键缩放",
+                    "Zoom and navigation with hotkeys support",
+                    "支持快捷键缩放",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-07-28-comic-reader-app-that-translates.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722171993375,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "支持各种常见的<g1>文件格式<\/g1>：JPG、PNG、BMP、WebP、PDF、ZIP、CBZ、EPUB、MOBI",
+                    "Support of a variety of common <g1>file formats<\/g1>: JPG, PNG, BMP, WebP, PDF, ZIP, CBZ, EPUB, MOBI, etc.",
+                    "支持各种常见的<g1>文件格式<\/g1>：JPG、PNG、BMP、WebP、PDF、ZIP、CBZ、EPUB、MOBI",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-07-28-comic-reader-app-that-translates.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722172119133,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "支持检测分镜，并以分镜为单位进行阅读或者<g1>转换漫画为条漫<\/g1>",
+                    "Support of detecting panels and reading by panels. It can also <g1>convert comics to webtoon<\/g1>.",
+                    "支持检测分镜，并以分镜为单位进行阅读或者<g1>转换漫画为条漫<\/g1>",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-07-28-comic-reader-app-that-translates.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722172121795,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "支持使用TTS进行语音朗读",
+                    "Voice reading using TTS",
+                    "支持使用TTS进行语音朗读",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-07-28-comic-reader-app-that-translates.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722172092071,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "支持导出结果为网页，供手机阅读",
+                    "Support of exporting results as web pages for reading on cell phones",
+                    "支持导出结果为网页，供手机阅读",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-07-28-comic-reader-app-that-translates.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722172139059,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "翻译相关的功能：",
+                    "Translation related features:",
+                    "翻译相关的功能：",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-07-28-comic-reader-app-that-translates.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1722172150883,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "支持世界上大多数语言",
+                    "Support of most languages in the world",
+                    "支持世界上大多数语言",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-07-28-comic-reader-app-that-translates.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722172164431,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "支持调用多种机器翻译和大语言模型",
+                    "Support of calling multiple machine translation engines and large language models",
+                    "支持调用多种机器翻译和大语言模型",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-07-28-comic-reader-app-that-translates.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722172202322,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "支持利用术语词典、字符替换等方法改善翻译",
+                    "Support of improving the translation with terms and strings substitution.",
+                    "支持利用术语词典、字符替换等方法改善翻译",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-07-28-comic-reader-app-that-translates.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722172233267,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "<x1\/>界面截图<x2\/>",
+                    "<x1\/>Interface screenshot<x2\/>",
+                    "<x1\/>界面截图<x2\/>",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-07-28-comic-reader-app-that-translates.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722172241182,
+                        "id": "tu13"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}

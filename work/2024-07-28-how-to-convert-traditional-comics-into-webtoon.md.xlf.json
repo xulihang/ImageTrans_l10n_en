@@ -1,0 +1,169 @@
+{
+    "filename": "2024-07-28-how-to-convert-traditional-comics-into-webtoon.md.xlf",
+    "files": [
+        {
+            "\/D:\/git\/BasicCAT-website\/_zh\/2024-07-28-how-to-convert-traditional-comics-into-webtoon.md": [
+                [
+                    "传统的漫画通常是以适合打印在A5或者A4纸的格式绘制的，简称格漫。",
+                    "Traditional comics (manga) are usually drawn in a format suitable for printing on A5 or A4 paper.",
+                    "传统的漫画通常是以适合打印在A5或者A4纸的格式绘制的，简称格漫。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-07-28-how-to-convert-traditional-comics-into-webtoon.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722167344085,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "随着手机等电子阅读设备的普及，出现了条漫这种形式。",
+                    "With the popularity of e-reading devices such as mobile phones, webtoon has comes up.",
+                    "随着手机等电子阅读设备的普及，出现了条漫这种形式。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-07-28-how-to-convert-traditional-comics-into-webtoon.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722167392176,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "它的特点是将漫画分镜以适合手机阅读的尺寸，排列在一张张较长的图片上，读者只需不停往下滑动就能一直阅读下去。",
+                    "It arranges comic panels on a long image in a size suitable for mobile phone reading. Readers can just keep reading by swiping down.",
+                    "它的特点是将漫画分镜以适合手机阅读的尺寸，排列在一张张较长的图片上，读者只需不停往下滑动就能一直阅读下去。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-07-28-how-to-convert-traditional-comics-into-webtoon.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722167463024,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "将已有的传统漫画转换为条漫，通常需要重新排列分镜、绘制气泡。",
+                    "Converting an existing traditional comics to webtoon usually involves rearranging subplots and redrawing speech bubbles.",
+                    "将已有的传统漫画转换为条漫，通常需要重新排列分镜、绘制气泡。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-07-28-how-to-convert-traditional-comics-into-webtoon.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722167492959,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "具体可以参考漫画师Jason Brubaker的<g1>这个视频<\/g1>。",
+                    "You can refer to <g1>the video<\/g1> by comic artist Jason Brubaker.",
+                    "具体可以参考漫画师Jason Brubaker的<g1>这个视频<\/g1>。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-07-28-how-to-convert-traditional-comics-into-webtoon.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722167504106,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "那我们作为读者，如果想转换传统漫画到条漫，方便在手机上阅读，又不想那么费力的话，可以使用ImageTrans进行自动转换。",
+                    "As readers, if we want to convert traditional comics to webtoon for easy reading on our mobile phones without too much effort, we can use ImageTrans for automatic conversion.",
+                    "那我们作为读者，如果想转换传统漫画到条漫，方便在手机上阅读，又不想那么费力的话，可以使用ImageTrans进行自动转换。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-07-28-how-to-convert-traditional-comics-into-webtoon.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722167538249,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "这个软件可以检测分镜，并将分镜以条漫的形式导出到一张图片里。",
+                    "This software can detect the panels and export them in a long image in the webtoon format.",
+                    "这个软件可以检测分镜，并将分镜以条漫的形式导出到一张图片里。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-07-28-how-to-convert-traditional-comics-into-webtoon.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722167567051,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "我们可以在软件里编辑分镜、调整分镜的顺序，确保结果正确后再导出。",
+                    "We can edit the panels and adjust the order of them in the software to ensure the results are correct before exporting.",
+                    "我们可以在软件里编辑分镜、调整分镜的顺序，确保结果正确后再导出。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-07-28-how-to-convert-traditional-comics-into-webtoon.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722167585530,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "<x1\/>分镜检测<x2\/>",
+                    "<x1\/>Panel detection<x2\/>",
+                    "<x1\/>分镜检测<x2\/>",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-07-28-how-to-convert-traditional-comics-into-webtoon.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1722167598530,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "原图：",
+                    "Original image:",
+                    "原图：",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-07-28-how-to-convert-traditional-comics-into-webtoon.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1611196838631,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "<x1\/>原图<x2\/>",
+                    "<x1\/>Original image<x2\/>",
+                    "<x1\/>原图<x2\/>",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-07-28-how-to-convert-traditional-comics-into-webtoon.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1683076550755,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "图片来自《铁姬钢兵》。",
+                    "Image source: \"Tie Ji Gang Bing\".",
+                    "图片来自《铁姬钢兵》。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-07-28-how-to-convert-traditional-comics-into-webtoon.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1722167624253,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "导出后的图：",
+                    "Exported image:",
+                    "导出后的图：",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-07-28-how-to-convert-traditional-comics-into-webtoon.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1722167630437,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "<x1\/>导出后的图<x2\/>",
+                    "<x1\/>Exported image:<x2\/>",
+                    "<x1\/>导出后的图<x2\/>",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-07-28-how-to-convert-traditional-comics-into-webtoon.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1722167635952,
+                        "id": "tu9"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}

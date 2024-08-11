@@ -2494,10 +2494,12 @@
                 ],
                 [
                     "关闭项目",
-                    "Close",
+                    "Close project",
                     "关闭项目",
                     "xl\/sharedStrings.xml",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1723357784797,
                         "id": "P147242AB-tu253"
                     }
                 ],

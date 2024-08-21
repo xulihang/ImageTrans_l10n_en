@@ -1,0 +1,486 @@
+{
+    "filename": "2024-08-21-how-to-localize-a-b4j-desktop-app.md.xlf",
+    "files": [
+        {
+            "\/D:\/git\/BasicCAT-website\/_zh\/2024-08-21-how-to-localize-a-b4j-desktop-app.md": [
+                [
+                    "ImageTrans是使用B4J编写的桌面程序，支持多种界面语言。",
+                    "ImageTrans is a desktop program written in B4J which can be displayed in multiple languages.",
+                    "ImageTrans是使用B4J编写的桌面程序，支持多种界面语言。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-08-21-how-to-localize-a-b4j-desktop-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1724247103635,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "在其背后使用了<g1>Localizator<\/g1>这一本地化库。",
+                    "The<g1>Localizer<\/g1>localization library is used behind it.",
+                    "在其背后使用了<g1>Localizator<\/g1>这一本地化库。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-08-21-how-to-localize-a-b4j-desktop-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1724247110807,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "它需要将键、语言以下面这样的Excel表格进行存储。",
+                    "It needs to store keys and text in different languages in an Excel spreadsheet like the following.",
+                    "它需要将键、语言以下面这样的Excel表格进行存储。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-08-21-how-to-localize-a-b4j-desktop-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1724247133044,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "key",
+                    "",
+                    "key",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-08-21-how-to-localize-a-b4j-desktop-app.md",
+                    {
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "zh",
+                    "",
+                    "zh",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-08-21-how-to-localize-a-b4j-desktop-app.md",
+                    {
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "en",
+                    "",
+                    "en",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-08-21-how-to-localize-a-b4j-desktop-app.md",
+                    {
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "Hello {1}",
+                    "",
+                    "Hello {1}",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-08-21-how-to-localize-a-b4j-desktop-app.md",
+                    {
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "你好 {1}",
+                    "",
+                    "你好 {1}",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-08-21-how-to-localize-a-b4j-desktop-app.md",
+                    {
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "Hello {1}",
+                    "",
+                    "Hello {1}",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-08-21-how-to-localize-a-b4j-desktop-app.md",
+                    {
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "之后在代码中调用，根据键找到对应的语言的版本：",
+                    "Then in the code, find the corresponding language version according to the key:",
+                    "之后在代码中调用，根据键找到对应的语言的版本：",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-08-21-how-to-localize-a-b4j-desktop-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1724247163995,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "lblHello.Text = loc.LocalizeParams(\"Hello {1}!\",",
+                    "",
+                    "lblHello.Text = loc.LocalizeParams(\"Hello {1}!\",",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-08-21-how-to-localize-a-b4j-desktop-app.md",
+                    {
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "Array(edtName.Text))",
+                    "",
+                    " Array(edtName.Text))\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-08-21-how-to-localize-a-b4j-desktop-app.md",
+                    {
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "要新增一个语言也很容易，直接新建一列，用ISO-639-1标准的语言代码作为表头。",
+                    "It's easy to add a new language by simply creating a new column and using the ISO-639-1 standard language code as the header.",
+                    "要新增一个语言也很容易，直接新建一列，用ISO-639-1标准的语言代码作为表头。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-08-21-how-to-localize-a-b4j-desktop-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1724247174661,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "比如下面的表格，新增了法语一列。",
+                    "For example, the table below has added a column for French.",
+                    "比如下面的表格，新增了法语一列。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-08-21-how-to-localize-a-b4j-desktop-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1724247185919,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "key",
+                    "",
+                    "key",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-08-21-how-to-localize-a-b4j-desktop-app.md",
+                    {
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "zh",
+                    "",
+                    "zh",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-08-21-how-to-localize-a-b4j-desktop-app.md",
+                    {
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "en",
+                    "",
+                    "en",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-08-21-how-to-localize-a-b4j-desktop-app.md",
+                    {
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "fr",
+                    "",
+                    "fr",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-08-21-how-to-localize-a-b4j-desktop-app.md",
+                    {
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "Hello {1}",
+                    "",
+                    "Hello {1}",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-08-21-how-to-localize-a-b4j-desktop-app.md",
+                    {
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "你好 {1}",
+                    "",
+                    "你好 {1}",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-08-21-how-to-localize-a-b4j-desktop-app.md",
+                    {
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "Hello {1}",
+                    "",
+                    "Hello {1}",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-08-21-how-to-localize-a-b4j-desktop-app.md",
+                    {
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "Bonjour {1}",
+                    "",
+                    "Bonjour {1}",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-08-21-how-to-localize-a-b4j-desktop-app.md",
+                    {
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "ImageTrans集成了本地化功能，可以导出上述表格，并从上述这样的表格导回翻译。",
+                    "ImageTrans has an integrated localization feature that allows you to export the above table and import back translations from the table.",
+                    "ImageTrans集成了本地化功能，可以导出上述表格，并从上述这样的表格导回翻译。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-08-21-how-to-localize-a-b4j-desktop-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1724247248235,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "详见这一issue：<g1>issue544<\/g1>",
+                    "See this issue for details: <g1>issue544<\/g1>",
+                    "详见这一issue：<g1>issue544<\/g1>",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-08-21-how-to-localize-a-b4j-desktop-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1724247274383,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "使用BasicCAT本地化ImageTrans",
+                    "Localize ImageTrans with BasicCAT",
+                    "使用BasicCAT本地化ImageTrans",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-08-21-how-to-localize-a-b4j-desktop-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1724247266900,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "下面讲解下如何用BasicCAT翻译导出的xlsx文件用于本地化ImageTrans。",
+                    "Next, let's talk about how to use BasicCAT to translate the exported xlsx file for localizing ImageTrans.",
+                    "下面讲解下如何用BasicCAT翻译导出的xlsx文件用于本地化ImageTrans。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-08-21-how-to-localize-a-b4j-desktop-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1724247339084,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "隐藏不需要翻译的列。",
+                    "Hide columns that do not require translation.",
+                    "隐藏不需要翻译的列。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-08-21-how-to-localize-a-b4j-desktop-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1724247343847,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "假设我们目前有下面这样的一张表，法语是待翻译的列：",
+                    "Suppose we currently have a table like the one below, with French as the column to be translated:",
+                    "假设我们目前有下面这样的一张表，法语是待翻译的列：",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-08-21-how-to-localize-a-b4j-desktop-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1724247347575,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "key",
+                    "",
+                    "key",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-08-21-how-to-localize-a-b4j-desktop-app.md",
+                    {
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "zh",
+                    "",
+                    "zh",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-08-21-how-to-localize-a-b4j-desktop-app.md",
+                    {
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "en",
+                    "",
+                    "en",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-08-21-how-to-localize-a-b4j-desktop-app.md",
+                    {
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "fr",
+                    "",
+                    "fr",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-08-21-how-to-localize-a-b4j-desktop-app.md",
+                    {
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "Hello {1}",
+                    "",
+                    "Hello {1}",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-08-21-how-to-localize-a-b4j-desktop-app.md",
+                    {
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "你好 {1}",
+                    "",
+                    "你好 {1}",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-08-21-how-to-localize-a-b4j-desktop-app.md",
+                    {
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "Hello {1}",
+                    "",
+                    "Hello {1}",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-08-21-how-to-localize-a-b4j-desktop-app.md",
+                    {
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "Hello {1}",
+                    "",
+                    "Hello {1}",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-08-21-how-to-localize-a-b4j-desktop-app.md",
+                    {
+                        "id": "tu33"
+                    }
+                ],
+                [
+                    "我们需要将其它列隐藏：",
+                    "We need to hide other columns to get the following table:",
+                    "我们需要将其它列隐藏：",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-08-21-how-to-localize-a-b4j-desktop-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1724247364807,
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    "fr",
+                    "",
+                    "fr",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-08-21-how-to-localize-a-b4j-desktop-app.md",
+                    {
+                        "id": "tu35"
+                    }
+                ],
+                [
+                    "Hello {1}",
+                    "",
+                    "Hello {1}",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-08-21-how-to-localize-a-b4j-desktop-app.md",
+                    {
+                        "id": "tu36"
+                    }
+                ],
+                [
+                    "之后再导入BasicCAT，BasicCAT就只会处理需要翻译的列。",
+                    "After that, BasicCAT will only process the column that needs to be translated.",
+                    "之后再导入BasicCAT，BasicCAT就只会处理需要翻译的列。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-08-21-how-to-localize-a-b4j-desktop-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1724247397261,
+                        "id": "tu37"
+                    }
+                ],
+                [
+                    "使用BasicCAT翻译并生成翻译好的xlsx导回ImageTrans软件即可。",
+                    "Use BasicCAT to translate and generate the translated xlsx to be imported back to the ImageTrans software.",
+                    "使用BasicCAT翻译并生成翻译好的xlsx导回ImageTrans软件即可。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-08-21-how-to-localize-a-b4j-desktop-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1724247412575,
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "我们可以使用BasicCAT的预翻译功能自动调用机器翻译进行翻译。",
+                    "We can use BasicCAT's pre-translation function to automatically invoke machine translation to translate.",
+                    "我们可以使用BasicCAT的预翻译功能自动调用机器翻译进行翻译。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-08-21-how-to-localize-a-b4j-desktop-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1724247442928,
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "处理新增的待翻译文本。",
+                    "Process newly added text to be translated.",
+                    "处理新增的待翻译文本。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-08-21-how-to-localize-a-b4j-desktop-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1724247446535,
+                        "id": "tu39"
+                    }
+                ],
+                [
+                    "软件每次版本更新，都有可能增加新的需要翻译的文本。",
+                    "Each version update of the software may add new text that needs to be translated.",
+                    "软件每次版本更新，都有可能增加新的需要翻译的文本。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-08-21-how-to-localize-a-b4j-desktop-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1724247450719,
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "我们可以按照步骤一准备好xlsx文件，之后利用BasicCAT的重新导入功能，基于新的文件和已有的翻译重新生成项目文件。",
+                    "We can prepare the xlsx file according to step 1, and later use BasicCAT's reimport feature to regenerate the project file based on the new file and the existing translations.",
+                    "我们可以按照步骤一准备好xlsx文件，之后利用BasicCAT的重新导入功能，基于新的文件和已有的翻译重新生成项目文件。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-08-21-how-to-localize-a-b4j-desktop-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1724247473439,
+                        "id": "tu41"
+                    }
+                ],
+                [
+                    "<x1\/>重新导入<x2\/>",
+                    "<x1\/>Reimport<x2\/>",
+                    "<x1\/>重新导入<x2\/>",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-08-21-how-to-localize-a-b4j-desktop-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1724247490992,
+                        "id": "tu42"
+                    }
+                ],
+                [
+                    "之后使用搜索与替换，查找译文为空的片段，点左下方的\"Filter Segments\"，在编辑器中只显示这些片段，方便我们翻译新的文本。",
+                    "Afterwards, use search and replace to find segments with empty translations. Click \"Filter Segments\" in the bottom left corner to display only these fragments in the editor, making it easier for us to translate new text.",
+                    "之后使用搜索与替换，查找译文为空的片段，点左下方的\"Filter Segments\"，在编辑器中只显示这些片段，方便我们翻译新的文本。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-08-21-how-to-localize-a-b4j-desktop-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1724247510983,
+                        "id": "tu43"
+                    }
+                ],
+                [
+                    "<x1\/>片段过滤<x2\/>",
+                    "<x1\/>Segments filtering<x2\/>",
+                    "<x1\/>片段过滤<x2\/>",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-08-21-how-to-localize-a-b4j-desktop-app.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1724247529355,
+                        "id": "tu44"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}

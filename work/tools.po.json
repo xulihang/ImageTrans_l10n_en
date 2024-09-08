@@ -1,6 +1,6 @@
 {
     "filename": "tools.po",
-    "creationTime": 1664700640687,
+    "creationTime": 1725778203386,
     "files": [
         {
             "tools.po": [
@@ -222,6 +222,40 @@
                     "tools.po",
                     {
                         "id": 22
+                    }
+                ],
+                [
+                    "目标检测标注数据管理器",
+                    "Object Detection Annotation Data Manager",
+                    "目标检测标注数据管理器",
+                    "tools.po",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1711775042086,
+                        "id": 23
+                    }
+                ],
+                [
+                    "该工具可以将项目数据以YOLO的数据格式导出或者导回。",
+                    "This tool can export or import project data in YOLO data format.",
+                    "该工具可以将项目数据以YOLO的数据格式导出或者导回。",
+                    "tools.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725778210415,
+                        "id": 24
+                    }
+                ],
+                [
+                    "支持OBB格式。",
+                    "Supports OBB format.",
+                    "支持OBB格式。",
+                    "tools.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725778215671,
+                        "id": 24
                     }
                 ]
             ]

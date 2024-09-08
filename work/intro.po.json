@@ -1,6 +1,6 @@
 {
     "filename": "intro.po",
-    "creationTime": 1642319341569,
+    "creationTime": 1725777686130,
     "files": [
         {
             "intro.po": [
@@ -92,6 +92,17 @@
                     "intro.po",
                     {
                         "id": 10
+                    }
+                ],
+                [
+                    "除了本文档，你也可以通过\\\\ `官方网站 <https:\/\/www.basiccat.org\/zh\/imagetrans\/>`_\\\\ 了解更多软件的内容。",
+                    "In addition to this document, you can also learn more about the software through the `official website <https:\/\/www.basiccat.org\/zh\/imagetrans\/>`_.",
+                    "除了本文档，你也可以通过\\\\ `官方网站 <https:\/\/www.basiccat.org\/zh\/imagetrans\/>`_\\\\ 了解更多软件的内容。",
+                    "intro.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725777692703,
+                        "id": 11
                     }
                 ]
             ]

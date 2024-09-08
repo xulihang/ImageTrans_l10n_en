@@ -1,6 +1,6 @@
 {
     "filename": "gettingstarted.po",
-    "creationTime": 1684662768148,
+    "creationTime": 1725778222686,
     "files": [
         {
             "gettingstarted.po": [
@@ -65,9 +65,9 @@
                     }
                 ],
                 [
-                    "下载zip压缩包，解压到任意目录，双击ImageTrans.jar或者命令行输入 ``java -jar ImageTrans.jar`` 即可运行。",
+                    "下载zip压缩包，解压到任意目录，双击ImageTrans.jar或者命令行输入\\\\ ``java -jar ImageTrans.jar``\\\\ 即可运行。",
                     "Download ImageTrans's zip file, unzip it to any folder, double-click ImageTrans.jar or enter the command line ``java -jar ImageTrans.jar`` to run it.",
-                    "下载zip压缩包，解压到任意目录，双击ImageTrans.jar或者命令行输入 ``java -jar ImageTrans.jar`` 即可运行。",
+                    "下载zip压缩包，解压到任意目录，双击ImageTrans.jar或者命令行输入\\\\ ``java -jar ImageTrans.jar``\\\\ 即可运行。",
                     "gettingstarted.po",
                     {
                         "note": "",
@@ -77,47 +77,25 @@
                     }
                 ],
                 [
-                    "软件依赖JRE 1.8以上运行环境，请先下载安装。",
-                    "The software depends on JRE 1.8+. Please download and install it first.",
-                    "软件依赖JRE 1.8以上运行环境，请先下载安装。",
+                    "软件依赖JRE 11以上运行环境，请先下载安装。",
+                    "The software depends on JRE 11+. Please download and install it first.",
+                    "软件依赖JRE 11以上运行环境，请先下载安装。",
                     "gettingstarted.po",
                     {
                         "note": "",
                         "creator": "xulihang",
-                        "createdTime": 1684054388065,
+                        "createdTime": 1725778257841,
                         "id": 8
                     }
                 ],
                 [
-                    "下载地址：1.",
-                    "Download: 1.",
-                    "下载地址：1.",
+                    "下载地址：\\\\ `Liberica JRE 11.0.19 full version  <https:\/\/github.com\/bell-sw\/Liberica\/releases\/tag\/11.0.19%2B7>`_",
+                    "Download link: `Liberica JRE 11.0.19 full version <https:\/\/github.com\/bell-sw\/Liberica\/releases\/tag\/11.0.19%2B7>`_",
+                    "下载地址：\\\\ `Liberica JRE 11.0.19 full version  <https:\/\/github.com\/bell-sw\/Liberica\/releases\/tag\/11.0.19%2B7>`_",
                     "gettingstarted.po",
                     {
-                        "note": "",
-                        "creator": "anonymous",
-                        "createdTime": 0,
-                        "id": 8
-                    }
-                ],
-                [
-                    "`Liberica JRE 11.0.19 full version  <https:\/\/github.com\/bell-sw\/Liberica\/releases\/tag\/11.0.19%2B7>`_ 2.",
-                    "",
-                    " `Liberica JRE 11.0.19 full version  <https:\/\/github.com\/bell-sw\/Liberica\/releases\/tag\/11.0.19%2B7>`_ 2.",
-                    "gettingstarted.po",
-                    {
-                        "id": 8
-                    }
-                ],
-                [
-                    "`百度网盘（提取码：mhsy） <https:\/\/pan.baidu.com\/s\/1t0g6htstFge0h2dOS0aBog>`_",
-                    "`Baidu Netdisk (code: mhsy) <https:\/\/pan.baidu.com\/s\/1t0g6htstFge0h2dOS0aBog>`_",
-                    " `百度网盘（提取码：mhsy） <https:\/\/pan.baidu.com\/s\/1t0g6htstFge0h2dOS0aBog>`_",
-                    "gettingstarted.po",
-                    {
-                        "note": "",
-                        "creator": "anonymous",
-                        "createdTime": 0,
+                        "creator": "xulihang",
+                        "createdTime": 1725779403421,
                         "id": 8
                     }
                 ],
@@ -134,35 +112,13 @@
                     }
                 ],
                 [
-                    "下载地址：1.",
-                    "Download: 1.",
-                    "下载地址：1.",
+                    "下载地址：\\\\ `GitHub <https:\/\/github.com\/xulihang\/ImageTrans-docs\/releases\/tag\/opencv>`_",
+                    "Download link: `GitHub <https:\/\/github.com\/xulihang\/ImageTrans-docs\/releases\/tag\/opencv>`_",
+                    "下载地址：\\\\ `GitHub <https:\/\/github.com\/xulihang\/ImageTrans-docs\/releases\/tag\/opencv>`_",
                     "gettingstarted.po",
                     {
-                        "note": "",
-                        "creator": "anonymous",
-                        "createdTime": 0,
-                        "id": 9
-                    }
-                ],
-                [
-                    "`GitHub <https:\/\/github.com\/xulihang\/ImageTrans-docs\/releases\/tag\/opencv>`_, 2.",
-                    "",
-                    " `GitHub <https:\/\/github.com\/xulihang\/ImageTrans-docs\/releases\/tag\/opencv>`_, 2.",
-                    "gettingstarted.po",
-                    {
-                        "id": 9
-                    }
-                ],
-                [
-                    "`百度网盘 <https:\/\/pan.baidu.com\/s\/1D9EZMKqwgqQjdEjwYFkZQQ>`_",
-                    "`Baidu Netdisk <https:\/\/pan.baidu.com\/s\/1D9EZMKqwgqQjdEjwYFkZQQ>`_",
-                    " `百度网盘 <https:\/\/pan.baidu.com\/s\/1D9EZMKqwgqQjdEjwYFkZQQ>`_",
-                    "gettingstarted.po",
-                    {
-                        "note": "",
-                        "creator": "anonymous",
-                        "createdTime": 0,
+                        "creator": "xulihang",
+                        "createdTime": 1725779406449,
                         "id": 9
                     }
                 ],
@@ -264,10 +220,12 @@
                 ],
                 [
                     "Tesseract",
-                    "",
+                    "Tesseract",
                     "Tesseract",
                     "gettingstarted.po",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1725778305767,
                         "id": 16
                     }
                 ],
@@ -284,41 +242,13 @@
                     }
                 ],
                 [
-                    "这里再提供一个Windows的绿色版本：`百度网盘（提取码：ktpt） <https:\/\/pan.baidu.com\/s\/1gJZyuntLetZEpFWI8XqkXA>`_。",
-                    "Here is a Windows version for download: `Baidu Netdisk (code: ktpt) <https:\/\/pan.baidu.com\/s\/1gJZyuntLetZEpFWI8XqkXA>`_.",
-                    "这里再提供一个Windows的绿色版本：`百度网盘（提取码：ktpt） <https:\/\/pan.baidu.com\/s\/1gJZyuntLetZEpFWI8XqkXA>`_。",
+                    "这里再提供一个Windows的安装版本：\\\\ `UB-Mannheim Tesseract5 <https:\/\/github.com\/UB-Mannheim\/tesseract\/releases\/download\/v5.4.0.20240606\/tesseract-ocr-w64-setup-5.4.0.20240606.exe>`_。",
+                    "Here is an installer version for Windows: `UB-Mannheim Tesseract5 <https:\/\/github.com\/UB-Mannheim\/tesseract\/releases\/download\/v5.4.0.20240606\/tesseract-ocr-w64-setup-5.4.0.20240606.exe>`_.",
+                    "这里再提供一个Windows的安装版本：\\\\ `UB-Mannheim Tesseract5 <https:\/\/github.com\/UB-Mannheim\/tesseract\/releases\/download\/v5.4.0.20240606\/tesseract-ocr-w64-setup-5.4.0.20240606.exe>`_。",
                     "gettingstarted.po",
                     {
-                        "neglected": "no",
-                        "note": "",
                         "creator": "xulihang",
-                        "createdTime": 1654329793912,
-                        "id": 18
-                    }
-                ],
-                [
-                    "下载后将tesseract-ocr目录和ImageTrans放在一起。",
-                    "Put the downloaded tesseract-ocr with ImageTrans.",
-                    "下载后将tesseract-ocr目录和ImageTrans放在一起。",
-                    "gettingstarted.po",
-                    {
-                        "neglected": "no",
-                        "note": "",
-                        "creator": "anonymous",
-                        "createdTime": 0,
-                        "id": 18
-                    }
-                ],
-                [
-                    "额外的语言包请放在 ``tesseract-ocr\\\tessdata`` 目录下。",
-                    "Put additional language data files under ``tesseract-ocr\\\\tessdata``.",
-                    "额外的语言包请放在 ``tesseract-ocr\\\tessdata`` 目录下。",
-                    "gettingstarted.po",
-                    {
-                        "neglected": "no",
-                        "note": "",
-                        "creator": "anonymous",
-                        "createdTime": 0,
+                        "createdTime": 1725778345000,
                         "id": 18
                     }
                 ],
@@ -1031,14 +961,14 @@
                     }
                 ],
                 [
-                    "图像PDF，将项目导出为PDF",
-                    "Raster PDF. Export the project as PDF.",
-                    "图像PDF，将项目导出为PDF",
+                    "图像PDF，将项目导出为PDF，支持添加可搜索的文字层",
+                    "Raster PDF. Export the project as PDF. Searchable text layers can be added.",
+                    "图像PDF，将项目导出为PDF，支持添加可搜索的文字层",
                     "gettingstarted.po",
                     {
                         "note": "",
                         "creator": "xulihang",
-                        "createdTime": 1684054519774,
+                        "createdTime": 1725778380577,
                         "id": 66
                     }
                 ],
@@ -1055,6 +985,17 @@
                     }
                 ],
                 [
+                    "分镜，导出分镜图像为单张图片、条漫或者PDF",
+                    "Panel. Export panels as single image files, webtoon files, or PDF files",
+                    "分镜，导出分镜图像为单张图片、条漫或者PDF",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725778457655,
+                        "id": 68
+                    }
+                ],
+                [
                     "翻译",
                     "Translation",
                     "翻译",
@@ -1063,7 +1004,7 @@
                         "note": "",
                         "creator": "anonymous",
                         "createdTime": 0,
-                        "id": 68
+                        "id": 69
                     }
                 ],
                 [
@@ -1075,7 +1016,7 @@
                         "note": "",
                         "creator": "anonymous",
                         "createdTime": 0,
-                        "id": 69
+                        "id": 70
                     }
                 ],
                 [
@@ -1087,7 +1028,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1695039689036,
-                        "id": 70
+                        "id": 71
                     }
                 ],
                 [
@@ -1099,7 +1040,7 @@
                         "note": "",
                         "creator": "anonymous",
                         "createdTime": 0,
-                        "id": 71
+                        "id": 72
                     }
                 ],
                 [
@@ -1111,7 +1052,7 @@
                         "note": "",
                         "creator": "anonymous",
                         "createdTime": 0,
-                        "id": 72
+                        "id": 73
                     }
                 ],
                 [
@@ -1123,7 +1064,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1695039715453,
-                        "id": 73
+                        "id": 74
                     }
                 ],
                 [
@@ -1135,7 +1076,7 @@
                         "note": "",
                         "creator": "anonymous",
                         "createdTime": 0,
-                        "id": 73
+                        "id": 74
                     }
                 ],
                 [
@@ -1147,7 +1088,7 @@
                         "note": "",
                         "creator": "anonymous",
                         "createdTime": 0,
-                        "id": 73
+                        "id": 74
                     }
                 ],
                 [
@@ -1159,7 +1100,7 @@
                         "note": "",
                         "creator": "anonymous",
                         "createdTime": 0,
-                        "id": 74
+                        "id": 75
                     }
                 ],
                 [
@@ -1171,19 +1112,7 @@
                         "note": "",
                         "creator": "anonymous",
                         "createdTime": 0,
-                        "id": 75
-                    }
-                ],
-                [
-                    "当前只支持机器翻译。",
-                    "Only machine translation is currently supported.",
-                    "当前只支持机器翻译。",
-                    "gettingstarted.po",
-                    {
-                        "note": "",
-                        "creator": "anonymous",
-                        "createdTime": 0,
-                        "id": 75
+                        "id": 76
                     }
                 ],
                 [
@@ -1195,7 +1124,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1654325588944,
-                        "id": 76
+                        "id": 77
                     }
                 ],
                 [
@@ -1207,7 +1136,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1654325620109,
-                        "id": 77
+                        "id": 78
                     }
                 ],
                 [
@@ -1219,7 +1148,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1654325660748,
-                        "id": 77
+                        "id": 78
                     }
                 ],
                 [
@@ -1231,7 +1160,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1654325660748,
-                        "id": 78
+                        "id": 79
                     }
                 ],
                 [
@@ -1243,18 +1172,6 @@
                         "note": "",
                         "creator": "anonymous",
                         "createdTime": 0,
-                        "id": 79
-                    }
-                ],
-                [
-                    "首先将图片比例调整为100%，之后点击查看翻译，得到成品图。",
-                    "First, switch the image scale to 100%, and then check Translated to get the translated picture.",
-                    "首先将图片比例调整为100%，之后点击查看翻译，得到成品图。",
-                    "gettingstarted.po",
-                    {
-                        "note": "",
-                        "creator": "xulihang",
-                        "createdTime": 1695039737892,
                         "id": 80
                     }
                 ],
@@ -1267,19 +1184,19 @@
                         "note": "",
                         "creator": "anonymous",
                         "createdTime": 0,
-                        "id": 80
+                        "id": 81
                     }
                 ],
                 [
-                    "另一选项ORA支持将文件导出为多层图像格式ORA，该格式能保存图层信息，供PS、Gimp和Krita等图像编辑软件编辑。",
+                    "选项ORA支持将文件导出为多层图像格式ORA，该格式能保存图层信息，供PS、Gimp和Krita等图像编辑软件编辑。",
                     "Another option, ORA, supports exporting files to multi-layer image format ORA, which holds layer information for image editing software such as PS, GIMP, and Krita.",
-                    "另一选项ORA支持将文件导出为多层图像格式ORA，该格式能保存图层信息，供PS、Gimp和Krita等图像编辑软件编辑。",
+                    "选项ORA支持将文件导出为多层图像格式ORA，该格式能保存图层信息，供PS、Gimp和Krita等图像编辑软件编辑。",
                     "gettingstarted.po",
                     {
                         "note": "",
                         "creator": "anonymous",
                         "createdTime": 0,
-                        "id": 80
+                        "id": 81
                     }
                 ],
                 [
@@ -1291,7 +1208,18 @@
                         "note": "",
                         "creator": "anonymous",
                         "createdTime": 0,
-                        "id": 81
+                        "id": 82
+                    }
+                ],
+                [
+                    "如果要生成全部图片的成品图，需要通过项目-批处理-导出所有图片的成品图进行操作。",
+                    "If you want to generate translated images for all, you need to use this menu item: Project->Batch->Generate translated images for all.",
+                    "如果要生成全部图片的成品图，需要通过项目-批处理-导出所有图片的成品图进行操作。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725778529234,
+                        "id": 83
                     }
                 ],
                 [
@@ -1303,7 +1231,7 @@
                         "note": "",
                         "creator": "anonymous",
                         "createdTime": 0,
-                        "id": 82
+                        "id": 84
                     }
                 ],
                 [
@@ -1315,7 +1243,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1695039756692,
-                        "id": 83
+                        "id": 85
                     }
                 ],
                 [
@@ -1327,19 +1255,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1654328577272,
-                        "id": 84
-                    }
-                ],
-                [
-                    "如果要修改某个样式，请点击该样式以加载设置，修改后点击添加，然后删去原来的样式。",
-                    "If you want to modify a style, click the style to load the settings and then click Add when the setting is done. Remember to delete the original style.",
-                    "如果要修改某个样式，请点击该样式以加载设置，修改后点击添加，然后删去原来的样式。",
-                    "gettingstarted.po",
-                    {
-                        "note": "",
-                        "creator": "anonymous",
-                        "createdTime": 0,
-                        "id": 85
+                        "id": 86
                     }
                 ],
                 [
@@ -1351,7 +1267,7 @@
                         "note": "",
                         "creator": "anonymous",
                         "createdTime": 0,
-                        "id": 85
+                        "id": 87
                     }
                 ],
                 [
@@ -1363,7 +1279,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1654328639043,
-                        "id": 85
+                        "id": 87
                     }
                 ],
                 [
@@ -1375,7 +1291,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1654328644963,
-                        "id": 86
+                        "id": 88
                     }
                 ],
                 [
@@ -1387,7 +1303,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1654328668543,
-                        "id": 87
+                        "id": 89
                     }
                 ],
                 [
@@ -1399,7 +1315,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1654328671400,
-                        "id": 87
+                        "id": 89
                     }
                 ],
                 [
@@ -1411,7 +1327,7 @@
                         "note": "",
                         "creator": "anonymous",
                         "createdTime": 0,
-                        "id": 88
+                        "id": 90
                     }
                 ],
                 [
@@ -1423,7 +1339,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1654328712486,
-                        "id": 89
+                        "id": 91
                     }
                 ],
                 [
@@ -1435,7 +1351,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1654328757476,
-                        "id": 89
+                        "id": 91
                     }
                 ],
                 [
@@ -1447,7 +1363,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1695039801615,
-                        "id": 89
+                        "id": 91
                     }
                 ],
                 [
@@ -1459,7 +1375,7 @@
                         "note": "",
                         "creator": "anonymous",
                         "createdTime": 0,
-                        "id": 90
+                        "id": 92
                     }
                 ],
                 [
@@ -1471,7 +1387,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1654328782687,
-                        "id": 91
+                        "id": 93
                     }
                 ],
                 [
@@ -1483,7 +1399,7 @@
                         "note": "",
                         "creator": "anonymous",
                         "createdTime": 0,
-                        "id": 92
+                        "id": 94
                     }
                 ],
                 [
@@ -1495,7 +1411,7 @@
                         "note": "",
                         "creator": "anonymous",
                         "createdTime": 0,
-                        "id": 92
+                        "id": 94
                     }
                 ],
                 [
@@ -1507,7 +1423,7 @@
                         "note": "",
                         "creator": "anonymous",
                         "createdTime": 0,
-                        "id": 92
+                        "id": 94
                     }
                 ],
                 [
@@ -1519,7 +1435,7 @@
                         "note": "",
                         "creator": "anonymous",
                         "createdTime": 0,
-                        "id": 92
+                        "id": 94
                     }
                 ],
                 [
@@ -1531,7 +1447,7 @@
                         "note": "",
                         "creator": "anonymous",
                         "createdTime": 0,
-                        "id": 93
+                        "id": 95
                     }
                 ],
                 [
@@ -1543,7 +1459,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1654328802783,
-                        "id": 94
+                        "id": 96
                     }
                 ],
                 [
@@ -1555,7 +1471,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1654328810047,
-                        "id": 94
+                        "id": 96
                     }
                 ],
                 [
@@ -1567,7 +1483,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1654328818799,
-                        "id": 95
+                        "id": 97
                     }
                 ],
                 [
@@ -1579,7 +1495,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1654328849218,
-                        "id": 96
+                        "id": 98
                     }
                 ],
                 [
@@ -1591,7 +1507,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1684054558550,
-                        "id": 97
+                        "id": 99
                     }
                 ],
                 [
@@ -1603,25 +1519,19 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1684054813972,
-                        "id": 98
+                        "id": 100
                     }
                 ],
                 [
-                    "是使用这样的标记文本表示的： ``留[b][fi]性感[\/fi][\/b]的绿发，穿绿皮衣的那个人。",
-                    "",
-                    "是使用这样的标记文本表示的： ``留[b][fi]性感[\/fi][\/b]的绿发，穿绿皮衣的那个人。",
+                    "是使用这样的标记文本表示的： ``留[b][fi]性感[\/fi][\/b]的绿发，穿绿皮衣的那个人。`` 。",
+                    "It is represented using the following text with BBCode: ``留[b][fi]性感[\/fi][\/b]的绿发，穿绿皮衣的那个人。``\\ .",
+                    "是使用这样的标记文本表示的： ``留[b][fi]性感[\/fi][\/b]的绿发，穿绿皮衣的那个人。`` 。",
                     "gettingstarted.po",
                     {
-                        "id": 99
-                    }
-                ],
-                [
-                    "`` 。",
-                    "",
-                    "`` 。",
-                    "gettingstarted.po",
-                    {
-                        "id": 99
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1725779510064,
+                        "id": 101
                     }
                 ],
                 [
@@ -1633,7 +1543,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1684054908331,
-                        "id": 100
+                        "id": 102
                     }
                 ],
                 [
@@ -1645,7 +1555,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1684054914272,
-                        "id": 101
+                        "id": 103
                     }
                 ],
                 [
@@ -1657,7 +1567,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1684054920140,
-                        "id": 102
+                        "id": 104
                     }
                 ],
                 [
@@ -1669,7 +1579,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1684054927430,
-                        "id": 103
+                        "id": 105
                     }
                 ],
                 [
@@ -1678,19 +1588,18 @@
                     "b",
                     "gettingstarted.po",
                     {
-                        "id": 104
+                        "id": 106
                     }
                 ],
                 [
-                    "粗体",
-                    "Bold",
-                    "粗体",
+                    "粗体（需要字体本身支持粗体）",
+                    "Bold (requires the font itself to support bold)",
+                    "粗体（需要字体本身支持粗体）",
                     "gettingstarted.po",
                     {
-                        "note": "",
                         "creator": "xulihang",
-                        "createdTime": 1684054967183,
-                        "id": 105
+                        "createdTime": 1725778577264,
+                        "id": 107
                     }
                 ],
                 [
@@ -1702,7 +1611,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1684054974655,
-                        "id": 106
+                        "id": 108
                     }
                 ],
                 [
@@ -1711,19 +1620,18 @@
                     "i",
                     "gettingstarted.po",
                     {
-                        "id": 107
+                        "id": 109
                     }
                 ],
                 [
-                    "斜体",
-                    "Italic",
-                    "斜体",
+                    "斜体（需要字体本身支持斜体）",
+                    "Italic (requires the font itself to support italics)",
+                    "斜体（需要字体本身支持斜体）",
                     "gettingstarted.po",
                     {
-                        "note": "",
                         "creator": "xulihang",
-                        "createdTime": 1684054980402,
-                        "id": 108
+                        "createdTime": 1725778588223,
+                        "id": 110
                     }
                 ],
                 [
@@ -1735,7 +1643,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1684054986675,
-                        "id": 109
+                        "id": 111
                     }
                 ],
                 [
@@ -1744,19 +1652,18 @@
                     "fb",
                     "gettingstarted.po",
                     {
-                        "id": 110
+                        "id": 112
                     }
                 ],
                 [
-                    "仿粗体",
-                    "Faux bold",
-                    "仿粗体",
+                    "仿粗体（仅用于横排）",
+                    "Faux bold (only for horizontal text)",
+                    "仿粗体（仅用于横排）",
                     "gettingstarted.po",
                     {
-                        "note": "",
                         "creator": "xulihang",
-                        "createdTime": 1684055034998,
-                        "id": 111
+                        "createdTime": 1725778602243,
+                        "id": 113
                     }
                 ],
                 [
@@ -1768,40 +1675,198 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1684054998127,
-                        "id": 112
-                    }
-                ],
-                [
-                    "fi",
-                    "",
-                    "fi",
-                    "gettingstarted.po",
-                    {
-                        "id": 113
-                    }
-                ],
-                [
-                    "仿斜体",
-                    "Faux italic",
-                    "仿斜体",
-                    "gettingstarted.po",
-                    {
-                        "note": "",
-                        "creator": "xulihang",
-                        "createdTime": 1684055038142,
                         "id": 114
                     }
                 ],
                 [
-                    "[fi]文本[\/fi]",
-                    "[fi]text[\/fi]",
-                    "[fi]文本[\/fi]",
+                    "fi",
+                    "",
+                    "fi",
+                    "gettingstarted.po",
+                    {
+                        "id": 115
+                    }
+                ],
+                [
+                    "仿斜体（仅用于横排）",
+                    "Faux italic (only for horizontal text)",
+                    "仿斜体（仅用于横排）",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725778609347,
+                        "id": 116
+                    }
+                ],
+                [
+                    "[fi]文本[\/fi] 或者 [fi=2,2,2]文本[\/fi] 2,2,2分别代表倾斜程度、纵坐标偏移量和高度偏移量",
+                    "[fi]text[\/fi] or [fi=2,2,2]text[\/fi] The three values respectively represent the degree of inclination, vertical offset, and height offset",
+                    "[fi]文本[\/fi] 或者 [fi=2,2,2]文本[\/fi] 2,2,2分别代表倾斜程度、纵坐标偏移量和高度偏移量",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725778695972,
+                        "id": 117
+                    }
+                ],
+                [
+                    "u",
+                    "",
+                    "u",
+                    "gettingstarted.po",
+                    {
+                        "id": 118
+                    }
+                ],
+                [
+                    "下划线（仅用于横排）",
+                    "Underline (only for horizontal text)",
+                    "下划线（仅用于横排）",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725778710434,
+                        "id": 119
+                    }
+                ],
+                [
+                    "[u]文本[\/u]",
+                    "[u]text[\/u]",
+                    "[u]文本[\/u]",
                     "gettingstarted.po",
                     {
                         "note": "",
                         "creator": "xulihang",
-                        "createdTime": 1684055007982,
-                        "id": 115
+                        "createdTime": 1725778733316,
+                        "id": 120
+                    }
+                ],
+                [
+                    "s",
+                    "",
+                    "s",
+                    "gettingstarted.po",
+                    {
+                        "id": 121
+                    }
+                ],
+                [
+                    "删除线（仅用于横排）",
+                    "Strikethrough (only for horizontal text)",
+                    "删除线（仅用于横排）",
+                    "gettingstarted.po",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1725778721370,
+                        "id": 122
+                    }
+                ],
+                [
+                    "[s]文本[\/s]",
+                    "[s]text[\/s]",
+                    "[s]文本[\/s]",
+                    "gettingstarted.po",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1725778736930,
+                        "id": 123
+                    }
+                ],
+                [
+                    "h",
+                    "",
+                    "h",
+                    "gettingstarted.po",
+                    {
+                        "id": 124
+                    }
+                ],
+                [
+                    "竖排内横排（仅用于竖排）",
+                    "Horizontal within vertical (only for vertical text)",
+                    "竖排内横排（仅用于竖排）",
+                    "gettingstarted.po",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1725778749016,
+                        "id": 125
+                    }
+                ],
+                [
+                    "[h]文本[\/h]",
+                    "[h]text[\/h]",
+                    "[h]文本[\/h]",
+                    "gettingstarted.po",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1725778756280,
+                        "id": 126
+                    }
+                ],
+                [
+                    "offsetx",
+                    "",
+                    "offsetx",
+                    "gettingstarted.po",
+                    {
+                        "id": 127
+                    }
+                ],
+                [
+                    "横向偏移量（仅用于竖排）",
+                    "Horizontal offset (only for vertical text)",
+                    "横向偏移量（仅用于竖排）",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725778772180,
+                        "id": 128
+                    }
+                ],
+                [
+                    "[offsetx=5]文本[\/offsetx]",
+                    "[offsetx=5]text[\/offsetx]",
+                    "[offsetx=5]文本[\/offsetx]",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725778783410,
+                        "id": 129
+                    }
+                ],
+                [
+                    "offsety",
+                    "",
+                    "offsety",
+                    "gettingstarted.po",
+                    {
+                        "id": 130
+                    }
+                ],
+                [
+                    "纵向偏移量（仅用于竖排）",
+                    "Vertical offset (only for vertical text)",
+                    "纵向偏移量（仅用于竖排）",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725778777786,
+                        "id": 131
+                    }
+                ],
+                [
+                    "[offsety=5]文本[\/offsety]",
+                    "[offsety=5]text[\/offsety]",
+                    "[offsety=5]文本[\/offsety]",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725778790984,
+                        "id": 132
                     }
                 ],
                 [
@@ -1810,7 +1875,7 @@
                     "fontfamily",
                     "gettingstarted.po",
                     {
-                        "id": 116
+                        "id": 133
                     }
                 ],
                 [
@@ -1822,7 +1887,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1684055020539,
-                        "id": 117
+                        "id": 134
                     }
                 ],
                 [
@@ -1834,7 +1899,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1684055044766,
-                        "id": 118
+                        "id": 135
                     }
                 ],
                 [
@@ -1843,7 +1908,7 @@
                     "fontsize",
                     "gettingstarted.po",
                     {
-                        "id": 119
+                        "id": 136
                     }
                 ],
                 [
@@ -1855,7 +1920,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1684055050715,
-                        "id": 120
+                        "id": 137
                     }
                 ],
                 [
@@ -1867,7 +1932,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1684055057070,
-                        "id": 121
+                        "id": 138
                     }
                 ],
                 [
@@ -1876,7 +1941,7 @@
                     "fontcolor",
                     "gettingstarted.po",
                     {
-                        "id": 122
+                        "id": 139
                     }
                 ],
                 [
@@ -1888,7 +1953,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1684055061038,
-                        "id": 123
+                        "id": 140
                     }
                 ],
                 [
@@ -1900,7 +1965,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1684055067407,
-                        "id": 124
+                        "id": 141
                     }
                 ],
                 [
@@ -1912,7 +1977,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1684055090386,
-                        "id": 125
+                        "id": 142
                     }
                 ],
                 [
@@ -1924,7 +1989,7 @@
                         "note": "",
                         "creator": "anonymous",
                         "createdTime": 0,
-                        "id": 126
+                        "id": 143
                     }
                 ],
                 [
@@ -1936,7 +2001,187 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1695039838365,
-                        "id": 127
+                        "id": 144
+                    }
+                ],
+                [
+                    "可以通过自定义工作流功能一次性对所有图片执行所需的操作。",
+                    "You can perform selected operations on all images at once through the custom workflow function.",
+                    "可以通过自定义工作流功能一次性对所有图片执行所需的操作。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725778809675,
+                        "id": 144
+                    }
+                ],
+                [
+                    "工具栏",
+                    "Toolbar",
+                    "工具栏",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725778821871,
+                        "id": 145
+                    }
+                ],
+                [
+                    "点击程序左侧工具栏按钮，可以切换不同的工具栏。",
+                    "Click the toolbar buttons on the left side of the program to switch between different toolbars.",
+                    "点击程序左侧工具栏按钮，可以切换不同的工具栏。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725778827422,
+                        "id": 146
+                    }
+                ],
+                [
+                    "目前支持以下工具栏：",
+                    "Currently, the following toolbars are supported:",
+                    "目前支持以下工具栏：",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725778831919,
+                        "id": 147
+                    }
+                ],
+                [
+                    "OCR。",
+                    "OCR.",
+                    "OCR。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725778839103,
+                        "id": 148
+                    }
+                ],
+                [
+                    "多选。",
+                    "Multiple selection.",
+                    "多选。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725778844929,
+                        "id": 149
+                    }
+                ],
+                [
+                    "支持选中多个区域并进行对齐、删除、合并、统一字体等操作。",
+                    "It can select multiple text areas and perform operations such as aligning, deleting, merging, and unifying fonts.",
+                    "支持选中多个区域并进行对齐、删除、合并、统一字体等操作。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725779036938,
+                        "id": 149
+                    }
+                ],
+                [
+                    "文字区域分割。",
+                    "Text area cutting.",
+                    "文字区域分割。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725778877184,
+                        "id": 150
+                    }
+                ],
+                [
+                    "快速建框。",
+                    "Quick creation of text boxes by dragging.",
+                    "快速建框。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725778903824,
+                        "id": 151
+                    }
+                ],
+                [
+                    "字体。",
+                    "Font.",
+                    "字体。",
+                    "gettingstarted.po",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1725778909927,
+                        "id": 152
+                    }
+                ],
+                [
+                    "排序。",
+                    "Sort.",
+                    "排序。",
+                    "gettingstarted.po",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1725778912463,
+                        "id": 153
+                    }
+                ],
+                [
+                    "支持检测分镜和在文字区域上显示序号。",
+                    "It can detect panels and display the ranking numbers on text areas.",
+                    "支持检测分镜和在文字区域上显示序号。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725779040154,
+                        "id": 153
+                    }
+                ],
+                [
+                    "原图相关。",
+                    "Source image related.",
+                    "原图相关。",
+                    "gettingstarted.po",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1725778952575,
+                        "id": 154
+                    }
+                ],
+                [
+                    "支持调整译文图层透明度和与原文区域进行对齐。",
+                    "It can adjust the transparency of the translation layer and align text areas with the original text areas.",
+                    "支持调整译文图层透明度和与原文区域进行对齐。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725779041815,
+                        "id": 154
+                    }
+                ],
+                [
+                    "编辑。",
+                    "Edit.",
+                    "编辑。",
+                    "gettingstarted.po",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1725778999831,
+                        "id": 155
+                    }
+                ],
+                [
+                    "支持旋转、翻转等图像编辑操作。",
+                    "It can rotate or flip images.",
+                    "支持旋转、翻转等图像编辑操作。",
+                    "gettingstarted.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725779049601,
+                        "id": 155
                     }
                 ]
             ]

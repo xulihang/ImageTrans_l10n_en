@@ -1,6 +1,6 @@
 {
     "filename": "textarea_detection_and_text_reinjection.po",
-    "creationTime": 1664700640610,
+    "creationTime": 1725778044798,
     "files": [
         {
             "textarea_detection_and_text_reinjection.po": [
@@ -37,6 +37,17 @@
                     "ImageTrans支持四种文字检测方式：OCR提供的检测功能、基于深度学习目标检测的气泡检测功能、基于规则的启发式检测方法和自然场景文字检测方法。",
                     "textarea_detection_and_text_reinjection.po",
                     {
+                        "id": 5
+                    }
+                ],
+                [
+                    "更多可以看这篇博客：\\\\ `为图片翻译选择合适的文字检测方法 <https:\/\/www.basiccat.org\/zh\/choose-a-suitable-text-detection-method-for-image-translation\/>`_。",
+                    "For more information, please refer to this blog post: `Choose a Suitable Text Detection Method for Image Translation <https:\/\/www.basiccat.org\/zh\/choose-a-suitable-text-detection-method-for-image-translation\/>`_.",
+                    "更多可以看这篇博客：\\\\ `为图片翻译选择合适的文字检测方法 <https:\/\/www.basiccat.org\/zh\/choose-a-suitable-text-detection-method-for-image-translation\/>`_。",
+                    "textarea_detection_and_text_reinjection.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725779695020,
                         "id": 5
                     }
                 ],
@@ -142,13 +153,13 @@
                     }
                 ],
                 [
-                    "文字区域置信度获取是利用TensorFlow提供的脚本基于卷积神经网络预训练模型重新训练的，相关代码见此： `<https:\/\/github.com\/xulihang\/text-image-classifier>`_。",
+                    "文字区域置信度获取是利用TensorFlow提供的脚本基于卷积神经网络预训练模型重新训练的，相关代码见此：`<https:\/\/github.com\/xulihang\/text-image-classifier>`_。",
                     "The confidence of text areas is obtained using a CNN model retrained using TensorFlow’s script. See the code here: `<https:\/\/github.com\/xulihang\/text-image-classifier>`_.",
-                    "文字区域置信度获取是利用TensorFlow提供的脚本基于卷积神经网络预训练模型重新训练的，相关代码见此： `<https:\/\/github.com\/xulihang\/text-image-classifier>`_。",
+                    "文字区域置信度获取是利用TensorFlow提供的脚本基于卷积神经网络预训练模型重新训练的，相关代码见此：`<https:\/\/github.com\/xulihang\/text-image-classifier>`_。",
                     "textarea_detection_and_text_reinjection.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1654329100043,
+                        "createdTime": 1725778128763,
                         "id": 16
                     }
                 ],
@@ -322,13 +333,25 @@
                 ],
                 [
                     "如果存在无文字原图，可以通过\\\\ `无文字原图和纯文字图管理器 <https:\/\/github.com\/xulihang\/ImageTrans-docs\/issues\/199#issuecomment-1133639931>`_\\\\ 设置无文字原图，查看翻译时会直接使用原图。",
-                    "If a text-free original image exists, that text-free original image can be set through the `Textless Original Image and Pure-Text Image Manager <https:\/\/github.com\/xulihang\/ImageTrans-docs\/issues\/199 #issuecomment-1133639931>`_. The original image will be directly used when viewing the translated image.",
+                    "If a text-free original image exists, that text-free original image can be set through the `Textless Original Image and Pure-Text Image Manager <https:\/\/github.com\/xulihang\/ImageTrans-docs\/issues\/199#issuecomment-1133639931>`_. The original image will be directly used when viewing the translated image.",
                     "如果存在无文字原图，可以通过\\\\ `无文字原图和纯文字图管理器 <https:\/\/github.com\/xulihang\/ImageTrans-docs\/issues\/199#issuecomment-1133639931>`_\\\\ 设置无文字原图，查看翻译时会直接使用原图。",
                     "textarea_detection_and_text_reinjection.po",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1654331191052,
+                        "createdTime": 1725779853172,
                         "id": 32
+                    }
+                ],
+                [
+                    "更多可以看这篇博客：\\\\ `ImageTrans图片文字抹除详解 <https:\/\/www.basiccat.org\/zh\/details-about-image-text-removal-using-imagetrans\/>`_。",
+                    "For more information, please refer to this blog post: `Details about Image Text Removal using ImageTrans <https:\/\/www.basiccat.org\/zh\/details-about-image-text-removal-using-imagetrans\/>`_.",
+                    "更多可以看这篇博客：\\\\ `ImageTrans图片文字抹除详解 <https:\/\/www.basiccat.org\/zh\/details-about-image-text-removal-using-imagetrans\/>`_。",
+                    "textarea_detection_and_text_reinjection.po",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1725779793060,
+                        "id": 33
                     }
                 ],
                 [
@@ -337,7 +360,7 @@
                     "译文放置",
                     "textarea_detection_and_text_reinjection.po",
                     {
-                        "id": 33
+                        "id": 34
                     }
                 ],
                 [
@@ -346,7 +369,7 @@
                     "根据文本框的大小和位置放置译文，支持自动根据文本框的大小调整译文大小，可以在项目设置里进行设置。",
                     "textarea_detection_and_text_reinjection.po",
                     {
-                        "id": 34
+                        "id": 35
                     }
                 ],
                 [
@@ -355,7 +378,7 @@
                     "颜色检测",
                     "textarea_detection_and_text_reinjection.po",
                     {
-                        "id": 35
+                        "id": 36
                     }
                 ],
                 [
@@ -364,7 +387,29 @@
                     "本工具能较粗略地自动检测背景颜色和文字颜色，点击编辑-颜色操作进行相关操作。",
                     "textarea_detection_and_text_reinjection.po",
                     {
-                        "id": 36
+                        "id": 37
+                    }
+                ],
+                [
+                    "旋转检测",
+                    "Rotation Detection",
+                    "旋转检测",
+                    "textarea_detection_and_text_reinjection.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725778165351,
+                        "id": 38
+                    }
+                ],
+                [
+                    "本工具支持检测旋转的文字的角度，可以通过编辑-文字区域操作菜单或者自定义工作流进行操作。",
+                    "This tool supports detecting the angle of rotated text, which can be operated through the Edit->Text Area Operation menu or custom workflow.",
+                    "本工具支持检测旋转的文字的角度，可以通过编辑-文字区域操作菜单或者自定义工作流进行操作。",
+                    "textarea_detection_and_text_reinjection.po",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1725778181729,
+                        "id": 39
                     }
                 ]
             ]

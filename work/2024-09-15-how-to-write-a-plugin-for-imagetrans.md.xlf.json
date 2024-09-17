@@ -1,0 +1,1484 @@
+{
+    "filename": "2024-09-15-how-to-write-a-plugin-for-imagetrans.md.xlf",
+    "files": [
+        {
+            "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md": [
+                [
+                    "ImageTrans使用ABPlugin这个库提供插件功能。",
+                    "ImageTrans uses the ABPlugin library to provide plugin functionality.",
+                    "ImageTrans使用ABPlugin这个库提供插件功能。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726540148107,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "我们可以编写文字识别、机器翻译、掩膜生成和文字去除等四种插件。",
+                    "We can develop four types of plugins: text recognition, machine translation, mask generation, and text removal.",
+                    "我们可以编写文字识别、机器翻译、掩膜生成和文字去除等四种插件。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726540160716,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "这里我们演示一下如何编写一个谷歌机器翻译插件。",
+                    "Here we are going to write a Google machine translation plugin for demonstration.",
+                    "这里我们演示一下如何编写一个谷歌机器翻译插件。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726540242871,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "环境准备",
+                    "Environments",
+                    "环境准备",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726540266334,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "下载B4J 8.9：<g1>B4J.zip<\/g1>。",
+                    "Download B4J 8.9: <g1>B4J. zip<\/g1>.",
+                    "下载B4J 8.9：<g1>B4J.zip<\/g1>。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726540272716,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "下载额外的类库：<g1>b4jlib.zip<\/g1>。",
+                    "Download additional libraries: <g1>b4jlib. zip<\/g1>.",
+                    "下载额外的类库：<g1>b4jlib.zip<\/g1>。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726540277150,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "下载OpenJDK + OpenJFX：<g1>jdk-14.0.1.zip<\/g1>",
+                    "Download OpenJDK+OpenJFX: <g1>jdk-14.0.1.zip<\/g1>",
+                    "下载OpenJDK + OpenJFX：<g1>jdk-14.0.1.zip<\/g1>",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726540282045,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "在软件中配置类库地址和JDK的地址。",
+                    "Configure the library path and the JDK path in the software.",
+                    "在软件中配置类库地址和JDK的地址。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726540310199,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "<x1\/>路径配置<x2\/>",
+                    "<x1\/>Path configuration<x2\/>",
+                    "<x1\/>路径配置<x2\/>",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726540317643,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "新建项目",
+                    "New Project",
+                    "新建项目",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1726540328684,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "新建一个UI项目。",
+                    "Create a new UI project.",
+                    "新建一个UI项目。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726540334859,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "在Build Configuration中将包改为和ImageTrans一样的<g1>org.xulihang.imagetrans<\/g1>。",
+                    "In Build Configuration, change the package to<g1>org. xulihang. imagetrans<\/g1>, which is the same as ImageTrans.",
+                    "在Build Configuration中将包改为和ImageTrans一样的<g1>org.xulihang.imagetrans<\/g1>。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726540346827,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "然后新建一个<g1>googleMTPlugin.bas<\/g1>的类，包含以下模板内容：",
+                    "Then create a new<g1>googleMTPlugin. bas<\/g1>class, containing the following template content:",
+                    "然后新建一个<g1>googleMTPlugin.bas<\/g1>的类，包含以下模板内容：",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726540358972,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "Sub Class_Globals",
+                    "",
+                    "Sub Class_Globals\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "Private fx As JFX",
+                    "",
+                    "\tPrivate fx As JFX\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "End Sub",
+                    "",
+                    "End Sub\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "'Initializes the object.",
+                    "",
+                    "\r\n'Initializes the object.",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "You can NOT add parameters to this method!",
+                    "",
+                    " You can NOT add parameters to this method!\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "Public Sub Initialize() As String",
+                    "",
+                    "Public Sub Initialize() As String\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "Log(\"Initializing plugin \" & GetNiceName)",
+                    "",
+                    "\tLog(\"Initializing plugin \" & GetNiceName)\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "' Here return a key to prevent running unauthorized plugins",
+                    "",
+                    "\t' Here return a key to prevent running unauthorized plugins\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "Return \"MyKey\"",
+                    "",
+                    "\tReturn \"MyKey\"\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "End Sub",
+                    "",
+                    "End Sub\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "' must be available",
+                    "",
+                    "\r\n' must be available\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "public Sub GetNiceName() As String",
+                    "",
+                    "public Sub GetNiceName() As String\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "Return \"googleMT\"",
+                    "",
+                    "\tReturn \"googleMT\"\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "End Sub",
+                    "",
+                    "End Sub\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "' must be available",
+                    "",
+                    "\r\n' must be available\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "public Sub Run(Tag As String, Params As Map) As ResumableSub",
+                    "",
+                    "public Sub Run(Tag As String, Params As Map) As ResumableSub\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "Select Tag",
+                    "",
+                    "\tSelect Tag\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "Case \"getParams\"",
+                    "",
+                    "\t\tCase \"getParams\"\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "Dim paramsList As List",
+                    "",
+                    "\t\t\tDim paramsList As List\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "paramsList.Initialize",
+                    "",
+                    "\t\t\tparamsList.Initialize\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "paramsList.Add(\"key\")",
+                    "",
+                    "\t\t\tparamsList.Add(\"key\")\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "Return paramsList",
+                    "",
+                    "\t\t\tReturn paramsList\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "Case \"translate\"",
+                    "",
+                    "\t\tCase \"translate\"\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "Return \"\"",
+                    "",
+                    "\t\t\tReturn \"\"\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "Case \"batchtranslate\"",
+                    "",
+                    "\t\tCase \"batchtranslate\"\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "Return Array()",
+                    "",
+                    "\t\t\tReturn Array()\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "Case \"supportBatchTranslation\"",
+                    "",
+                    "\t\tCase \"supportBatchTranslation\"\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "Return True",
+                    "",
+                    "\t\t\tReturn True\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "End Select",
+                    "",
+                    "\tEnd Select\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "Return \"\"",
+                    "",
+                    "\tReturn \"\"\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "End Sub",
+                    "",
+                    "End Sub\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "插件名可以通过<g1>GetNiceName<\/g1>获取。",
+                    "The plugin name can be obtained through<g1>GetIceName<\/g1>.",
+                    "插件名可以通过<g1>GetNiceName<\/g1>获取。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726540376867,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "插件的类别是根据名字的后缀区分的，目前有这几种后缀：",
+                    "The types of plugins are distinguished based on the suffixes of their names, and currently there are several types of suffixes:",
+                    "插件的类别是根据名字的后缀区分的，目前有这几种后缀：",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726540391564,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "机器翻译：<g1>MT<\/g1>",
+                    "Machine translation: <g1>MT<\/g1>",
+                    "机器翻译：<g1>MT<\/g1>",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726540405923,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "文字识别：<g1>OCR<\/g1>",
+                    "Text recognition: <g1>OCR<\/g1>",
+                    "文字识别：<g1>OCR<\/g1>",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726540409981,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "图像修复（文字去除）：<g1>Inpaint<\/g1>",
+                    "Image inpainting (text removal): <g1>Inpaint<\/g1>",
+                    "图像修复（文字去除）：<g1>Inpaint<\/g1>",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726540426244,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "文字掩膜生成：<g1>MaskGen<\/g1>",
+                    "Text mask generation: <g1>MaskGen<\/g1>",
+                    "文字掩膜生成：<g1>MaskGen<\/g1>",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726540438213,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "实现插件",
+                    "Plugin Implementation",
+                    "实现插件",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726540448532,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "ImageTrans会传递需要执行的操作名和对应的参数给插件。",
+                    "ImageTrans will pass the name of the operation to be executed and the corresponding parameters to the plugin.",
+                    "ImageTrans会传递需要执行的操作名和对应的参数给插件。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726540450827,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "插件根据指定的tag执行对应的操作。",
+                    "The plugin performs the corresponding operation based on the specified tag.",
+                    "插件根据指定的tag执行对应的操作。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726540463331,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "下面是常见操作的说明：",
+                    "Here are the common operations:",
+                    "下面是常见操作的说明：",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726540481335,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "<g1>getParams<\/g1>：获取需要进行配置的参数。",
+                    "<g1>getParams<\/g1>: Get the parameters that need to be configured.",
+                    "<g1>getParams<\/g1>：获取需要进行配置的参数。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726540485531,
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "<g1>getDefaultParamValues<\/g1>：获取默认的配置",
+                    "<g1>getDefaultParamValues<\/g1>: Get default params",
+                    "<g1>getDefaultParamValues<\/g1>：获取默认的配置",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726540543299,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "<g1>getSetupParams<\/g1>：获取安装配置",
+                    "<g1>getSetupParams<\/g1>: Get params for installation",
+                    "<g1>getSetupParams<\/g1>：获取安装配置",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726540530461,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "<g1>getIsInstalledOrRunning<\/g1>：检查插件是否安装或运行",
+                    "<g1>getIsInstalledOrRunning<\/g1>: Check if the plugin is installed or running",
+                    "<g1>getIsInstalledOrRunning<\/g1>：检查插件是否安装或运行",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726540552916,
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "<g1>translate<\/g1>：翻译单个句子",
+                    "<g1>translate<\/g1>: Translate a single sentence",
+                    "<g1>translate<\/g1>：翻译单个句子",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726540558116,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "<g1>batchtranslate<\/g1>：翻译多个句子",
+                    "<g1>batchtranslate<\/g1>: Translate multiple sentences",
+                    "<g1>batchtranslate<\/g1>：翻译多个句子",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726540570256,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "<g1>supportBatchTranslation<\/g1>：是否支持多句翻译",
+                    "<g1>supportBatchTranslation<\/g1>: whether it supports multiple sentence translation",
+                    "<g1>supportBatchTranslation<\/g1>：是否支持多句翻译",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726540605180,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "<g1>getText<\/g1>：识别单个区域的文字",
+                    "<g1>getText<\/g1>: recognize text in a single area",
+                    "<g1>getText<\/g1>：识别单个区域的文字",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726540775262,
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "<g1>getTextWithLocation<\/g1>：识别整张图片的文字，并返回坐标信息",
+                    "<g1>getTextWithLocation<\/g1>: recognize the text of the entire image and return coordinate information",
+                    "<g1>getTextWithLocation<\/g1>：识别整张图片的文字，并返回坐标信息",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726541138329,
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "<g1>inpaint<\/g1>：生成去文字图",
+                    "<g1>inpaint<\/g1>: generate text-removed images",
+                    "<g1>inpaint<\/g1>：生成去文字图",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726541146692,
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "<g1>genMask<\/g1>：生成文字掩膜",
+                    "<g1>genMask<\/g1>: generate text mask",
+                    "<g1>genMask<\/g1>：生成文字掩膜",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726541151717,
+                        "id": "tu33"
+                    }
+                ],
+                [
+                    "<g1>byTextArea<\/g1>：需要按文字区域处理",
+                    "<g1>byTextArea<\/g1>: designed to process by text area",
+                    "<g1>byTextArea<\/g1>：需要按文字区域处理",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726541165454,
+                        "id": "tu34"
+                    }
+                ],
+                [
+                    "这里，我们需要实现用谷歌去翻译的接口。",
+                    "Here, let's implement translation using Google.",
+                    "这里，我们需要实现用谷歌去翻译的接口。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726541208045,
+                        "id": "tu35"
+                    }
+                ],
+                [
+                    "Select Tag",
+                    "",
+                    "Select Tag\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu36"
+                    }
+                ],
+                [
+                    "Case \"translate\"",
+                    "",
+                    "\tCase \"translate\"\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu36"
+                    }
+                ],
+                [
+                    "wait for (translate(Params.Get(\"source\"),Params.Get(\"sourceLang\"),Params.Get(\"targetLang\"),Params.Get(\"preferencesMap\"))) complete (result As String)",
+                    "",
+                    "\t\twait for (translate(Params.Get(\"source\"),Params.Get(\"sourceLang\"),Params.Get(\"targetLang\"),Params.Get(\"preferencesMap\"))) complete (result As String)\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu36"
+                    }
+                ],
+                [
+                    "Return result",
+                    "",
+                    "\t\tReturn result\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu36"
+                    }
+                ],
+                [
+                    "Case \"batchtranslate\"",
+                    "",
+                    "\tCase \"batchtranslate\"\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu36"
+                    }
+                ],
+                [
+                    "wait for (batchTranslate(Params.Get(\"source\"),Params.Get(\"sourceLang\"),Params.Get(\"targetLang\"),Params.Get(\"preferencesMap\"))) complete (targetList As List)",
+                    "",
+                    "\t\twait for (batchTranslate(Params.Get(\"source\"),Params.Get(\"sourceLang\"),Params.Get(\"targetLang\"),Params.Get(\"preferencesMap\"))) complete (targetList As List)\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu36"
+                    }
+                ],
+                [
+                    "Return targetList",
+                    "",
+                    "\t\tReturn targetList\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu36"
+                    }
+                ],
+                [
+                    "End Select",
+                    "",
+                    "End Select\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu36"
+                    }
+                ],
+                [
+                    "首先实现单句翻译，一个简单的HTTP请求：",
+                    "Firstly, implement single sentence translation with a simple HTTP request:",
+                    "首先实现单句翻译，一个简单的HTTP请求：",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726541217268,
+                        "id": "tu37"
+                    }
+                ],
+                [
+                    "Sub translate(source As String,sourceLang As String,targetLang As String,preferencesMap As Map) As ResumableSub",
+                    "",
+                    "Sub translate(source As String,sourceLang As String,targetLang As String,preferencesMap As Map) As ResumableSub\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "Dim target As String",
+                    "",
+                    "\tDim target As String\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "Dim su As StringUtils",
+                    "",
+                    "\tDim su As StringUtils\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "Dim job As HttpJob",
+                    "",
+                    "\tDim job As HttpJob\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "job.Initialize(\"job\",Me)",
+                    "",
+                    "\tjob.Initialize(\"job\",Me)\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "Dim params As String",
+                    "",
+                    "\tDim params As String\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "Dim key As String",
+                    "",
+                    "\tDim key As String\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "key=getMap(\"google\",getMap(\"api\",preferencesMap)).GetDefault(\"key\",\"\")",
+                    "",
+                    "\tkey=getMap(\"google\",getMap(\"api\",preferencesMap)).GetDefault(\"key\",\"\")\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "If key=\"\" Then",
+                    "",
+                    "\tIf key=\"\" Then\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "Return \"\"",
+                    "",
+                    "\t\tReturn \"\"\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "End If",
+                    "",
+                    "\tEnd If\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "params=\"key=\"&key& _",
+                    "",
+                    "\tparams=\"key=\"&key& _\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "\"&q=\"&su.EncodeUrl(source,\"UTF-8\")&\"&format=text&source=\"&sourceLang&\"&target=\"&targetLang",
+                    "",
+                    "\t\"&q=\"&su.EncodeUrl(source,\"UTF-8\")&\"&format=text&source=\"&sourceLang&\"&target=\"&targetLang\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "job.PostString(\"https:\/\/translation.googleapis.com\/language\/translate\/v2\",params)",
+                    "",
+                    "\tjob.PostString(\"https:\/\/translation.googleapis.com\/language\/translate\/v2\",params)\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "wait For (job) JobDone(job As HttpJob)",
+                    "",
+                    "\twait For (job) JobDone(job As HttpJob)\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "If job.Success Then",
+                    "",
+                    "\tIf job.Success Then\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "Try",
+                    "",
+                    "\t\tTry\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "Dim result,data As Map",
+                    "",
+                    "\t\t\tDim result,data As Map\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "Dim json As JSONParser",
+                    "",
+                    "\t\t\tDim json As JSONParser\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "json.Initialize(job.GetString)",
+                    "",
+                    "\t\t\tjson.Initialize(job.GetString)\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "result=json.NextObject",
+                    "",
+                    "\t\t\tresult=json.NextObject\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "data=result.Get(\"data\")",
+                    "",
+                    "\t\t\tdata=result.Get(\"data\")\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "Dim translations As List",
+                    "",
+                    "\t\t\tDim translations As List\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "translations=data.Get(\"translations\")",
+                    "",
+                    "\t\t\ttranslations=data.Get(\"translations\")\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "Dim map1 As Map",
+                    "",
+                    "\t\t\tDim map1 As Map\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "map1=translations.Get(0)",
+                    "",
+                    "\t\t\tmap1=translations.Get(0)\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "target=map1.Get(\"translatedText\")",
+                    "",
+                    "\t\t\ttarget=map1.Get(\"translatedText\")\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "Catch",
+                    "",
+                    "\t\tCatch\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "target=\"\"",
+                    "",
+                    "\t\t\ttarget=\"\"\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "Log(LastException)",
+                    "",
+                    "\t\t\tLog(LastException)\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "End Try",
+                    "",
+                    "\t\tEnd Try\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "Else",
+                    "",
+                    "\tElse\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "target=\"\"",
+                    "",
+                    "\t\ttarget=\"\"\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "End If",
+                    "",
+                    "\tEnd If\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "job.Release",
+                    "",
+                    "\tjob.Release\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "Return target",
+                    "",
+                    "\tReturn target\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "End Sub",
+                    "",
+                    "End Sub\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "Sub getMap(key As String,parentmap As Map) As Map",
+                    "",
+                    "\r\n\r\nSub getMap(key As String,parentmap As Map) As Map\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "Return parentmap.Get(key)",
+                    "",
+                    "\tReturn parentmap.Get(key)\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "End Sub",
+                    "",
+                    "End Sub\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu38"
+                    }
+                ],
+                [
+                    "然后处理多句翻译。",
+                    "Then handle multiple sentence translation.",
+                    "然后处理多句翻译。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726541229492,
+                        "id": "tu39"
+                    }
+                ],
+                [
+                    "谷歌默认不支持多句翻译，我们可以将多个句子以分割符号隔开，一次性传给谷歌翻译后再做切分。",
+                    "Google does not support multiple sentence translation by default. We can separate multiple sentences with segmentation symbols and send them to Google Translate in one request.",
+                    "谷歌默认不支持多句翻译，我们可以将多个句子以分割符号隔开，一次性传给谷歌翻译后再做切分。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726541290932,
+                        "id": "tu39"
+                    }
+                ],
+                [
+                    "Sub batchTranslate(sourceList As List,sourceLang As String,targetLang As String,preferencesMap As Map) As ResumableSub",
+                    "",
+                    "Sub batchTranslate(sourceList As List,sourceLang As String,targetLang As String,preferencesMap As Map) As ResumableSub\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "Dim targetList As List",
+                    "",
+                    "\tDim targetList As List\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "targetList.Initialize",
+                    "",
+                    "\ttargetList.Initialize\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "Dim sb As StringBuilder",
+                    "",
+                    "\tDim sb As StringBuilder\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "sb.Initialize",
+                    "",
+                    "\tsb.Initialize\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "For Each source As String In sourceList",
+                    "",
+                    "\tFor Each source As String In sourceList\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "sb.Append(source.Replace(CRLF,\"<br\/>\"))",
+                    "",
+                    "\t\tsb.Append(source.Replace(CRLF,\"<br\/>\"))\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "sb.Append(CRLF)",
+                    "",
+                    "\t\tsb.Append(CRLF)\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "Next",
+                    "",
+                    "\tNext\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "wait for (translate(sb.ToString,sourceLang,targetLang,preferencesMap)) Complete (target As String)",
+                    "",
+                    "\twait for (translate(sb.ToString,sourceLang,targetLang,preferencesMap)) Complete (target As String)\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "Dim targetList As List",
+                    "",
+                    "\tDim targetList As List\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "targetList.Initialize",
+                    "",
+                    "\ttargetList.Initialize\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "For Each result As String In Regex.Split(CRLF,target)",
+                    "",
+                    "\tFor Each result As String In Regex.Split(CRLF,target)\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "result = result.Replace(\"<br\/>\",CRLF)",
+                    "",
+                    "\t\tresult = result.Replace(\"<br\/>\",CRLF)\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "targetList.Add(result)",
+                    "",
+                    "\t\ttargetList.Add(result)\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "Next",
+                    "",
+                    "\tNext\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "Return targetList",
+                    "",
+                    "\tReturn targetList\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "End Sub",
+                    "",
+                    "End Sub\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu40"
+                    }
+                ],
+                [
+                    "测试",
+                    "Test",
+                    "测试",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "note": "",
+                        "creator": "anonymous",
+                        "createdTime": 0,
+                        "id": "tu41"
+                    }
+                ],
+                [
+                    "在main中，运行以下代码进行测试：",
+                    "In main, run the following code for testing:",
+                    "在main中，运行以下代码进行测试：",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726541315623,
+                        "id": "tu42"
+                    }
+                ],
+                [
+                    "Dim map1 As Map",
+                    "",
+                    "Dim map1 As Map\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu43"
+                    }
+                ],
+                [
+                    "map1.Initialize",
+                    "",
+                    "map1.Initialize\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu43"
+                    }
+                ],
+                [
+                    "map1.Put(\"api\",CreateMap(\"google\":CreateMap(\"key\":\"api key\")))",
+                    "",
+                    "map1.Put(\"api\",CreateMap(\"google\":CreateMap(\"key\":\"api key\")))\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu43"
+                    }
+                ],
+                [
+                    "Dim n As googleMTPlugin",
+                    "",
+                    "Dim n As googleMTPlugin\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu43"
+                    }
+                ],
+                [
+                    "n.Initialize",
+                    "",
+                    "n.Initialize\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu43"
+                    }
+                ],
+                [
+                    "wait for (n.translate(\"BasicCAT Documentation\",\"en\",\"zh\",map1)) complete (result As String)",
+                    "",
+                    "wait for (n.translate(\"BasicCAT Documentation\",\"en\",\"zh\",map1)) complete (result As String)\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu43"
+                    }
+                ],
+                [
+                    "Log(result)",
+                    "",
+                    "Log(result)\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu43"
+                    }
+                ],
+                [
+                    "wait for (n.batchTranslate(Array(\"Sentence 1\",\"Sentence 2\"),\"en\",\"zh\",map1)) complete (targetList As List)",
+                    "",
+                    "wait for (n.batchTranslate(Array(\"Sentence 1\",\"Sentence 2\"),\"en\",\"zh\",map1)) complete (targetList As List)\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu43"
+                    }
+                ],
+                [
+                    "Log(targetList)",
+                    "",
+                    "Log(targetList)\r\n",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "id": "tu43"
+                    }
+                ],
+                [
+                    "打包",
+                    "Pack",
+                    "打包",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "note": "",
+                        "creator": "anonymous",
+                        "createdTime": 0,
+                        "id": "tu44"
+                    }
+                ],
+                [
+                    "编写完成后，我们需要进行打包。",
+                    "After the implementation, we need to package it.",
+                    "编写完成后，我们需要进行打包。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726541336670,
+                        "id": "tu45"
+                    }
+                ],
+                [
+                    "执行以下compile to library的操作，保存文件到ImageTrans的plugins目录即可。",
+                    "Perform the following compile to library operation and save the files to the plugins folder of ImageTrans.",
+                    "执行以下compile to library的操作，保存文件到ImageTrans的plugins目录即可。",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726541352054,
+                        "id": "tu46"
+                    }
+                ],
+                [
+                    "<x1\/>编译<x2\/>",
+                    "<x1\/>Compile<x2\/>",
+                    "<x1\/>编译<x2\/>",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726541355180,
+                        "id": "tu47"
+                    }
+                ],
+                [
+                    "更多插件示例",
+                    "More Plugin Examples",
+                    "更多插件示例",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726541364245,
+                        "id": "tu48"
+                    }
+                ],
+                [
+                    "可以在这里找到更多的插件示例：",
+                    "You can find more plugin examples here:",
+                    "可以在这里找到更多的插件示例：<x1\/>",
+                    "\/D:\/git\/BasicCAT-website\/_zh\/2024-09-15-how-to-write-a-plugin-for-imagetrans.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1726541365995,
+                        "id": "tu49"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}

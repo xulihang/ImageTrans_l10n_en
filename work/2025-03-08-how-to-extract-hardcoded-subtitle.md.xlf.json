@@ -1,0 +1,1149 @@
+{
+    "filename": "2025-03-08-how-to-extract-hardcoded-subtitle.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md": [
+                [
+                    "硬字幕是直接融入视频画面的字幕。",
+                    "Hardcoded subtitles are subtitles that blend directly into the video frames.",
+                    "硬字幕是直接融入视频画面的字幕。",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1741436369680,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "这种字幕无法直接提取，如果找不到原始字幕文件，我们又希望提取字幕文本和对应的时间轴信息，就需要使用光学字符识别技术（OCR）进行操作。",
+                    "This type of subtitle cannot be extracted directly. If we can't find the original subtitle file and we want to extract the subtitle text and the corresponding timestamps, we need to use optical character recognition technology (OCR) for extraction.",
+                    "这种字幕无法直接提取，如果找不到原始字幕文件，我们又希望提取字幕文本和对应的时间轴信息，就需要使用光学字符识别技术（OCR）进行操作。",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1741436407473,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "下面是一个简单的硬字幕的提取过程：直接识别每一帧中的字幕，之后根据文字的位置和内容，确定哪些帧属于同一条字幕以计算出时间轴。",
+                    "Here is a simple extraction process of hardcoded subtitles: directly recognize the subtitles in each frame, and then determine which frames belong to the same subtitle line based on the position and content of the text to calculate the timeline.",
+                    "下面是一个简单的硬字幕的提取过程：直接识别每一帧中的字幕，之后根据文字的位置和内容，确定哪些帧属于同一条字幕以计算出时间轴。",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1741436448882,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "不过实际操作的话，因为OCR是比较耗时的操作，1秒25帧的视频，1分钟的视频就需要处理1500张图，可能需要花费几十分钟。",
+                    "But in practice, because OCR is a time-consuming operation, for 1 minute of a 25 FPS video, we need to process 1500 pictures, which may take tens of minutes.",
+                    "不过实际操作的话，因为OCR是比较耗时的操作，1秒25帧的视频，1分钟的视频就需要处理1500张图，可能需要花费几十分钟。",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1741436550197,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "另外还存在识别准确率的问题，会影响结果。",
+                    "There is also a recognition rate problem, which can affect the results.",
+                    "另外还存在识别准确率的问题，会影响结果。",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1741436584148,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "所以我们需要对这个操作进行一定的性能优化。",
+                    "So we need to optimize the process to improve the performance.",
+                    "所以我们需要对这个操作进行一定的性能优化。",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1741436604037,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "一个方法是使用耗时较少的图像处理方法，确定哪些帧包含字幕，之后再用耗时较长的精准的OCR去识别文字。",
+                    "One approach is to use less time-consuming image processing methods to determine which frames contain subtitles, and then use an accurate OCR to recognize the text.",
+                    "一个方法是使用耗时较少的图像处理方法，确定哪些帧包含字幕，之后再用耗时较长的精准的OCR去识别文字。",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1741436634641,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "目前已经有VideoSubFinder、esrXP等工具。",
+                    "There are already tools like VideoSubFinder and esrXP.",
+                    "目前已经有VideoSubFinder、esrXP等工具。",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1741436648694,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "但这类软件使用的是传统图像处理方法，准确率不够高。",
+                    "However, this type of software uses traditional image processing methods, and the accuracy rate is not high enough.",
+                    "但这类软件使用的是传统图像处理方法，准确率不够高。",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1741436656632,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "这种情况我们可以直接使用OCR软件的文字定位方法去确定哪些帧包含字幕。",
+                    "In this case, we can directly use the text detection method of an OCR software to determine which frames contain subtitles.",
+                    "这种情况我们可以直接使用OCR软件的文字定位方法去确定哪些帧包含字幕。",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1741436670744,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "OCR一般分为两个步骤，首先是定位文字区域，然后是识别文字。",
+                    "OCR is generally divided into two steps: detecting the text and recognizing the text.",
+                    "OCR一般分为两个步骤，首先是定位文字区域，然后是识别文字。",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1741436713543,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "使用OCR的文字定位方法，准确度更高，然后不识别文字，也可以节省时间。",
+                    "OCR's text detection method is more accurate than traditional approaches, and since we skip the recognition step, it can also save time.",
+                    "使用OCR的文字定位方法，准确度更高，然后不识别文字，也可以节省时间。",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1741436767906,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "<g1>ImageTrans<\/g1>提供的硬字幕提取工具，提供了对上述流程的支持。",
+                    "<g1>ImageTrans<\/g1> provides a hardcoded subtitle extraction tool that provides support for the above process.",
+                    "<g1>ImageTrans<\/g1>提供的硬字幕提取工具，提供了对上述流程的支持。",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1741436776919,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "下面我们会以美剧版《甄嬛传》为例子介绍软件的用法。",
+                    "Next, we will introduce the use of the software with \"Empresses in the Palace\" as an example.",
+                    "下面我们会以美剧版《甄嬛传》为例子介绍软件的用法。",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1741436829224,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "美剧版《甄嬛传》提供了双语字幕，我们可以基于这个双语字幕，制作平行语料库，用于语言学习与研究。",
+                    "Bilingual subtitles are provided in the \"Empresses in the Palace\". Based on this bilingual subtitles, we can create a parallel corpus for language learning and research.",
+                    "美剧版《甄嬛传》提供了双语字幕，我们可以基于这个双语字幕，制作平行语料库，用于语言学习与研究。",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1741436841539,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "字幕分析",
+                    "Subtitle Analysis",
+                    "字幕分析",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1741436853293,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "首先，我们看下美剧版《甄嬛传》中的字幕是什么样的。",
+                    "First, let's take a look at what the subtitles in \"Empresses in the Palace\" look like.",
+                    "首先，我们看下美剧版《甄嬛传》中的字幕是什么样的。",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1741436870329,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "下面是几张截图：",
+                    "Here are a few screenshots:",
+                    "下面是几张截图：",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1741436875037,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "<x1\/>frame16<x2\/>",
+                    "",
+                    "<x1\/>frame16<x2\/>",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "<x1\/>frame135<x2\/>",
+                    "",
+                    "<x1\/>frame135<x2\/>",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "<x1\/>frame135<x2\/>",
+                    "",
+                    "<x1\/>frame135<x2\/>",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "可以看到字幕会有两行、三行等多种情况，译文可能分散在多条相同原文的字幕中。",
+                    "We can see that the subtitles will have two lines, three lines, etc. The translated text may be scattered in multiple subtitles of the same original text.",
+                    "可以看到字幕会有两行、三行等多种情况，译文可能分散在多条相同原文的字幕中。",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1741436882057,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "提取视频帧",
+                    "Extract Video Frames",
+                    "提取视频帧",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1741436892369,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "我们打开<g1>Silhouette<\/g1>软件，使用它的帧提取器，提取视频帧：",
+                    "Open <g1> Silhouette<\/g1> and use its frame extractor to extract video frames:",
+                    "我们打开<g1>Silhouette<\/g1>软件，使用它的帧提取器，提取视频帧：",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1741436908020,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "<x1\/>frame extraction<x2\/>",
+                    "",
+                    "<x1\/>frame extraction<x2\/>",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "这里我们可以设置FPS。",
+                    "Here we can set FPS.",
+                    "这里我们可以设置FPS。",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1741436915422,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "FPS设置为3时，每秒就只提取3帧。",
+                    "When FPS is set to 3, only 3 frames are extracted per second.",
+                    "FPS设置为3时，每秒就只提取3帧。",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1741436925804,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "如果希望提取的时间轴准确点，可以把FPS设大点，但处理所需的时间也会更多。",
+                    "If we want have accurate timestamps, we can make the FPS bigger, but it will take more time to process.",
+                    "如果希望提取的时间轴准确点，可以把FPS设大点，但处理所需的时间也会更多。",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1741436942550,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "如果我们只是需要文本，不需要时间很准确，FPS可以设小点。",
+                    "If we just need the text and don't need the time to be accurate, FPS can be set smaller.",
+                    "如果我们只是需要文本，不需要时间很准确，FPS可以设小点。",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1741436965602,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "识别视频帧中的字幕",
+                    "Recognize Subtitles in the Video",
+                    "识别视频帧中的字幕",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1741436980648,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "接下来，我们打开ImageTrans，导入刚才导出的视频帧。",
+                    "Next, open ImageTrans and import the video frames we just extracted.",
+                    "接下来，我们打开ImageTrans，导入刚才导出的视频帧。",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1741436994791,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "通过菜单栏-工具，打开硬字幕提取器。",
+                    "Open the video subtitle extractor through menu -> tools.",
+                    "通过菜单栏-工具，打开硬字幕提取器。",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1741437024518,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "<x1\/>subtitle detection form<x2\/>",
+                    "",
+                    "<x1\/>subtitle detection form<x2\/>",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "设置需要识别的边界，选择检测引擎为\"detect only (PaddleOCR)\"，设置线程数为4，点击“检测所有图片中的字幕”开始检测。",
+                    "Set the boundary of the region to be recognized, select the detection engine as \"detect only (PaddleOCR)\", set the number of threads as 4, and click \"Detect subtitles in all images\" to start detection.",
+                    "设置需要识别的边界，选择检测引擎为\"detect only (PaddleOCR)\"，设置线程数为4，点击“检测所有图片中的字幕”开始检测。",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1741437055792,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "这里，我们处理的54秒的视频，提取FPS设为3，有164张图像需要进行检测。",
+                    "Here, we process a 54-second video. The FPS for extraction is set to 3 so there are 164 images to detect.",
+                    "这里，我们处理的54秒的视频，提取FPS设为3，有164张图像需要进行检测。",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1741437075177,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "操作完成后，我们可以看到图片中的字幕行被检测出来了。",
+                    "After the operation is completed, we can see that the subtitle lines in the image are detected.",
+                    "操作完成后，我们可以看到图片中的字幕行被检测出来了。",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1741437090650,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "<x1\/>detected text lines<x2\/>",
+                    "",
+                    "<x1\/>detected text lines<x2\/>",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "id": "tu23"
+                    }
+                ],
+                [
+                    "之后，我们点击“OCR所有关键帧”，会识别所有字幕图像中的文字。",
+                    "After that, we click “OCR all keyframes”, which recognizes the text in the subtitle images.",
+                    "之后，我们点击“OCR所有关键帧”，会识别所有字幕图像中的文字。",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1741437109114,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "因为我们这里只识别关键帧，需要处理的图片数变成了21。",
+                    "Since we only recognize keyframes here, the number of images to be processed becomes 21.",
+                    "因为我们这里只识别关键帧，需要处理的图片数变成了21。",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1741437121359,
+                        "id": "tu24"
+                    }
+                ],
+                [
+                    "可以看到多了一个文本框，包含识别的文本。",
+                    "We can see that an additional text box containing the recognized text is added.",
+                    "可以看到多了一个文本框，包含识别的文本。",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1741437140388,
+                        "id": "tu25"
+                    }
+                ],
+                [
+                    "<x1\/>subtitle recognized<x2\/>",
+                    "",
+                    "<x1\/>subtitle recognized<x2\/>",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "id": "tu26"
+                    }
+                ],
+                [
+                    "之后，我们就可以导出字幕为SRT文件了。",
+                    "After that, we can export the subtitles as an SRT file.",
+                    "之后，我们就可以导出字幕为SRT文件了。",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1741437145427,
+                        "id": "tu27"
+                    }
+                ],
+                [
+                    "因为这是双语字幕，还有一些额外操作。",
+                    "Because it's bilingual, there are some extra steps.",
+                    "因为这是双语字幕，还有一些额外操作。",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1741437159907,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "首先，“OCR所有关键帧”前，要取消勾选“自动去除换行”。",
+                    "First, before \"OCR all keyframes\", uncheck \"Auto remove line breaks\".",
+                    "首先，“OCR所有关键帧”前，要取消勾选“自动去除换行”。",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1741437187088,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "之后在硬字幕提取器中，点击“只保留最后一个换行符”。",
+                    "Then in the video subtitle extractor, click \"Keep only the last line break\".",
+                    "之后在硬字幕提取器中，点击“只保留最后一个换行符”。",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1741437192642,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "这样我们可以让文本变成一行原文、一行译文的形式。",
+                    "In this way, we can make the text into one line of source text, one line of target text.",
+                    "这样我们可以让文本变成一行原文、一行译文的形式。",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1741437215829,
+                        "id": "tu28"
+                    }
+                ],
+                [
+                    "然后再勾选合并双语字幕同一条字幕对应的多条译文，会把分散的译文都合并到一起。",
+                    "Then tick the checkbox: \"merge multiple targets belonging to the same source\". In this way, the scattered target text will be merged together.",
+                    "然后再勾选合并双语字幕同一条字幕对应的多条译文，会把分散的译文都合并到一起。",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1741437288078,
+                        "id": "tu29"
+                    }
+                ],
+                [
+                    "<x1\/>bilingual settings<x2\/>",
+                    "",
+                    "<x1\/>bilingual settings<x2\/>",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "id": "tu30"
+                    }
+                ],
+                [
+                    "下面是提取出来的字幕：",
+                    "Here are the extracted subtitles:",
+                    "下面是提取出来的字幕：",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1741437301503,
+                        "id": "tu31"
+                    }
+                ],
+                [
+                    "1",
+                    "",
+                    "1\r\n",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "00:00:00,999 --> 00:00:02,664",
+                    "",
+                    "00:00:00,999 --> 00:00:02,664\r\n",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "- Shichu.",
+                    "",
+                    "- Shichu.",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "- Huan.",
+                    "",
+                    " - Huan.\r\n",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "实初哥哥 嬛妹妹",
+                    "",
+                    "实初哥哥 嬛妹妹\r\n",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "2",
+                    "",
+                    "\r\n2\r\n",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "00:00:03,663 --> 00:00:04,995",
+                    "",
+                    "00:00:03,663 --> 00:00:04,995\r\n",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "I just checked up on your family.",
+                    "",
+                    "I just checked up on your family.\r\n",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "刚刚我去府上请脉",
+                    "",
+                    "刚刚我去府上请脉\r\n",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "3",
+                    "",
+                    "\r\n3\r\n",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "00:00:05,328 --> 00:00:07,659",
+                    "",
+                    "00:00:05,328 --> 00:00:07,659\r\n",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "Your mother told me you'd come here to offer incense.",
+                    "",
+                    "Your mother told me you'd come here to offer incense.\r\n",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "听甄伯母说你来这里进香了",
+                    "",
+                    "听甄伯母说你来这里进香了\r\n",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "4",
+                    "",
+                    "\r\n4\r\n",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "00:00:07,992 --> 00:00:09,657",
+                    "",
+                    "00:00:07,992 --> 00:00:09,657\r\n",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "Simply for a stroll and-to-pass an idle hour.",
+                    "",
+                    "Simply for a stroll and-to-pass an idle hour.\r\n",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "出来走走 也是散心",
+                    "",
+                    "出来走走 也是散心\r\n",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "5",
+                    "",
+                    "\r\n5\r\n",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "00:00:11,322 --> 00:00:13,320",
+                    "",
+                    "00:00:11,322 --> 00:00:13,320\r\n",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "Huan, don't try to hide it from me.",
+                    "",
+                    "Huan, don't try to hide it from me.\r\n",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "嬛妹妹 你就不要再瞒我了",
+                    "",
+                    "嬛妹妹 你就不要再瞒我了\r\n",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "6",
+                    "",
+                    "\r\n6\r\n",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "00:00:14,319 --> 00:00:17,982",
+                    "",
+                    "00:00:14,319 --> 00:00:17,982\r\n",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "I know you' ve been worried about the audition for many days.",
+                    "",
+                    "I know you' ve been worried about the audition for many days.\r\n",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "我知道为了殿选之事 你已经烦恼多日了",
+                    "",
+                    "我知道为了殿选之事 你已经烦恼多日了\r\n",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "7",
+                    "",
+                    "\r\n7\r\n",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "00:00:19,647 --> 00:00:22,644",
+                    "",
+                    "00:00:19,647 --> 00:00:22,644\r\n",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "U may only do what I'm allowed.",
+                    "",
+                    "U may only do what I'm allowed.",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "The rest I leave to fate.",
+                    "",
+                    " The rest I leave to fate.\r\n",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "嬛儿是尽人事以听天命",
+                    "",
+                    "嬛儿是尽人事以听天命\r\n",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "8",
+                    "",
+                    "\r\n8\r\n",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "00:00:23,643 --> 00:00:26,640",
+                    "",
+                    "00:00:23,643 --> 00:00:26,640\r\n",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "Huan, when my father lived, he often said,",
+                    "",
+                    "Huan, when my father lived, he often said,\r\n",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "嬛妹妹 家父在世的时候常说",
+                    "",
+                    "嬛妹妹 家父在世的时候常说\r\n",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "9",
+                    "",
+                    "\r\n9\r\n",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "00:00:26,973 --> 00:00:28,971",
+                    "",
+                    "00:00:26,973 --> 00:00:28,971\r\n",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "\"A jade vessel is the symbol of a pure heart.",
+                    "",
+                    "\"A jade vessel is the symbol of a pure heart.\r\n",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "一片冰心在玉壶",
+                    "",
+                    "一片冰心在玉壶\r\n",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "10",
+                    "",
+                    "\r\n10\r\n",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "00:00:29,304 --> 00:00:32,301",
+                    "",
+                    "00:00:29,304 --> 00:00:32,301\r\n",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "He wanted me to give this to my future-",
+                    "",
+                    "He wanted me to give this to my future-\r\n",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "他让我把此壶 交予我们温家未来的",
+                    "",
+                    "他让我把此壶 交予我们温家未来的\r\n",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "11",
+                    "",
+                    "\r\n11\r\n",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "00:00:33,300 --> 00:00:34,965",
+                    "",
+                    "00:00:33,300 --> 00:00:34,965\r\n",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "It is my own wish as well.",
+                    "",
+                    "It is my own wish as well.\r\n",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "其实这也是我一直以来的心意",
+                    "",
+                    "其实这也是我一直以来的心意\r\n",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "12",
+                    "",
+                    "\r\n12\r\n",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "00:00:35,298 --> 00:00:38,295",
+                    "",
+                    "00:00:35,298 --> 00:00:38,295\r\n",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "If you accept this, you won't be called to the audition.",
+                    "",
+                    "If you accept this, you won't be called to the audition.\r\n",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "你若接受的话 就不用再去宫中殿选了",
+                    "",
+                    "你若接受的话 就不用再去宫中殿选了\r\n",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "13",
+                    "",
+                    "\r\n13\r\n",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "00:00:40,626 --> 00:00:43,290",
+                    "",
+                    "00:00:40,626 --> 00:00:43,290\r\n",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "In the time of the Shunzhi Emperor, it was decreed",
+                    "",
+                    "In the time of the Shunzhi Emperor, it was decreed\r\n",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "顺治爷在世的时候就定下定例",
+                    "",
+                    "顺治爷在世的时候就定下定例\r\n",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "14",
+                    "",
+                    "\r\n14\r\n",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "00:00:43,623 --> 00:00:46,953",
+                    "",
+                    "00:00:43,623 --> 00:00:46,953\r\n",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "that girls qualified to join the harem may not marry before the audition.",
+                    "",
+                    "that girls qualified to join the harem may not marry before the audition.\r\n",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "所有未经选看的秀女 断不可私下结亲",
+                    "",
+                    "所有未经选看的秀女 断不可私下结亲\r\n",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "15",
+                    "",
+                    "\r\n15\r\n",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "00:00:47,619 --> 00:00:51,948",
+                    "",
+                    "00:00:47,619 --> 00:00:51,948\r\n",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "Though you intend to help, you need not give me such a valuable item.",
+                    "",
+                    "Though you intend to help, you need not give me such a valuable item.\r\n",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "实初哥哥想一时救急 也不必拿出这么贵重的东西来",
+                    "",
+                    "实初哥哥想一时救急 也不必拿出这么贵重的东西来\r\n",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "16",
+                    "",
+                    "\r\n16\r\n",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "00:00:52,614 --> 00:00:53,946",
+                    "",
+                    "00:00:52,614 --> 00:00:53,946\r\n",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "I'm profoundly flattered.",
+                    "",
+                    "I'm profoundly flattered.\r\n",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "嬛儿受不起",
+                    "",
+                    "嬛儿受不起\r\n\r\n",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "id": "tu32"
+                    }
+                ],
+                [
+                    "使用ImageTrans提取硬字幕的优点是，整个过程我们都可以进行干预和修改，可以根据不同的语言选择不同的OCR引擎。",
+                    "The advantage of using ImageTrans to extract hardcoded subtitles is that we can intervene and modify the whole process, and different OCR engines can be selected for different languages.",
+                    "使用ImageTrans提取硬字幕的优点是，整个过程我们都可以进行干预和修改，可以根据不同的语言选择不同的OCR引擎。",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1741437325458,
+                        "id": "tu33"
+                    }
+                ],
+                [
+                    "字幕提取后，也可以导入计算机辅助音视频翻译软件Silhouette，结合波形图进行调整。",
+                    "After the subtitles are extracted, they can also be imported into Silhouette, a computer-aided audio-video translation software, and adjusted with the help of the waveform.",
+                    "字幕提取后，也可以导入计算机辅助音视频翻译软件Silhouette，结合波形图进行调整。",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-08-how-to-extract-hardcoded-subtitle.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1741437349813,
+                        "id": "tu34"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}

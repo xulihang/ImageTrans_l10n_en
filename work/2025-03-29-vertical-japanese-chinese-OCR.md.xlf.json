@@ -1,0 +1,286 @@
+{
+    "filename": "2025-03-29-vertical-japanese-chinese-OCR.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-29-vertical-japanese-chinese-OCR.md": [
+                [
+                    "日语和中文与其它语言不同，可以纵向竖直排列也可以横向排列。",
+                    "Unlike other languages, Japanese and Chinese can be arranged both vertically and horizontally.",
+                    "日语和中文与其它语言不同，可以纵向竖直排列也可以横向排列。",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-29-vertical-japanese-chinese-OCR.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1743231292604,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "日文的书籍、漫画至今大多是竖排的，而中文现在大多为横排，只在古籍、漫画中还能看到竖排的中文。",
+                    "Most Japanese books and manga still use vertical text while Chinese is used horizontally now. You can only see vertical Chinese in ancient books and comics.",
+                    "日文的书籍、漫画至今大多是竖排的，而中文现在大多为横排，只在古籍、漫画中还能看到竖排的中文。",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-29-vertical-japanese-chinese-OCR.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1743231425600,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "竖排和横排混合的日文：",
+                    "Japanese arranged both vertically and horizontally.",
+                    "竖排和横排混合的日文：",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-29-vertical-japanese-chinese-OCR.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1743231469053,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "<x1\/>竖排和横排混合的日文<x2\/>",
+                    "<x1\/>Vertical and Horizontal<x2\/>",
+                    "<x1\/>竖排和横排混合的日文<x2\/>",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-29-vertical-japanese-chinese-OCR.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1743231491277,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "竖排的繁体中文：",
+                    "Vertical Traditional Chinese:",
+                    "竖排的繁体中文：",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-29-vertical-japanese-chinese-OCR.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1743231494778,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "<x1\/>竖排繁体中文<x2\/>",
+                    "<x1\/>Vertical Traditional Chinese<x2\/>",
+                    "<x1\/>竖排繁体中文<x2\/>",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-29-vertical-japanese-chinese-OCR.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1743231507164,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "下面是识别竖排文字的相关方法。",
+                    "Here are several ways to recognize vertical text.",
+                    "下面是识别竖排文字的相关方法。",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-29-vertical-japanese-chinese-OCR.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1743231525137,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "单字检测",
+                    "Word Detection",
+                    "单字检测",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-29-vertical-japanese-chinese-OCR.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1743231531066,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "要识别竖排文字，一个直接的方法是检测每个文字的位置，识别每个文字，然后合并成文字行或者段落。",
+                    "A straightforward way to recognize vertical text is to detect the position of each word, recognize them, and then merge them into a line or a paragraph.",
+                    "要识别竖排文字，一个直接的方法是检测每个文字的位置，识别每个文字，然后合并成文字行或者段落。",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-29-vertical-japanese-chinese-OCR.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1743231567209,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "有很多OCR能返回单字坐标，例如<g1>RapidOCR<\/g1>。",
+                    "There are many OCRs that return single-word coordinates, such as<g1> RapidOCR<\/g1>.",
+                    "有很多OCR能返回单字坐标，例如<g1>RapidOCR<\/g1>。",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-29-vertical-japanese-chinese-OCR.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1743231577765,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "识别结果：",
+                    "Recognition results:",
+                    "识别结果：",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-29-vertical-japanese-chinese-OCR.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1743231600604,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "<x1\/>单字检测-繁体中文<x2\/>",
+                    "<x1\/>Word Detection - Traditional Chinese<x2\/>",
+                    "<x1\/>单字检测-繁体中文<x2\/>",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-29-vertical-japanese-chinese-OCR.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1743231603523,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "文字行检测",
+                    "Text Line Detection",
+                    "文字行检测",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-29-vertical-japanese-chinese-OCR.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1743231612995,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "目前流行的基于深度学习的OCR，大多只能检测文字行。",
+                    "Most popular deep learning-based OCRs can only detect text lines.",
+                    "目前流行的基于深度学习的OCR，大多只能检测文字行。",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-29-vertical-japanese-chinese-OCR.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1743231628404,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "需要专门训练，让OCR具备区分横行和竖行的能力。",
+                    "Special training is required to give the OCR the ability to distinguish between horizontal and vertical.",
+                    "需要专门训练，让OCR具备区分横行和竖行的能力。",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-29-vertical-japanese-chinese-OCR.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1743231633822,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "目前开源的OCR中，<g1>manga-image-translator<\/g1>的效果表现最好。",
+                    "Currently, <g1>manga-image-translator<\/g1> is the best open-source OCR in this area.",
+                    "目前开源的OCR中，<g1>manga-image-translator<\/g1>的效果表现最好。",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-29-vertical-japanese-chinese-OCR.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1743231678666,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "识别结果：",
+                    "Recognition results:",
+                    "识别结果：",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-29-vertical-japanese-chinese-OCR.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1743231600604,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "<x1\/>文字行检测-日文<x2\/>",
+                    "<x1\/>Text Line Detection - Japanese<x2\/>",
+                    "<x1\/>文字行检测-日文<x2\/>",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-29-vertical-japanese-chinese-OCR.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1743231687077,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "如果OCR只能识别横行，我们可以先对图像做一个处理，将竖排的图像转换成横排的。",
+                    "If the OCR only recognizes horizontal text, we can first do a processing on the image to convert the vertical text into horizontal text.",
+                    "如果OCR只能识别横行，我们可以先对图像做一个处理，将竖排的图像转换成横排的。",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-29-vertical-japanese-chinese-OCR.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1743231721169,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "<x1\/>竖排转横排<x2\/>",
+                    "<x1\/>Vertical to Horizontal<x2\/>",
+                    "<x1\/>竖排转横排<x2\/>",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-29-vertical-japanese-chinese-OCR.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1743231731997,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "识别整个图像",
+                    "Recognize Entire Image",
+                    "识别整个图像",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-29-vertical-japanese-chinese-OCR.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1743231735293,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "基于Transformer的OCR，可以直接输入图像，得到文字结果。",
+                    "With Transformer OCR, you can directly input images to get text results.",
+                    "基于Transformer的OCR，可以直接输入图像，得到文字结果。",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-29-vertical-japanese-chinese-OCR.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1743231754215,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "ChatGPT等大模型和<g1>manga-OCR<\/g1>具备竖排文字识别能力。",
+                    "manga-OCR and Large models such as<g1> ChatGPT<\/g1> have the vertical text recognition capability.",
+                    "ChatGPT等大模型和<g1>manga-OCR<\/g1>具备竖排文字识别能力。",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-29-vertical-japanese-chinese-OCR.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1743231796815,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "但它们通常需要配合其它文字检测方法使用。",
+                    "But they often need to be used in conjunction with other text detection methods.",
+                    "但它们通常需要配合其它文字检测方法使用。",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-29-vertical-japanese-chinese-OCR.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1743231799159,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "以上功能均已集成进<g1>ImageTrans<\/g1>，可以购买后使用。",
+                    "All of the above features are integrated into<g1> ImageTrans<\/g1> and can be used after purchase.",
+                    "以上功能均已集成进<g1>ImageTrans<\/g1>，可以购买后使用。",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-03-29-vertical-japanese-chinese-OCR.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1743231804671,
+                        "id": "tu22"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}

@@ -3546,23 +3546,23 @@
                 ],
                 [
                     "在译文中填入原文",
-                    "Fill in the target in the source",
+                    "Fill in the target with the source",
                     "在译文中填入原文",
                     "xl\/sharedStrings.xml",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1743220377212,
+                        "createdTime": 1746183763557,
                         "id": "P147242AB-tu357"
                     }
                 ],
                 [
                     "在原文中填入译文",
-                    "Fill in the source in the target",
+                    "Fill in the source with the target",
                     "在原文中填入译文",
                     "xl\/sharedStrings.xml",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1743220382743,
+                        "createdTime": 1746183768284,
                         "id": "P147242AB-tu358"
                     }
                 ],

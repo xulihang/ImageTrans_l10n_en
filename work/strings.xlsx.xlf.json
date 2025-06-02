@@ -1,6 +1,6 @@
 {
     "filename": "strings.xlsx.xlf",
-    "creationTime": 1748834783685,
+    "creationTime": 1748835286466,
     "files": [
         {
             "xl\/sharedStrings.xml": [
@@ -7806,13 +7806,14 @@
                     }
                 ],
                 [
-                    "使用项目默认文字去除方式",
-                    "Use the project's default removal method",
-                    "使用项目默认文字去除方式",
+                    "使用项目设置的文字去除方式",
+                    "Use the project's removal method",
+                    "使用项目设置的文字去除方式",
                     "xl\/sharedStrings.xml",
                     {
+                        "note": "",
                         "creator": "xulihang",
-                        "createdTime": 1748834889863,
+                        "createdTime": 1748835313180,
                         "id": "P147242AB-tu755"
                     }
                 ],

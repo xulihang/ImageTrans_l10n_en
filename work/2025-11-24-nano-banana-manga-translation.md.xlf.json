@@ -1,0 +1,230 @@
+{
+    "filename": "2025-11-24-nano-banana-manga-translation.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-11-24-nano-banana-manga-translation.md": [
+                [
+                    "这周谷歌发布了基于Gemini 3的Nano Banana Pro，可以输入一张图片，直接给出它的翻译版本。",
+                    "This week Google released the Gemini 3-based Nano Banana Pro, which allows you to enter an image and give a translation of it directly.",
+                    "这周谷歌发布了基于Gemini 3的Nano Banana Pro，可以输入一张图片，直接给出它的翻译版本。",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-11-24-nano-banana-manga-translation.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1763987529060,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "原图（<g1>男子高生×新人OLの話<\/g1>）：",
+                    "Original picture (<g1>男子高生×新人OLの話<\/g1>:",
+                    "原图（<g1>男子高生×新人OLの話<\/g1>）：",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-11-24-nano-banana-manga-translation.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1763987565684,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "<x1\/>原图<x2\/>",
+                    "<x1\/>Original<x2\/>",
+                    "<x1\/>原图<x2\/>",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-11-24-nano-banana-manga-translation.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1763987567755,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "翻译好的漫画图：",
+                    "Translated manga:",
+                    "翻译好的漫画图：",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-11-24-nano-banana-manga-translation.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1763987574739,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "<x1\/>nano翻译图<x2\/>",
+                    "<x1\/>nano translated image<x2\/>",
+                    "<x1\/>nano翻译图<x2\/>",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-11-24-nano-banana-manga-translation.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1763987588049,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "可以看到，它可以比较准确地去除原文，回填译文，并且翻译质量不错。",
+                    "We can see that it can remove the original text and reinject the translated text accurately. The translation quality is also good.",
+                    "可以看到，它可以比较准确地去除原文，回填译文，并且翻译质量不错。",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-11-24-nano-banana-manga-translation.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1763987634994,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "但它也存在一些问题：",
+                    "But it also has some issues:",
+                    "但它也存在一些问题：",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-11-24-nano-banana-manga-translation.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1763987642115,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "文字显示奇怪。",
+                    "The text looks weird.",
+                    "文字显示奇怪。",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-11-24-nano-banana-manga-translation.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1763987667385,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "输出的图像质量会有损失。",
+                    "The output image will lose some quality.",
+                    "输出的图像质量会有损失。",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-11-24-nano-banana-manga-translation.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1763987683168,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "输出的图像内容和原图有差别，比例也不对。",
+                    "The output image's content is different from the original image, and the proportions are not the same.",
+                    "输出的图像内容和原图有差别，比例也不对。",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-11-24-nano-banana-manga-translation.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1763987701260,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "改成让它只输出去文字的版本，可以看到日漫的网点还原得不错，但还是对图像内容和比例做了改变。",
+                    "Let it output only the text-removed version, we can see that the screentones are restored well, but the image content and proportion have been changed.",
+                    "改成让它只输出去文字的版本，可以看到日漫的网点还原得不错，但还是对图像内容和比例做了改变。",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-11-24-nano-banana-manga-translation.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1763987726579,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "<x1\/>nano去文字图<x2\/>",
+                    "<x1\/>nano text-removed<x2\/>",
+                    "<x1\/>nano去文字图<x2\/>",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-11-24-nano-banana-manga-translation.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1763987739682,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "这样看来，想用它来辅助快速翻译图片是可行的，但要人工漫画翻译，融合它到传统人工翻译流程，输出高质量的翻译结果还是存在一些问题。",
+                    "If we only need to translate the image to get the basic idea, it works great. But if we need to manually adjust the result and embed it into a traditional translation workflow to get a high-quality output, there are still some problems.",
+                    "这样看来，想用它来辅助快速翻译图片是可行的，但要人工漫画翻译，融合它到传统人工翻译流程，输出高质量的翻译结果还是存在一些问题。",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-11-24-nano-banana-manga-translation.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1763987869780,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "下面是使用计算机辅助图片翻译软件<g1>ImageTrans<\/g1>走人工翻译流程的结果。",
+                    "Here are the results of using ImageTrans, a computer-aided image translation<g1> software<\/g1>, to go through the human translation process.",
+                    "下面是使用计算机辅助图片翻译软件<g1>ImageTrans<\/g1>走人工翻译流程的结果。",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-11-24-nano-banana-manga-translation.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1763987873443,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "文字掩膜：",
+                    "Text mask:",
+                    "文字掩膜：",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-11-24-nano-banana-manga-translation.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1763987890147,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "<x1\/>文字掩膜<x2\/>",
+                    "<x1\/>Text mask<x2\/>",
+                    "<x1\/>文字掩膜<x2\/>",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-11-24-nano-banana-manga-translation.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1763987892339,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "去文字图：",
+                    "Text-removed:",
+                    "去文字图：",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-11-24-nano-banana-manga-translation.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1763987902247,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "<x1\/>去文字图<x2\/>",
+                    "<x1\/>text-removed<x2\/>",
+                    "<x1\/>去文字图<x2\/>",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-11-24-nano-banana-manga-translation.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1763987911622,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "翻译的版本：",
+                    "Translated:",
+                    "翻译的版本：",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-11-24-nano-banana-manga-translation.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1763987917801,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "<x1\/>翻译的版本<x2\/>",
+                    "<x1\/>Translated<x2\/>",
+                    "<x1\/>翻译的版本<x2\/>",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2025-11-24-nano-banana-manga-translation.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1763987923788,
+                        "id": "tu20"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}

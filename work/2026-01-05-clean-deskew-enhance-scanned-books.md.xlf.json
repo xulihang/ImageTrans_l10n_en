@@ -1,0 +1,178 @@
+{
+    "filename": "2026-01-05-clean-deskew-enhance-scanned-books.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2026-01-05-clean-deskew-enhance-scanned-books.md": [
+                [
+                    "最近下了几本超星图书馆的电子书，打算转换成PDF用大上电子墨水平板阅读。",
+                    "I downloaded several e-books from the Superstar e-library and planned to convert them to PDF to read on Dasung e-ink tablets.",
+                    "最近下了几本超星图书馆的电子书，打算转换成PDF用大上电子墨水平板阅读。",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2026-01-05-clean-deskew-enhance-scanned-books.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1767613372251,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "但我发现这些扫描的图书存在分辨率低、文字倾斜、对比度不够、文字透印、背景干扰等问题，在电子书阅读器上的效果很差（见下方例图）。",
+                    "However, I found that the scanned books had low clarity, low contrast and other problems like deskew and text on the other side that can be seen. The readability on e-book readers is low.",
+                    "但我发现这些扫描的图书存在分辨率低、文字倾斜、对比度不够、文字透印、背景干扰等问题，在电子书阅读器上的效果很差（见下方例图）。",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2026-01-05-clean-deskew-enhance-scanned-books.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1767613508462,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "<x1\/>不清晰电子墨水屏<x2\/>",
+                    "<x1\/>Uncleaned on electronic ink screen<x2\/>",
+                    "<x1\/>不清晰电子墨水屏<x2\/>",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2026-01-05-clean-deskew-enhance-scanned-books.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1767613519632,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "最后我经过一番处理，得到了一个清晰版的PDF，总算在电子墨水设备上能看了。",
+                    "After some processing, I finally got a clear version of the PDF, and was able to read it on the e-ink device.",
+                    "最后我经过一番处理，得到了一个清晰版的PDF，总算在电子墨水设备上能看了。",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2026-01-05-clean-deskew-enhance-scanned-books.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1767613551515,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "<x1\/>清晰电子墨水屏<x2\/>",
+                    "<x1\/>Cleaned on electronic ink screen<x2\/>",
+                    "<x1\/>清晰电子墨水屏<x2\/>",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2026-01-05-clean-deskew-enhance-scanned-books.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1767613563639,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "下面是经过的处理步骤。",
+                    "Here are the processing steps that went through.",
+                    "下面是经过的处理步骤。",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2026-01-05-clean-deskew-enhance-scanned-books.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1767613569867,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "原图：",
+                    "Original image:",
+                    "原图：",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2026-01-05-clean-deskew-enhance-scanned-books.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1767613579179,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "<x1\/>原图<x2\/>",
+                    "<x1\/>Original<x2\/>",
+                    "<x1\/>原图<x2\/>",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2026-01-05-clean-deskew-enhance-scanned-books.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1763987567755,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "对图片做超分辨率操作，提升清晰度：",
+                    "Super-resolution operation on the image to improve clarity:",
+                    "对图片做超分辨率操作，提升清晰度：",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2026-01-05-clean-deskew-enhance-scanned-books.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1767613590277,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "识别图片中的文字的倾斜角度，根据这一角度矫正图像：",
+                    "Recognize the rotation of the text in the image and deskew the image accordingly:",
+                    "识别图片中的文字的倾斜角度，根据这一角度矫正图像：",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2026-01-05-clean-deskew-enhance-scanned-books.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1767613615210,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "<x1\/>矫正版<x2\/>",
+                    "<x1\/>deskewed<x2\/>",
+                    "<x1\/>矫正版<x2\/>",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2026-01-05-clean-deskew-enhance-scanned-books.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1767613623345,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "识别图片中的文字，以文字区域为单位进行二值化，得到只有黑白两种颜色的版本：",
+                    "Recognize the text in the image and binarize the image by text area to get a version that is only black and white:",
+                    "识别图片中的文字，以文字区域为单位进行二值化，得到只有黑白两种颜色的版本：",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2026-01-05-clean-deskew-enhance-scanned-books.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1767613639293,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "<x1\/>黑白版<x2\/>",
+                    "<x1\/>black and white<x2\/>",
+                    "<x1\/>黑白版<x2\/>",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2026-01-05-clean-deskew-enhance-scanned-books.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1767613653191,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "最后得到这本203页的《学说上海话》的PDF只有8MB大小，同时支持搜索PDF中的文字。",
+                    "The final PDF of this 203-page book is only 8MB in size, and it supports searching for the text in the PDF.",
+                    "最后得到这本203页的《学说上海话》的PDF只有8MB大小，同时支持搜索PDF中的文字。",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2026-01-05-clean-deskew-enhance-scanned-books.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1767613676116,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "以上操作使用<g1>ImageTrans<\/g1>一站式完成。",
+                    "The above operations are done in one place using <g1>ImageTrans<\/g1>.",
+                    "以上操作使用<g1>ImageTrans<\/g1>一站式完成。",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2026-01-05-clean-deskew-enhance-scanned-books.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1767613711246,
+                        "id": "tu15"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}

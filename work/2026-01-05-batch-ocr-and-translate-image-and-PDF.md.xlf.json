@@ -5,46 +5,56 @@
             "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2026-01-05-batch-ocr-and-translate-image-and-PDF.md": [
                 [
                     "ImageTrans在v5.6.0集成了一个Hot Folder功能，它可以监控某个文件夹是否有新的文件加入，如果有，它会以当前项目为模板，执行指定的工作流来处理这些文件。",
-                    "",
+                    "ImageTrans integrates a Hot Folder feature in v5.6.0 that monitors whether a folder has new files added, and if so, it processes those files by executing the specified workflow using the current project as a template.",
                     "ImageTrans在v5.6.0集成了一个Hot Folder功能，它可以监控某个文件夹是否有新的文件加入，如果有，它会以当前项目为模板，执行指定的工作流来处理这些文件。",
                     "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2026-01-05-batch-ocr-and-translate-image-and-PDF.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1767613727880,
                         "id": "tu1"
                     }
                 ],
                 [
                     "下面是相关操作事项：",
-                    "",
+                    "Here's the basic operation steps:",
                     "下面是相关操作事项：",
                     "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2026-01-05-batch-ocr-and-translate-image-and-PDF.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1767613771507,
                         "id": "tu2"
                     }
                 ],
                 [
                     "新建一个项目，设置好语言、OCR、自定义工作流等常规操作。",
-                    "",
+                    "Create a new project and set up things like language, OCR, custom workflows, and more.",
                     "新建一个项目，设置好语言、OCR、自定义工作流等常规操作。",
                     "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2026-01-05-batch-ocr-and-translate-image-and-PDF.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1767613783027,
                         "id": "tu3"
                     }
                 ],
                 [
                     "如果要支持导入和导出PDF，需要在项目设置中提前定义导入导出的设置，并在工作流中添加导出PDF。",
-                    "",
+                    "If you want to support importing and exporting PDFs, you need to define the settings for importing and exporting in advance in the project settings, and add the exporting PDF in the workflow.",
                     "如果要支持导入和导出PDF，需要在项目设置中提前定义导入导出的设置，并在工作流中添加导出PDF。",
                     "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2026-01-05-batch-ocr-and-translate-image-and-PDF.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1767613787735,
                         "id": "tu4"
                     }
                 ],
                 [
                     "通过菜单栏-工具-Hot Folder，打开Hot Folder，设置好需要监控的文件夹后就可以批量OCR和翻译文件了。",
-                    "",
+                    "Through the menu bar - Tools - Hot Folder, open Hot Folder, set the folder to be monitored, and then you can batch OCR and translation files.",
                     "通过菜单栏-工具-Hot Folder，打开Hot Folder，设置好需要监控的文件夹后就可以批量OCR和翻译文件了。",
                     "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_zh\/2026-01-05-batch-ocr-and-translate-image-and-PDF.md",
                     {
+                        "creator": "xulihang",
+                        "createdTime": 1767613799777,
                         "id": "tu5"
                     }
                 ]

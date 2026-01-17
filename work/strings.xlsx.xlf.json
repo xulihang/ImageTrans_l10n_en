@@ -1720,12 +1720,12 @@
                 ],
                 [
                     "字距（像素）：",
-                    "Kerning (px):",
+                    "Tracking (px):",
                     "字距（像素）：",
                     "xl\/sharedStrings.xml",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1662864722492,
+                        "createdTime": 1768620460324,
                         "id": "P147242AB-tu163"
                     }
                 ],
@@ -13056,13 +13056,13 @@
                 ],
                 [
                     "字距不正确",
-                    "The kerning is incorrect",
+                    "The tracking is incorrect",
                     "字距不正确",
                     "xl\/sharedStrings.xml",
                     {
                         "note": "",
                         "creator": "xulihang",
-                        "createdTime": 1662864756053,
+                        "createdTime": 1768620449943,
                         "id": "P147242AB-tu1241"
                     }
                 ],

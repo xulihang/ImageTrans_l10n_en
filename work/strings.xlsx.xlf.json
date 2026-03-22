@@ -1,6 +1,6 @@
 {
     "filename": "strings.xlsx.xlf",
-    "creationTime": 1774162677974,
+    "creationTime": 1774163384096,
     "files": [
         {
             "xl\/sharedStrings.xml": [
@@ -2825,13 +2825,14 @@
                     }
                 ],
                 [
-                    "添加注音",
-                    "Add pronunciation",
-                    "添加注音",
+                    "添加注音（如已有）",
+                    "Add pronunciation (if exists)",
+                    "添加注音（如已有）",
                     "xl\/sharedStrings.xml",
                     {
+                        "note": "",
                         "creator": "xulihang",
-                        "createdTime": 1774162760539,
+                        "createdTime": 1774163403836,
                         "id": "P147242AB-tu271"
                     }
                 ],
@@ -13631,12 +13632,12 @@
                 ],
                 [
                     "注音",
-                    "Annotate pronuciation",
+                    "Pronuciation annotation",
                     "注音",
                     "xl\/sharedStrings.xml",
                     {
                         "creator": "xulihang",
-                        "createdTime": 1774162970370,
+                        "createdTime": 1774163455042,
                         "id": "P147242AB-tu1294"
                     }
                 ],

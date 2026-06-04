@@ -1,6 +1,6 @@
 {
     "filename": "strings.xlsx.xlf",
-    "creationTime": 1780110066465,
+    "creationTime": 1780572995382,
     "files": [
         {
             "xl\/sharedStrings.xml": [
@@ -15377,6 +15377,17 @@
                     }
                 ],
                 [
+                    "使用分镜生成文字区域",
+                    "Create text areas using panels",
+                    "使用分镜生成文字区域",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1780573064039,
+                        "id": "P147242AB-tu1455"
+                    }
+                ],
+                [
                     "请输入一个名字：",
                     "Please enter a name:",
                     "请输入一个名字：",
@@ -15384,7 +15395,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1729844729930,
-                        "id": "P147242AB-tu1455"
+                        "id": "P147242AB-tu1456"
                     }
                 ],
                 [
@@ -15395,7 +15406,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1732448813297,
-                        "id": "P147242AB-tu1456"
+                        "id": "P147242AB-tu1457"
                     }
                 ],
                 [
@@ -15406,7 +15417,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1730634224005,
-                        "id": "P147242AB-tu1457"
+                        "id": "P147242AB-tu1458"
                     }
                 ]
             ]
